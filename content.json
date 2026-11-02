@@ -1,5 +1,5 @@
 {
- "version": 6,
+ "version": 7,
  "sections": [
   {
    "id": "asbaq",
@@ -3961,6 +3961,86 @@
      "title_en": "The bus left on time.",
      "body_ur": "بس وقت پر روانہ ہوئی۔",
      "body_en": "The bus left on time.",
+     "grammar": ""
+    },
+    {
+     "id": "s492",
+     "title_ur": "میرا خاندان ہفتے کے آخر میں تفریح کے لیے ایک اچھا پروگرام بناتا ہے۔",
+     "title_en": "My family makes a nice plan for recreation at the weekend.",
+     "body_ur": "میرا خاندان ہفتے کے آخر میں تفریح کے لیے ایک اچھا پروگرام بناتا ہے۔",
+     "body_en": "My family makes a nice plan for recreation at the weekend.",
+     "grammar": ""
+    },
+    {
+     "id": "s493",
+     "title_ur": "بچے صحن میں کھیلتے ہیں اور اپنے پسندیدہ گانے گاتے ہیں۔",
+     "title_en": "The children play in the courtyard and sing their favourite songs.",
+     "body_ur": "بچے صحن میں کھیلتے ہیں اور اپنے پسندیدہ گانے گاتے ہیں۔",
+     "body_en": "The children play in the courtyard and sing their favourite songs.",
+     "grammar": ""
+    },
+    {
+     "id": "s494",
+     "title_ur": "ہم اپنے پڑوسیوں کے ساتھ مل کر بیٹھتے ہیں۔",
+     "title_en": "We sit together with our neighbours.",
+     "body_ur": "ہم اپنے پڑوسیوں کے ساتھ مل کر بیٹھتے ہیں۔",
+     "body_en": "We sit together with our neighbours.",
+     "grammar": ""
+    },
+    {
+     "id": "s495",
+     "title_ur": "میرا بھائی کہانیاں سناتا ہے اور سارا خاندان انہیں خوشی سے سنتا ہے۔",
+     "title_en": "My brother tells stories, and the whole family listens to them happily.",
+     "body_ur": "میرا بھائی کہانیاں سناتا ہے اور سارا خاندان انہیں خوشی سے سنتا ہے۔",
+     "body_en": "My brother tells stories, and the whole family listens to them happily.",
+     "grammar": ""
+    },
+    {
+     "id": "s496",
+     "title_ur": "میری امی مٹھائیاں پکاتی ہیں اور ہم انہیں تفریح کے وقت کھاتے ہیں۔",
+     "title_en": "My mother cooks sweets, and we eat them during our recreation time.",
+     "body_ur": "میری امی مٹھائیاں پکاتی ہیں اور ہم انہیں تفریح کے وقت کھاتے ہیں۔",
+     "body_en": "My mother cooks sweets, and we eat them during our recreation time.",
+     "grammar": ""
+    },
+    {
+     "id": "s497",
+     "title_ur": "میرے ابو پرانے دنوں کی یادیں بیان کرتے ہیں اور بچے ان سے بہت کچھ سیکھتے ہیں۔",
+     "title_en": "My father shares memories of old days, and the children learn a lot from them.",
+     "body_ur": "میرے ابو پرانے دنوں کی یادیں بیان کرتے ہیں اور بچے ان سے بہت کچھ سیکھتے ہیں۔",
+     "body_en": "My father shares memories of old days, and the children learn a lot from them.",
+     "grammar": ""
+    },
+    {
+     "id": "s498",
+     "title_ur": "تفریح کا یہ وقت ہمارے خاندان کو اور بھی قریب کر دیتا ہے۔",
+     "title_en": "This recreation time brings our family even closer together.",
+     "body_ur": "تفریح کا یہ وقت ہمارے خاندان کو اور بھی قریب کر دیتا ہے۔",
+     "body_en": "This recreation time brings our family even closer together.",
+     "grammar": ""
+    },
+    {
+     "id": "s499",
+     "title_ur": "کل ہم پھر تفریح کے لیے ایک نیا پروگرام بنائیں گے۔",
+     "title_en": "Tomorrow we will make a new plan for recreation again.",
+     "body_ur": "کل ہم پھر تفریح کے لیے ایک نیا پروگرام بنائیں گے۔",
+     "body_en": "Tomorrow we will make a new plan for recreation again.",
+     "grammar": ""
+    },
+    {
+     "id": "s500",
+     "title_ur": "کل بچے نئے کھیل سیکھیں گے اور میرا بھائی نئی کہانیاں سنائے گا۔",
+     "title_en": "Tomorrow the children will learn new games, and my brother will tell new stories.",
+     "body_ur": "کل بچے نئے کھیل سیکھیں گے اور میرا بھائی نئی کہانیاں سنائے گا۔",
+     "body_en": "Tomorrow the children will learn new games, and my brother will tell new stories.",
+     "grammar": ""
+    },
+    {
+     "id": "s501",
+     "title_ur": "آخر میں ہم مل کر کھانا کھائیں گے اور تفریح کے اچھے لمحے یاد کریں گے۔",
+     "title_en": "In the end, we will eat dinner together and will remember the good moments of recreation.",
+     "body_ur": "آخر میں ہم مل کر کھانا کھائیں گے اور تفریح کے اچھے لمحے یاد کریں گے۔",
+     "body_en": "In the end, we will eat dinner together and will remember the good moments of recreation.",
      "grammar": ""
     }
    ]
