@@ -1,5 +1,5 @@
 {
- "version": 2,
+ "version": 3,
  "sections": [
   {
    "id": "asbaq",
@@ -34,7 +34,1608 @@
    "emoji": "💬",
    "title_ur": "جملے",
    "title_en": "Sentences",
-   "items": []
+   "items": [
+    {
+     "id": "s1",
+     "title_ur": "میں تکیے پر سر رکھتا ہُوں۔",
+     "title_en": "I put my head on the pillow.",
+     "body_ur": "میں تکیے پر سر رکھتا ہُوں۔",
+     "body_en": "I put my head on the pillow.",
+     "grammar": ""
+    },
+    {
+     "id": "s2",
+     "title_ur": "قالین کمرے میں بچھا ہُوا ہے۔",
+     "title_en": "The carpet is spread in the room.",
+     "body_ur": "قالین کمرے میں بچھا ہُوا ہے۔",
+     "body_en": "The carpet is spread in the room.",
+     "grammar": ""
+    },
+    {
+     "id": "s3",
+     "title_ur": "میرا بستر صاف ہے۔",
+     "title_en": "My bed is clean.",
+     "body_ur": "میرا بستر صاف ہے۔",
+     "body_en": "My bed is clean.",
+     "grammar": ""
+    },
+    {
+     "id": "s4",
+     "title_ur": "بلب کمرے میں لگا ہوا ہے۔",
+     "title_en": "The bulb is fitted in the room.",
+     "body_ur": "بلب کمرے میں لگا ہوا ہے۔",
+     "body_en": "The bulb is fitted in the room.",
+     "grammar": ""
+    },
+    {
+     "id": "s5",
+     "title_ur": "ماں صوفے پر بیٹھ گئی۔",
+     "title_en": "Mother sat down on the sofa.",
+     "body_ur": "ماں صوفے پر بیٹھ گئی۔",
+     "body_en": "Mother sat down on the sofa.",
+     "grammar": ""
+    },
+    {
+     "id": "s6",
+     "title_ur": "باپ نے شاور سے غسل کیا۔",
+     "title_en": "Father bathed using the shower.",
+     "body_ur": "باپ نے شاور سے غسل کیا۔",
+     "body_en": "Father bathed using the shower.",
+     "grammar": ""
+    },
+    {
+     "id": "s7",
+     "title_ur": "تولیہ الماری میں ہے۔",
+     "title_en": "The towel is in the cupboard.",
+     "body_ur": "تولیہ الماری میں ہے۔",
+     "body_en": "The towel is in the cupboard.",
+     "grammar": ""
+    },
+    {
+     "id": "s8",
+     "title_ur": "لڑکی کنگھی سے بال سنوارتی ہے۔",
+     "title_en": "The girl combs her hair with a comb.",
+     "body_ur": "لڑکی کنگھی سے بال سنوارتی ہے۔",
+     "body_en": "The girl combs her hair with a comb.",
+     "grammar": ""
+    },
+    {
+     "id": "s9",
+     "title_ur": "وہ چہرے پر کریم لگاتا ہے۔",
+     "title_en": "He applies cream on his face.",
+     "body_ur": "وہ چہرے پر کریم لگاتا ہے۔",
+     "body_en": "He applies cream on his face.",
+     "grammar": ""
+    },
+    {
+     "id": "s10",
+     "title_ur": "میرا عطر بہت خوشبودار ہے۔",
+     "title_en": "My perfume is very fragrant.",
+     "body_ur": "میرا عطر بہت خوشبودار ہے۔",
+     "body_en": "My perfume is very fragrant.",
+     "grammar": ""
+    },
+    {
+     "id": "s11",
+     "title_ur": "بچے کے بال کالے ہیں۔",
+     "title_en": "The child's hair is black.",
+     "body_ur": "بچے کے بال کالے ہیں۔",
+     "body_en": "The child's hair is black.",
+     "grammar": ""
+    },
+    {
+     "id": "s12",
+     "title_ur": "درزی میری قمیض سیتا ہے۔",
+     "title_en": "The tailor sews my shirt.",
+     "body_ur": "درزی میری قمیض سیتا ہے۔",
+     "body_en": "The tailor sews my shirt.",
+     "grammar": ""
+    },
+    {
+     "id": "s13",
+     "title_ur": "رنگ ساز دیوار پر رنگ کرتا ہے۔",
+     "title_en": "The painter paints the wall.",
+     "body_ur": "رنگ ساز دیوار پر رنگ کرتا ہے۔",
+     "body_en": "The painter paints the wall.",
+     "grammar": ""
+    },
+    {
+     "id": "s14",
+     "title_ur": "مستری گھر میں کام کرتا ہے۔",
+     "title_en": "The mason works in the house.",
+     "body_ur": "مستری گھر میں کام کرتا ہے۔",
+     "body_en": "The mason works in the house.",
+     "grammar": ""
+    },
+    {
+     "id": "s15",
+     "title_ur": "مکینک گاڑی بناتا ہے۔",
+     "title_en": "The mechanic repairs the car.",
+     "body_ur": "مکینک گاڑی بناتا ہے۔",
+     "body_en": "The mechanic repairs the car.",
+     "grammar": ""
+    },
+    {
+     "id": "s16",
+     "title_ur": "نانبائی تنور میں روٹی پکاتا ہے۔",
+     "title_en": "The baker bakes bread in the tandoor.",
+     "body_ur": "نانبائی تنور میں روٹی پکاتا ہے۔",
+     "body_en": "The baker bakes bread in the tandoor.",
+     "grammar": ""
+    },
+    {
+     "id": "s17",
+     "title_ur": "کباب آگ پر پکتا ہے۔",
+     "title_en": "Kebabs are cooked over fire.",
+     "body_ur": "کباب آگ پر پکتا ہے۔",
+     "body_en": "Kebabs are cooked over fire.",
+     "grammar": ""
+    },
+    {
+     "id": "s18",
+     "title_ur": "جلیبی میٹھی ہے۔",
+     "title_en": "The jalebi is sweet.",
+     "body_ur": "جلیبی میٹھی ہے۔",
+     "body_en": "The jalebi is sweet.",
+     "grammar": ""
+    },
+    {
+     "id": "s19",
+     "title_ur": "برفی فریج میں ہے۔",
+     "title_en": "The barfi is in the fridge.",
+     "body_ur": "برفی فریج میں ہے۔",
+     "body_en": "The barfi is in the fridge.",
+     "grammar": ""
+    },
+    {
+     "id": "s20",
+     "title_ur": "کھیر دودھ سے بنتی ہے۔",
+     "title_en": "Kheer is made with milk.",
+     "body_ur": "کھیر دودھ سے بنتی ہے۔",
+     "body_en": "Kheer is made with milk.",
+     "grammar": ""
+    },
+    {
+     "id": "s21",
+     "title_ur": "کسٹرڈ بچوں کو پسند ہے۔",
+     "title_en": "Children like custard.",
+     "body_ur": "کسٹرڈ بچوں کو پسند ہے۔",
+     "body_en": "Children like custard.",
+     "grammar": ""
+    },
+    {
+     "id": "s22",
+     "title_ur": "انار باغ میں ہیں۔",
+     "title_en": "The pomegranates are in the garden.",
+     "body_ur": "انار باغ میں ہیں۔",
+     "body_en": "The pomegranates are in the garden.",
+     "grammar": ""
+    },
+    {
+     "id": "s23",
+     "title_ur": "کیوی بازار میں بکتی ہے۔",
+     "title_en": "Kiwi is sold in the market.",
+     "body_ur": "کیوی بازار میں بکتی ہے۔",
+     "body_en": "Kiwi is sold in the market.",
+     "grammar": ""
+    },
+    {
+     "id": "s24",
+     "title_ur": "چیکو میٹھا ہے۔",
+     "title_en": "The chikoo is sweet.",
+     "body_ur": "چیکو میٹھا ہے۔",
+     "body_en": "The chikoo is sweet.",
+     "grammar": ""
+    },
+    {
+     "id": "s25",
+     "title_ur": "آڑو درخت پر ہیں۔",
+     "title_en": "The peaches are on the tree.",
+     "body_ur": "آڑو درخت پر ہیں۔",
+     "body_en": "The peaches are on the tree.",
+     "grammar": ""
+    },
+    {
+     "id": "s26",
+     "title_ur": "خربوزہ گرمیوں میں کھایا جاتا ہے۔",
+     "title_en": "Melon is eaten in summer.",
+     "body_ur": "خربوزہ گرمیوں میں کھایا جاتا ہے۔",
+     "body_en": "Melon is eaten in summer.",
+     "grammar": ""
+    },
+    {
+     "id": "s27",
+     "title_ur": "بھنڈی کھانے میں پکتی ہے۔",
+     "title_en": "Okra is cooked in meals.",
+     "body_ur": "بھنڈی کھانے میں پکتی ہے۔",
+     "body_en": "Okra is cooked in meals.",
+     "grammar": ""
+    },
+    {
+     "id": "s28",
+     "title_ur": "کدو بازار میں سستا ہے۔",
+     "title_en": "Pumpkin is cheap in the market.",
+     "body_ur": "کدو بازار میں سستا ہے۔",
+     "body_en": "Pumpkin is cheap in the market.",
+     "grammar": ""
+    },
+    {
+     "id": "s29",
+     "title_ur": "ٹینڈا سبزی میں ہے۔",
+     "title_en": "Tinda is among the vegetables.",
+     "body_ur": "ٹینڈا سبزی میں ہے۔",
+     "body_en": "Tinda is among the vegetables.",
+     "grammar": ""
+    },
+    {
+     "id": "s30",
+     "title_ur": "شلجم سردیوں میں ہوتا ہے۔",
+     "title_en": "Turnips are found in winter.",
+     "body_ur": "شلجم سردیوں میں ہوتا ہے۔",
+     "body_en": "Turnips are found in winter.",
+     "grammar": ""
+    },
+    {
+     "id": "s31",
+     "title_ur": "گاجریں سرخ ہیں۔",
+     "title_en": "The carrots are red.",
+     "body_ur": "گاجریں سرخ ہیں۔",
+     "body_en": "The carrots are red.",
+     "grammar": ""
+    },
+    {
+     "id": "s32",
+     "title_ur": "پیاز کھانے میں ڈالا جاتا ہے۔",
+     "title_en": "Onion is added to food.",
+     "body_ur": "پیاز کھانے میں ڈالا جاتا ہے۔",
+     "body_en": "Onion is added to food.",
+     "grammar": ""
+    },
+    {
+     "id": "s33",
+     "title_ur": "لہسن کھانے میں خوشبو کرتا ہے۔",
+     "title_en": "Garlic gives a pleasant aroma to food.",
+     "body_ur": "لہسن کھانے میں خوشبو کرتا ہے۔",
+     "body_en": "Garlic gives a pleasant aroma to food.",
+     "grammar": ""
+    },
+    {
+     "id": "s34",
+     "title_ur": "ہلدی پیلی ہے۔",
+     "title_en": "Turmeric is yellow.",
+     "body_ur": "ہلدی پیلی ہے۔",
+     "body_en": "Turmeric is yellow.",
+     "grammar": ""
+    },
+    {
+     "id": "s35",
+     "title_ur": "دھنیا سالن میں ڈالا جاتا ہے۔",
+     "title_en": "Coriander is added to curry.",
+     "body_ur": "دھنیا سالن میں ڈالا جاتا ہے۔",
+     "body_en": "Coriander is added to curry.",
+     "grammar": ""
+    },
+    {
+     "id": "s36",
+     "title_ur": "الائچی چائے میں ڈالی جاتی ہے۔",
+     "title_en": "Cardamom is added to tea.",
+     "body_ur": "الائچی چائے میں ڈالی جاتی ہے۔",
+     "body_en": "Cardamom is added to tea.",
+     "grammar": ""
+    },
+    {
+     "id": "s37",
+     "title_ur": "لونگ مصالحے میں ہے۔",
+     "title_en": "Clove is in the spices.",
+     "body_ur": "لونگ مصالحے میں ہے۔",
+     "body_en": "Clove is in the spices.",
+     "grammar": ""
+    },
+    {
+     "id": "s38",
+     "title_ur": "جائفل میٹھے کھانوں میں ڈالا جاتا ہے۔",
+     "title_en": "Nutmeg is added to sweet dishes.",
+     "body_ur": "جائفل میٹھے کھانوں میں ڈالا جاتا ہے۔",
+     "body_en": "Nutmeg is added to sweet dishes.",
+     "grammar": ""
+    },
+    {
+     "id": "s39",
+     "title_ur": "میری قمیض سفید ہے۔",
+     "title_en": "My shirt is white.",
+     "body_ur": "میری قمیض سفید ہے۔",
+     "body_en": "My shirt is white.",
+     "grammar": ""
+    },
+    {
+     "id": "s40",
+     "title_ur": "پگڑی باپ کے سر پر ہے۔",
+     "title_en": "The turban is on father's head.",
+     "body_ur": "پگڑی باپ کے سر پر ہے۔",
+     "body_en": "The turban is on father's head.",
+     "grammar": ""
+    },
+    {
+     "id": "s41",
+     "title_ur": "لنگی گھر میں پہنی جاتی ہے۔",
+     "title_en": "The lungi is worn at home.",
+     "body_ur": "لنگی گھر میں پہنی جاتی ہے۔",
+     "body_en": "The lungi is worn at home.",
+     "grammar": ""
+    },
+    {
+     "id": "s42",
+     "title_ur": "میں نے کرایہ دیا۔",
+     "title_en": "I paid the rent.",
+     "body_ur": "میں نے کرایہ دیا۔",
+     "body_en": "I paid the rent.",
+     "grammar": ""
+    },
+    {
+     "id": "s43",
+     "title_ur": "مسافر بس میں بیٹھا ہے۔",
+     "title_en": "The passenger is sitting in the bus.",
+     "body_ur": "مسافر بس میں بیٹھا ہے۔",
+     "body_en": "The passenger is sitting in the bus.",
+     "grammar": ""
+    },
+    {
+     "id": "s44",
+     "title_ur": "ٹیکسی سڑک پر جاتی ہے۔",
+     "title_en": "The taxi goes on the road.",
+     "body_ur": "ٹیکسی سڑک پر جاتی ہے۔",
+     "body_en": "The taxi goes on the road.",
+     "grammar": ""
+    },
+    {
+     "id": "s45",
+     "title_ur": "رکشہ شہر میں گھومتا ہے۔",
+     "title_en": "The rickshaw roams about the city.",
+     "body_ur": "رکشہ شہر میں گھومتا ہے۔",
+     "body_en": "The rickshaw roams about the city.",
+     "grammar": ""
+    },
+    {
+     "id": "s46",
+     "title_ur": "میرا پرچہ اسکول میں ہے۔",
+     "title_en": "My exam paper is at school.",
+     "body_ur": "میرا پرچہ اسکول میں ہے۔",
+     "body_en": "My exam paper is at school.",
+     "grammar": ""
+    },
+    {
+     "id": "s47",
+     "title_ur": "نتیجہ کل اعلان ہوگا۔",
+     "title_en": "The result will be announced tomorrow.",
+     "body_ur": "نتیجہ کل اعلان ہوگا۔",
+     "body_en": "The result will be announced tomorrow.",
+     "grammar": ""
+    },
+    {
+     "id": "s48",
+     "title_ur": "میں نے فیس وقت پر دی۔",
+     "title_en": "I paid the fee on time.",
+     "body_ur": "میں نے فیس وقت پر دی۔",
+     "body_en": "I paid the fee on time.",
+     "grammar": ""
+    },
+    {
+     "id": "s49",
+     "title_ur": "چھٹی جمعے کو ہے۔",
+     "title_en": "The holiday is on Friday.",
+     "body_ur": "چھٹی جمعے کو ہے۔",
+     "body_en": "The holiday is on Friday.",
+     "grammar": ""
+    },
+    {
+     "id": "s50",
+     "title_ur": "حاضری کلاس میں لی جاتی ہے۔",
+     "title_en": "Attendance is taken in the class.",
+     "body_ur": "حاضری کلاس میں لی جاتی ہے۔",
+     "body_en": "Attendance is taken in the class.",
+     "grammar": ""
+    },
+    {
+     "id": "s51",
+     "title_ur": "میں نے مشق کاپی میں کی۔",
+     "title_en": "I did the exercise in the notebook.",
+     "body_ur": "میں نے مشق کاپی میں کی۔",
+     "body_en": "I did the exercise in the notebook.",
+     "grammar": ""
+    },
+    {
+     "id": "s52",
+     "title_ur": "پرنسپل دفتر میں ہے۔",
+     "title_en": "The principal is in the office.",
+     "body_ur": "پرنسپل دفتر میں ہے۔",
+     "body_en": "The principal is in the office.",
+     "grammar": ""
+    },
+    {
+     "id": "s53",
+     "title_ur": "غصہ مت کرو۔",
+     "title_en": "Do not be angry.",
+     "body_ur": "غصہ مت کرو۔",
+     "body_en": "Do not be angry.",
+     "grammar": ""
+    },
+    {
+     "id": "s54",
+     "title_ur": "مایوسی اچھی نہیں ہے۔",
+     "title_en": "Disappointment is not good.",
+     "body_ur": "مایوسی اچھی نہیں ہے۔",
+     "body_en": "Disappointment is not good.",
+     "grammar": ""
+    },
+    {
+     "id": "s55",
+     "title_ur": "بات پر افسوس ہوا۔",
+     "title_en": "The matter caused regret.",
+     "body_ur": "بات پر افسوس ہوا۔",
+     "body_en": "The matter caused regret.",
+     "grammar": ""
+    },
+    {
+     "id": "s56",
+     "title_ur": "حیرت آنکھوں میں دکھائی دیتی ہے۔",
+     "title_en": "Surprise shows in the eyes.",
+     "body_ur": "حیرت آنکھوں میں دکھائی دیتی ہے۔",
+     "body_en": "Surprise shows in the eyes.",
+     "grammar": ""
+    },
+    {
+     "id": "s57",
+     "title_ur": "خوشی دل میں ہے۔",
+     "title_en": "Happiness is in the heart.",
+     "body_ur": "خوشی دل میں ہے۔",
+     "body_en": "Happiness is in the heart.",
+     "grammar": ""
+    },
+    {
+     "id": "s58",
+     "title_ur": "غم چہرے پر دکھائی دیتا ہے۔",
+     "title_en": "Sorrow shows on the face.",
+     "body_ur": "غم چہرے پر دکھائی دیتا ہے۔",
+     "body_en": "Sorrow shows on the face.",
+     "grammar": ""
+    },
+    {
+     "id": "s59",
+     "title_ur": "مجھے کام سے تھکاوٹ ہوئی۔",
+     "title_en": "I became tired from work.",
+     "body_ur": "مجھے کام سے تھکاوٹ ہوئی۔",
+     "body_en": "I became tired from work.",
+     "grammar": ""
+    },
+    {
+     "id": "s60",
+     "title_ur": "بیداری صبح کو ہے۔",
+     "title_en": "Being awake is in the morning.",
+     "body_ur": "بیداری صبح کو ہے۔",
+     "body_en": "Being awake is in the morning.",
+     "grammar": ""
+    },
+    {
+     "id": "s61",
+     "title_ur": "اولے بارش میں گرتے ہیں۔",
+     "title_en": "Hail falls in the rain.",
+     "body_ur": "اولے بارش میں گرتے ہیں۔",
+     "body_en": "Hail falls in the rain.",
+     "grammar": ""
+    },
+    {
+     "id": "s62",
+     "title_ur": "طوفان رات کو آیا۔",
+     "title_en": "The storm came at night.",
+     "body_ur": "طوفان رات کو آیا۔",
+     "body_en": "The storm came at night.",
+     "grammar": ""
+    },
+    {
+     "id": "s63",
+     "title_ur": "سیلاب گاؤں میں پانی لے آیا۔",
+     "title_en": "The flood brought water to the village.",
+     "body_ur": "سیلاب گاؤں میں پانی لے آیا۔",
+     "body_en": "The flood brought water to the village.",
+     "grammar": ""
+    },
+    {
+     "id": "s64",
+     "title_ur": "شہر میں زلزلہ آیا۔",
+     "title_en": "An earthquake struck the city.",
+     "body_ur": "شہر میں زلزلہ آیا۔",
+     "body_en": "An earthquake struck the city.",
+     "grammar": ""
+    },
+    {
+     "id": "s65",
+     "title_ur": "شبنم پھولوں پر ہے۔",
+     "title_en": "Dew is on the flowers.",
+     "body_ur": "شبنم پھولوں پر ہے۔",
+     "body_en": "Dew is on the flowers.",
+     "grammar": ""
+    },
+    {
+     "id": "s66",
+     "title_ur": "کہر صبح کو بہت ہے۔",
+     "title_en": "There is a lot of fog in the morning.",
+     "body_ur": "کہر صبح کو بہت ہے۔",
+     "body_en": "There is a lot of fog in the morning.",
+     "grammar": ""
+    },
+    {
+     "id": "s67",
+     "title_ur": "دھواں آگ سے اوپر اٹھتا ہے۔",
+     "title_en": "Smoke rises from the fire.",
+     "body_ur": "دھواں آگ سے اوپر اٹھتا ہے۔",
+     "body_en": "Smoke rises from the fire.",
+     "grammar": ""
+    },
+    {
+     "id": "s68",
+     "title_ur": "جنازہ مسجد میں ہوا۔",
+     "title_en": "The funeral was held in the mosque.",
+     "body_ur": "جنازہ مسجد میں ہوا۔",
+     "body_en": "The funeral was held in the mosque.",
+     "grammar": ""
+    },
+    {
+     "id": "s69",
+     "title_ur": "میلاد مہینے میں منایا جاتا ہے۔",
+     "title_en": "Milad is celebrated in the month.",
+     "body_ur": "میلاد مہینے میں منایا جاتا ہے۔",
+     "body_en": "Milad is celebrated in the month.",
+     "grammar": ""
+    },
+    {
+     "id": "s70",
+     "title_ur": "تراویح روزے میں پڑھی جاتی ہیں۔",
+     "title_en": "Taraweeh is recited during fasting.",
+     "body_ur": "تراویح روزے میں پڑھی جاتی ہیں۔",
+     "body_en": "Taraweeh is recited during fasting.",
+     "grammar": ""
+    },
+    {
+     "id": "s71",
+     "title_ur": "زکوٰۃ مال پر فرض ہے۔",
+     "title_en": "Zakat is obligatory on wealth.",
+     "body_ur": "زکوٰۃ مال پر فرض ہے۔",
+     "body_en": "Zakat is obligatory on wealth.",
+     "grammar": ""
+    },
+    {
+     "id": "s72",
+     "title_ur": "صدقہ غریبوں کو دیا جاتا ہے۔",
+     "title_en": "Charity is given to the poor.",
+     "body_ur": "صدقہ غریبوں کو دیا جاتا ہے۔",
+     "body_en": "Charity is given to the poor.",
+     "grammar": ""
+    },
+    {
+     "id": "s73",
+     "title_ur": "مدرسے شہر میں ہیں۔",
+     "title_en": "The schools are in the city.",
+     "body_ur": "مدرسے شہر میں ہیں۔",
+     "body_en": "The schools are in the city.",
+     "grammar": ""
+    },
+    {
+     "id": "s74",
+     "title_ur": "میرا شہر بڑا ہے۔",
+     "title_en": "My city is big.",
+     "body_ur": "میرا شہر بڑا ہے۔",
+     "body_en": "My city is big.",
+     "grammar": ""
+    },
+    {
+     "id": "s75",
+     "title_ur": "ہمارا ملک پیارا ہے۔",
+     "title_en": "Our country is dear.",
+     "body_ur": "ہمارا ملک پیارا ہے۔",
+     "body_en": "Our country is dear.",
+     "grammar": ""
+    },
+    {
+     "id": "s76",
+     "title_ur": "دنیا بہت بڑی ہے۔",
+     "title_en": "The world is very big.",
+     "body_ur": "دنیا بہت بڑی ہے۔",
+     "body_en": "The world is very big.",
+     "grammar": ""
+    },
+    {
+     "id": "s77",
+     "title_ur": "پیچ دروازے میں ہے۔",
+     "title_en": "The screw is in the door.",
+     "body_ur": "پیچ دروازے میں ہے۔",
+     "body_en": "The screw is in the door.",
+     "grammar": ""
+    },
+    {
+     "id": "s78",
+     "title_ur": "کیل دیوار میں لگا ہوا ہے۔",
+     "title_en": "The nail is fixed in the wall.",
+     "body_ur": "کیل دیوار میں لگا ہوا ہے۔",
+     "body_en": "The nail is fixed in the wall.",
+     "grammar": ""
+    },
+    {
+     "id": "s79",
+     "title_ur": "زنجیر دروازے پر ہے۔",
+     "title_en": "The chain is on the door.",
+     "body_ur": "زنجیر دروازے پر ہے۔",
+     "body_en": "The chain is on the door.",
+     "grammar": ""
+    },
+    {
+     "id": "s80",
+     "title_ur": "میری چابی جیب میں ہے۔",
+     "title_en": "My key is in my pocket.",
+     "body_ur": "میری چابی جیب میں ہے۔",
+     "body_en": "My key is in my pocket.",
+     "grammar": ""
+    },
+    {
+     "id": "s81",
+     "title_ur": "امرود باغ میں ہیں۔",
+     "title_en": "The guavas are in the garden.",
+     "body_ur": "امرود باغ میں ہیں۔",
+     "body_en": "The guavas are in the garden.",
+     "grammar": ""
+    },
+    {
+     "id": "s82",
+     "title_ur": "ناشپاتیاں میٹھی ہیں۔",
+     "title_en": "The pears are sweet.",
+     "body_ur": "ناشپاتیاں میٹھی ہیں۔",
+     "body_en": "The pears are sweet.",
+     "grammar": ""
+    },
+    {
+     "id": "s83",
+     "title_ur": "جامن درخت پر ہیں۔",
+     "title_en": "The jamuns are on the tree.",
+     "body_ur": "جامن درخت پر ہیں۔",
+     "body_en": "The jamuns are on the tree.",
+     "grammar": ""
+    },
+    {
+     "id": "s84",
+     "title_ur": "بکری میدان میں گھومتی ہے۔",
+     "title_en": "The goat roams in the field.",
+     "body_ur": "بکری میدان میں گھومتی ہے۔",
+     "body_en": "The goat roams in the field.",
+     "grammar": ""
+    },
+    {
+     "id": "s85",
+     "title_ur": "بھیڑ پہاڑ پر گھومتی ہیں۔",
+     "title_en": "The sheep roam on the mountain.",
+     "body_ur": "بھیڑ پہاڑ پر گھومتی ہیں۔",
+     "body_en": "The sheep roam on the mountain.",
+     "grammar": ""
+    },
+    {
+     "id": "s86",
+     "title_ur": "بطخ پانی میں تیرتی ہے۔",
+     "title_en": "The duck swims in the water.",
+     "body_ur": "بطخ پانی میں تیرتی ہے۔",
+     "body_en": "The duck swims in the water.",
+     "grammar": ""
+    },
+    {
+     "id": "s87",
+     "title_ur": "چڑیا درخت پر چہچہاتی ہے۔",
+     "title_en": "The sparrow chirps in the tree.",
+     "body_ur": "چڑیا درخت پر چہچہاتی ہے۔",
+     "body_en": "The sparrow chirps in the tree.",
+     "grammar": ""
+    },
+    {
+     "id": "s88",
+     "title_ur": "کوا چھت پر بیٹھا ہے۔",
+     "title_en": "The crow is sitting on the roof.",
+     "body_ur": "کوا چھت پر بیٹھا ہے۔",
+     "body_en": "The crow is sitting on the roof.",
+     "grammar": ""
+    },
+    {
+     "id": "s89",
+     "title_ur": "طوطا پنجرے میں ہے۔",
+     "title_en": "The parrot is in the cage.",
+     "body_ur": "طوطا پنجرے میں ہے۔",
+     "body_en": "The parrot is in the cage.",
+     "grammar": ""
+    },
+    {
+     "id": "s90",
+     "title_ur": "میری پیشانی درد کر رہی ہے۔",
+     "title_en": "My forehead aches.",
+     "body_ur": "میری پیشانی درد کر رہی ہے۔",
+     "body_en": "My forehead aches.",
+     "grammar": ""
+    },
+    {
+     "id": "s91",
+     "title_ur": "میری ٹھوڑی چھوٹی ہے۔",
+     "title_en": "My chin is small.",
+     "body_ur": "میری ٹھوڑی چھوٹی ہے۔",
+     "body_en": "My chin is small.",
+     "grammar": ""
+    },
+    {
+     "id": "s92",
+     "title_ur": "میرا پیٹ بھرا ہوا ہے۔",
+     "title_en": "My stomach is full.",
+     "body_ur": "میرا پیٹ بھرا ہوا ہے۔",
+     "body_en": "My stomach is full.",
+     "grammar": ""
+    },
+    {
+     "id": "s93",
+     "title_ur": "گھر میں بڑا صحن ہے۔",
+     "title_en": "There is a big courtyard in the house.",
+     "body_ur": "گھر میں بڑا صحن ہے۔",
+     "body_en": "There is a big courtyard in the house.",
+     "grammar": ""
+    },
+    {
+     "id": "s94",
+     "title_ur": "برآمدہ گھر میں ہے۔",
+     "title_en": "The veranda is in the house.",
+     "body_ur": "برآمدہ گھر میں ہے۔",
+     "body_en": "The veranda is in the house.",
+     "grammar": ""
+    },
+    {
+     "id": "s95",
+     "title_ur": "تہہ خانہ سردیوں میں ٹھنڈا ہوتا ہے۔",
+     "title_en": "The basement is cold in winter.",
+     "body_ur": "تہہ خانہ سردیوں میں ٹھنڈا ہوتا ہے۔",
+     "body_en": "The basement is cold in winter.",
+     "grammar": ""
+    },
+    {
+     "id": "s96",
+     "title_ur": "گیراج گھر میں ہے۔",
+     "title_en": "The garage is in the house.",
+     "body_ur": "گیراج گھر میں ہے۔",
+     "body_en": "The garage is in the house.",
+     "grammar": ""
+    },
+    {
+     "id": "s97",
+     "title_ur": "باغیچہ گھر میں خوبصورت ہے۔",
+     "title_en": "The small garden in the house is beautiful.",
+     "body_ur": "باغیچہ گھر میں خوبصورت ہے۔",
+     "body_en": "The small garden in the house is beautiful.",
+     "grammar": ""
+    },
+    {
+     "id": "s98",
+     "title_ur": "فیکٹری شہر میں ہے۔",
+     "title_en": "The factory is in the city.",
+     "body_ur": "فیکٹری شہر میں ہے۔",
+     "body_en": "The factory is in the city.",
+     "grammar": ""
+    },
+    {
+     "id": "s99",
+     "title_ur": "کھیت گاؤں میں ہے۔",
+     "title_en": "The field is in the village.",
+     "body_ur": "کھیت گاؤں میں ہے۔",
+     "body_en": "The field is in the village.",
+     "grammar": ""
+    },
+    {
+     "id": "s100",
+     "title_ur": "بہادر آدمی کسی چیز سے نہیں ڈرتا۔",
+     "title_en": "A brave man fears nothing.",
+     "body_ur": "بہادر آدمی کسی چیز سے نہیں ڈرتا۔",
+     "body_en": "A brave man fears nothing.",
+     "grammar": ""
+    },
+    {
+     "id": "s101",
+     "title_ur": "ماں صبح سویرے اٹھتی ہے۔",
+     "title_en": "Mother wakes up early in the morning.",
+     "body_ur": "ماں صبح سویرے اٹھتی ہے۔",
+     "body_en": "Mother wakes up early in the morning.",
+     "grammar": ""
+    },
+    {
+     "id": "s102",
+     "title_ur": "باپ بازار جاتا ہے۔",
+     "title_en": "Father goes to the market.",
+     "body_ur": "باپ بازار جاتا ہے۔",
+     "body_en": "Father goes to the market.",
+     "grammar": ""
+    },
+    {
+     "id": "s103",
+     "title_ur": "بچہ اسکول میں سبق پڑھتا ہے۔",
+     "title_en": "The child reads the lesson at school.",
+     "body_ur": "بچہ اسکول میں سبق پڑھتا ہے۔",
+     "body_en": "The child reads the lesson at school.",
+     "grammar": ""
+    },
+    {
+     "id": "s104",
+     "title_ur": "لڑکی گھر میں کھانا پکاتی ہے۔",
+     "title_en": "The girl cooks food at home.",
+     "body_ur": "لڑکی گھر میں کھانا پکاتی ہے۔",
+     "body_en": "The girl cooks food at home.",
+     "grammar": ""
+    },
+    {
+     "id": "s105",
+     "title_ur": "لڑکا میدان میں کھیلتا ہے۔",
+     "title_en": "The boy plays in the field.",
+     "body_ur": "لڑکا میدان میں کھیلتا ہے۔",
+     "body_en": "The boy plays in the field.",
+     "grammar": ""
+    },
+    {
+     "id": "s106",
+     "title_ur": "میں مل کر کام کرتا ہوں۔",
+     "title_en": "I work together with others.",
+     "body_ur": "میں مل کر کام کرتا ہوں۔",
+     "body_en": "I work together with others.",
+     "grammar": ""
+    },
+    {
+     "id": "s107",
+     "title_ur": "مہربانی کرو، کھڑکی کھولو۔",
+     "title_en": "Please open the window.",
+     "body_ur": "مہربانی کرو، کھڑکی کھولو۔",
+     "body_en": "Please open the window.",
+     "grammar": ""
+    },
+    {
+     "id": "s108",
+     "title_ur": "آج ایک اچھا دن ہے۔",
+     "title_en": "Today is a good day.",
+     "body_ur": "آج ایک اچھا دن ہے۔",
+     "body_en": "Today is a good day.",
+     "grammar": ""
+    },
+    {
+     "id": "s109",
+     "title_ur": "سورج مشرق سے نکلتا ہے۔",
+     "title_en": "The sun rises in the east.",
+     "body_ur": "سورج مشرق سے نکلتا ہے۔",
+     "body_en": "The sun rises in the east.",
+     "grammar": ""
+    },
+    {
+     "id": "s110",
+     "title_ur": "بارش شہر میں ہو رہی ہے۔",
+     "title_en": "It is raining in the city.",
+     "body_ur": "بارش شہر میں ہو رہی ہے۔",
+     "body_en": "It is raining in the city.",
+     "grammar": ""
+    },
+    {
+     "id": "s111",
+     "title_ur": "موسم آج اچھا ہے۔",
+     "title_en": "The weather is good today.",
+     "body_ur": "موسم آج اچھا ہے۔",
+     "body_en": "The weather is good today.",
+     "grammar": ""
+    },
+    {
+     "id": "s112",
+     "title_ur": "رات اندھیری ہے۔",
+     "title_en": "The night is dark.",
+     "body_ur": "رات اندھیری ہے۔",
+     "body_en": "The night is dark.",
+     "grammar": ""
+    },
+    {
+     "id": "s113",
+     "title_ur": "چاند آسمان میں ہے۔",
+     "title_en": "The moon is in the sky.",
+     "body_ur": "چاند آسمان میں ہے۔",
+     "body_en": "The moon is in the sky.",
+     "grammar": ""
+    },
+    {
+     "id": "s114",
+     "title_ur": "ستارے رات میں چمکتے ہیں۔",
+     "title_en": "The stars shine at night.",
+     "body_ur": "ستارے رات میں چمکتے ہیں۔",
+     "body_en": "The stars shine at night.",
+     "grammar": ""
+    },
+    {
+     "id": "s115",
+     "title_ur": "پھول باغ میں خوبصورت ہے۔",
+     "title_en": "The flower in the garden is beautiful.",
+     "body_ur": "پھول باغ میں خوبصورت ہے۔",
+     "body_en": "The flower in the garden is beautiful.",
+     "grammar": ""
+    },
+    {
+     "id": "s116",
+     "title_ur": "درخت صحن میں ہے۔",
+     "title_en": "The tree is in the courtyard.",
+     "body_ur": "درخت صحن میں ہے۔",
+     "body_en": "The tree is in the courtyard.",
+     "grammar": ""
+    },
+    {
+     "id": "s117",
+     "title_ur": "گھوڑا میدان میں دوڑتا ہے۔",
+     "title_en": "The horse runs in the field.",
+     "body_ur": "گھوڑا میدان میں دوڑتا ہے۔",
+     "body_en": "The horse runs in the field.",
+     "grammar": ""
+    },
+    {
+     "id": "s118",
+     "title_ur": "بلی دودھ پیتی ہے۔",
+     "title_en": "The cat drinks milk.",
+     "body_ur": "بلی دودھ پیتی ہے۔",
+     "body_en": "The cat drinks milk.",
+     "grammar": ""
+    },
+    {
+     "id": "s119",
+     "title_ur": "کتا گھر میں رکھا جاتا ہے۔",
+     "title_en": "The dog is kept in the house.",
+     "body_ur": "کتا گھر میں رکھا جاتا ہے۔",
+     "body_en": "The dog is kept in the house.",
+     "grammar": ""
+    },
+    {
+     "id": "s120",
+     "title_ur": "گائے کھیت میں گھاس کھاتی ہے۔",
+     "title_en": "The cow eats grass in the field.",
+     "body_ur": "گائے کھیت میں گھاس کھاتی ہے۔",
+     "body_en": "The cow eats grass in the field.",
+     "grammar": ""
+    },
+    {
+     "id": "s121",
+     "title_ur": "میں کل بازار جاؤں گا۔",
+     "title_en": "I will go to the market tomorrow.",
+     "body_ur": "میں کل بازار جاؤں گا۔",
+     "body_en": "I will go to the market tomorrow.",
+     "grammar": ""
+    },
+    {
+     "id": "s122",
+     "title_ur": "وہ کل آجائے گا۔",
+     "title_en": "He will come tomorrow.",
+     "body_ur": "وہ کل آجائے گا۔",
+     "body_en": "He will come tomorrow.",
+     "grammar": ""
+    },
+    {
+     "id": "s123",
+     "title_ur": "ہم کل مل کر کھانا کھائیں گے۔",
+     "title_en": "We will eat together tomorrow.",
+     "body_ur": "ہم کل مل کر کھانا کھائیں گے۔",
+     "body_en": "We will eat together tomorrow.",
+     "grammar": ""
+    },
+    {
+     "id": "s124",
+     "title_ur": "کل بارش ہوگی۔",
+     "title_en": "It will rain tomorrow.",
+     "body_ur": "کل بارش ہوگی۔",
+     "body_en": "It will rain tomorrow.",
+     "grammar": ""
+    },
+    {
+     "id": "s125",
+     "title_ur": "بچے مل کر کھیلتے ہیں۔",
+     "title_en": "Children play together.",
+     "body_ur": "بچے مل کر کھیلتے ہیں۔",
+     "body_en": "Children play together.",
+     "grammar": ""
+    },
+    {
+     "id": "s126",
+     "title_ur": "استاد کلاس میں درس دیتا ہے۔",
+     "title_en": "The teacher teaches in the class.",
+     "body_ur": "استاد کلاس میں درس دیتا ہے۔",
+     "body_en": "The teacher teaches in the class.",
+     "grammar": ""
+    },
+    {
+     "id": "s127",
+     "title_ur": "طالب علم کتاب پڑھتا ہے۔",
+     "title_en": "The student reads a book.",
+     "body_ur": "طالب علم کتاب پڑھتا ہے۔",
+     "body_en": "The student reads a book.",
+     "grammar": ""
+    },
+    {
+     "id": "s128",
+     "title_ur": "قلم میز پر ہے۔",
+     "title_en": "The pen is on the table.",
+     "body_ur": "قلم میز پر ہے۔",
+     "body_en": "The pen is on the table.",
+     "grammar": ""
+    },
+    {
+     "id": "s129",
+     "title_ur": "کاغذ کاپی میں ہے۔",
+     "title_en": "The paper is in the notebook.",
+     "body_ur": "کاغذ کاپی میں ہے۔",
+     "body_en": "The paper is in the notebook.",
+     "grammar": ""
+    },
+    {
+     "id": "s130",
+     "title_ur": "دکان بازار میں ہے۔",
+     "title_en": "The shop is in the market.",
+     "body_ur": "دکان بازار میں ہے۔",
+     "body_en": "The shop is in the market.",
+     "grammar": ""
+    },
+    {
+     "id": "s131",
+     "title_ur": "دکان سڑک پر ہے۔",
+     "title_en": "The shop is on the road.",
+     "body_ur": "دکان سڑک پر ہے۔",
+     "body_en": "The shop is on the road.",
+     "grammar": ""
+    },
+    {
+     "id": "s132",
+     "title_ur": "پیسے جیب میں ہیں۔",
+     "title_en": "The money is in the pocket.",
+     "body_ur": "پیسے جیب میں ہیں۔",
+     "body_en": "The money is in the pocket.",
+     "grammar": ""
+    },
+    {
+     "id": "s133",
+     "title_ur": "کام دفتر میں ہوتا ہے۔",
+     "title_en": "Work is done in the office.",
+     "body_ur": "کام دفتر میں ہوتا ہے۔",
+     "body_en": "Work is done in the office.",
+     "grammar": ""
+    },
+    {
+     "id": "s134",
+     "title_ur": "محبت دل میں ہے۔",
+     "title_en": "Love is in the heart.",
+     "body_ur": "محبت دل میں ہے۔",
+     "body_en": "Love is in the heart.",
+     "grammar": ""
+    },
+    {
+     "id": "s135",
+     "title_ur": "روشنی کمرے میں ہے۔",
+     "title_en": "The light is in the room.",
+     "body_ur": "روشنی کمرے میں ہے۔",
+     "body_en": "The light is in the room.",
+     "grammar": ""
+    },
+    {
+     "id": "s136",
+     "title_ur": "دن لمبا ہے۔",
+     "title_en": "The day is long.",
+     "body_ur": "دن لمبا ہے۔",
+     "body_en": "The day is long.",
+     "grammar": ""
+    },
+    {
+     "id": "s137",
+     "title_ur": "رات ٹھنڈی ہے۔",
+     "title_en": "The night is cold.",
+     "body_ur": "رات ٹھنڈی ہے۔",
+     "body_en": "The night is cold.",
+     "grammar": ""
+    },
+    {
+     "id": "s138",
+     "title_ur": "برف پہاڑ پر گرتی ہے۔",
+     "title_en": "Snow falls on the mountain.",
+     "body_ur": "برف پہاڑ پر گرتی ہے۔",
+     "body_en": "Snow falls on the mountain.",
+     "grammar": ""
+    },
+    {
+     "id": "s139",
+     "title_ur": "آگ چولہے میں جلتی ہے۔",
+     "title_en": "Fire burns in the stove.",
+     "body_ur": "آگ چولہے میں جلتی ہے۔",
+     "body_en": "Fire burns in the stove.",
+     "grammar": ""
+    },
+    {
+     "id": "s140",
+     "title_ur": "پانی گلاس میں ہے۔",
+     "title_en": "The water is in the glass.",
+     "body_ur": "پانی گلاس میں ہے۔",
+     "body_en": "The water is in the glass.",
+     "grammar": ""
+    },
+    {
+     "id": "s141",
+     "title_ur": "چائے پیالے میں ہے۔",
+     "title_en": "The tea is in the cup.",
+     "body_ur": "چائے پیالے میں ہے۔",
+     "body_en": "The tea is in the cup.",
+     "grammar": ""
+    },
+    {
+     "id": "s142",
+     "title_ur": "چینی چائے میں ڈالی جاتی ہے۔",
+     "title_en": "Sugar is added to the tea.",
+     "body_ur": "چینی چائے میں ڈالی جاتی ہے۔",
+     "body_en": "Sugar is added to the tea.",
+     "grammar": ""
+    },
+    {
+     "id": "s143",
+     "title_ur": "کھانے میں نمک کم ہے۔",
+     "title_en": "There is little salt in the food.",
+     "body_ur": "کھانے میں نمک کم ہے۔",
+     "body_en": "There is little salt in the food.",
+     "grammar": ""
+    },
+    {
+     "id": "s144",
+     "title_ur": "وقت تیزی سے گزرتا ہے۔",
+     "title_en": "Time passes quickly.",
+     "body_ur": "وقت تیزی سے گزرتا ہے۔",
+     "body_en": "Time passes quickly.",
+     "grammar": ""
+    },
+    {
+     "id": "s145",
+     "title_ur": "راستہ لمبا ہے۔",
+     "title_en": "The road is long.",
+     "body_ur": "راستہ لمبا ہے۔",
+     "body_en": "The road is long.",
+     "grammar": ""
+    },
+    {
+     "id": "s146",
+     "title_ur": "پل دریا پر ہے۔",
+     "title_en": "The bridge is over the river.",
+     "body_ur": "پل دریا پر ہے۔",
+     "body_en": "The bridge is over the river.",
+     "grammar": ""
+    },
+    {
+     "id": "s147",
+     "title_ur": "شہر کا راستہ دور ہے۔",
+     "title_en": "The road to the city is far.",
+     "body_ur": "شہر کا راستہ دور ہے۔",
+     "body_en": "The road to the city is far.",
+     "grammar": ""
+    },
+    {
+     "id": "s148",
+     "title_ur": "ہم کل گاؤں جائیں گے۔",
+     "title_en": "We will go to the village tomorrow.",
+     "body_ur": "ہم کل گاؤں جائیں گے۔",
+     "body_en": "We will go to the village tomorrow.",
+     "grammar": ""
+    },
+    {
+     "id": "s149",
+     "title_ur": "ہم سفر بس سے کریں گے۔",
+     "title_en": "We will travel by bus.",
+     "body_ur": "ہم سفر بس سے کریں گے۔",
+     "body_en": "We will travel by bus.",
+     "grammar": ""
+    },
+    {
+     "id": "s150",
+     "title_ur": "مہمان گھر آیا۔",
+     "title_en": "The guest came home.",
+     "body_ur": "مہمان گھر آیا۔",
+     "body_en": "The guest came home.",
+     "grammar": ""
+    },
+    {
+     "id": "s151",
+     "title_ur": "سلام زبان سے ہوتا ہے۔",
+     "title_en": "Greetings are spoken with the tongue.",
+     "body_ur": "سلام زبان سے ہوتا ہے۔",
+     "body_en": "Greetings are spoken with the tongue.",
+     "grammar": ""
+    },
+    {
+     "id": "s152",
+     "title_ur": "ہم محبت سے استقبال کرتے ہیں۔",
+     "title_en": "We welcome with love.",
+     "body_ur": "ہم محبت سے استقبال کرتے ہیں۔",
+     "body_en": "We welcome with love.",
+     "grammar": ""
+    },
+    {
+     "id": "s153",
+     "title_ur": "میں معافی چاہتا ہوں، مجھے معاف کرو۔",
+     "title_en": "I seek forgiveness; forgive me.",
+     "body_ur": "میں معافی چاہتا ہوں، مجھے معاف کرو۔",
+     "body_en": "I seek forgiveness; forgive me.",
+     "grammar": ""
+    },
+    {
+     "id": "s154",
+     "title_ur": "میرا نام احمد ہے۔",
+     "title_en": "My name is Ahmad.",
+     "body_ur": "میرا نام احمد ہے۔",
+     "body_en": "My name is Ahmad.",
+     "grammar": ""
+    },
+    {
+     "id": "s155",
+     "title_ur": "تمہارا نام کیا ہے؟",
+     "title_en": "What is your name?",
+     "body_ur": "تمہارا نام کیا ہے؟",
+     "body_en": "What is your name?",
+     "grammar": ""
+    },
+    {
+     "id": "s156",
+     "title_ur": "میں پشاور سے ہوں۔",
+     "title_en": "I am from Peshawar.",
+     "body_ur": "میں پشاور سے ہوں۔",
+     "body_en": "I am from Peshawar.",
+     "grammar": ""
+    },
+    {
+     "id": "s157",
+     "title_ur": "تم کہاں جا رہے ہو؟",
+     "title_en": "Where are you going?",
+     "body_ur": "تم کہاں جا رہے ہو؟",
+     "body_en": "Where are you going?",
+     "grammar": ""
+    },
+    {
+     "id": "s158",
+     "title_ur": "میں گھر جا رہا ہوں۔",
+     "title_en": "I am going home.",
+     "body_ur": "میں گھر جا رہا ہوں۔",
+     "body_en": "I am going home.",
+     "grammar": ""
+    },
+    {
+     "id": "s159",
+     "title_ur": "وہ دفتر میں کام کرتا ہے۔",
+     "title_en": "He works in the office.",
+     "body_ur": "وہ دفتر میں کام کرتا ہے۔",
+     "body_en": "He works in the office.",
+     "grammar": ""
+    },
+    {
+     "id": "s160",
+     "title_ur": "وہ اسکول میں پڑھتی ہے۔",
+     "title_en": "She studies at school.",
+     "body_ur": "وہ اسکول میں پڑھتی ہے۔",
+     "body_en": "She studies at school.",
+     "grammar": ""
+    },
+    {
+     "id": "s161",
+     "title_ur": "میری ماں مزیدار کھانا پکاتی ہے۔",
+     "title_en": "My mother cooks delicious food.",
+     "body_ur": "میری ماں مزیدار کھانا پکاتی ہے۔",
+     "body_en": "My mother cooks delicious food.",
+     "grammar": ""
+    },
+    {
+     "id": "s162",
+     "title_ur": "میرے والد باغ میں کام کرتے ہیں۔",
+     "title_en": "My father works in the garden.",
+     "body_ur": "میرے والد باغ میں کام کرتے ہیں۔",
+     "body_en": "My father works in the garden.",
+     "grammar": ""
+    },
+    {
+     "id": "s163",
+     "title_ur": "میری بہن ڈاکٹر ہے۔",
+     "title_en": "My sister is a doctor.",
+     "body_ur": "میری بہن ڈاکٹر ہے۔",
+     "body_en": "My sister is a doctor.",
+     "grammar": ""
+    },
+    {
+     "id": "s164",
+     "title_ur": "میرا بھائی قریبی دوست ہے۔",
+     "title_en": "My brother is a close friend.",
+     "body_ur": "میرا بھائی قریبی دوست ہے۔",
+     "body_en": "My brother is a close friend.",
+     "grammar": ""
+    },
+    {
+     "id": "s165",
+     "title_ur": "میرا دوست بازار میں ہے۔",
+     "title_en": "My friend is in the market.",
+     "body_ur": "میرا دوست بازار میں ہے۔",
+     "body_en": "My friend is in the market.",
+     "grammar": ""
+    },
+    {
+     "id": "s166",
+     "title_ur": "کتاب میز پر پڑی ہے۔",
+     "title_en": "The book is lying on the table.",
+     "body_ur": "کتاب میز پر پڑی ہے۔",
+     "body_en": "The book is lying on the table.",
+     "grammar": ""
+    },
+    {
+     "id": "s167",
+     "title_ur": "دروازہ بند ہے۔",
+     "title_en": "The door is closed.",
+     "body_ur": "دروازہ بند ہے۔",
+     "body_en": "The door is closed.",
+     "grammar": ""
+    },
+    {
+     "id": "s168",
+     "title_ur": "کھڑکی کھلی ہے۔",
+     "title_en": "The window is open.",
+     "body_ur": "کھڑکی کھلی ہے۔",
+     "body_en": "The window is open.",
+     "grammar": ""
+    },
+    {
+     "id": "s169",
+     "title_ur": "کرسی میز کے قریب ہے۔",
+     "title_en": "The chair is near the table.",
+     "body_ur": "کرسی میز کے قریب ہے۔",
+     "body_en": "The chair is near the table.",
+     "grammar": ""
+    },
+    {
+     "id": "s170",
+     "title_ur": "میں نے قلم سے لکھا۔",
+     "title_en": "I wrote with a pen.",
+     "body_ur": "میں نے قلم سے لکھا۔",
+     "body_en": "I wrote with a pen.",
+     "grammar": ""
+    },
+    {
+     "id": "s171",
+     "title_ur": "سبزی بازار میں تازہ ہے۔",
+     "title_en": "Vegetables are fresh in the market.",
+     "body_ur": "سبزی بازار میں تازہ ہے۔",
+     "body_en": "Vegetables are fresh in the market.",
+     "grammar": ""
+    },
+    {
+     "id": "s172",
+     "title_ur": "گوشت دکان میں ہے۔",
+     "title_en": "The meat is in the shop.",
+     "body_ur": "گوشت دکان میں ہے۔",
+     "body_en": "The meat is in the shop.",
+     "grammar": ""
+    },
+    {
+     "id": "s173",
+     "title_ur": "انڈے ناشتے میں کھائے جاتے ہیں۔",
+     "title_en": "Eggs are eaten at breakfast.",
+     "body_ur": "انڈے ناشتے میں کھائے جاتے ہیں۔",
+     "body_en": "Eggs are eaten at breakfast.",
+     "grammar": ""
+    },
+    {
+     "id": "s174",
+     "title_ur": "چاول کھانے میں پکتے ہیں۔",
+     "title_en": "Rice is cooked in meals.",
+     "body_ur": "چاول کھانے میں پکتے ہیں۔",
+     "body_en": "Rice is cooked in meals.",
+     "grammar": ""
+    },
+    {
+     "id": "s175",
+     "title_ur": "آٹا بوری میں ہے۔",
+     "title_en": "The flour is in the sack.",
+     "body_ur": "آٹا بوری میں ہے۔",
+     "body_en": "The flour is in the sack.",
+     "grammar": ""
+    },
+    {
+     "id": "s176",
+     "title_ur": "گندم کھیت میں ہے۔",
+     "title_en": "The wheat is in the field.",
+     "body_ur": "گندم کھیت میں ہے۔",
+     "body_en": "The wheat is in the field.",
+     "grammar": ""
+    },
+    {
+     "id": "s177",
+     "title_ur": "دریا گاؤں میں بہتا ہے۔",
+     "title_en": "The river flows through the village.",
+     "body_ur": "دریا گاؤں میں بہتا ہے۔",
+     "body_en": "The river flows through the village.",
+     "grammar": ""
+    },
+    {
+     "id": "s178",
+     "title_ur": "پہاڑ دور ہے۔",
+     "title_en": "The mountain is far away.",
+     "body_ur": "پہاڑ دور ہے۔",
+     "body_en": "The mountain is far away.",
+     "grammar": ""
+    },
+    {
+     "id": "s179",
+     "title_ur": "جنگل پہاڑ میں ہے۔",
+     "title_en": "The forest is on the mountain.",
+     "body_ur": "جنگل پہاڑ میں ہے۔",
+     "body_en": "The forest is on the mountain.",
+     "grammar": ""
+    },
+    {
+     "id": "s180",
+     "title_ur": "سمندر بہت بڑا ہے۔",
+     "title_en": "The sea is very big.",
+     "body_ur": "سمندر بہت بڑا ہے۔",
+     "body_en": "The sea is very big.",
+     "grammar": ""
+    },
+    {
+     "id": "s181",
+     "title_ur": "آسمان نیلا ہے۔",
+     "title_en": "The sky is blue.",
+     "body_ur": "آسمان نیلا ہے۔",
+     "body_en": "The sky is blue.",
+     "grammar": ""
+    },
+    {
+     "id": "s182",
+     "title_ur": "ہوا باغ میں چلتی ہے۔",
+     "title_en": "The wind blows in the garden.",
+     "body_ur": "ہوا باغ میں چلتی ہے۔",
+     "body_en": "The wind blows in the garden.",
+     "grammar": ""
+    },
+    {
+     "id": "s183",
+     "title_ur": "آگ سردیوں میں گرم کرتی ہے۔",
+     "title_en": "Fire gives warmth in winter.",
+     "body_ur": "آگ سردیوں میں گرم کرتی ہے۔",
+     "body_en": "Fire gives warmth in winter.",
+     "grammar": ""
+    },
+    {
+     "id": "s184",
+     "title_ur": "شہر رات میں روشن ہے۔",
+     "title_en": "The city is bright at night.",
+     "body_ur": "شہر رات میں روشن ہے۔",
+     "body_en": "The city is bright at night.",
+     "grammar": ""
+    },
+    {
+     "id": "s185",
+     "title_ur": "گاؤں صبح کو خوبصورت ہے۔",
+     "title_en": "The village is beautiful in the morning.",
+     "body_ur": "گاؤں صبح کو خوبصورت ہے۔",
+     "body_en": "The village is beautiful in the morning.",
+     "grammar": ""
+    },
+    {
+     "id": "s186",
+     "title_ur": "ہوٹل شہر میں ہے۔",
+     "title_en": "The hotel is in the city.",
+     "body_ur": "ہوٹل شہر میں ہے۔",
+     "body_en": "The hotel is in the city.",
+     "grammar": ""
+    },
+    {
+     "id": "s187",
+     "title_ur": "سڑک شہر میں لمبی ہے۔",
+     "title_en": "The road in the city is long.",
+     "body_ur": "سڑک شہر میں لمبی ہے۔",
+     "body_en": "The road in the city is long.",
+     "grammar": ""
+    },
+    {
+     "id": "s188",
+     "title_ur": "گاڑی سڑک پر جاتی ہے۔",
+     "title_en": "The car goes on the road.",
+     "body_ur": "گاڑی سڑک پر جاتی ہے۔",
+     "body_en": "The car goes on the road.",
+     "grammar": ""
+    },
+    {
+     "id": "s189",
+     "title_ur": "سائیکل صحن میں ہے۔",
+     "title_en": "The bicycle is in the courtyard.",
+     "body_ur": "سائیکل صحن میں ہے۔",
+     "body_en": "The bicycle is in the courtyard.",
+     "grammar": ""
+    },
+    {
+     "id": "s190",
+     "title_ur": "گھڑی دیوار پر ہے۔",
+     "title_en": "The clock is on the wall.",
+     "body_ur": "گھڑی دیوار پر ہے۔",
+     "body_en": "The clock is on the wall.",
+     "grammar": ""
+    },
+    {
+     "id": "s191",
+     "title_ur": "ٹوپی سر پر ہے۔",
+     "title_en": "The cap is on the head.",
+     "body_ur": "ٹوپی سر پر ہے۔",
+     "body_en": "The cap is on the head.",
+     "grammar": ""
+    },
+    {
+     "id": "s192",
+     "title_ur": "میرے جوتے نئے ہیں۔",
+     "title_en": "My shoes are new.",
+     "body_ur": "میرے جوتے نئے ہیں۔",
+     "body_en": "My shoes are new.",
+     "grammar": ""
+    },
+    {
+     "id": "s193",
+     "title_ur": "میرے کپڑے صاف ہیں۔",
+     "title_en": "My clothes are clean.",
+     "body_ur": "میرے کپڑے صاف ہیں۔",
+     "body_en": "My clothes are clean.",
+     "grammar": ""
+    },
+    {
+     "id": "s194",
+     "title_ur": "مریض ہسپتال میں ہے۔",
+     "title_en": "The patient is in the hospital.",
+     "body_ur": "مریض ہسپتال میں ہے۔",
+     "body_en": "The patient is in the hospital.",
+     "grammar": ""
+    },
+    {
+     "id": "s195",
+     "title_ur": "دوائیں دواخانے میں ہے۔",
+     "title_en": "The medicines are in the pharmacy.",
+     "body_ur": "دوائیں دواخانے میں ہے۔",
+     "body_en": "The medicines are in the pharmacy.",
+     "grammar": ""
+    },
+    {
+     "id": "s196",
+     "title_ur": "سیب باغ میں ہے۔",
+     "title_en": "The apple is in the garden.",
+     "body_ur": "سیب باغ میں ہے۔",
+     "body_en": "The apple is in the garden.",
+     "grammar": ""
+    },
+    {
+     "id": "s197",
+     "title_ur": "کیلا پیلا ہے۔",
+     "title_en": "The banana is yellow.",
+     "body_ur": "کیلا پیلا ہے۔",
+     "body_en": "The banana is yellow.",
+     "grammar": ""
+    },
+    {
+     "id": "s198",
+     "title_ur": "نارنگی سردیوں میں ہوتی ہے۔",
+     "title_en": "Oranges are found in winter.",
+     "body_ur": "نارنگی سردیوں میں ہوتی ہے۔",
+     "body_en": "Oranges are found in winter.",
+     "grammar": ""
+    },
+    {
+     "id": "s199",
+     "title_ur": "انگور میٹھے ہیں۔",
+     "title_en": "The grapes are sweet.",
+     "body_ur": "انگور میٹھے ہیں۔",
+     "body_en": "The grapes are sweet.",
+     "grammar": ""
+    },
+    {
+     "id": "s200",
+     "title_ur": "بچہ اسکول میں خوش ہے۔",
+     "title_en": "The child is happy at school.",
+     "body_ur": "بچہ اسکول میں خوش ہے۔",
+     "body_en": "The child is happy at school.",
+     "grammar": ""
+    }
+   ]
   },
   {
    "id": "verbs",
