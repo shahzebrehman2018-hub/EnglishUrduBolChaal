@@ -1,5 +1,5 @@
 {
- "version": 4,
+ "version": 5,
  "sections": [
   {
    "id": "asbaq",
@@ -1713,6 +1713,1454 @@
      "title_en": "In the end we will return home together and remember the good days of recreation.",
      "body_ur": "آخر میں ہم مل کر گھر آجائیں گے اور تفریح کے اچھے دن یاد کریں گے۔",
      "body_en": "In the end we will return home together and remember the good days of recreation.",
+     "grammar": ""
+    },
+    {
+     "id": "s211",
+     "title_ur": "راکھ آگ سے رہ گئی۔",
+     "title_en": "Ash remained from the fire.",
+     "body_ur": "راکھ آگ سے رہ گئی۔",
+     "body_en": "Ash remained from the fire.",
+     "grammar": ""
+    },
+    {
+     "id": "s212",
+     "title_ur": "بچے سائے میں بیٹھے ہیں۔",
+     "title_en": "The children are sitting in the shade.",
+     "body_ur": "بچے سائے میں بیٹھے ہیں۔",
+     "body_en": "The children are sitting in the shade.",
+     "grammar": ""
+    },
+    {
+     "id": "s213",
+     "title_ur": "اس کی آواز بہت بلند ہے۔",
+     "title_en": "His voice is very loud.",
+     "body_ur": "اس کی آواز بہت بلند ہے۔",
+     "body_en": "His voice is very loud.",
+     "grammar": ""
+    },
+    {
+     "id": "s214",
+     "title_ur": "میں نے ایک عجیب صدا سنی۔",
+     "title_en": "I heard a strange sound.",
+     "body_ur": "میں نے ایک عجیب صدا سنی۔",
+     "body_en": "I heard a strange sound.",
+     "grammar": ""
+    },
+    {
+     "id": "s215",
+     "title_ur": "لڑکی نے ڈر سے چیخ ماری۔",
+     "title_en": "The girl screamed out of fear.",
+     "body_ur": "لڑکی نے ڈر سے چیخ ماری۔",
+     "body_en": "The girl screamed out of fear.",
+     "grammar": ""
+    },
+    {
+     "id": "s216",
+     "title_ur": "اس نے مقابلے میں انعام جیتا۔",
+     "title_en": "He won a prize in the competition.",
+     "body_ur": "اس نے مقابلے میں انعام جیتا۔",
+     "body_en": "He won a prize in the competition.",
+     "grammar": ""
+    },
+    {
+     "id": "s217",
+     "title_ur": "استاد نے سوال کا جواب دیا۔",
+     "title_en": "The teacher answered the question.",
+     "body_ur": "استاد نے سوال کا جواب دیا۔",
+     "body_en": "The teacher answered the question.",
+     "grammar": ""
+    },
+    {
+     "id": "s218",
+     "title_ur": "میں اپنے دوست کو خط لکھتا ہوں۔",
+     "title_en": "I write a letter to my friend.",
+     "body_ur": "میں اپنے دوست کو خط لکھتا ہوں۔",
+     "body_en": "I write a letter to my friend.",
+     "grammar": ""
+    },
+    {
+     "id": "s219",
+     "title_ur": "ایک خشک پتا درخت سے گرا۔",
+     "title_en": "A dry leaf fell from the tree.",
+     "body_ur": "ایک خشک پتا درخت سے گرا۔",
+     "body_en": "A dry leaf fell from the tree.",
+     "grammar": ""
+    },
+    {
+     "id": "s220",
+     "title_ur": "میرا دوست ہر روز بازار جاتا ہے۔",
+     "title_en": "My friend goes to the bazaar every day.",
+     "body_ur": "میرا دوست ہر روز بازار جاتا ہے۔",
+     "body_en": "My friend goes to the bazaar every day.",
+     "grammar": ""
+    },
+    {
+     "id": "s221",
+     "title_ur": "ہیڈ ماسٹر اسکول میں بات کرتا ہے۔",
+     "title_en": "The headmaster speaks in the school.",
+     "body_ur": "ہیڈ ماسٹر اسکول میں بات کرتا ہے۔",
+     "body_en": "The headmaster speaks in the school.",
+     "grammar": ""
+    },
+    {
+     "id": "s222",
+     "title_ur": "پروفیسر جامعہ (یونیورسٹی) میں سبق پڑھاتا ہے۔",
+     "title_en": "The professor teaches a lesson at the university.",
+     "body_ur": "پروفیسر جامعہ (یونیورسٹی) میں سبق پڑھاتا ہے۔",
+     "body_en": "The professor teaches a lesson at the university.",
+     "grammar": ""
+    },
+    {
+     "id": "s223",
+     "title_ur": "محقق کتابوں میں تلاش کرتا ہے۔",
+     "title_en": "The researcher searches in books.",
+     "body_ur": "محقق کتابوں میں تلاش کرتا ہے۔",
+     "body_en": "The researcher searches in books.",
+     "grammar": ""
+    },
+    {
+     "id": "s224",
+     "title_ur": "صحافی لوگوں سے بات کرتا ہے۔",
+     "title_en": "The journalist talks with people.",
+     "body_ur": "صحافی لوگوں سے بات کرتا ہے۔",
+     "body_en": "The journalist talks with people.",
+     "grammar": ""
+    },
+    {
+     "id": "s225",
+     "title_ur": "کارکن دفتر میں کام کرتا ہے۔",
+     "title_en": "The worker works in the office.",
+     "body_ur": "کارکن دفتر میں کام کرتا ہے۔",
+     "body_en": "The worker works in the office.",
+     "grammar": ""
+    },
+    {
+     "id": "s226",
+     "title_ur": "کمانڈر اپنے سپاہیوں کو حکم دیتا ہے۔",
+     "title_en": "The commander orders his soldiers.",
+     "body_ur": "کمانڈر اپنے سپاہیوں کو حکم دیتا ہے۔",
+     "body_en": "The commander orders his soldiers.",
+     "grammar": ""
+    },
+    {
+     "id": "s227",
+     "title_ur": "سپاہی چوکی پر کھڑا ہے۔",
+     "title_en": "The soldier is standing at the post.",
+     "body_ur": "سپاہی چوکی پر کھڑا ہے۔",
+     "body_en": "The soldier is standing at the post.",
+     "grammar": ""
+    },
+    {
+     "id": "s228",
+     "title_ur": "ڈرائیور گاڑی احتیاط سے چلاتا ہے۔",
+     "title_en": "The driver drives the car carefully.",
+     "body_ur": "ڈرائیور گاڑی احتیاط سے چلاتا ہے۔",
+     "body_en": "The driver drives the car carefully.",
+     "grammar": ""
+    },
+    {
+     "id": "s229",
+     "title_ur": "اس سال کی پیداوار بہت اچھی ہے۔",
+     "title_en": "This year's harvest is very good.",
+     "body_ur": "اس سال کی پیداوار بہت اچھی ہے۔",
+     "body_en": "This year's harvest is very good.",
+     "grammar": ""
+    },
+    {
+     "id": "s230",
+     "title_ur": "سردیوں میں سردی بہت ہوتی ہے۔",
+     "title_en": "In winter it is very cold.",
+     "body_ur": "سردیوں میں سردی بہت ہوتی ہے۔",
+     "body_en": "In winter it is very cold.",
+     "grammar": ""
+    },
+    {
+     "id": "s231",
+     "title_ur": "تاخیر نے میرا کام خراب کر دیا۔",
+     "title_en": "The delay spoiled my work.",
+     "body_ur": "تاخیر نے میرا کام خراب کر دیا۔",
+     "body_en": "The delay spoiled my work.",
+     "grammar": ""
+    },
+    {
+     "id": "s232",
+     "title_ur": "وہ میرا پرانا یار ہے۔",
+     "title_en": "He is my old friend.",
+     "body_ur": "وہ میرا پرانا یار ہے۔",
+     "body_en": "He is my old friend.",
+     "grammar": ""
+    },
+    {
+     "id": "s233",
+     "title_ur": "چارپائی صحن میں پڑی ہے۔",
+     "title_en": "The bedstead is lying in the courtyard.",
+     "body_ur": "چارپائی صحن میں پڑی ہے۔",
+     "body_en": "The bedstead is lying in the courtyard.",
+     "grammar": ""
+    },
+    {
+     "id": "s234",
+     "title_ur": "اسٹول میز کے پاس ہے۔",
+     "title_en": "The stool is near the table.",
+     "body_ur": "اسٹول میز کے پاس ہے۔",
+     "body_en": "The stool is near the table.",
+     "grammar": ""
+    },
+    {
+     "id": "s235",
+     "title_ur": "یہ حویلی بہت پرانی ہے۔",
+     "title_en": "This mansion is very old.",
+     "body_ur": "یہ حویلی بہت پرانی ہے۔",
+     "body_en": "This mansion is very old.",
+     "grammar": ""
+    },
+    {
+     "id": "s236",
+     "title_ur": "جو کھیت میں بویا جاتا ہے۔",
+     "title_en": "Barley is sown in the field.",
+     "body_ur": "جو کھیت میں بویا جاتا ہے۔",
+     "body_en": "Barley is sown in the field.",
+     "grammar": ""
+    },
+    {
+     "id": "s237",
+     "title_ur": "گڑ چائے میں ڈالی جاتی ہے۔",
+     "title_en": "Jaggery is put into tea.",
+     "body_ur": "گڑ چائے میں ڈالی جاتی ہے۔",
+     "body_en": "Jaggery is put into tea.",
+     "grammar": ""
+    },
+    {
+     "id": "s238",
+     "title_ur": "نان تندور میں پکتا ہے۔",
+     "title_en": "Bread is baked in the oven.",
+     "body_ur": "نان تندور میں پکتا ہے۔",
+     "body_en": "Bread is baked in the oven.",
+     "grammar": ""
+    },
+    {
+     "id": "s239",
+     "title_ur": "ہم جھیل گئے۔",
+     "title_en": "We went to the lake.",
+     "body_ur": "ہم جھیل گئے۔",
+     "body_en": "We went to the lake.",
+     "grammar": ""
+    },
+    {
+     "id": "s240",
+     "title_ur": "ندی پہاڑ سے بہتی ہے۔",
+     "title_en": "The stream flows down from the mountain.",
+     "body_ur": "ندی پہاڑ سے بہتی ہے۔",
+     "body_en": "The stream flows down from the mountain.",
+     "grammar": ""
+    },
+    {
+     "id": "s241",
+     "title_ur": "صبح کے وقت پالا پڑا ہوا ہے۔",
+     "title_en": "In the morning frost lies on the ground.",
+     "body_ur": "صبح کے وقت پالا پڑا ہوا ہے۔",
+     "body_en": "In the morning frost lies on the ground.",
+     "grammar": ""
+    },
+    {
+     "id": "s242",
+     "title_ur": "وہ برسوں سے تجارت کرتا ہے۔",
+     "title_en": "He has been trading for years.",
+     "body_ur": "وہ برسوں سے تجارت کرتا ہے۔",
+     "body_en": "He has been trading for years.",
+     "grammar": ""
+    },
+    {
+     "id": "s243",
+     "title_ur": "بجلی کا بل آ گیا۔",
+     "title_en": "The electricity bill has arrived.",
+     "body_ur": "بجلی کا بل آ گیا۔",
+     "body_en": "The electricity bill has arrived.",
+     "grammar": ""
+    },
+    {
+     "id": "s244",
+     "title_ur": "دکاندار نے مجھے رسید دی۔",
+     "title_en": "The shopkeeper gave me a receipt.",
+     "body_ur": "دکاندار نے مجھے رسید دی۔",
+     "body_en": "The shopkeeper gave me a receipt.",
+     "grammar": ""
+    },
+    {
+     "id": "s245",
+     "title_ur": "میں تم سے معافی مانگتا ہوں۔",
+     "title_en": "I ask you for forgiveness.",
+     "body_ur": "میں تم سے معافی مانگتا ہوں۔",
+     "body_en": "I ask you for forgiveness.",
+     "grammar": ""
+    },
+    {
+     "id": "s246",
+     "title_ur": "سب نے اس کی تعریف کی۔",
+     "title_en": "Everyone praised him.",
+     "body_ur": "سب نے اس کی تعریف کی۔",
+     "body_en": "Everyone praised him.",
+     "grammar": ""
+    },
+    {
+     "id": "s247",
+     "title_ur": "دو گاؤؤں کے درمیان صلح ہو گئی۔",
+     "title_en": "Peace was made between the two villages.",
+     "body_ur": "دو گاؤؤں کے درمیان صلح ہو گئی۔",
+     "body_en": "Peace was made between the two villages.",
+     "grammar": ""
+    },
+    {
+     "id": "s248",
+     "title_ur": "سب نے اسے مبارکباد دی۔",
+     "title_en": "Everyone congratulated him.",
+     "body_ur": "سب نے اسے مبارکباد دی۔",
+     "body_en": "Everyone congratulated him.",
+     "grammar": ""
+    },
+    {
+     "id": "s249",
+     "title_ur": "اس کا زخم آہستہ آہستہ ٹھیک ہو رہا ہے۔",
+     "title_en": "His wound is healing slowly.",
+     "body_ur": "اس کا زخم آہستہ آہستہ ٹھیک ہو رہا ہے۔",
+     "body_en": "His wound is healing slowly.",
+     "grammar": ""
+    },
+    {
+     "id": "s250",
+     "title_ur": "یہ سڑک شہر کو جاتی ہے۔",
+     "title_en": "This road goes to the city.",
+     "body_ur": "یہ سڑک شہر کو جاتی ہے۔",
+     "body_en": "This road goes to the city.",
+     "grammar": ""
+    },
+    {
+     "id": "s251",
+     "title_ur": "بند دریا کے پانی پر بنایا گیا۔",
+     "title_en": "The dam was built on the river's water.",
+     "body_ur": "بند دریا کے پانی پر بنایا گیا۔",
+     "body_en": "The dam was built on the river's water.",
+     "grammar": ""
+    },
+    {
+     "id": "s252",
+     "title_ur": "بس اسٹاپ پر کھڑی ہے۔",
+     "title_en": "The bus is standing at the stop.",
+     "body_ur": "بس اسٹاپ پر کھڑی ہے۔",
+     "body_en": "The bus is standing at the stop.",
+     "grammar": ""
+    },
+    {
+     "id": "s253",
+     "title_ur": "میں ڈاک خانے گیا۔",
+     "title_en": "I went to the post office.",
+     "body_ur": "میں ڈاک خانے گیا۔",
+     "body_en": "I went to the post office.",
+     "grammar": ""
+    },
+    {
+     "id": "s254",
+     "title_ur": "مہمان حجرے میں بیٹھے ہیں۔",
+     "title_en": "The guests are sitting in the guest room.",
+     "body_ur": "مہمان حجرے میں بیٹھے ہیں۔",
+     "body_en": "The guests are sitting in the guest room.",
+     "grammar": ""
+    },
+    {
+     "id": "s255",
+     "title_ur": "ہماری ملاقات بازار میں ہوئی۔",
+     "title_en": "We met in the bazaar.",
+     "body_ur": "ہماری ملاقات بازار میں ہوئی۔",
+     "body_en": "We met in the bazaar.",
+     "grammar": ""
+    },
+    {
+     "id": "s256",
+     "title_ur": "ڈاکٹر مریض کو دیکھتا ہے۔",
+     "title_en": "The doctor looks at the patient.",
+     "body_ur": "ڈاکٹر مریض کو دیکھتا ہے۔",
+     "body_en": "The doctor looks at the patient.",
+     "grammar": ""
+    },
+    {
+     "id": "s257",
+     "title_ur": "اس کی آمد کل ہے۔",
+     "title_en": "His arrival is tomorrow.",
+     "body_ur": "اس کی آمد کل ہے۔",
+     "body_en": "His arrival is tomorrow.",
+     "grammar": ""
+    },
+    {
+     "id": "s258",
+     "title_ur": "بچے کی نشوونما اچھی طرح ہو رہی ہے۔",
+     "title_en": "The child is growing well.",
+     "body_ur": "بچے کی نشوونما اچھی طرح ہو رہی ہے۔",
+     "body_en": "The child is growing well.",
+     "grammar": ""
+    },
+    {
+     "id": "s259",
+     "title_ur": "شہر میں بڑی تبدیلی آئی۔",
+     "title_en": "A big change came to the city.",
+     "body_ur": "شہر میں بڑی تبدیلی آئی۔",
+     "body_en": "A big change came to the city.",
+     "grammar": ""
+    },
+    {
+     "id": "s260",
+     "title_ur": "دو کتابوں کے درمیان فرق ہے۔",
+     "title_en": "There is a difference between the two books.",
+     "body_ur": "دو کتابوں کے درمیان فرق ہے۔",
+     "body_en": "There is a difference between the two books.",
+     "grammar": ""
+    },
+    {
+     "id": "s261",
+     "title_ur": "گھر گاؤں کے درمیان میں ہے۔",
+     "title_en": "The house is in the middle of the village.",
+     "body_ur": "گھر گاؤں کے درمیان میں ہے۔",
+     "body_en": "The house is in the middle of the village.",
+     "grammar": ""
+    },
+    {
+     "id": "s262",
+     "title_ur": "یہ حلقہ سونے کا بنا ہے۔",
+     "title_en": "This ring is made of gold.",
+     "body_ur": "یہ حلقہ سونے کا بنا ہے۔",
+     "body_en": "This ring is made of gold.",
+     "grammar": ""
+    },
+    {
+     "id": "s263",
+     "title_ur": "سیسہ ایک بھاری دھات ہے۔",
+     "title_en": "Lead is a heavy metal.",
+     "body_ur": "سیسہ ایک بھاری دھات ہے۔",
+     "body_en": "Lead is a heavy metal.",
+     "grammar": ""
+    },
+    {
+     "id": "s264",
+     "title_ur": "پلستر دیوار پر لگایا جاتا ہے۔",
+     "title_en": "Plaster is applied to the wall.",
+     "body_ur": "پلستر دیوار پر لگایا جاتا ہے۔",
+     "body_en": "Plaster is applied to the wall.",
+     "grammar": ""
+    },
+    {
+     "id": "s265",
+     "title_ur": "سیمنٹ ریت کے ساتھ ملایا جاتا ہے۔",
+     "title_en": "Cement is mixed with sand.",
+     "body_ur": "سیمنٹ ریت کے ساتھ ملایا جاتا ہے۔",
+     "body_en": "Cement is mixed with sand.",
+     "grammar": ""
+    },
+    {
+     "id": "s266",
+     "title_ur": "خرگوش تیزی سے دوڑتا ہے۔",
+     "title_en": "The rabbit runs fast.",
+     "body_ur": "خرگوش تیزی سے دوڑتا ہے۔",
+     "body_en": "The rabbit runs fast.",
+     "grammar": ""
+    },
+    {
+     "id": "s267",
+     "title_ur": "ہرن جنگل میں گھومتا ہے۔",
+     "title_en": "The deer roams in the forest.",
+     "body_ur": "ہرن جنگل میں گھومتا ہے۔",
+     "body_en": "The deer roams in the forest.",
+     "grammar": ""
+    },
+    {
+     "id": "s268",
+     "title_ur": "چمگادڑ رات کو اڑتا ہے۔",
+     "title_en": "The bat flies at night.",
+     "body_ur": "چمگادڑ رات کو اڑتا ہے۔",
+     "body_en": "The bat flies at night.",
+     "grammar": ""
+    },
+    {
+     "id": "s269",
+     "title_ur": "یہ انگوٹھی بہت قیمتی ہے۔",
+     "title_en": "This ring is very precious.",
+     "body_ur": "یہ انگوٹھی بہت قیمتی ہے۔",
+     "body_en": "This ring is very precious.",
+     "grammar": ""
+    },
+    {
+     "id": "s270",
+     "title_ur": "بچہ آج بہت خوش ہے۔",
+     "title_en": "The child is very happy today.",
+     "body_ur": "بچہ آج بہت خوش ہے۔",
+     "body_en": "The child is very happy today.",
+     "grammar": ""
+    },
+    {
+     "id": "s271",
+     "title_ur": "وہ اپنے دوست سے ناراض ہے۔",
+     "title_en": "He is upset with his friend.",
+     "body_ur": "وہ اپنے دوست سے ناراض ہے۔",
+     "body_en": "He is upset with his friend.",
+     "grammar": ""
+    },
+    {
+     "id": "s272",
+     "title_ur": "یہ کہانی مکمل طور پر سچی ہے۔",
+     "title_en": "This story is completely true.",
+     "body_ur": "یہ کہانی مکمل طور پر سچی ہے۔",
+     "body_en": "This story is completely true.",
+     "grammar": ""
+    },
+    {
+     "id": "s273",
+     "title_ur": "ٹرین بہت تیز جاتی ہے۔",
+     "title_en": "The train goes very fast.",
+     "body_ur": "ٹرین بہت تیز جاتی ہے۔",
+     "body_en": "The train goes very fast.",
+     "grammar": ""
+    },
+    {
+     "id": "s274",
+     "title_ur": "پانی بہت ٹھنڈا ہے۔",
+     "title_en": "The water is very cold.",
+     "body_ur": "پانی بہت ٹھنڈا ہے۔",
+     "body_en": "The water is very cold.",
+     "grammar": ""
+    },
+    {
+     "id": "s275",
+     "title_ur": "یہ کھانا تھوڑا نمکین ہے۔",
+     "title_en": "This food is a little salty.",
+     "body_ur": "یہ کھانا تھوڑا نمکین ہے۔",
+     "body_en": "This food is a little salty.",
+     "grammar": ""
+    },
+    {
+     "id": "s276",
+     "title_ur": "یہ کتاب اس سے ملتی جلتی ہے۔",
+     "title_en": "This book is similar to that one.",
+     "body_ur": "یہ کتاب اس سے ملتی جلتی ہے۔",
+     "body_en": "This book is similar to that one.",
+     "grammar": ""
+    },
+    {
+     "id": "s277",
+     "title_ur": "ہر کوئی اپنا الگ کام کرتا ہے۔",
+     "title_en": "Everyone does their own separate work.",
+     "body_ur": "ہر کوئی اپنا الگ کام کرتا ہے۔",
+     "body_en": "Everyone does their own separate work.",
+     "grammar": ""
+    },
+    {
+     "id": "s278",
+     "title_ur": "وہ بہت خوش قسمت آدمی ہے۔",
+     "title_en": "He is a very fortunate man.",
+     "body_ur": "وہ بہت خوش قسمت آدمی ہے۔",
+     "body_en": "He is a very fortunate man.",
+     "grammar": ""
+    },
+    {
+     "id": "s279",
+     "title_ur": "میں کھڑکی سے باہر دیکھتا ہوں۔",
+     "title_en": "I look outside from the window.",
+     "body_ur": "میں کھڑکی سے باہر دیکھتا ہوں۔",
+     "body_en": "I look outside from the window.",
+     "grammar": ""
+    },
+    {
+     "id": "s280",
+     "title_ur": "پہاڑ دور سے نظر آتا ہے۔",
+     "title_en": "The mountain is visible from afar.",
+     "body_ur": "پہاڑ دور سے نظر آتا ہے۔",
+     "body_en": "The mountain is visible from afar.",
+     "grammar": ""
+    },
+    {
+     "id": "s281",
+     "title_ur": "بچہ کھیل کے بعد بھوکا ہو گیا۔",
+     "title_en": "The child became hungry after playing.",
+     "body_ur": "بچہ کھیل کے بعد بھوکا ہو گیا۔",
+     "body_en": "The child became hungry after playing.",
+     "grammar": ""
+    },
+    {
+     "id": "s282",
+     "title_ur": "مسافر راستے میں پیاسا ہو گیا۔",
+     "title_en": "The traveller became thirsty on the way.",
+     "body_ur": "مسافر راستے میں پیاسا ہو گیا۔",
+     "body_en": "The traveller became thirsty on the way.",
+     "grammar": ""
+    },
+    {
+     "id": "s283",
+     "title_ur": "ہوا رات کو ٹھنڈی ہو جاتی ہے۔",
+     "title_en": "The air becomes cold at night.",
+     "body_ur": "ہوا رات کو ٹھنڈی ہو جاتی ہے۔",
+     "body_en": "The air becomes cold at night.",
+     "grammar": ""
+    },
+    {
+     "id": "s284",
+     "title_ur": "گاڑی چوک میں مڑ گئی۔",
+     "title_en": "The car turned in the square.",
+     "body_ur": "گاڑی چوک میں مڑ گئی۔",
+     "body_en": "The car turned in the square.",
+     "grammar": ""
+    },
+    {
+     "id": "s285",
+     "title_ur": "بچہ گاؤں میں پیدا ہوا۔",
+     "title_en": "The child was born in the village.",
+     "body_ur": "بچہ گاؤں میں پیدا ہوا۔",
+     "body_en": "The child was born in the village.",
+     "grammar": ""
+    },
+    {
+     "id": "s286",
+     "title_ur": "میں کام کے بعد آرام کرتا ہوں۔",
+     "title_en": "I rest after work.",
+     "body_ur": "میں کام کے بعد آرام کرتا ہوں۔",
+     "body_en": "I rest after work.",
+     "grammar": ""
+    },
+    {
+     "id": "s287",
+     "title_ur": "اس نے رات کو عجیب خواب دیکھا۔",
+     "title_en": "He saw a strange dream at night.",
+     "body_ur": "اس نے رات کو عجیب خواب دیکھا۔",
+     "body_en": "He saw a strange dream at night.",
+     "grammar": ""
+    },
+    {
+     "id": "s288",
+     "title_ur": "میں کل پھر آجاؤں گا۔",
+     "title_en": "I will come again tomorrow.",
+     "body_ur": "میں کل پھر آجاؤں گا۔",
+     "body_en": "I will come again tomorrow.",
+     "grammar": ""
+    },
+    {
+     "id": "s289",
+     "title_ur": "اتنا شور مت کرو۔",
+     "title_en": "Do not make so much noise.",
+     "body_ur": "اتنا شور مت کرو۔",
+     "body_en": "Do not make so much noise.",
+     "grammar": ""
+    },
+    {
+     "id": "s290",
+     "title_ur": "اتنا کھانا کافی ہے۔",
+     "title_en": "That much food is enough.",
+     "body_ur": "اتنا کھانا کافی ہے۔",
+     "body_en": "That much food is enough.",
+     "grammar": ""
+    },
+    {
+     "id": "s291",
+     "title_ur": "یہ میری کتاب ہے۔",
+     "title_en": "This is my book.",
+     "body_ur": "یہ میری کتاب ہے۔",
+     "body_en": "This is my book.",
+     "grammar": ""
+    },
+    {
+     "id": "s292",
+     "title_ur": "یہ آدمی میرا پڑوسی ہے۔",
+     "title_en": "This man is my neighbour.",
+     "body_ur": "یہ آدمی میرا پڑوسی ہے۔",
+     "body_en": "This man is my neighbour.",
+     "grammar": ""
+    },
+    {
+     "id": "s293",
+     "title_ur": "وہ میرا استاد ہے۔",
+     "title_en": "He is my teacher.",
+     "body_ur": "وہ میرا استاد ہے۔",
+     "body_en": "He is my teacher.",
+     "grammar": ""
+    },
+    {
+     "id": "s294",
+     "title_ur": "کس نے دروازہ کھٹکھٹایا؟",
+     "title_en": "Who knocked on the door?",
+     "body_ur": "کس نے دروازہ کھٹکھٹایا؟",
+     "body_en": "Who knocked on the door?",
+     "grammar": ""
+    },
+    {
+     "id": "s295",
+     "title_ur": "بچے اندر کھیل رہے ہیں۔",
+     "title_en": "The children are playing inside.",
+     "body_ur": "بچے اندر کھیل رہے ہیں۔",
+     "body_en": "The children are playing inside.",
+     "grammar": ""
+    },
+    {
+     "id": "s296",
+     "title_ur": "کتاب میز سے نیچے گر گئی۔",
+     "title_en": "The book fell down from the table.",
+     "body_ur": "کتاب میز سے نیچے گر گئی۔",
+     "body_en": "The book fell down from the table.",
+     "grammar": ""
+    },
+    {
+     "id": "s297",
+     "title_ur": "وہ بازار کی طرف گیا۔",
+     "title_en": "He went towards the bazaar.",
+     "body_ur": "وہ بازار کی طرف گیا۔",
+     "body_en": "He went towards the bazaar.",
+     "grammar": ""
+    },
+    {
+     "id": "s298",
+     "title_ur": "کرسی میز کے پاس ہے۔",
+     "title_en": "The chair is beside the table.",
+     "body_ur": "کرسی میز کے پاس ہے۔",
+     "body_en": "The chair is beside the table.",
+     "grammar": ""
+    },
+    {
+     "id": "s299",
+     "title_ur": "میں شام تک کام کرتا ہوں۔",
+     "title_en": "I work until the evening.",
+     "body_ur": "میں شام تک کام کرتا ہوں۔",
+     "body_en": "I work until the evening.",
+     "grammar": ""
+    },
+    {
+     "id": "s300",
+     "title_ur": "وہ گاؤں تک پیدل گیا۔",
+     "title_en": "He walked to the village on foot.",
+     "body_ur": "وہ گاؤں تک پیدل گیا۔",
+     "body_en": "He walked to the village on foot.",
+     "grammar": ""
+    },
+    {
+     "id": "s301",
+     "title_ur": "میں اپنے دوست کے ساتھ جاتا ہوں۔",
+     "title_en": "I go with my friend.",
+     "body_ur": "میں اپنے دوست کے ساتھ جاتا ہوں۔",
+     "body_en": "I go with my friend.",
+     "grammar": ""
+    },
+    {
+     "id": "s302",
+     "title_ur": "وہ شہر سے آیا۔",
+     "title_en": "He came from the city.",
+     "body_ur": "وہ شہر سے آیا۔",
+     "body_en": "He came from the city.",
+     "grammar": ""
+    },
+    {
+     "id": "s303",
+     "title_ur": "بچہ اسکول گیا۔",
+     "title_en": "The child went to school.",
+     "body_ur": "بچہ اسکول گیا۔",
+     "body_en": "The child went to school.",
+     "grammar": ""
+    },
+    {
+     "id": "s304",
+     "title_ur": "میں جانتا ہوں کہ وہ آجائے گا۔",
+     "title_en": "I know that he will come.",
+     "body_ur": "میں جانتا ہوں کہ وہ آجائے گا۔",
+     "body_en": "I know that he will come.",
+     "grammar": ""
+    },
+    {
+     "id": "s305",
+     "title_ur": "ہر کوئی اپنی حفاظت کرتا ہے۔",
+     "title_en": "Everyone protects themselves.",
+     "body_ur": "ہر کوئی اپنی حفاظت کرتا ہے۔",
+     "body_en": "Everyone protects themselves.",
+     "grammar": ""
+    },
+    {
+     "id": "s306",
+     "title_ur": "وہ ابھی اسکول میں ہے۔",
+     "title_en": "He is still at school.",
+     "body_ur": "وہ ابھی اسکول میں ہے۔",
+     "body_en": "He is still at school.",
+     "grammar": ""
+    },
+    {
+     "id": "s307",
+     "title_ur": "کلاس میں گیارہ بچے ہیں۔",
+     "title_en": "There are eleven children in the class.",
+     "body_ur": "کلاس میں گیارہ بچے ہیں۔",
+     "body_en": "There are eleven children in the class.",
+     "grammar": ""
+    },
+    {
+     "id": "s308",
+     "title_ur": "کتاب میں تیرہ صفحے ہیں۔",
+     "title_en": "The book has thirteen pages.",
+     "body_ur": "کتاب میں تیرہ صفحے ہیں۔",
+     "body_en": "The book has thirteen pages.",
+     "grammar": ""
+    },
+    {
+     "id": "s309",
+     "title_ur": "ماں صبح کھانا پکاتی ہے۔",
+     "title_en": "Mother cooks food in the morning.",
+     "body_ur": "ماں صبح کھانا پکاتی ہے۔",
+     "body_en": "Mother cooks food in the morning.",
+     "grammar": ""
+    },
+    {
+     "id": "s310",
+     "title_ur": "باپ کام سے تھکا ہوا آیا۔",
+     "title_en": "Father came home tired from work.",
+     "body_ur": "باپ کام سے تھکا ہوا آیا۔",
+     "body_en": "Father came home tired from work.",
+     "grammar": ""
+    },
+    {
+     "id": "s311",
+     "title_ur": "بچہ باغ میں دوڑتا ہے۔",
+     "title_en": "The child runs in the garden.",
+     "body_ur": "بچہ باغ میں دوڑتا ہے۔",
+     "body_en": "The child runs in the garden.",
+     "grammar": ""
+    },
+    {
+     "id": "s312",
+     "title_ur": "لڑکی کمرے میں کتاب پڑھتی ہے۔",
+     "title_en": "The girl reads a book in the room.",
+     "body_ur": "لڑکی کمرے میں کتاب پڑھتی ہے۔",
+     "body_en": "The girl reads a book in the room.",
+     "grammar": ""
+    },
+    {
+     "id": "s313",
+     "title_ur": "لڑکا اسکول میں سبق سیکھتا ہے۔",
+     "title_en": "The boy learns a lesson at school.",
+     "body_ur": "لڑکا اسکول میں سبق سیکھتا ہے۔",
+     "body_en": "The boy learns a lesson at school.",
+     "grammar": ""
+    },
+    {
+     "id": "s314",
+     "title_ur": "میری بہن ہسپتال میں کام کرتی ہے۔",
+     "title_en": "My sister works in the hospital.",
+     "body_ur": "میری بہن ہسپتال میں کام کرتی ہے۔",
+     "body_en": "My sister works in the hospital.",
+     "grammar": ""
+    },
+    {
+     "id": "s315",
+     "title_ur": "کل سورج جلدی طلوع ہوگا۔",
+     "title_en": "Tomorrow the sun will rise early.",
+     "body_ur": "کل سورج جلدی طلوع ہوگا۔",
+     "body_en": "Tomorrow the sun will rise early.",
+     "grammar": ""
+    },
+    {
+     "id": "s316",
+     "title_ur": "رات کو بارش ہوئی۔",
+     "title_en": "It rained at night.",
+     "body_ur": "رات کو بارش ہوئی۔",
+     "body_en": "It rained at night.",
+     "grammar": ""
+    },
+    {
+     "id": "s317",
+     "title_ur": "بہار میں باغ خوبصورت لگتا ہے۔",
+     "title_en": "In spring the garden looks beautiful.",
+     "body_ur": "بہار میں باغ خوبصورت لگتا ہے۔",
+     "body_en": "In spring the garden looks beautiful.",
+     "grammar": ""
+    },
+    {
+     "id": "s318",
+     "title_ur": "ٹرین کل صبح جائے گی۔",
+     "title_en": "The train will leave tomorrow morning.",
+     "body_ur": "ٹرین کل صبح جائے گی۔",
+     "body_en": "The train will leave tomorrow morning.",
+     "grammar": ""
+    },
+    {
+     "id": "s319",
+     "title_ur": "اسکول ہمارے گاؤں کے پاس ہے۔",
+     "title_en": "The school is near our village.",
+     "body_ur": "اسکول ہمارے گاؤں کے پاس ہے۔",
+     "body_en": "The school is near our village.",
+     "grammar": ""
+    },
+    {
+     "id": "s320",
+     "title_ur": "کمرے میں روشنی نہیں ہے۔",
+     "title_en": "There is no light in the room.",
+     "body_ur": "کمرے میں روشنی نہیں ہے۔",
+     "body_en": "There is no light in the room.",
+     "grammar": ""
+    },
+    {
+     "id": "s321",
+     "title_ur": "میں ہر صبح جلدی اٹھتا ہوں۔",
+     "title_en": "I get up early every morning.",
+     "body_ur": "میں ہر صبح جلدی اٹھتا ہوں۔",
+     "body_en": "I get up early every morning.",
+     "grammar": ""
+    },
+    {
+     "id": "s322",
+     "title_ur": "لڑکا میدان میں گیند مارتا ہے۔",
+     "title_en": "The boy kicks the ball in the field.",
+     "body_ur": "لڑکا میدان میں گیند مارتا ہے۔",
+     "body_en": "The boy kicks the ball in the field.",
+     "grammar": ""
+    },
+    {
+     "id": "s323",
+     "title_ur": "بچے پارک میں خوشی سے کھیل رہے ہیں۔",
+     "title_en": "The children are playing happily in the park.",
+     "body_ur": "بچے پارک میں خوشی سے کھیل رہے ہیں۔",
+     "body_en": "The children are playing happily in the park.",
+     "grammar": ""
+    },
+    {
+     "id": "s324",
+     "title_ur": "مہربانی کر کے مجھے کتاب دو۔",
+     "title_en": "Please, give me the book.",
+     "body_ur": "مہربانی کر کے مجھے کتاب دو۔",
+     "body_en": "Please, give me the book.",
+     "grammar": ""
+    },
+    {
+     "id": "s325",
+     "title_ur": "یہ پھول باغ میں ہے۔",
+     "title_en": "This flower is in the garden.",
+     "body_ur": "یہ پھول باغ میں ہے۔",
+     "body_en": "This flower is in the garden.",
+     "grammar": ""
+    },
+    {
+     "id": "s326",
+     "title_ur": "میں ہر روز اخبار پڑھتا ہوں۔",
+     "title_en": "I read the newspaper every day.",
+     "body_ur": "میں ہر روز اخبار پڑھتا ہوں۔",
+     "body_en": "I read the newspaper every day.",
+     "grammar": ""
+    },
+    {
+     "id": "s327",
+     "title_ur": "بچے اسکول میں تعلیم حاصل کرتے ہیں۔",
+     "title_en": "The children study at school.",
+     "body_ur": "بچے اسکول میں تعلیم حاصل کرتے ہیں۔",
+     "body_en": "The children study at school.",
+     "grammar": ""
+    },
+    {
+     "id": "s328",
+     "title_ur": "کسان کھیت میں کام کرتا ہے۔",
+     "title_en": "The farmer works in the field.",
+     "body_ur": "کسان کھیت میں کام کرتا ہے۔",
+     "body_en": "The farmer works in the field.",
+     "grammar": ""
+    },
+    {
+     "id": "s329",
+     "title_ur": "شربت بہت میٹھا ہے۔",
+     "title_en": "The syrup is very sweet.",
+     "body_ur": "شربت بہت میٹھا ہے۔",
+     "body_en": "The syrup is very sweet.",
+     "grammar": ""
+    },
+    {
+     "id": "s330",
+     "title_ur": "سبزی صحت کے لیے اچھی ہے۔",
+     "title_en": "Vegetables are good for health.",
+     "body_ur": "سبزی صحت کے لیے اچھی ہے۔",
+     "body_en": "Vegetables are good for health.",
+     "grammar": ""
+    },
+    {
+     "id": "s331",
+     "title_ur": "ٹیکسی چوک میں کھڑی ہے۔",
+     "title_en": "The taxi is standing in the square.",
+     "body_ur": "ٹیکسی چوک میں کھڑی ہے۔",
+     "body_en": "The taxi is standing in the square.",
+     "grammar": ""
+    },
+    {
+     "id": "s332",
+     "title_ur": "باپ باغ میں کام کرتا ہے۔",
+     "title_en": "Father works in the garden.",
+     "body_ur": "باپ باغ میں کام کرتا ہے۔",
+     "body_en": "Father works in the garden.",
+     "grammar": ""
+    },
+    {
+     "id": "s333",
+     "title_ur": "میرے باپ نے میری غلطی معاف کر دی۔",
+     "title_en": "My father forgave my mistake.",
+     "body_ur": "میرے باپ نے میری غلطی معاف کر دی۔",
+     "body_en": "My father forgave my mistake.",
+     "grammar": ""
+    },
+    {
+     "id": "s334",
+     "title_ur": "اس قلم کی قیمت کیا ہے؟",
+     "title_en": "What is the price of this pen?",
+     "body_ur": "اس قلم کی قیمت کیا ہے؟",
+     "body_en": "What is the price of this pen?",
+     "grammar": ""
+    },
+    {
+     "id": "s335",
+     "title_ur": "بوتل میز پر پڑی ہے۔",
+     "title_en": "The bottle is lying on the table.",
+     "body_ur": "بوتل میز پر پڑی ہے۔",
+     "body_en": "The bottle is lying on the table.",
+     "grammar": ""
+    },
+    {
+     "id": "s336",
+     "title_ur": "ہم کل گھر میں رہیں گے۔",
+     "title_en": "We will stay at home tomorrow.",
+     "body_ur": "ہم کل گھر میں رہیں گے۔",
+     "body_en": "We will stay at home tomorrow.",
+     "grammar": ""
+    },
+    {
+     "id": "s337",
+     "title_ur": "کل ہم بازار جائیں گے۔",
+     "title_en": "Tomorrow we will go to the bazaar.",
+     "body_ur": "کل ہم بازار جائیں گے۔",
+     "body_en": "Tomorrow we will go to the bazaar.",
+     "grammar": ""
+    },
+    {
+     "id": "s338",
+     "title_ur": "لڑکے سڑک پر دوڑ رہے ہیں۔",
+     "title_en": "The boys are running on the road.",
+     "body_ur": "لڑکے سڑک پر دوڑ رہے ہیں۔",
+     "body_en": "The boys are running on the road.",
+     "grammar": ""
+    },
+    {
+     "id": "s339",
+     "title_ur": "کھانے میں چکنائی نہیں ہے۔",
+     "title_en": "There is no fat in the food.",
+     "body_ur": "کھانے میں چکنائی نہیں ہے۔",
+     "body_en": "There is no fat in the food.",
+     "grammar": ""
+    },
+    {
+     "id": "s340",
+     "title_ur": "گاڑی بہت تیز ہے۔",
+     "title_en": "The car is very fast.",
+     "body_ur": "گاڑی بہت تیز ہے۔",
+     "body_en": "The car is very fast.",
+     "grammar": ""
+    },
+    {
+     "id": "s341",
+     "title_ur": "کرسی کھڑکی کے پاس ہے۔",
+     "title_en": "The chair is near the window.",
+     "body_ur": "کرسی کھڑکی کے پاس ہے۔",
+     "body_en": "The chair is near the window.",
+     "grammar": ""
+    },
+    {
+     "id": "s342",
+     "title_ur": "میں پنسل سے لکھتا ہوں۔",
+     "title_en": "I write with a pencil.",
+     "body_ur": "میں پنسل سے لکھتا ہوں۔",
+     "body_en": "I write with a pencil.",
+     "grammar": ""
+    },
+    {
+     "id": "s343",
+     "title_ur": "میز پر قلم پڑا ہے۔",
+     "title_en": "A pen is lying on the table.",
+     "body_ur": "میز پر قلم پڑا ہے۔",
+     "body_en": "A pen is lying on the table.",
+     "grammar": ""
+    },
+    {
+     "id": "s344",
+     "title_ur": "میری ماں مزیدار کھانا پکاتی ہے۔",
+     "title_en": "My mother cooks delicious food.",
+     "body_ur": "میری ماں مزیدار کھانا پکاتی ہے۔",
+     "body_en": "My mother cooks delicious food.",
+     "grammar": ""
+    },
+    {
+     "id": "s345",
+     "title_ur": "ہمارا گھر اسکول سے دُور ہے۔",
+     "title_en": "Our house is far from the school.",
+     "body_ur": "ہمارا گھر اسکول سے دُور ہے۔",
+     "body_en": "Our house is far from the school.",
+     "grammar": ""
+    },
+    {
+     "id": "s346",
+     "title_ur": "رات کو آسمان صاف ہوتا ہے۔",
+     "title_en": "At night the sky is clear.",
+     "body_ur": "رات کو آسمان صاف ہوتا ہے۔",
+     "body_en": "At night the sky is clear.",
+     "grammar": ""
+    },
+    {
+     "id": "s347",
+     "title_ur": "یہ ہفتہ بہت مصروف ہے۔",
+     "title_en": "This week is very busy.",
+     "body_ur": "یہ ہفتہ بہت مصروف ہے۔",
+     "body_en": "This week is very busy.",
+     "grammar": ""
+    },
+    {
+     "id": "s348",
+     "title_ur": "آسمان آج صاف ہے۔",
+     "title_en": "The sky is clear today.",
+     "body_ur": "آسمان آج صاف ہے۔",
+     "body_en": "The sky is clear today.",
+     "grammar": ""
+    },
+    {
+     "id": "s349",
+     "title_ur": "لڑکے پارک میں کھیل رہے ہیں۔",
+     "title_en": "The boys are playing in the park.",
+     "body_ur": "لڑکے پارک میں کھیل رہے ہیں۔",
+     "body_en": "The boys are playing in the park.",
+     "grammar": ""
+    },
+    {
+     "id": "s350",
+     "title_ur": "میں ہر شام سیر کرتا ہوں۔",
+     "title_en": "I go for a walk every evening.",
+     "body_ur": "میں ہر شام سیر کرتا ہوں۔",
+     "body_en": "I go for a walk every evening.",
+     "grammar": ""
+    },
+    {
+     "id": "s351",
+     "title_ur": "لڑکا باغ میں کھیل رہا ہے۔",
+     "title_en": "The boy is playing in the garden.",
+     "body_ur": "لڑکا باغ میں کھیل رہا ہے۔",
+     "body_en": "The boy is playing in the garden.",
+     "grammar": ""
+    },
+    {
+     "id": "s352",
+     "title_ur": "بازار میں سبزی سستی ہے۔",
+     "title_en": "Vegetables are cheap in the bazaar.",
+     "body_ur": "بازار میں سبزی سستی ہے۔",
+     "body_en": "Vegetables are cheap in the bazaar.",
+     "grammar": ""
+    },
+    {
+     "id": "s353",
+     "title_ur": "ڈاکٹر نے مجھے دوائیں دی۔",
+     "title_en": "The doctor gave me medicines.",
+     "body_ur": "ڈاکٹر نے مجھے دوائیں دی۔",
+     "body_en": "The doctor gave me medicines.",
+     "grammar": ""
+    },
+    {
+     "id": "s354",
+     "title_ur": "میری انگوٹھی بہت خوبصورت ہے۔",
+     "title_en": "My ring is very beautiful.",
+     "body_ur": "میری انگوٹھی بہت خوبصورت ہے۔",
+     "body_en": "My ring is very beautiful.",
+     "grammar": ""
+    },
+    {
+     "id": "s355",
+     "title_ur": "کمرے میں دروازہ کھلا ہے۔",
+     "title_en": "The door in the room is open.",
+     "body_ur": "کمرے میں دروازہ کھلا ہے۔",
+     "body_en": "The door in the room is open.",
+     "grammar": ""
+    },
+    {
+     "id": "s356",
+     "title_ur": "بچے سرسبز پارک میں گھومتے ہیں۔",
+     "title_en": "The children stroll in the green park.",
+     "body_ur": "بچے سرسبز پارک میں گھومتے ہیں۔",
+     "body_en": "The children stroll in the green park.",
+     "grammar": ""
+    },
+    {
+     "id": "s357",
+     "title_ur": "میں کل شہر جاؤں گا۔",
+     "title_en": "I will go to the city tomorrow.",
+     "body_ur": "میں کل شہر جاؤں گا۔",
+     "body_en": "I will go to the city tomorrow.",
+     "grammar": ""
+    },
+    {
+     "id": "s358",
+     "title_ur": "گھاس میدان میں سرسبز ہے۔",
+     "title_en": "The grass in the field is green.",
+     "body_ur": "گھاس میدان میں سرسبز ہے۔",
+     "body_en": "The grass in the field is green.",
+     "grammar": ""
+    },
+    {
+     "id": "s359",
+     "title_ur": "یہ ہسپتال ہمارے گاؤں میں ہے۔",
+     "title_en": "This hospital is in our village.",
+     "body_ur": "یہ ہسپتال ہمارے گاؤں میں ہے۔",
+     "body_en": "This hospital is in our village.",
+     "grammar": ""
+    },
+    {
+     "id": "s360",
+     "title_ur": "شفاخانہ شہر میں ہے۔",
+     "title_en": "The hospital is in the city.",
+     "body_ur": "شفاخانہ شہر میں ہے۔",
+     "body_en": "The hospital is in the city.",
+     "grammar": ""
+    },
+    {
+     "id": "s361",
+     "title_ur": "لڑکا کنویں سے پانی لاتا ہے۔",
+     "title_en": "The boy brings water from the well.",
+     "body_ur": "لڑکا کنویں سے پانی لاتا ہے۔",
+     "body_en": "The boy brings water from the well.",
+     "grammar": ""
+    },
+    {
+     "id": "s362",
+     "title_ur": "اس نے چھری سے روٹی کاٹی۔",
+     "title_en": "He cut the bread with a knife.",
+     "body_ur": "اس نے چھری سے روٹی کاٹی۔",
+     "body_en": "He cut the bread with a knife.",
+     "grammar": ""
+    },
+    {
+     "id": "s363",
+     "title_ur": "ورزش صحت کے لیے مفید ہے۔",
+     "title_en": "Exercise is useful for health.",
+     "body_ur": "ورزش صحت کے لیے مفید ہے۔",
+     "body_en": "Exercise is useful for health.",
+     "grammar": ""
+    },
+    {
+     "id": "s364",
+     "title_ur": "یہ ایک اچھی رات ہے۔",
+     "title_en": "This is a good night.",
+     "body_ur": "یہ ایک اچھی رات ہے۔",
+     "body_en": "This is a good night.",
+     "grammar": ""
+    },
+    {
+     "id": "s365",
+     "title_ur": "مہربانی کر کے کھڑکی بند کرو۔",
+     "title_en": "Please, close the window.",
+     "body_ur": "مہربانی کر کے کھڑکی بند کرو۔",
+     "body_en": "Please, close the window.",
+     "grammar": ""
+    },
+    {
+     "id": "s366",
+     "title_ur": "وہ ایمانداری سے بات کرتا ہے۔",
+     "title_en": "He speaks honestly.",
+     "body_ur": "وہ ایمانداری سے بات کرتا ہے۔",
+     "body_en": "He speaks honestly.",
+     "grammar": ""
+    },
+    {
+     "id": "s367",
+     "title_ur": "چاند رات کو طلوع ہوتا ہے۔",
+     "title_en": "The moon rises at night.",
+     "body_ur": "چاند رات کو طلوع ہوتا ہے۔",
+     "body_en": "The moon rises at night.",
+     "grammar": ""
+    },
+    {
+     "id": "s368",
+     "title_ur": "میرے البم میں بہت سی تصاویر ہیں۔",
+     "title_en": "There are many photos in my album.",
+     "body_ur": "میرے البم میں بہت سی تصاویر ہیں۔",
+     "body_en": "There are many photos in my album.",
+     "grammar": ""
+    },
+    {
+     "id": "s369",
+     "title_ur": "یہ بات درست ہے۔",
+     "title_en": "This is correct.",
+     "body_ur": "یہ بات درست ہے۔",
+     "body_en": "This is correct.",
+     "grammar": ""
+    },
+    {
+     "id": "s370",
+     "title_ur": "وہ وقت پر آیا۔",
+     "title_en": "He came on time.",
+     "body_ur": "وہ وقت پر آیا۔",
+     "body_en": "He came on time.",
+     "grammar": ""
+    },
+    {
+     "id": "s371",
+     "title_ur": "یہ کام بہت آسان ہے۔",
+     "title_en": "This work is very easy.",
+     "body_ur": "یہ کام بہت آسان ہے۔",
+     "body_en": "This work is very easy.",
+     "grammar": ""
+    },
+    {
+     "id": "s372",
+     "title_ur": "ہم بات چیت کرتے ہیں۔",
+     "title_en": "We chat together.",
+     "body_ur": "ہم بات چیت کرتے ہیں۔",
+     "body_en": "We chat together.",
+     "grammar": ""
+    },
+    {
+     "id": "s373",
+     "title_ur": "وہ ویڈیو دیکھتا ہے۔",
+     "title_en": "He watches a video.",
+     "body_ur": "وہ ویڈیو دیکھتا ہے۔",
+     "body_en": "He watches a video.",
+     "grammar": ""
+    },
+    {
+     "id": "s374",
+     "title_ur": "البم میں میری تصویر ہے۔",
+     "title_en": "My photo is in the album.",
+     "body_ur": "البم میں میری تصویر ہے۔",
+     "body_en": "My photo is in the album.",
+     "grammar": ""
+    },
+    {
+     "id": "s375",
+     "title_ur": "بس وقت پر آئی۔",
+     "title_en": "The bus came on time.",
+     "body_ur": "بس وقت پر آئی۔",
+     "body_en": "The bus came on time.",
+     "grammar": ""
+    },
+    {
+     "id": "s376",
+     "title_ur": "بچہ بھوکا ہے، کھانا دو۔",
+     "title_en": "The child is hungry, give him food.",
+     "body_ur": "بچہ بھوکا ہے، کھانا دو۔",
+     "body_en": "The child is hungry, give him food.",
+     "grammar": ""
+    },
+    {
+     "id": "s377",
+     "title_ur": "لڑکا پیاسا ہے، پانی دو۔",
+     "title_en": "The boy is thirsty, give him water.",
+     "body_ur": "لڑکا پیاسا ہے، پانی دو۔",
+     "body_en": "The boy is thirsty, give him water.",
+     "grammar": ""
+    },
+    {
+     "id": "s378",
+     "title_ur": "وہ سفر سے تھکا ہوا ہے۔",
+     "title_en": "He is tired from the journey.",
+     "body_ur": "وہ سفر سے تھکا ہوا ہے۔",
+     "body_en": "He is tired from the journey.",
+     "grammar": ""
+    },
+    {
+     "id": "s379",
+     "title_ur": "میں آج بہت مصروف ہوں۔",
+     "title_en": "I am very busy today.",
+     "body_ur": "میں آج بہت مصروف ہوں۔",
+     "body_en": "I am very busy today.",
+     "grammar": ""
+    },
+    {
+     "id": "s380",
+     "title_ur": "کلاس آج خاموش ہے۔",
+     "title_en": "The class is quiet today.",
+     "body_ur": "کلاس آج خاموش ہے۔",
+     "body_en": "The class is quiet today.",
+     "grammar": ""
+    },
+    {
+     "id": "s381",
+     "title_ur": "میں سفر کے لیے تیار ہوں۔",
+     "title_en": "I am ready for the journey.",
+     "body_ur": "میں سفر کے لیے تیار ہوں۔",
+     "body_en": "I am ready for the journey.",
+     "grammar": ""
+    },
+    {
+     "id": "s382",
+     "title_ur": "یہاں بیٹھو، باتیں کرتے ہیں۔",
+     "title_en": "Sit here, let us talk.",
+     "body_ur": "یہاں بیٹھو، باتیں کرتے ہیں۔",
+     "body_en": "Sit here, let us talk.",
+     "grammar": ""
+    },
+    {
+     "id": "s383",
+     "title_ur": "وہاں مت جاؤ، یہاں بیٹھو۔",
+     "title_en": "Do not go there, sit here.",
+     "body_ur": "وہاں مت جاؤ، یہاں بیٹھو۔",
+     "body_en": "Do not go there, sit here.",
+     "grammar": ""
+    },
+    {
+     "id": "s384",
+     "title_ur": "اب گھر جاؤ۔",
+     "title_en": "Go home now.",
+     "body_ur": "اب گھر جاؤ۔",
+     "body_en": "Go home now.",
+     "grammar": ""
+    },
+    {
+     "id": "s385",
+     "title_ur": "جلدی آجاؤ، کھانا تیار ہے۔",
+     "title_en": "Come quickly, the food is ready.",
+     "body_ur": "جلدی آجاؤ، کھانا تیار ہے۔",
+     "body_en": "Come quickly, the food is ready.",
+     "grammar": ""
+    },
+    {
+     "id": "s386",
+     "title_ur": "آہستہ چلو، راستہ خراب ہے۔",
+     "title_en": "Go slowly, the road is bad.",
+     "body_ur": "آہستہ چلو، راستہ خراب ہے۔",
+     "body_en": "Go slowly, the road is bad.",
+     "grammar": ""
+    },
+    {
+     "id": "s387",
+     "title_ur": "یہ کیا چیز ہے؟",
+     "title_en": "What is this?",
+     "body_ur": "یہ کیا چیز ہے؟",
+     "body_en": "What is this?",
+     "grammar": ""
+    },
+    {
+     "id": "s388",
+     "title_ur": "وہ آدمی کون ہے؟",
+     "title_en": "Who is that man?",
+     "body_ur": "وہ آدمی کون ہے؟",
+     "body_en": "Who is that man?",
+     "grammar": ""
+    },
+    {
+     "id": "s389",
+     "title_ur": "کلاس میں کتنے بچے ہیں؟",
+     "title_en": "How many children are in the class?",
+     "body_ur": "کلاس میں کتنے بچے ہیں؟",
+     "body_en": "How many children are in the class?",
+     "grammar": ""
+    },
+    {
+     "id": "s390",
+     "title_ur": "کل بارش ہوگی؟",
+     "title_en": "Will it rain tomorrow?",
+     "body_ur": "کل بارش ہوگی؟",
+     "body_en": "Will it rain tomorrow?",
+     "grammar": ""
+    },
+    {
+     "id": "s391",
+     "title_ur": "آج موسم سرد ہے۔",
+     "title_en": "The weather is cold today.",
+     "body_ur": "آج موسم سرد ہے۔",
+     "body_en": "The weather is cold today.",
      "grammar": ""
     }
    ]
