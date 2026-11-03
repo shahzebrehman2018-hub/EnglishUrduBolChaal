@@ -1,5 +1,5 @@
 {
- "version": 9,
+ "version": 10,
  "sections": [
   {
    "id": "asbaq",
@@ -4124,6 +4124,13 @@
     }
    ],
    "note": "اردو الفاظ + اردو معنی — صرف اردو سے اردو"
+  },
+  {
+   "id": "qaumi_lughat",
+   "emoji": "🇵🇰",
+   "title_ur": "قومی انگریزی اُردو لغت",
+   "title_en": "National English-Urdu Dictionary",
+   "items": []
   },
   {
    "id": "books",
