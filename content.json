@@ -5579,6 +5579,702 @@
      "body_ur": "سردیوں میں برف بہت ہوتی ہے۔",
      "body_en": "There is a lot of snow in winter.",
      "grammar": ""
+    },
+    {
+     "id": "s692",
+     "title_ur": "اندھیرے میں شعلہ روشن ہے۔",
+     "title_en": "In the darkness, the flame is bright.",
+     "body_ur": "اندھیرے میں شعلہ روشن ہے۔",
+     "body_en": "In the darkness, the flame is bright.",
+     "grammar": ""
+    },
+    {
+     "id": "s693",
+     "title_ur": "زراعت ہماری زندگی کا حصہ ہے۔",
+     "title_en": "Agriculture is a part of our life.",
+     "body_ur": "زراعت ہماری زندگی کا حصہ ہے۔",
+     "body_en": "Agriculture is a part of our life.",
+     "grammar": ""
+    },
+    {
+     "id": "s694",
+     "title_ur": "کسان اپنے کھیت کو پانی دیتا ہے۔",
+     "title_en": "The farmer irrigates his field.",
+     "body_ur": "کسان اپنے کھیت کو پانی دیتا ہے۔",
+     "body_en": "The farmer irrigates his field.",
+     "grammar": ""
+    },
+    {
+     "id": "s695",
+     "title_ur": "سیلاب نے گاؤں میں بہت نقصان کیا۔",
+     "title_en": "The flood caused great damage in the village.",
+     "body_ur": "سیلاب نے گاؤں میں بہت نقصان کیا۔",
+     "body_en": "The flood caused great damage in the village.",
+     "grammar": ""
+    },
+    {
+     "id": "s696",
+     "title_ur": "آگ سے ایک چنگاری نکلی۔",
+     "title_en": "A spark came out of the fire.",
+     "body_ur": "آگ سے ایک چنگاری نکلی۔",
+     "body_en": "A spark came out of the fire.",
+     "grammar": ""
+    },
+    {
+     "id": "s697",
+     "title_ur": "سونے کی چمک بہت زیادہ ہے۔",
+     "title_en": "The shine of gold is great.",
+     "body_ur": "سونے کی چمک بہت زیادہ ہے۔",
+     "body_en": "The shine of gold is great.",
+     "grammar": ""
+    },
+    {
+     "id": "s698",
+     "title_ur": "پانی کی شفافیت بہت اچھی ہے۔",
+     "title_en": "The clarity of the water is very good.",
+     "body_ur": "پانی کی شفافیت بہت اچھی ہے۔",
+     "body_en": "The clarity of the water is very good.",
+     "grammar": ""
+    },
+    {
+     "id": "s699",
+     "title_ur": "اس تجارت میں بہت منافع ہے۔",
+     "title_en": "There is great profit in this trade.",
+     "body_ur": "اس تجارت میں بہت منافع ہے۔",
+     "body_en": "There is great profit in this trade.",
+     "grammar": ""
+    },
+    {
+     "id": "s700",
+     "title_ur": "اس نے کام میں نقصان اٹھایا۔",
+     "title_en": "He suffered a loss in the work.",
+     "body_ur": "اس نے کام میں نقصان اٹھایا۔",
+     "body_en": "He suffered a loss in the work.",
+     "grammar": ""
+    },
+    {
+     "id": "s701",
+     "title_ur": "وقت کی قیمت بہت زیادہ ہے۔",
+     "title_en": "The value of time is great.",
+     "body_ur": "وقت کی قیمت بہت زیادہ ہے۔",
+     "body_en": "The value of time is great.",
+     "grammar": ""
+    },
+    {
+     "id": "s702",
+     "title_ur": "بچت مستقبل کے لیے اچھی ہے۔",
+     "title_en": "Saving is good for the future.",
+     "body_ur": "بچت مستقبل کے لیے اچھی ہے۔",
+     "body_en": "Saving is good for the future.",
+     "grammar": ""
+    },
+    {
+     "id": "s703",
+     "title_ur": "میں ہر مہینے پیسے بچاتا ہوں۔",
+     "title_en": "I save money every month.",
+     "body_ur": "میں ہر مہینے پیسے بچاتا ہوں۔",
+     "body_en": "I save money every month.",
+     "grammar": ""
+    },
+    {
+     "id": "s704",
+     "title_ur": "وہ اپنے پیسے بچاتا ہے۔",
+     "title_en": "He saves his money.",
+     "body_ur": "وہ اپنے پیسے بچاتا ہے۔",
+     "body_en": "He saves his money.",
+     "grammar": ""
+    },
+    {
+     "id": "s705",
+     "title_ur": "اس نے ڈوبتے ہوئے بچے کو بچایا۔",
+     "title_en": "He rescued the drowning child.",
+     "body_ur": "اس نے ڈوبتے ہوئے بچے کو بچایا۔",
+     "body_en": "He rescued the drowning child.",
+     "grammar": ""
+    },
+    {
+     "id": "s706",
+     "title_ur": "بچے کی نجات بہت اہم تھی۔",
+     "title_en": "The rescue of the child was very important.",
+     "body_ur": "بچے کی نجات بہت اہم تھی۔",
+     "body_en": "The rescue of the child was very important.",
+     "grammar": ""
+    },
+    {
+     "id": "s707",
+     "title_ur": "اس نے اپنے دوست کی مدد کی۔",
+     "title_en": "He helped his friend.",
+     "body_ur": "اس نے اپنے دوست کی مدد کی۔",
+     "body_en": "He helped his friend.",
+     "grammar": ""
+    },
+    {
+     "id": "s708",
+     "title_ur": "وہ ہمارا اچھا مددگار ہے۔",
+     "title_en": "He is our good helper.",
+     "body_ur": "وہ ہمارا اچھا مددگار ہے۔",
+     "body_en": "He is our good helper.",
+     "grammar": ""
+    },
+    {
+     "id": "s709",
+     "title_ur": "اس کے لیے ہماری حمایت ضروری ہے۔",
+     "title_en": "Our support is necessary for him.",
+     "body_ur": "اس کے لیے ہماری حمایت ضروری ہے۔",
+     "body_en": "Our support is necessary for him.",
+     "grammar": ""
+    },
+    {
+     "id": "s710",
+     "title_ur": "ہم اس کی حمایت کریں گے۔",
+     "title_en": "We will support him.",
+     "body_ur": "ہم اس کی حمایت کریں گے۔",
+     "body_en": "We will support him.",
+     "grammar": ""
+    },
+    {
+     "id": "s711",
+     "title_ur": "میرا اندازہ درست نکلا۔",
+     "title_en": "My guess turned out correct.",
+     "body_ur": "میرا اندازہ درست نکلا۔",
+     "body_en": "My guess turned out correct.",
+     "grammar": ""
+    },
+    {
+     "id": "s712",
+     "title_ur": "میں اس بات پر غور کر رہا ہوں۔",
+     "title_en": "I am thinking about this matter.",
+     "body_ur": "میں اس بات پر غور کر رہا ہوں۔",
+     "body_en": "I am thinking about this matter.",
+     "grammar": ""
+    },
+    {
+     "id": "s713",
+     "title_ur": "اس کی سوچ گہری ہے۔",
+     "title_en": "His thought is deep.",
+     "body_ur": "اس کی سوچ گہری ہے۔",
+     "body_en": "His thought is deep.",
+     "grammar": ""
+    },
+    {
+     "id": "s714",
+     "title_ur": "لڑکے نے اونچی چھلانگ لگائی۔",
+     "title_en": "The boy made a high jump.",
+     "body_ur": "لڑکے نے اونچی چھلانگ لگائی۔",
+     "body_en": "The boy made a high jump.",
+     "grammar": ""
+    },
+    {
+     "id": "s715",
+     "title_ur": "لڑکا کرسی سے گر گیا۔",
+     "title_en": "The boy fell down from the chair.",
+     "body_ur": "لڑکا کرسی سے گر گیا۔",
+     "body_en": "The boy fell down from the chair.",
+     "grammar": ""
+    },
+    {
+     "id": "s716",
+     "title_ur": "یہ موبائل دکان بازار میں ہے۔",
+     "title_en": "This mobile shop is in the market.",
+     "body_ur": "یہ موبائل دکان بازار میں ہے۔",
+     "body_en": "This mobile shop is in the market.",
+     "grammar": ""
+    },
+    {
+     "id": "s717",
+     "title_ur": "استاد کی رہنمائی بہت مفید ہے۔",
+     "title_en": "The teacher's guidance is very useful.",
+     "body_ur": "استاد کی رہنمائی بہت مفید ہے۔",
+     "body_en": "The teacher's guidance is very useful.",
+     "grammar": ""
+    },
+    {
+     "id": "s718",
+     "title_ur": "سڑک پر ایک نشان لگا ہوا ہے۔",
+     "title_en": "A sign is put up on the road.",
+     "body_ur": "سڑک پر ایک نشان لگا ہوا ہے۔",
+     "body_en": "A sign is put up on the road.",
+     "grammar": ""
+    },
+    {
+     "id": "s719",
+     "title_ur": "اس نے نشانے پر گولی چلائی۔",
+     "title_en": "He shot at the target.",
+     "body_ur": "اس نے نشانے پر گولی چلائی۔",
+     "body_en": "He shot at the target.",
+     "grammar": ""
+    },
+    {
+     "id": "s720",
+     "title_ur": "چھت پر پانی کی ٹینکی رکھی ہے۔",
+     "title_en": "The water tank is placed on the roof.",
+     "body_ur": "چھت پر پانی کی ٹینکی رکھی ہے۔",
+     "body_en": "The water tank is placed on the roof.",
+     "grammar": ""
+    },
+    {
+     "id": "s721",
+     "title_ur": "یہ دروازہ اسٹیل کا بنا ہوا ہے۔",
+     "title_en": "This door is made of steel.",
+     "body_ur": "یہ دروازہ اسٹیل کا بنا ہوا ہے۔",
+     "body_en": "This door is made of steel.",
+     "grammar": ""
+    },
+    {
+     "id": "s722",
+     "title_ur": "یہ بوتل پلاسٹک کی بنی ہے۔",
+     "title_en": "This bottle is made of plastic.",
+     "body_ur": "یہ بوتل پلاسٹک کی بنی ہے۔",
+     "body_en": "This bottle is made of plastic.",
+     "grammar": ""
+    },
+    {
+     "id": "s723",
+     "title_ur": "وہ کاغذی تھیلی لایا۔",
+     "title_en": "He brought a paper bag.",
+     "body_ur": "وہ کاغذی تھیلی لایا۔",
+     "body_en": "He brought a paper bag.",
+     "grammar": ""
+    },
+    {
+     "id": "s724",
+     "title_ur": "یہ لکڑی کی کرسی بہت مضبوط ہے۔",
+     "title_en": "This wooden chair is very strong.",
+     "body_ur": "یہ لکڑی کی کرسی بہت مضبوط ہے۔",
+     "body_en": "This wooden chair is very strong.",
+     "grammar": ""
+    },
+    {
+     "id": "s725",
+     "title_ur": "یہ پتھر کا گھر بہت پرانا ہے۔",
+     "title_en": "This stone house is very old.",
+     "body_ur": "یہ پتھر کا گھر بہت پرانا ہے۔",
+     "body_en": "This stone house is very old.",
+     "grammar": ""
+    },
+    {
+     "id": "s726",
+     "title_ur": "اس نے شیشے کا گلاس توڑ دیا۔",
+     "title_en": "He broke the glass tumbler.",
+     "body_ur": "اس نے شیشے کا گلاس توڑ دیا۔",
+     "body_en": "He broke the glass tumbler.",
+     "grammar": ""
+    },
+    {
+     "id": "s727",
+     "title_ur": "یہ کپڑا ریشم کا بنا ہوا ہے۔",
+     "title_en": "This cloth is made of silk.",
+     "body_ur": "یہ کپڑا ریشم کا بنا ہوا ہے۔",
+     "body_en": "This cloth is made of silk.",
+     "grammar": ""
+    },
+    {
+     "id": "s728",
+     "title_ur": "کپاس کھیت میں اگائی جاتی ہے۔",
+     "title_en": "Cotton is grown in the field.",
+     "body_ur": "کپاس کھیت میں اگائی جاتی ہے۔",
+     "body_en": "Cotton is grown in the field.",
+     "grammar": ""
+    },
+    {
+     "id": "s729",
+     "title_ur": "یہ کمبل اون کا بنا ہوا ہے۔",
+     "title_en": "This blanket is made of wool.",
+     "body_ur": "یہ کمبل اون کا بنا ہوا ہے۔",
+     "body_en": "This blanket is made of wool.",
+     "grammar": ""
+    },
+    {
+     "id": "s730",
+     "title_ur": "کتان گرمیوں میں ٹھنڈا ہوتا ہے۔",
+     "title_en": "Linen is cool in summer.",
+     "body_ur": "کتان گرمیوں میں ٹھنڈا ہوتا ہے۔",
+     "body_en": "Linen is cool in summer.",
+     "grammar": ""
+    },
+    {
+     "id": "s731",
+     "title_ur": "یہ جوتا چمڑے کا بنا ہوا ہے۔",
+     "title_en": "This shoe is made of leather.",
+     "body_ur": "یہ جوتا چمڑے کا بنا ہوا ہے۔",
+     "body_en": "This shoe is made of leather.",
+     "grammar": ""
+    },
+    {
+     "id": "s732",
+     "title_ur": "میری ماں سوئی سے کپڑے سیتی ہے۔",
+     "title_en": "My mother sews clothes with a needle.",
+     "body_ur": "میری ماں سوئی سے کپڑے سیتی ہے۔",
+     "body_en": "My mother sews clothes with a needle.",
+     "grammar": ""
+    },
+    {
+     "id": "s733",
+     "title_ur": "اس نے نیا پاجامہ پہنا۔",
+     "title_en": "He wore new trousers.",
+     "body_ur": "اس نے نیا پاجامہ پہنا۔",
+     "body_en": "He wore new trousers.",
+     "grammar": ""
+    },
+    {
+     "id": "s734",
+     "title_ur": "گرمیوں میں سینڈل آرام دہ ہوتے ہیں۔",
+     "title_en": "Sandals are comfortable in summer.",
+     "body_ur": "گرمیوں میں سینڈل آرام دہ ہوتے ہیں۔",
+     "body_en": "Sandals are comfortable in summer.",
+     "grammar": ""
+    },
+    {
+     "id": "s735",
+     "title_ur": "یہ جوتا بہت مہنگا ہے۔",
+     "title_en": "This shoe is very expensive.",
+     "body_ur": "یہ جوتا بہت مہنگا ہے۔",
+     "body_en": "This shoe is very expensive.",
+     "grammar": ""
+    },
+    {
+     "id": "s736",
+     "title_ur": "اس کے زیورات بہت خوبصورت ہیں۔",
+     "title_en": "Her jewellery is very beautiful.",
+     "body_ur": "اس کے زیورات بہت خوبصورت ہیں۔",
+     "body_en": "Her jewellery is very beautiful.",
+     "grammar": ""
+    },
+    {
+     "id": "s737",
+     "title_ur": "کپتان اپنی ٹیم کی رہنمائی کرتا ہے۔",
+     "title_en": "The captain guides his team.",
+     "body_ur": "کپتان اپنی ٹیم کی رہنمائی کرتا ہے۔",
+     "body_en": "The captain guides his team.",
+     "grammar": ""
+    },
+    {
+     "id": "s738",
+     "title_ur": "یہ خاتون مصنفہ خوبصورت کہانیاں لکھتی ہے۔",
+     "title_en": "This female writer writes beautiful stories.",
+     "body_ur": "یہ خاتون مصنفہ خوبصورت کہانیاں لکھتی ہے۔",
+     "body_en": "This female writer writes beautiful stories.",
+     "grammar": ""
+    },
+    {
+     "id": "s739",
+     "title_ur": "شاعرہ نے محفل میں شعر سنایا۔",
+     "title_en": "The poetess recited a poem in the gathering.",
+     "body_ur": "شاعرہ نے محفل میں شعر سنایا۔",
+     "body_en": "The poetess recited a poem in the gathering.",
+     "grammar": ""
+    },
+    {
+     "id": "s740",
+     "title_ur": "گلوکارہ نے ایک اچھا گانا گایا۔",
+     "title_en": "The female singer sang a good song.",
+     "body_ur": "گلوکارہ نے ایک اچھا گانا گایا۔",
+     "body_en": "The female singer sang a good song.",
+     "grammar": ""
+    },
+    {
+     "id": "s741",
+     "title_ur": "کھلاڑی نے میدان میں اچھا کھیل پیش کیا۔",
+     "title_en": "The female player played well in the field.",
+     "body_ur": "کھلاڑی نے میدان میں اچھا کھیل پیش کیا۔",
+     "body_en": "The female player played well in the field.",
+     "grammar": ""
+    },
+    {
+     "id": "s742",
+     "title_ur": "اچھی صحت بہت بڑی نعمت ہے۔",
+     "title_en": "Good health is a great blessing.",
+     "body_ur": "اچھی صحت بہت بڑی نعمت ہے۔",
+     "body_en": "Good health is a great blessing.",
+     "grammar": ""
+    },
+    {
+     "id": "s743",
+     "title_ur": "وہ ایک رحم دل آدمی ہے۔",
+     "title_en": "He is a kind-hearted man.",
+     "body_ur": "وہ ایک رحم دل آدمی ہے۔",
+     "body_en": "He is a kind-hearted man.",
+     "grammar": ""
+    },
+    {
+     "id": "s744",
+     "title_ur": "اس کی ہمدردی بہت زیادہ ہے۔",
+     "title_en": "His sympathy is great.",
+     "body_ur": "اس کی ہمدردی بہت زیادہ ہے۔",
+     "body_en": "His sympathy is great.",
+     "grammar": ""
+    },
+    {
+     "id": "s745",
+     "title_ur": "وہ ایک ہمدرد دوست ہے۔",
+     "title_en": "He is a sympathetic friend.",
+     "body_ur": "وہ ایک ہمدرد دوست ہے۔",
+     "body_en": "He is a sympathetic friend.",
+     "grammar": ""
+    },
+    {
+     "id": "s746",
+     "title_ur": "میری ماں ایک نرم دل خاتون ہے۔",
+     "title_en": "My mother is a soft-hearted woman.",
+     "body_ur": "میری ماں ایک نرم دل خاتون ہے۔",
+     "body_en": "My mother is a soft-hearted woman.",
+     "grammar": ""
+    },
+    {
+     "id": "s747",
+     "title_ur": "وہ سخت دل آدمی نہیں ہے۔",
+     "title_en": "He is not a hard-hearted man.",
+     "body_ur": "وہ سخت دل آدمی نہیں ہے۔",
+     "body_en": "He is not a hard-hearted man.",
+     "grammar": ""
+    },
+    {
+     "id": "s748",
+     "title_ur": "بے رحم آدمی کسی پر رحم نہیں کرتا۔",
+     "title_en": "A heartless man shows mercy to no one.",
+     "body_ur": "بے رحم آدمی کسی پر رحم نہیں کرتا۔",
+     "body_en": "A heartless man shows mercy to no one.",
+     "grammar": ""
+    },
+    {
+     "id": "s749",
+     "title_ur": "اس کی بہادری سب کو معلوم ہے۔",
+     "title_en": "His bravery is known to everyone.",
+     "body_ur": "اس کی بہادری سب کو معلوم ہے۔",
+     "body_en": "His bravery is known to everyone.",
+     "grammar": ""
+    },
+    {
+     "id": "s750",
+     "title_ur": "اندھیرے میں خوف بڑھ جاتا ہے۔",
+     "title_en": "Fear increases in the darkness.",
+     "body_ur": "اندھیرے میں خوف بڑھ جاتا ہے۔",
+     "body_en": "Fear increases in the darkness.",
+     "grammar": ""
+    },
+    {
+     "id": "s751",
+     "title_ur": "میری خواہش ہے کہ کاش وہ آئے۔",
+     "title_en": "I wish that he would come.",
+     "body_ur": "میری خواہش ہے کہ کاش وہ آئے۔",
+     "body_en": "I wish that he would come.",
+     "grammar": ""
+    },
+    {
+     "id": "s752",
+     "title_ur": "وہ ناکامی سے اداس ہو جاتا ہے۔",
+     "title_en": "He becomes sad because of failure.",
+     "body_ur": "وہ ناکامی سے اداس ہو جاتا ہے۔",
+     "body_en": "He becomes sad because of failure.",
+     "grammar": ""
+    },
+    {
+     "id": "s753",
+     "title_ur": "وہ چھوٹی سی بات پر غصہ ہو جاتا ہے۔",
+     "title_en": "He becomes angry over a small matter.",
+     "body_ur": "وہ چھوٹی سی بات پر غصہ ہو جاتا ہے۔",
+     "body_en": "He becomes angry over a small matter.",
+     "grammar": ""
+    },
+    {
+     "id": "s754",
+     "title_ur": "باغ میں بہت سکون ہے۔",
+     "title_en": "There is great calmness in the garden.",
+     "body_ur": "باغ میں بہت سکون ہے۔",
+     "body_en": "There is great calmness in the garden.",
+     "grammar": ""
+    },
+    {
+     "id": "s755",
+     "title_ur": "مزدور کام سے تھک جاتا ہے۔",
+     "title_en": "The worker becomes tired from work.",
+     "body_ur": "مزدور کام سے تھک جاتا ہے۔",
+     "body_en": "The worker becomes tired from work.",
+     "grammar": ""
+    },
+    {
+     "id": "s756",
+     "title_ur": "بچہ نیند میں ہے اور سونے جا رہا ہے۔",
+     "title_en": "The child is sleepy and is going to sleep.",
+     "body_ur": "بچہ نیند میں ہے اور سونے جا رہا ہے۔",
+     "body_en": "The child is sleepy and is going to sleep.",
+     "grammar": ""
+    },
+    {
+     "id": "s757",
+     "title_ur": "صبح کی ہوا بہت تازہ ہے۔",
+     "title_en": "The morning air is very fresh.",
+     "body_ur": "صبح کی ہوا بہت تازہ ہے۔",
+     "body_en": "The morning air is very fresh.",
+     "grammar": ""
+    },
+    {
+     "id": "s758",
+     "title_ur": "رات کا سفر بہت مشکل ہے۔",
+     "title_en": "Night travel is very difficult.",
+     "body_ur": "رات کا سفر بہت مشکل ہے۔",
+     "body_en": "Night travel is very difficult.",
+     "grammar": ""
+    },
+    {
+     "id": "s759",
+     "title_ur": "روزانہ کا کام وقت پر ختم کرو۔",
+     "title_en": "Finish the daily work on time.",
+     "body_ur": "روزانہ کا کام وقت پر ختم کرو۔",
+     "body_en": "Finish the daily work on time.",
+     "grammar": ""
+    },
+    {
+     "id": "s760",
+     "title_ur": "ہفتہ وار بازار جمعہ کو لگتا ہے۔",
+     "title_en": "The weekly market is held on Friday.",
+     "body_ur": "ہفتہ وار بازار جمعہ کو لگتا ہے۔",
+     "body_en": "The weekly market is held on Friday.",
+     "grammar": ""
+    },
+    {
+     "id": "s761",
+     "title_ur": "ماہانہ تنخواہ وقت پر آتی ہے۔",
+     "title_en": "The monthly salary comes on time.",
+     "body_ur": "ماہانہ تنخواہ وقت پر آتی ہے۔",
+     "body_en": "The monthly salary comes on time.",
+     "grammar": ""
+    },
+    {
+     "id": "s762",
+     "title_ur": "سالانہ جشن اسکول میں ہوتا ہے۔",
+     "title_en": "The annual celebration takes place in the school.",
+     "body_ur": "سالانہ جشن اسکول میں ہوتا ہے۔",
+     "body_en": "The annual celebration takes place in the school.",
+     "grammar": ""
+    },
+    {
+     "id": "s763",
+     "title_ur": "آج ہمارے اسکول کی سالگرہ ہے۔",
+     "title_en": "Today is our school's anniversary.",
+     "body_ur": "آج ہمارے اسکول کی سالگرہ ہے۔",
+     "body_en": "Today is our school's anniversary.",
+     "grammar": ""
+    },
+    {
+     "id": "s764",
+     "title_ur": "وہ کابل میں پیدا ہوا تھا۔",
+     "title_en": "He was born in Kabul.",
+     "body_ur": "وہ کابل میں پیدا ہوا تھا۔",
+     "body_en": "He was born in Kabul.",
+     "grammar": ""
+    },
+    {
+     "id": "s765",
+     "title_ur": "زندگی بہت مختصر اور خوبصورت ہے۔",
+     "title_en": "Life is very short and beautiful.",
+     "body_ur": "زندگی بہت مختصر اور خوبصورت ہے۔",
+     "body_en": "Life is very short and beautiful.",
+     "grammar": ""
+    },
+    {
+     "id": "s766",
+     "title_ur": "ہم اس گاؤں میں رہتے ہیں۔",
+     "title_en": "We live in this village.",
+     "body_ur": "ہم اس گاؤں میں رہتے ہیں۔",
+     "body_en": "We live in this village.",
+     "grammar": ""
+    },
+    {
+     "id": "s767",
+     "title_ur": "ہر زندہ ایک دن موت کا سامنا کرے گا۔",
+     "title_en": "Every living being will one day face death.",
+     "body_ur": "ہر زندہ ایک دن موت کا سامنا کرے گا۔",
+     "body_en": "Every living being will one day face death.",
+     "grammar": ""
+    },
+    {
+     "id": "s768",
+     "title_ur": "اس کی قبر قبرستان میں ہے۔",
+     "title_en": "His grave is in the graveyard.",
+     "body_ur": "اس کی قبر قبرستان میں ہے۔",
+     "body_en": "His grave is in the graveyard.",
+     "grammar": ""
+    },
+    {
+     "id": "s769",
+     "title_ur": "اس کی تدفین جمعہ کو ہوئی۔",
+     "title_en": "His burial took place on Friday.",
+     "body_ur": "اس کی تدفین جمعہ کو ہوئی۔",
+     "body_en": "His burial took place on Friday.",
+     "grammar": ""
+    },
+    {
+     "id": "s770",
+     "title_ur": "لوگوں نے اسے قبرستان میں دفن کیا۔",
+     "title_en": "People buried him in the graveyard.",
+     "body_ur": "لوگوں نے اسے قبرستان میں دفن کیا۔",
+     "body_en": "People buried him in the graveyard.",
+     "grammar": ""
+    },
+    {
+     "id": "s771",
+     "title_ur": "ہم کل مزار کی زیارت کریں گے۔",
+     "title_en": "We will visit the shrine tomorrow.",
+     "body_ur": "ہم کل مزار کی زیارت کریں گے۔",
+     "body_en": "We will visit the shrine tomorrow.",
+     "grammar": ""
+    },
+    {
+     "id": "s772",
+     "title_ur": "وہ ہر روز عبادت کرتا ہے۔",
+     "title_en": "He worships every day.",
+     "body_ur": "وہ ہر روز عبادت کرتا ہے۔",
+     "body_en": "He worships every day.",
+     "grammar": ""
+    },
+    {
+     "id": "s773",
+     "title_ur": "میں نعمتوں کا شکر ادا کرتا ہوں۔",
+     "title_en": "I give thanks for the blessings.",
+     "body_ur": "میں نعمتوں کا شکر ادا کرتا ہوں۔",
+     "body_en": "I give thanks for the blessings.",
+     "grammar": ""
+    },
+    {
+     "id": "s774",
+     "title_ur": "توبہ گناہوں کا علاج ہے۔",
+     "title_en": "Repentance is the cure for sins.",
+     "body_ur": "توبہ گناہوں کا علاج ہے۔",
+     "body_en": "Repentance is the cure for sins.",
+     "grammar": ""
+    },
+    {
+     "id": "s775",
+     "title_ur": "گناہگار اپنے گناہوں سے توبہ کرتا ہے۔",
+     "title_en": "The sinner repents of his sins.",
+     "body_ur": "گناہگار اپنے گناہوں سے توبہ کرتا ہے۔",
+     "body_en": "The sinner repents of his sins.",
+     "grammar": ""
+    },
+    {
+     "id": "s776",
+     "title_ur": "جھوٹ بولنا بہت بڑا گناہ ہے۔",
+     "title_en": "Telling lies is a great sin.",
+     "body_ur": "جھوٹ بولنا بہت بڑا گناہ ہے۔",
+     "body_en": "Telling lies is a great sin.",
+     "grammar": ""
+    },
+    {
+     "id": "s777",
+     "title_ur": "اچھے کام کرنے سے ثواب ملتا ہے۔",
+     "title_en": "Doing good deeds brings reward.",
+     "body_ur": "اچھے کام کرنے سے ثواب ملتا ہے۔",
+     "body_en": "Doing good deeds brings reward.",
+     "grammar": ""
+    },
+    {
+     "id": "s778",
+     "title_ur": "جنت نیک لوگوں کی جگہ ہے۔",
+     "title_en": "Paradise is the place of good people.",
+     "body_ur": "جنت نیک لوگوں کی جگہ ہے۔",
+     "body_en": "Paradise is the place of good people.",
+     "grammar": ""
     }
    ]
   },
