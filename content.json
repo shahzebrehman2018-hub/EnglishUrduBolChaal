@@ -18940,6 +18940,539 @@
    "pron": "a-gret",
    "ur": "بگلا - چھوٹی قسم کا بگلا - اس کے پروں کی کلغی جو زیبائش کے لیے لگائی جاتی ہے -",
    "w": "Aigrette"
+  },
+  {
+   "def": "Pointed peak of a rock",
+   "ex": [],
+   "pos": "n.",
+   "pron": "e-gwel",
+   "ur": "سر کوہ - راس الجبل - پہاڑ کی نوکدار چوٹی -",
+   "w": "Aiguille"
+  },
+  {
+   "def": "Be ill, afflict",
+   "ex": [],
+   "pos": "v.t. & i.",
+   "pron": "a'l",
+   "ur": "بیمار ہونا - علیل ہونا - ستانا - تکلیف دینا - دق کرنا -",
+   "w": "Ail"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "n.",
+   "pron": "",
+   "ur": "تکلیف - دکھ - مرض - علالت -",
+   "w": "Ailment"
+  },
+  {
+   "def": "Lateral control flaps at the rear of aeroplane's wing tips",
+   "ex": [],
+   "pos": "n.",
+   "pron": "elə-ron",
+   "ur": "ہوائی جہاز کے پنکھ کے پچھلے حصہ کا پنکھا -",
+   "w": "Aileron"
+  },
+  {
+   "def": "Form, design, discharge towards, direct blow",
+   "ex": [],
+   "pos": "v.t. & i.",
+   "pron": "am",
+   "ur": "نشانہ باندھنا - تاکنا - شست لینا - قصد کرنا - ارادہ کرنا - منصوبہ باندھنا - نصب العین - قرار دینا - ضرب لگانا - مارنا - وار کرنا - پھینکنا -",
+   "w": "Aim"
+  },
+  {
+   "def": "Purpose, object",
+   "ex": [],
+   "pos": "n.",
+   "pron": "am",
+   "ur": "نشانہ - سیدھ - ارادہ - نیت - قصد - مراد - غرض - مقصد - منصوبہ - نصب العین -",
+   "w": "Aim"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "adj.",
+   "pron": "",
+   "ur": "تیر تکا - اٹکل پچو - بے سر و پا - بے مقصد -",
+   "w": "Aimless"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "adv.",
+   "pron": "",
+   "ur": "بغیر سوچے سمجھے - بے توجہی سے - بے مقصد -",
+   "w": "Aimlessly"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "n.",
+   "pron": "",
+   "ur": "بے تکا پن - بے مقصدی - بے حاصلی -",
+   "w": "Aimlessness"
+  },
+  {
+   "def": "Gaseous substance enveloping earth, mixture of oxygen and nitrogen",
+   "ex": [
+    [
+     "Castles in the air",
+     "خیالی پلاؤ - شیخ چلی جیسے منصوبے"
+    ],
+    [
+     "In the air",
+     "خبر گرم ہونا - افواہ اڑنا -"
+    ],
+    [
+     "Open air",
+     "میدان - کھلی جگہ -"
+    ],
+    [
+     "Take air",
+     "چرچا ہونا - شائع ہونا - پھیل جانا -"
+    ],
+    [
+     "To take the air",
+     "ہوا کھانا - ہوا خوری کرنا -"
+    ]
+   ],
+   "pos": "n.",
+   "pron": "aer",
+   "ur": "ہوا - باد - کرۂ ہوا - فضا -",
+   "w": "Air"
+  },
+  {
+   "def": "To go out into fresh air, expose to open air",
+   "ex": [],
+   "pos": "v.t.",
+   "pron": "ar",
+   "ur": "ہوا میں رکھنا - ہوا دینا - ہوا کھلانا - تازہ ہوا لینا - دکھانا - ظاہر کرنا - مشہور کرنا - اشاعت کرنا - پھیلانا -",
+   "w": "Air"
+  },
+  {
+   "def": "Bladder filled with air",
+   "ex": [],
+   "pos": "n.",
+   "pron": "oon (ar-bal)",
+   "ur": "غبارہ - ہوا بھری گیند -",
+   "w": "Air-ball"
+  },
+  {
+   "def": "Place where aircrafts are kept",
+   "ex": [],
+   "pos": "n.",
+   "pron": "ar-bes",
+   "ur": "ہوائی اڈا -",
+   "w": "Air-base"
+  },
+  {
+   "def": "Inflated mattress",
+   "ex": [],
+   "pos": "n.",
+   "pron": "ar-bed",
+   "ur": "ہوا توشک - ہوا گدا -",
+   "w": "Air-bed"
+  },
+  {
+   "def": "Animals or plants having air organs",
+   "ex": [],
+   "pos": "n.",
+   "pron": "ar-bləd-er",
+   "ur": "پودوں اور جانوروں کے جسم کا وہ حصہ جس میں ہوا بھری ہوتی ہے - پھکنا -",
+   "w": "Air-bladder"
+  },
+  {
+   "def": "Brake that works by air pressure",
+   "ex": [],
+   "pos": "",
+   "pron": "ar-brak",
+   "ur": "روک پرزہ - بریک جو ہوا کے دباؤ سے کام کرتا ہو -",
+   "w": "Air-brake"
+  },
+  {
+   "def": "Perforated bricks",
+   "ex": [],
+   "pos": "n.",
+   "pron": "ar-briks",
+   "ur": "سوراخ دار ، جالیدار اینٹیں -",
+   "w": "Air-bricks"
+  },
+  {
+   "def": "Machine for equalising air pressure",
+   "ex": [],
+   "pos": "n.",
+   "pron": "ar-chembr",
+   "ur": "ہوادان - وہ کلیں جن میں ہوا بھر کر دباؤ کو یکساں رکھا جاتا ہے -",
+   "w": "Air-chamber"
+  },
+  {
+   "def": "Aeroplane",
+   "ex": [],
+   "pos": "n.",
+   "pron": "ar-kraft",
+   "ur": "غبارہ - طیارہ - ہوائی جہاز -",
+   "w": "Air-craft"
+  },
+  {
+   "def": "Inflated cushion",
+   "ex": [],
+   "pos": "n.",
+   "pron": "ar-ku-shon",
+   "ur": "ہوا بھرا ہوا تکیہ -",
+   "w": "Air-cushion"
+  },
+  {
+   "def": "A cavity in external walls of building to prevent damp from getting through",
+   "ex": [],
+   "pos": "n.",
+   "pron": "ar-d-ran",
+   "ur": "نمی کو کمروں سے دور رکھنے کا خلائی حصہ -",
+   "w": "Air-drain"
+  },
+  {
+   "def": "Circle of compressed air",
+   "ex": [],
+   "pos": "n.",
+   "pron": "ar-edi",
+   "ur": "ہوائی گرداب - بھنور -",
+   "w": "Air-eddy"
+  },
+  {
+   "def": "Engine driven by heated air",
+   "ex": [],
+   "pos": "n.",
+   "pron": "ar-en-gin",
+   "ur": "ہوائی انجن - گرم ہوا سے چلنے والا انجن -",
+   "w": "Air-engine"
+  },
+  {
+   "def": "A gun that fires by air pressure",
+   "ex": [],
+   "pos": "n.",
+   "pron": "ar-gun",
+   "ur": "ہوائی بندوق -",
+   "w": "Air-gun"
+  },
+  {
+   "def": "A garment with air-tight cavities",
+   "ex": [],
+   "pos": "n.",
+   "pron": "ar-jackət",
+   "ur": "ہوائی صدری - ہوا سے بھری ہوئی بنڈی جو ڈوبنے سے بچاتی ہے -",
+   "w": "Air-jacket"
+  },
+  {
+   "def": "A route for aircrafts",
+   "ex": [],
+   "pos": "n.",
+   "pron": "ar-lin",
+   "ur": "ہوائی راستہ",
+   "w": "Air-line"
+  },
+  {
+   "def": "A small chamber in which pressure of air is raised or lowered",
+   "ex": [],
+   "pos": "n.",
+   "pron": "ar-lok",
+   "ur": "ہوائی دباؤ کا کمرہ -",
+   "w": "Air-lock"
+  },
+  {
+   "def": "An aviator",
+   "ex": [],
+   "pos": "n.",
+   "pron": "ar-man",
+   "ur": "ہوا باز -",
+   "w": "Air-man"
+  },
+  {
+   "def": "An air-force officer",
+   "ex": [],
+   "pos": "n.",
+   "pron": "ar-mar-shəl",
+   "ur": "ہوائی فوج کا افسر جو لفٹیننٹ جنرل کے برابر ہوتا ہے -",
+   "w": "Air-marshal"
+  },
+  {
+   "def": "One who tends and repairs aircrafts",
+   "ex": [],
+   "pos": "n.",
+   "pron": "ar-mekan-ik",
+   "ur": "ہوائی جہازوں کا مستری - ہوائی مشینوں کا ماہر -",
+   "w": "Air-mechanic"
+  },
+  {
+   "def": "A pistol that fires by air pressure",
+   "ex": [],
+   "pos": "n.",
+   "pron": "ar-pist-l",
+   "ur": "ہوائی پستول -",
+   "w": "Air-pistol"
+  },
+  {
+   "def": "An aeroplane (Am)",
+   "ex": [],
+   "pos": "n.",
+   "pron": "ar-plən",
+   "ur": "ہوائی جہاز (امریکہ) -",
+   "w": "Air-plane"
+  },
+  {
+   "def": "A region of down flowing air",
+   "ex": [],
+   "pos": "n.",
+   "pron": "ar-poket",
+   "ur": "ہوائی تھیلا - فضا کا وہ مقام جہاں ہوا زور سے زمین کی طرف گرتی ہے -",
+   "w": "Air-pocket"
+  },
+  {
+   "def": "An instrument for pumping air out or in",
+   "ex": [],
+   "pos": "n.",
+   "pron": "ar-pump",
+   "ur": "ہوا نکاس - ہوا کش - آلہ جس سے ہوا باہر خارج کی جائے یا اندر بھری جائے -",
+   "w": "Air-pump"
+  },
+  {
+   "def": "An attack by aircrafts",
+   "ex": [],
+   "pos": "n.",
+   "pron": "ar-rəd",
+   "ur": "ہوائی حملہ -",
+   "w": "Air-raid"
+  },
+  {
+   "def": "Air men who look for the enemy in the air",
+   "ex": [],
+   "pos": "n.",
+   "pron": "ar-skot",
+   "ur": "ہوا باز جو دشمن کی نقل و حرکت پر نظر رکھتے ہیں -",
+   "w": "Air-scout"
+  },
+  {
+   "def": "A dirigible aircraft lighter than air",
+   "ex": [],
+   "pos": "n.",
+   "pron": "ar-ship",
+   "ur": "غبارہ کی قسم کا ہوائی جہاز جو ہوا سے ہلکا ہوتا ہے - اب یہ نہیں بنایا جاتا -",
+   "w": "Air-ship"
+  },
+  {
+   "def": "A thermometer for taking the heat degree of air",
+   "ex": [],
+   "pos": "n.",
+   "pron": "ar-therm-o-meter",
+   "ur": "ہوائی حرارت پیما - اس میں پارے کی جگہ ہوا ہوتی ہے -",
+   "w": "Air-thermometer"
+  },
+  {
+   "def": "Gossamer",
+   "ex": [],
+   "pos": "n.",
+   "pron": "ar-th-rəds",
+   "ur": "ہوائی مکڑی کا جالا - شیطان کی ڈور -",
+   "w": "Air-threads"
+  },
+  {
+   "def": "Having an air seal",
+   "ex": [],
+   "pos": "n.",
+   "pron": "ar-tite",
+   "ur": "ہوا بستہ - وہ چیز جس میں ہوا نہ جا سکے -",
+   "w": "Air-tight"
+  },
+  {
+   "def": "Part of a plane for carrying luggage",
+   "ex": [],
+   "pos": "n.",
+   "pron": "ar-trok",
+   "ur": "ہوائی جہاز کا سامان رکھنے کا حصہ -",
+   "w": "Air-truck"
+  },
+  {
+   "def": "Ventilating passage in mines",
+   "ex": [],
+   "pos": "n.",
+   "pron": "ar-way",
+   "ur": "کانوں کے اندر ہوا آنے کے راستے - ہوا رستہ - ہوا گزار -",
+   "w": "Air-way"
+  },
+  {
+   "def": "Fit to fly",
+   "ex": [],
+   "pos": "adj.",
+   "pron": "ar-vərthi",
+   "ur": "اڑنے کے قابل",
+   "w": "Air-worthy"
+  },
+  {
+   "def": "stuffy, Breezeless",
+   "ex": [],
+   "pos": "adj.",
+   "pron": "ar-les",
+   "ur": "بے ہوا - ایسی جگہ جہاں ہوا نہ ہونے سے دم گھٹے -",
+   "w": "Air-less"
+  },
+  {
+   "def": "Aerial, breezy",
+   "ex": [],
+   "pos": "adj.",
+   "pron": "ar-y",
+   "ur": "کھلا - ہوادار - کشادہ - باریک ہلکا - خوش طبع - زندہ دل - رنگیلا - خوش ادا - خوشنما - لطیف - سبک - نازک - بے بنیاد - بے سروپا - بے حقیقت - ہیچ - ہوائی -",
+   "w": "Airy"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "adv.",
+   "pron": "",
+   "ur": "خوش مزاجی سے - زندہ دلی سے - اوچھے پن سے - نمائشی طور پر -",
+   "w": "Airily"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "n.",
+   "pron": "",
+   "ur": "کشادگی - لطافت - خوش ادائی -",
+   "w": "Airiness"
+  },
+  {
+   "def": "Division of church",
+   "ex": [],
+   "pos": "n.",
+   "pron": "il",
+   "ur": "گرجا کی نشستوں کا درمیانی راستہ - بغلی راستہ -",
+   "w": "Aisle"
+  },
+  {
+   "def": "Small isle in a river",
+   "ex": [],
+   "pos": "n.",
+   "pron": "at",
+   "ur": "دریائی جزیرہ - ٹاپو جو دریا یا جھیل میں ہو ، جیسے چک وٹ ٹاپو جو دریائے ٹیمز میں واقع ہے -",
+   "w": "Ait"
+  },
+  {
+   "def": "Buttock of rump bone",
+   "ex": [],
+   "pos": "n.",
+   "pron": "achbon",
+   "ur": "پٹھے کے نیچے کی ہڈی - کولھے کی ہڈی -",
+   "w": "Aitch-bone"
+  },
+  {
+   "def": "Slightly open",
+   "ex": [],
+   "pos": "adv.",
+   "pron": "ə-jar",
+   "ur": "(دروازہ) نم وا - آدھا کھلا ہوا - تھوڑا کھلا ہوا -",
+   "w": "Ajar"
+  },
+  {
+   "def": "With hands on hip and elbow turned upward",
+   "ex": [],
+   "pos": "adv.",
+   "pron": "ə-kum-bo",
+   "ur": "کھڑے ہونے کا ایک خاص انداز ، کمر پر ہاتھ اور کہنیاں اوپر کی جانب -",
+   "w": "Akimbo"
+  },
+  {
+   "def": "Related by blood",
+   "ex": [],
+   "pos": "adj.",
+   "pron": "ə-kin",
+   "ur": "خون کا رشتہ دار - قریبی - سگا - ملتا جلتا - ایک طرح کا - ملتا جلتا - برادری کا -",
+   "w": "Akin"
+  },
+  {
+   "def": "Name used for several varieties of carbonate or sulphate of lime",
+   "ex": [],
+   "pos": "n.",
+   "pron": "alə-bas-tər",
+   "ur": "سنگِ جراحت - سفید اور چکنا سنگِ مرمر جیسا پتھر -",
+   "w": "Alabaster"
+  },
+  {
+   "def": "Expressing regret and surprise",
+   "ex": [],
+   "pos": "interj.",
+   "pron": "ə-lak",
+   "ur": "افسوس - وائے افسوس - دریغا - واحسرتا - واویلا - وامصیبت - سبحان اللہ -",
+   "w": "Alack"
+  },
+  {
+   "def": "Briskness",
+   "ex": [],
+   "pos": "n.",
+   "pron": "ə-lekri-ti",
+   "ur": "پھرتی - چالاکی - تندی - مستعدی - شوق -",
+   "w": "Alacrity"
+  },
+  {
+   "def": "In the fashion",
+   "ex": [],
+   "pos": "adv.",
+   "pron": "a-la-mod",
+   "ur": "وضع داری سے - خوش وضعی سے - اچھے ڈھنگ سے - قاعدے سے -",
+   "w": "Alamode"
+  },
+  {
+   "def": "Warning sound",
+   "ex": [],
+   "pos": "n.",
+   "pron": "ə-larm",
+   "ur": "ڈر - خطرے کا گھنٹہ - انتباہ - دہشت -",
+   "w": "Alarm"
+  },
+  {
+   "def": "Excite with fear",
+   "ex": [],
+   "pos": "v.t.",
+   "pron": "ə-larm",
+   "ur": "چوکس یا چوکنا کرنا - ڈرانا - خطرے سے خبردار کرنا - گھبرا دینا - پریشان کرنا - دہشت زدہ کرنا -",
+   "w": "Alarm"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "n.",
+   "pron": "",
+   "ur": "خطرہ کی خبر دینے والی گھنٹی",
+   "w": "Alarm-bell"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "adj.",
+   "pron": "",
+   "ur": "ڈراؤنی - دہشتناک - خوفناک - ہوش ربا -",
+   "w": "Alarming"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "n.",
+   "pron": "",
+   "ur": "ہولا - وہ شخص جو ذرا سی بات پر شور مچائے -",
+   "w": "Alarmist"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "n.",
+   "pron": "",
+   "ur": "ذرا سی بات پر شور مچانے کی عادت - دہشت زدگی - ہولا پن -",
+   "w": "Alarmism"
+  },
+  {
+   "def": "Expressing grief, pity",
+   "ex": [],
+   "pos": "Interj.",
+   "pron": "ə-las",
+   "ur": "ہائے - ہائے - افسوس ، صد افسوس - حیف -",
+   "w": "Alas"
   }
  ]
 }
