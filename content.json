@@ -24358,6 +24358,1262 @@
    "pron": "",
    "ur": "مجاز کے طور پر پیش کرنا - تمثیل بنانا -",
    "w": "Allegorize"
+  },
+  {
+   "def": "Praise of God",
+   "ex": [],
+   "pos": "",
+   "pron": "al-i-loo-ya",
+   "ur": "سب (عبرانی) تعریف تجھ کو اے اللہ - خدا کی تعریف - حمد و ثنا -",
+   "w": "Alleluia"
+  },
+  {
+   "def": "Relieve, mitigate",
+   "ex": [],
+   "pos": "v.t.",
+   "pron": "ə-levi-at",
+   "ur": "ہلکا کرنا - کم کرنا - تخفیف کرنا - آرام دینا -",
+   "w": "Alleviate"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "n.",
+   "pron": "",
+   "ur": "تخفیف - کمی - تسکین -",
+   "w": "Alleviation"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "adj.",
+   "pron": "",
+   "ur": "(دوا) تسکین دینے والی - مسکن -",
+   "w": "Alleviative, Alleviatory"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "",
+   "pron": "",
+   "ur": "تسکین دینے والا - درد کم کرنے والا -",
+   "w": "Alleviator"
+  },
+  {
+   "def": "Passage, narrow street",
+   "ex": [],
+   "pos": "n.",
+   "pron": "al-i",
+   "ur": "روش - پٹری - تنگ راستہ - تنگ گلی -",
+   "w": "Alley"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "n.",
+   "pron": "",
+   "ur": "سکینڈلر (ایک انگریزی کھیل) کھیلنے کا میدان - اندھی گلی - تنگ گلی - سربستہ گلی -",
+   "w": "Blind alley"
+  },
+  {
+   "def": "Relationship, union by marriage",
+   "ex": [],
+   "pos": "n.",
+   "pron": "ali-əns",
+   "ur": "رشتہ - تعلق - نسبت - ناطہ - رشتہ داری - قرابت - معاہدہ -",
+   "w": "Alliance"
+  },
+  {
+   "def": "Binding together, conjunction, calculation of values",
+   "ex": [],
+   "pos": "n.",
+   "pron": "ali-ga-shən",
+   "ur": "مختلف قدروں کا حساب - درکھاتہ - جوڑائی - حساب تجارت -",
+   "w": "Alligation"
+  },
+  {
+   "def": "Crocodile",
+   "ex": [],
+   "pos": "n.",
+   "pron": "ali-ga-tər",
+   "ur": "نہنگ - گھڑیال - مگرمچھ -",
+   "w": "Alligator"
+  },
+  {
+   "def": "Use words of common letters e.g., fine, fresh, fish etc.",
+   "ex": [],
+   "pos": "v.t.",
+   "pron": "ə-litərat",
+   "ur": "تجنیس کرنا - تجنیس حرفی یا لفظی بنانا -",
+   "w": "Alliterate"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "n.",
+   "pron": "",
+   "ur": "سہ حرف صنعت - تجنیس حرفی - تجنیس خطی -",
+   "w": "Alliteration"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "adj.",
+   "pron": "",
+   "ur": "سہ حرف صنعت کا - تجنیس سے متعلق -",
+   "w": "Alliterative"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "adv.",
+   "pron": "",
+   "ur": "تجنیسی طور پر - سہ حرف صنعت کے طور پر -",
+   "w": "Alliteratively"
+  },
+  {
+   "def": "Assign, devote",
+   "ex": [],
+   "pos": "v.t.",
+   "pron": "al-o-kat",
+   "ur": "مقرر کرنا - تجویز کرنا - متعین کرنا - قائم کرنا -",
+   "w": "Allocate"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "n.",
+   "pron": "",
+   "ur": "تعین - استقرار - نامزدگی -",
+   "w": "Allocation"
+  },
+  {
+   "def": "Estate held in absolute ownership",
+   "ex": [],
+   "pos": "n.",
+   "pron": "a-lo-di-əm",
+   "ur": "آزاد زمینداری - کل ملکیت - زمین زراعت جو زمیندار کی ملکیت ہو -",
+   "w": "Allodium"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "adj.",
+   "pron": "",
+   "ur": "آزاد اور مالکانہ زمینداری کے متعلق -",
+   "w": "Allodial"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "n.",
+   "pron": "",
+   "ur": "آزاد زمینداری کی حمایت -",
+   "w": "Allodialism"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "n.",
+   "pron": "",
+   "ur": "آزادانہ زمینداری کے نظریہ کو ماننے والا -",
+   "w": "Allodialist"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "adv.",
+   "pron": "",
+   "ur": "آزادانہ طور پر - خود مختارانہ طور پر -",
+   "w": "Allodially"
+  },
+  {
+   "def": "Cross fertilization",
+   "ex": [],
+   "pos": "n.",
+   "pron": "al-og-a-mi",
+   "ur": "پیوند لگانا - قلم باندھنا - مختلف نوع کے درختوں کو ملانا اور ان پر قلم باندھنا -",
+   "w": "Allogamy"
+  },
+  {
+   "def": "Curing a disease by another kind of action",
+   "ex": [],
+   "pos": "n.",
+   "pron": "al-op-a-thi",
+   "ur": "امراض کا علاج مخالف اثرات سے کرنا - علاج بالضد -",
+   "w": "Allopathy"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "adj.",
+   "pron": "",
+   "ur": "علاج بالضد سے متعلق -",
+   "w": "Allopathic"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "",
+   "pron": "",
+   "ur": "علاج بالضد کے اصول کے مطابق -",
+   "w": "Allopathically"
+  },
+  {
+   "def": "Distribute by lot with authority",
+   "ex": [],
+   "pos": "v.t.",
+   "pron": "a-lot",
+   "ur": "بانٹنا - تقسیم کرنا - حصہ دینا - مقرر کرنا - متعین کرنا - نامزد کرنا -",
+   "w": "Allot"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "n.",
+   "pron": "",
+   "ur": "وہ شخص جس کو جائداد دی جائے -",
+   "w": "Allottee"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "n.",
+   "pron": "",
+   "ur": "تقسیم - حصہ - بخرا - بٹوارہ - تعین - حصہ مقررہ -",
+   "w": "Allotment"
+  },
+  {
+   "def": "Permission, supply",
+   "ex": [],
+   "pos": "n. & v.t.",
+   "pron": "ə-low-əns",
+   "ur": "وظیفہ دینا - خوراک دینا - وظیفہ - یومیہ - منصب - درماہی گزارا -",
+   "w": "Allowance"
+  },
+  {
+   "def": "Mixture of inferior metal",
+   "ex": [],
+   "pos": "n.",
+   "pron": "ə-loi",
+   "ur": "ملاوٹ - کھوٹ - مختلف دھاتوں کا مرکب -",
+   "w": "Alloy"
+  },
+  {
+   "def": "Mix with baser metal",
+   "ex": [],
+   "pos": "v.t.",
+   "pron": "ə-loi",
+   "ur": "آمیزش کرنا - قیمتی دھات کے ساتھ معمولی دھات ملا دینا -",
+   "w": "Alloy"
+  },
+  {
+   "def": "The name of various plants producing much seed",
+   "ex": [],
+   "pos": "n.",
+   "pron": "awl-seed",
+   "ur": "جنوبی انگلستان کا ساحلی پودا جو تقریباً چار پانچ انچ کا ہوتا ہے ، اس میں خوبصورت پھول لگتے ہیں - مختلف پودوں کے نام جن میں بیج کثرت سے ہوتے ہیں -",
+   "w": "Allseed"
+  },
+  {
+   "def": "Jamaican pepper supposed to combine flavour of cinnamon, nutmeg and cloves",
+   "ex": [],
+   "pos": "n.",
+   "pron": "awl-spis",
+   "ur": "خوشبو دار جائیاں - جمیکا کی ایک خاص فلفل جس میں الائچی ، دار چینی اور لونگ کی خوشبو ہوتی ہے -",
+   "w": "Allspice"
+  },
+  {
+   "def": "Refer indirectly to",
+   "ex": [],
+   "pos": "v.i.",
+   "pron": "ə-lood",
+   "ur": "اشارے کنائے میں کہنا -",
+   "w": "Allude"
+  },
+  {
+   "def": "Tempt, entice, win over",
+   "ex": [],
+   "pos": "v.t.",
+   "pron": "al-y-oor",
+   "ur": "لبھانا - موہ لینا - سبز باغ دکھانا - ورغلانا -",
+   "w": "Allure"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "n.",
+   "pron": "",
+   "ur": "اغوا - ترغیب - لبھاؤ - لالچ -",
+   "w": "Allurement"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "adj.",
+   "pron": "",
+   "ur": "دل موہنے والی - دل لبھانے والی -",
+   "w": "Alluring"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "adv.",
+   "pron": "",
+   "ur": "ترغیب دلاتے ہوئے - ورغلانے کے طور پر -",
+   "w": "Alluringly"
+  },
+  {
+   "def": "Indirect reference",
+   "ex": [],
+   "pos": "n.",
+   "pron": "əlo-zhən",
+   "ur": "ایما - رمز - اشارہ - کنایہ - حوالہ - تلمیح -",
+   "w": "Allusion"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "adj.",
+   "pron": "",
+   "ur": "کنایہ آمیز - پر اشارہ - رغبت آمیز -",
+   "w": "Allusive"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "adv.",
+   "pron": "",
+   "ur": "بالکنایہ - تلمیحاً - اشارتاً -",
+   "w": "Allusively"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "n.",
+   "pron": "",
+   "ur": "کنایہ آمیزی -",
+   "w": "Allusiveness"
+  },
+  {
+   "def": "Wash of sea, river, matter deposited by flood",
+   "ex": [],
+   "pos": "n.",
+   "pron": "əl(y)oovian",
+   "ur": "وہ مٹی جو بہاؤ کے ساتھ آتی اور جمع جاتی ہے - وہ نئی زمین جو پانی کے عمل سے بنی ہو - نئی زمین -",
+   "w": "Alluvion"
+  },
+  {
+   "def": "Deposit of earth",
+   "ex": [],
+   "pos": "n.",
+   "pron": "əl(y)oo-vi-əm",
+   "ur": "سیلاب سے آئی ہوئی مٹی -",
+   "w": "Alluvium"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "adj.",
+   "pron": "",
+   "ur": "زرخیز - سیلابی -",
+   "w": "Alluvial"
+  },
+  {
+   "def": "Person allied with another",
+   "ex": [],
+   "pos": "n.",
+   "pron": "a-li",
+   "ur": "ساتھی - دوست - رفیق - حلیف - سنگ مرمر کی گولی (کویل) -",
+   "w": "Ally"
+  },
+  {
+   "def": "Combine or unite with a special object",
+   "ex": [],
+   "pos": "v.t.",
+   "pron": "a-li",
+   "ur": "ملانا - متفق کرنا - رشتہ جوڑنا -",
+   "w": "Ally"
+  },
+  {
+   "def": "Egyptian dancing girl",
+   "ex": [],
+   "pos": "n.",
+   "pron": "al-ma",
+   "ur": "مصری رقاصہ -",
+   "w": "Alma"
+  },
+  {
+   "def": "Great astronomical treatise of Ptolemy",
+   "ex": [],
+   "pos": "n.",
+   "pron": "al-mə-jest",
+   "ur": "بطلیموس کی کتاب کیمیا اور فلکیات پر جو آج تک مفید کتاب سمجھی جاتی ہے -",
+   "w": "Almagest"
+  },
+  {
+   "def": "Name used for learning institutions",
+   "ex": [],
+   "pos": "n.",
+   "pron": "al-ma-met-ər",
+   "ur": "مادر علمی - اعلیٰ علمی درسگاہ یا جامعہ -",
+   "w": "Alma Mater"
+  },
+  {
+   "def": "Annual calendar with astronomical data",
+   "ex": [],
+   "pos": "",
+   "pron": "awl-mə-nak",
+   "ur": "جنتری - تقویم - کیلنڈر -",
+   "w": "Almanac"
+  },
+  {
+   "def": "A garnet of violet tint",
+   "ex": [],
+   "pos": "n.",
+   "pron": "al-man-din",
+   "ur": "سرخ رنگ کا قیمتی پتھر جس میں بنفشی رنگ جھلکتا ہے -",
+   "w": "Almandine"
+  },
+  {
+   "def": "All-powerful",
+   "ex": [],
+   "pos": "n.",
+   "pron": "awl-mit-i",
+   "ur": "حق تعالیٰ - قادر مطلق -",
+   "w": "Almighty"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "n.",
+   "pron": "",
+   "ur": "قدرت کاملہ - قدرت مطلقہ -",
+   "w": "Almightiness"
+  },
+  {
+   "def": "Kernal of a stone fruit",
+   "ex": [],
+   "pos": "n.",
+   "pron": "a-mənd",
+   "ur": "بادام نما پھل - بادام -",
+   "w": "Almond"
+  },
+  {
+   "def": "Official distributor of alms",
+   "ex": [],
+   "pos": "n.",
+   "pron": "al-mən-ər",
+   "ur": "سرکاری شعبہ خیرات و صدقات کا کارکن -",
+   "w": "Almoner"
+  },
+  {
+   "def": "All but, very nearly",
+   "ex": [],
+   "pos": "adv.",
+   "pron": "awl-most",
+   "ur": "قریب قریب -",
+   "w": "Almost"
+  },
+  {
+   "def": "Charitable relief of the poor",
+   "ex": [],
+   "pos": "n.",
+   "pron": "amz",
+   "ur": "خیرات - خدا کے نام پر دی ہوئی چیز -",
+   "w": "Alms"
+  },
+  {
+   "def": "Plants of bitter juice",
+   "ex": [],
+   "pos": "n.",
+   "pron": "alo-e",
+   "ur": "تھوہر کی قسم کا پودا - ایلوا -",
+   "w": "Aloe"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "n.",
+   "pron": "alo-es",
+   "ur": "دست آور دوا -",
+   "w": "Aloes"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "adj.",
+   "pron": "",
+   "ur": "ایلوا کا اثر رکھنے والی -",
+   "w": "Aloetic"
+  },
+  {
+   "def": "High up, upward",
+   "ex": [],
+   "pos": "adv. & prep.",
+   "pron": "ə-loft",
+   "ur": "اوپر کی طرف - اونچا - بلند -",
+   "w": "Aloft"
+  },
+  {
+   "def": "Solitary",
+   "ex": [],
+   "pos": "adv. & prep.",
+   "pron": "ə-lon",
+   "ur": "صرف - تنہا - اکیلا -",
+   "w": "Alone"
+  },
+  {
+   "def": "From end to end",
+   "ex": [],
+   "pos": "adv. & prep.",
+   "pron": "a-long",
+   "ur": "ایک سرے سے دوسرے سرے تک - ساتھ ساتھ -",
+   "w": "Along"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "",
+   "pron": "",
+   "ur": "ساتھ ساتھ - پہلو بہ پہلو -",
+   "w": "Along-side"
+  },
+  {
+   "def": "Away, apart",
+   "ex": [],
+   "pos": "adv. & prep.",
+   "pron": "a-loof",
+   "ur": "بے واسطہ - بے تعلق - الگ تھلگ -",
+   "w": "Aloof"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "n.",
+   "pron": "",
+   "ur": "بے تعلقی - بے ربطی - تنہائی - بے وابستگی -",
+   "w": "Aloofness"
+  },
+  {
+   "def": "Loudly",
+   "ex": [],
+   "pos": "adv.",
+   "pron": "ə-lowd",
+   "ur": "بہ آواز بلند -",
+   "w": "Aloud"
+  },
+  {
+   "def": "Mountain peak, green pasture land",
+   "ex": [],
+   "pos": "n.",
+   "pron": "alp",
+   "ur": "پہاڑی کی چوٹی - سبز چراگاہ -",
+   "w": "Alp"
+  },
+  {
+   "def": "Lama with long woolly hair",
+   "ex": [],
+   "pos": "n.",
+   "pron": "al-pa-ka",
+   "ur": "لاما جس کے لمبے نرم بال ہوتے ہیں - کپڑے جو لاما کی اون سے بنائے جائیں -",
+   "w": "Alpaca"
+  },
+  {
+   "def": "Long iron shod staff used in mountain climbing",
+   "ex": [],
+   "pos": "n.",
+   "pron": "alpen-stok",
+   "ur": "لمبی مضبوط چھڑی جو پہاڑ کی چڑھائی میں استعمال ہوتی ہے -",
+   "w": "Alpenstock"
+  },
+  {
+   "def": "The first letter of Greek language",
+   "ex": [],
+   "pos": "n.",
+   "pron": "al-fa",
+   "ur": "یونانی زبان کا پہلا حرف -",
+   "w": "Alpha"
+  },
+  {
+   "def": "Set of letters used in a language",
+   "ex": [],
+   "pos": "n.",
+   "pron": "al-fa-bet",
+   "ur": "حروف تہجی -",
+   "w": "Alphabet"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "adj.",
+   "pron": "",
+   "ur": "حروف تہجی کے متعلق -",
+   "w": "Alphabetic, Alphabetical"
+  },
+  {
+   "def": "Pertaining to Alps mountain",
+   "ex": [],
+   "pos": "adj.",
+   "pron": "alp-in",
+   "ur": "کوہ الپس کے متعلق -",
+   "w": "Alpine"
+  },
+  {
+   "def": "One who climbs Alps mountain",
+   "ex": [],
+   "pos": "n.",
+   "pron": "alp-in-ist",
+   "ur": "کوہ الپس پر چڑھنے والا -",
+   "w": "Alpinist"
+  },
+  {
+   "def": "Before hand",
+   "ex": [],
+   "pos": "adv.",
+   "pron": "awl-red-i",
+   "ur": "ایک وقت تک کیا ہوا - وقت مقررہ تک - اب تک -",
+   "w": "Already"
+  },
+  {
+   "def": "a German province west of Rhine : White Friars in London once a sanctuary for law breakers",
+   "ex": [],
+   "pos": "n.",
+   "pron": "al-sa-sh(y)a",
+   "ur": "جرمنی کا ایک صوبہ - لندن کی ایک خانقاہ جہاں کسی زمانے میں مجرم پناہ لیتے تھے -",
+   "w": "Alsatia"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "n. adj.",
+   "pron": "",
+   "ur": "کتوں کی ایک نسل -",
+   "w": "Alsatian"
+  },
+  {
+   "def": "In addition",
+   "ex": [],
+   "pos": "adv.",
+   "pron": "awl-so",
+   "ur": "مزید برآں - ساتھ ساتھ - بھی - علاوہ -",
+   "w": "Also"
+  },
+  {
+   "def": "Flat-topped block for offerings",
+   "ex": [],
+   "pos": "n.",
+   "pron": "awltər",
+   "ur": "قربانی گاہ - نذر نیاز چڑھانے کا چبوترہ -",
+   "w": "Altar"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "n.",
+   "pron": "",
+   "ur": "قربان گاہ کا غلاف -",
+   "w": "Altar cloth"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "adv.",
+   "pron": "",
+   "ur": "قربان گاہ کی طرح -",
+   "w": "Altar-wise"
+  },
+  {
+   "def": "Instrument for determining altitude of heavenly bodies",
+   "ex": [],
+   "pos": "n.",
+   "pron": "alta-zi-məth",
+   "ur": "ایک آلہ جس سے اجرام فلکی کی سمت اور بلندی معلوم کرتے ہیں -",
+   "w": "Altazimuth"
+  },
+  {
+   "def": "Change",
+   "ex": [],
+   "pos": "v.t.",
+   "pron": "awl-tər",
+   "ur": "بدلنا - تبدیل کرنا - ترمیم کرنا - تغیر کرنا - مرمت کرنا - اصلاح کرنا - صحیح کرنا - درست کرنا -",
+   "w": "Alter"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "n.",
+   "pron": "",
+   "ur": "اصلاح اور تبدیلی کی صلاحیت - تغیر پذیری -",
+   "w": "Alterability"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "n.",
+   "pron": "",
+   "ur": "تغیر و تبدل - تبدیلی - رد و بدل -",
+   "w": "Alteration"
+  },
+  {
+   "def": "Tending to alter",
+   "ex": [],
+   "pos": "adj. & n.",
+   "pron": "awl-tər-a-tiv",
+   "ur": "وہ دوا جو آہستہ آہستہ مرض کو دور کردے - وہ دوا یا علاج جس سے عمل ہضم درست ہو -",
+   "w": "Alterative"
+  },
+  {
+   "def": "Dispute hotly",
+   "ex": [],
+   "pos": "v.i.",
+   "pron": "awl-tər-kat",
+   "ur": "جھگڑنا - بحث و تکرار کرنا - تو تو میں میں کرنا -",
+   "w": "Altercate"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "n.",
+   "pron": "",
+   "ur": "حجت - تو تو میں میں - جھگڑا - بحث - تکرار -",
+   "w": "Altercation"
+  },
+  {
+   "def": "of alternating layers",
+   "ex": [],
+   "pos": "adj. & n.",
+   "pron": "awl-tərn-ant",
+   "ur": "دھات جس میں مختلف قسم کی تہیں ہوں -",
+   "w": "Alternant"
+  },
+  {
+   "def": "Of things of two kinds coming one after the other",
+   "ex": [],
+   "pos": "v.i.",
+   "pron": "awl-tər-nat",
+   "ur": "دو چیزوں کا یکے بعد دیگرے آنا - ادل بدل کرنا - باری باری لانا -",
+   "w": "Alternate"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "n.",
+   "pron": "",
+   "ur": "پھرا پھیری - ادل بدل -",
+   "w": "Alternation"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "adv.",
+   "pron": "",
+   "ur": "اپنی اپنی باری سے - ایک کے بعد دوسرا - ایک ایک کرکے - باری باری سے -",
+   "w": "Alternately"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "adj. & n.",
+   "pron": "",
+   "ur": "سبیل - راستہ - صورت - یہ یا وہ - چارہ کار - دو میں سے ایک یہ یا وہ -",
+   "w": "Alternative"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "adj.",
+   "pron": "",
+   "ur": "بطریق آخر - بصورت دیگر - ایک کے بعد ایک - باری باری سے -",
+   "w": "Alternating"
+  },
+  {
+   "def": "Though",
+   "ex": [],
+   "pos": "conj.",
+   "pron": "awl-dho",
+   "ur": "اس کے برعکس - باوجودیکہ - ہر چند - اگرچہ -",
+   "w": "Although"
+  },
+  {
+   "def": "Instrument for measuring height above sea level",
+   "ex": [],
+   "pos": "n.",
+   "pron": "al-timi-tər",
+   "ur": "بلندی کی پیمائش کا آلہ - ارتفاع پیما -",
+   "w": "Altimeter"
+  },
+  {
+   "def": "Height, depth",
+   "ex": [],
+   "pos": "n.",
+   "pron": "al-ti-tud",
+   "ur": "اونچائی - ارتفاع - بلندی - گہرائی - اونچی جگہیں - رفعت - عظمت - بزرگی -",
+   "w": "Altitude"
+  },
+  {
+   "def": "Highest male voice, female voice of similar range",
+   "ex": [],
+   "pos": "n.",
+   "pron": "al-to",
+   "ur": "پانچ دار آواز میں گانے والا - پنچم - بلند - پانچ دار آواز -",
+   "w": "Alto"
+  },
+  {
+   "def": "Totally",
+   "ex": [],
+   "pos": "adv. & n.",
+   "pron": "awl-too-gethər",
+   "ur": "سب کو ملا کر - جملہ - بحیثیت مجموعی - بالکل - تمام تر -",
+   "w": "Altogether"
+  },
+  {
+   "def": "High relief",
+   "ex": [],
+   "pos": "n.",
+   "pron": "al-to-rel-ye-vo",
+   "ur": "ابھری ہوئی تصویر یا صورت - نمایاں -",
+   "w": "Alto-relievo"
+  },
+  {
+   "def": "Regard for others as a principle of action",
+   "ex": [],
+   "pos": "n.",
+   "pron": "al-troo-izm",
+   "ur": "ایثار - بے نفسی - دوسروں کی بہبودی کا جذبہ -",
+   "w": "Altruism"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "n.",
+   "pron": "",
+   "ur": "عوام کا بھلا چاہنے والا - صاحب ایثار -",
+   "w": "Altruist"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "adj.",
+   "pron": "",
+   "ur": "فیاضانہ - ایثار آمیز - بے غرضانہ -",
+   "w": "Altruistic"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "adv.",
+   "pron": "",
+   "ur": "رضائے الٰہی کے لیے - حسبتہ اللہ - بے غرضانہ طور پر -",
+   "w": "Altruistically"
+  },
+  {
+   "def": "A double sulphate of aluminium and potasium",
+   "ex": [],
+   "pos": "n.",
+   "pron": "al-əm",
+   "ur": "پھٹکری - پھٹکری ملا ہوا نمک",
+   "w": "Alum"
+  },
+  {
+   "def": "The only oxide of aluminium",
+   "ex": [],
+   "pos": "n.",
+   "pron": "ə-lu-mi-na",
+   "ur": "ایلومینیم اور آکسیجن کا مرکب جو ایک قسم کا سفید سفوف ہوتا ہے -",
+   "w": "Alumina"
+  },
+  {
+   "def": "White light metal not tarnished by air",
+   "ex": [],
+   "pos": "n.",
+   "pron": "əlu-minəm",
+   "ur": "ایلومینیم - ایک قسم کی ہلکی دھات جس کے برتن بنتے ہیں یا اس میں زنگ نہیں لگتا -",
+   "w": "Aluminium"
+  },
+  {
+   "def": "Of the nature of alum",
+   "ex": [],
+   "pos": "adj.",
+   "pron": "a-lu-minəs",
+   "ur": "پھٹکری جیسا -",
+   "w": "Aluminous"
+  },
+  {
+   "def": "Pupil, student",
+   "ex": [],
+   "pos": "n.",
+   "pron": "alumnəs",
+   "ur": "شاگرد - طالب علم -",
+   "w": "Alumnus"
+  },
+  {
+   "def": "Honey combed",
+   "ex": [],
+   "pos": "adj.",
+   "pron": "al-vi-ə-lat",
+   "ur": "مشنبک - شہد کی مکھیوں کے چھتے کی طرح - خانہ دار -",
+   "w": "Alveolate"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "n.",
+   "pron": "",
+   "ur": "دانت کی قفلی - دانت کا گھر - جبڑے کی ہڈی میں دانت کی جگہ - چھوٹا خانہ -",
+   "w": "Alveolus"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "adj.",
+   "pron": "",
+   "ur": "دانت کی قفلی جیسا - شہد کے چھتے کی طرح -",
+   "w": "Alveolar"
+  },
+  {
+   "def": "At all times",
+   "ex": [],
+   "pos": "adv.",
+   "pron": "awl-wes",
+   "ur": "ہمیشہ - سدا - مدام - برابر - ہر دم - ہر وقت - بلا ناغہ - متواتر - لگا تار -",
+   "w": "Always"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "v.",
+   "pron": "am",
+   "ur": "ہوں - دیکھو be -",
+   "w": "Am"
+  },
+  {
+   "def": "German tinder used as a match",
+   "ex": [],
+   "pos": "n.",
+   "pron": "am-ə-doo",
+   "ur": "خشک مادہ جو جلانے اور خون بند کرنے کے کام آتا ہے -",
+   "w": "Amadou"
+  },
+  {
+   "def": "Vehemently",
+   "ex": [],
+   "pos": "adv.",
+   "pron": "ə-man",
+   "ur": "بے تحاشا - بڑے زور سے - شدت سے - جلدی سے -",
+   "w": "Amain"
+  },
+  {
+   "def": "Mixture of a metal with mercury",
+   "ex": [],
+   "pos": "n.",
+   "pron": "ə-mal-gəm",
+   "ur": "پارہ کے ساتھ کسی دوسری دھات کا میل -",
+   "w": "Amalgam"
+  },
+  {
+   "def": "Mix",
+   "ex": [],
+   "pos": "v.t. & i.",
+   "pron": "ə-mal-gəm-at",
+   "ur": "آمیزش ہونا - ملانا - آمیزش کرنا - پارے کے ساتھ دھاتوں کو ملانا -",
+   "w": "Amalgamate"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "n.",
+   "pron": "",
+   "ur": "امتزاج - آمیزش - اختلاط - میل -",
+   "w": "Amalgamation"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "adj.",
+   "pron": "",
+   "ur": "سمونے والا - امتزاج کرنے والا جس میں ملانے کی خاصیت ہو -",
+   "w": "Amalgamative"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "n.",
+   "pron": "",
+   "ur": "ملانے والا - خلط کرنے والا - آمیزش کرنے والا - آمیزندہ -",
+   "w": "Amalgamator"
+  },
+  {
+   "def": "One who writes from dictation",
+   "ex": [],
+   "pos": "n.",
+   "pron": "ə-men-u-en-sis",
+   "ur": "املا نویس - سن کر لکھنے والا - نقل نویس - کاتب -",
+   "w": "Amanuensis"
+  },
+  {
+   "def": "Unfading flower",
+   "ex": [],
+   "pos": "n.",
+   "pron": "am-ər-ant",
+   "ur": "سدا بہار پھول جس کے متعلق خیال ہے کہ وہ کبھی نہیں مرجھاتا - گل اشرف -",
+   "w": "Amarant (h)"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "adj.",
+   "pron": "",
+   "ur": "سدا بہار - سدا شاداب -",
+   "w": "Amaranthus, Amarantus, Amaranthine"
+  },
+  {
+   "def": "A kinds of bulbous plant",
+   "ex": [],
+   "pos": "n.",
+   "pron": "am-e-ril-is",
+   "ur": "نرگس کی قسم کا ایک پھول - (یونانی) دیہاتی لڑکی -",
+   "w": "Amaryllis"
+  },
+  {
+   "def": "Heap together",
+   "ex": [],
+   "pos": "v.t.",
+   "pron": "ə-mass",
+   "ur": "جمع کرنا - اکٹھا کرنا - ڈھیر کرنا - فراہم کرنا -",
+   "w": "Amass"
+  },
+  {
+   "def": "One who takes to a thing as a pastime",
+   "ex": [],
+   "pos": "n.",
+   "pron": "am-ə-tər-tur",
+   "ur": "شائق - شوقین - غیر پیشہ ور - کسی فن کو شوقیہ سیکھنے والا -",
+   "w": "Amateur"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "adj.",
+   "pron": "",
+   "ur": "شوقیہ -",
+   "w": "Amateurish"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "adv.",
+   "pron": "",
+   "ur": "شوقیہ طور پر -",
+   "w": "Amateurishly"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "n.",
+   "pron": "",
+   "ur": "شانقیت - شوقیت -",
+   "w": "Amateurishness"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "n.",
+   "pron": "",
+   "ur": "شانقیت - شوقیتی -",
+   "w": "Amateurism"
+  },
+  {
+   "def": "Disposed to loving",
+   "ex": [],
+   "pos": "adj.",
+   "pron": "am-ə-tiv",
+   "ur": "عاشقانہ",
+   "w": "Amative"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "n.",
+   "pron": "",
+   "ur": "عشق - پریت - عاشق مزاجی -",
+   "w": "Amativeness"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "adj.",
+   "pron": "",
+   "ur": "شہوانی - عاشقانہ - عشقیہ -",
+   "w": "Amatory"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "adj.",
+   "pron": "",
+   "ur": "شہوانی - عشقیہ - عشق انگیز -",
+   "w": "Amatorial"
+  },
+  {
+   "def": "Partial or total loss of sight",
+   "ex": [],
+   "pos": "n.",
+   "pron": "am-aw-ro-sis",
+   "ur": "ضعف بصر - بینائی کی کمزوری - بینائی کی پوری یا تھوڑی کمی - اندھا پن -",
+   "w": "Amaurosis"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "adj.",
+   "pron": "",
+   "ur": "اندھے پن کا - نابینائی کا - ضعف بصر کا -",
+   "w": "Amaurotic"
+  },
+  {
+   "def": "Overwhelm with wonder",
+   "ex": [],
+   "pos": "v.i. & t.",
+   "pron": "e-maz",
+   "ur": "متعجب کرنا - متحیر کرنا - متحیر ہونا - حیران کرنا -",
+   "w": "Amaze"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "adv.",
+   "pron": "",
+   "ur": "حیرت انگیز انداز سے - متحیرانہ -",
+   "w": "Amazedly"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "n.",
+   "pron": "",
+   "ur": "تعجب - حیرت - اچنبھا - تعیر -",
+   "w": "Amazement"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "adj.",
+   "pron": "",
+   "ur": "متعجب - تعجب انگیز - حیران کن - عجیب و غریب -",
+   "w": "Amazing"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "adv.",
+   "pron": "",
+   "ur": "تعجب سے - حیرت انگیز طور پر",
+   "w": "Amazingly"
+  },
+  {
+   "def": "Masculine sturdy woman",
+   "ex": [],
+   "pos": "n.",
+   "pron": "amə-zən",
+   "ur": "(یونانی) تاتاری جنگجو عورت - جنوبی امریکہ کی جنگجو عورت - تنومند بہادر عورت -",
+   "w": "Amazon"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "adj.",
+   "pron": "",
+   "ur": "گراں ڈیل - بہاری بھر کم - قوی ہیکل عورت - مردانہ عورت -",
+   "w": "Amazonian"
+  },
+  {
+   "def": "Roundabout ways",
+   "ex": [],
+   "pos": "n.",
+   "pron": "am-ba-jəz",
+   "ur": "چکر دار راستے - ہیر پھیر کے طریقے -",
+   "w": "Ambages"
+  },
+  {
+   "def": "Minister sent by one state to another one",
+   "ex": [],
+   "pos": "n.",
+   "pron": "am-basa-dər",
+   "ur": "قونصل - ایلچی - سفیر -",
+   "w": "Ambassador"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "n.",
+   "pron": "",
+   "ur": "وہ سفیر جس کو اس کی حکومت نے خاص اختیارات دیے ہوں - با اختیار سفیر -",
+   "w": "Ambassador plenipotentiary"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "adj.",
+   "pron": "",
+   "ur": "ایلچی کی طرح سے - سفارتی طور پر -",
+   "w": "Ambassadorial"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "n.",
+   "pron": "am-basə-dar-es",
+   "ur": "سفیر کی بیوی - خاتون ایلچی - سفیرہ -",
+   "w": "Ambassadress"
+  },
+  {
+   "def": "Yellow translucent fossil, resin",
+   "ex": [],
+   "pos": "n.",
+   "pron": "am-bər",
+   "ur": "عنبر - کہربا -",
+   "w": "Amber"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "n.",
+   "pron": "am-bər-gres",
+   "ur": "ایک قسم کا مومی مادہ جس میں سرخ دھاریں نظر آتی ہیں اور جو گرم ملکوں میں تیرتا ہوا پایا جاتا ہے - کچا عنبر - یہ ویل اور دوسری مچھلیوں کی آنتوں میں بھی پایا جاتا ہے اور خوشبو بنانے کے کام آتا ہے -",
+   "w": "Ambergris"
+  },
+  {
+   "def": "One who can use both hands equally well",
+   "ex": [],
+   "pos": "n.",
+   "pron": "am-bi-deks-tər",
+   "ur": "جو دونوں ہاتھ مساوی طور پر استعمال کرے - دو ہتھا - دغا باز -",
+   "w": "Ambidexter"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "n.",
+   "pron": "",
+   "ur": "دونوں ہاتھوں کا یکساں چلنا - دو ہتھا پن -",
+   "w": "Ambidexterity"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "adj.",
+   "pron": "",
+   "ur": "دغا باز - بایاں ہاتھ بھی چلانے والا - دو ہتھا -",
+   "w": "Ambidextrous"
+  },
+  {
+   "def": "",
+   "ex": [],
+   "pos": "adv.",
+   "pron": "",
+   "ur": "دونوں ہاتھوں سے - دو ہتھے پن سے -",
+   "w": "Ambidextrously"
   }
  ]
 }
