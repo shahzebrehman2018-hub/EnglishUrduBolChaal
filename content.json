@@ -46486,5 +46486,1833 @@
    "ex": []
   }
  ],
- "urdu_english": []
+ "urdu_english": [
+  {
+   "w": "آ",
+   "pron": "",
+   "pos": "",
+   "def": "Lengthened form of Alif. Alif is the first letter of the Arabic, Persian and Urdu alphabets and, in abjad, it stand for number one.",
+   "ur": "",
+   "ex": [],
+   "roman": "ā"
+  },
+  {
+   "w": "آ آ",
+   "pron": "",
+   "pos": "v.",
+   "def": "Come, come; bird call for pigeons, hens, etc.",
+   "ur": "",
+   "ex": [],
+   "roman": "ā ā"
+  },
+  {
+   "w": "آ بننا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To happen (to); to befall; to be involved in trouble.",
+   "ur": "",
+   "ex": [],
+   "roman": "ā ban-nā"
+  },
+  {
+   "w": "آ بیل مجھے مار",
+   "pron": "",
+   "pos": "prov.",
+   "def": "To ask for or to invite or court trouble.",
+   "ur": "",
+   "ex": [],
+   "roman": "ā bail mujhe mār"
+  },
+  {
+   "w": "آ پڑنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To befall; to come or fall (upon); to fall (to); to descend (upon).",
+   "ur": "",
+   "ex": [],
+   "roman": "ā parnā"
+  },
+  {
+   "w": "آ پکڑنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To overtake; to seize.",
+   "ur": "",
+   "ex": [],
+   "roman": "ā pakarnā"
+  },
+  {
+   "w": "آ پہنچنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To appear suddenly; to draw near; to arrive.",
+   "ur": "",
+   "ex": [],
+   "roman": "ā pahuṅchnā"
+  },
+  {
+   "w": "آ جانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To come (suddenly); to happen to come; to arrive; to befall.",
+   "ur": "",
+   "ex": [],
+   "roman": "ā jānā"
+  },
+  {
+   "w": "آ دھمکنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To make a sudden appearance; to come uninvited.",
+   "ur": "",
+   "ex": [],
+   "roman": "ā dhamaknā"
+  },
+  {
+   "w": "آ رہنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To como and reside; to dwell (in) (despite opposition); to fall down.",
+   "ur": "",
+   "ex": [],
+   "roman": "ā rehnā"
+  },
+  {
+   "w": "آ گرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To fall down; to make a rush (at or upon); to fall upon others (for sustenance).",
+   "ur": "",
+   "ex": [],
+   "roman": "ā girnā"
+  },
+  {
+   "w": "آ گھیرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To surround; to besiege; to encircle; to press to do a thing.",
+   "ur": "",
+   "ex": [],
+   "roman": "ā ghernā"
+  },
+  {
+   "w": "آ لگنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To touch the shore (boat); to catch (disease); to be hit (by stone, bullet etc.); to be close at hand.",
+   "ur": "",
+   "ex": [],
+   "roman": "ā lagnā"
+  },
+  {
+   "w": "آ لینا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To overtake; to reach.",
+   "ur": "",
+   "ex": [],
+   "roman": "ā lenā"
+  },
+  {
+   "w": "آ ملنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To join (with); to meet happily (in reconciliation).",
+   "ur": "",
+   "ex": [],
+   "roman": "ā milnā"
+  },
+  {
+   "w": "آ نکلنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To come by chance; to come suddenly or unexpectedly; to turn up.",
+   "ur": "",
+   "ex": [],
+   "roman": "ā nikalnā"
+  },
+  {
+   "w": "آب",
+   "pron": "",
+   "pos": "n.m. & n.f. (P)",
+   "def": "Water. Splendour; elegance; polish; magnificence; water or lustre (in gems); temper (of steel); sharpness (of sword); brightness.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb"
+  },
+  {
+   "w": "آب آب کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To reproach; to put to shame; to discredit; to ask for water.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb āb karnā"
+  },
+  {
+   "w": "آب آب ہونا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be drenched with prespiration; to be thoroughly ashamed.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb āb honā"
+  },
+  {
+   "w": "آبِ آتش رنگ",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Wine; liquor; bitter tears.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ĕ ātish rang"
+  },
+  {
+   "w": "آبِ آتش مزاج",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Wine; liquor; bitter tears.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ĕ ātishmizāj"
+  },
+  {
+   "w": "آبِ آتشناک",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Wine; liquor; bitter tears.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ĕ ātishnāk"
+  },
+  {
+   "w": "آبِ آتشی ں",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Wine; liquor; bitter tears.",
+   "ur": "",
+   "ex": [],
+   "roman": "ab-ĕ ātishīṅ"
+  },
+  {
+   "w": "آب آ جانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To get polished; to shine; to become sharp.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb ā jānā"
+  },
+  {
+   "w": "آب آمد تیمم برخاست",
+   "pron": "",
+   "pos": "prov.",
+   "def": "John goes when Jesus comes.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb āmad tayammum barkhāst"
+  },
+  {
+   "w": "آبِ آہک",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Lime-water.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ĕ āhak"
+  },
+  {
+   "w": "آبِ آہن",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Temper of steel.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ĕ āhan"
+  },
+  {
+   "w": "آبِ آہن تاب",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Water in which red-hot iron is dipped.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ĕ āhantāb"
+  },
+  {
+   "w": "آبِ آئینہ",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Lustre or polish of a mirror.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ĕ ā'īnah"
+  },
+  {
+   "w": "آبِ احمر",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Wine; liquor.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ĕ ahmar"
+  },
+  {
+   "w": "آبِ ارغوانی",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Wine; liquor.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ĕ arghawānī"
+  },
+  {
+   "w": "آب اڑنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To lose lustre; to become dull or blunt (sword).",
+   "ur": "",
+   "ex": [],
+   "roman": "āb urnā"
+  },
+  {
+   "w": "آب اترنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To lose lustre; to become dull or blunt (sword).",
+   "ur": "",
+   "ex": [],
+   "roman": "āb utarnā"
+  },
+  {
+   "w": "آب بگڑنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To lose lustre; to become dull or blunt (sword).",
+   "ur": "",
+   "ex": [],
+   "roman": "āb bigarnā"
+  },
+  {
+   "w": "آبِ استادہ",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Still water.",
+   "ur": "",
+   "ex": [],
+   "roman": "eb-ĕ istāda"
+  },
+  {
+   "w": "آبِ انار",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Pomegranate juice; red wine.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ĕ anār"
+  },
+  {
+   "w": "آبِ انفعال",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Sweat caused by remorse or shame.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ĕ infi'āl"
+  },
+  {
+   "w": "آبِ انگور",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Grape-juice; wine.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ĕ angūr"
+  },
+  {
+   "w": "آبِ باراں",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Rain-water.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ĕ bārāṅ"
+  },
+  {
+   "w": "آبِ بستہ",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Ice; hailstone.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ĕ bastah"
+  },
+  {
+   "w": "آبِ بقا",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Water conferring immortality.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ĕ baqā"
+  },
+  {
+   "w": "آبِ بینی",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Mucus from the nose; nasal discharge.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ĕ bīnī"
+  },
+  {
+   "w": "آب پاش",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Watering-can.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb pāsh"
+  },
+  {
+   "w": "آب پاشی",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Irrigation; sprinkling water.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb pāshī"
+  },
+  {
+   "w": "آبِ پشت",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Semen.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ĕ pusht"
+  },
+  {
+   "w": "آبِ پیکاں",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Sharpness of the arrow.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ĕ paikān"
+  },
+  {
+   "w": "آبِ تلخ",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Bitter water; wine; tears.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ĕ talkh"
+  },
+  {
+   "w": "آبِ تیغ",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Sharpness of sword.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ĕ tegh"
+  },
+  {
+   "w": "آبِ جاری",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Running water; a rivulet; tears streaming down the cheek.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ĕ jārī"
+  },
+  {
+   "w": "آبِ جاوداں",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Immortalizing water, fluid or syrup.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ĕ jāwidāṅ"
+  },
+  {
+   "w": "آبِ جو",
+   "pron": "",
+   "pos": "n:m",
+   "def": "Barley-water; beer.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ĕ jau"
+  },
+  {
+   "w": "آبجو",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "A stream; a rivulet.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābjū"
+  },
+  {
+   "w": "آبِ جوش",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Broth; gravy; juice of cooked meat; boild water.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb josh"
+  },
+  {
+   "w": "آب چڑھانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To polish; to temper; to whet; to sharpen.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb charhānā"
+  },
+  {
+   "w": "آبِ چشم",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Tears.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ĕ chashm"
+  },
+  {
+   "w": "آبِ حرام",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Wine; liquor; unclean or forbidden water.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ĕ harām"
+  },
+  {
+   "w": "آبِ حیات",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Water giving immortality; a fabulous spring containing the water of immortality.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ĕ hayāt"
+  },
+  {
+   "w": "آبِ حیواں",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Water giving immortality; a fabulous spring containing the water of immortality.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ĕ haiwāṅ"
+  },
+  {
+   "w": "آبِ خضر",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Water giving immortality; a fabulous spring containing the water of immortality.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ĕ khizr"
+  },
+  {
+   "w": "آبِ زندگی",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Water giving immortality; a fabulous spring containing the water of immortality.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ĕ zindagī"
+  },
+  {
+   "w": "آبِ خاصہ",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Special drinking water for nobles and kings.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ĕ khāṣah"
+  },
+  {
+   "w": "آبِ خجالت",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Sweat caused by shame or bashfulness.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ĕ khijālat"
+  },
+  {
+   "w": "آبخورہ",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Earthen tumbler.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb khorah"
+  },
+  {
+   "w": "آبخورے بھرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To offer cups of sherbet or milk.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābkhore bharnā"
+  },
+  {
+   "w": "آبدار",
+   "pron": "",
+   "pos": "n.m. & adj.",
+   "def": "The person having charge of the drinking water. Brilliant, polished, bright (as gems); well-tempered (as steel); sharp (as a sword).",
+   "ur": "",
+   "ex": [],
+   "roman": "ābdār"
+  },
+  {
+   "w": "آبدار خانہ",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A repository for drinking water.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābdār khānah"
+  },
+  {
+   "w": "آبداری",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Brilliance (of gems); temper or polish (of steel); sharpness (of sword).",
+   "ur": "",
+   "ex": [],
+   "roman": "ābdārī"
+  },
+  {
+   "w": "آب دست",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Washing of the private parts after evacuation.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb dast"
+  },
+  {
+   "w": "آب دست کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To lave; to clean oneself after evacuation.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb dast karnā"
+  },
+  {
+   "w": "آبِ دندان",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Polish of the teeth; a species of pear; a kind of pomegranate.",
+   "ur": "",
+   "ex": [],
+   "roman": "āh-ĕ dandān"
+  },
+  {
+   "w": "آبِ دہن",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Saliva; spittle.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ĕ dahan"
+  },
+  {
+   "w": "آبِ دیدہ",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Tears.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ĕ dīdah"
+  },
+  {
+   "w": "آب دیدہ",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Weeping; in tears.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb dīdah"
+  },
+  {
+   "w": "آب دیدہ ہونا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To weep; to be in tears; to shed tears.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb dīdah honā"
+  },
+  {
+   "w": "آب دینا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To polish; to sharpen.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb denā"
+  },
+  {
+   "w": "آبِ رحمت",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Rain water; mercy; pity; kindness.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ĕ rahmat"
+  },
+  {
+   "w": "آبِ رواں",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Running water; a kind of fine muslin.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ĕ rawāṅ"
+  },
+  {
+   "w": "آب ریز",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A drain; a tap; a watering-can.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb rez"
+  },
+  {
+   "w": "آبِ زر",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Gold water; gold reduced to a liquid state.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ĕ zar"
+  },
+  {
+   "w": "آبِ زلال",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Pure, clear water; decanted water.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ĕ zulāl"
+  },
+  {
+   "w": "آبِ زمزم",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Water of the well in Mecca called Zamzam.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ĕ zamzam"
+  },
+  {
+   "w": "آبِ شور",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Sea water; salt water.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ĕ shor"
+  },
+  {
+   "w": "آبِ شیریں",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Sweet water.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ĕ shīrīṅ"
+  },
+  {
+   "w": "آبِ عشرت",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Wine.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ĕ 'ishrat"
+  },
+  {
+   "w": "آب کار",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A distiller or seller of wine; a wine merchant.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb kār"
+  },
+  {
+   "w": "آب کاری",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Distillery; liquor shop; excise duty; Excise Department.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb kārī"
+  },
+  {
+   "w": "آب کش",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A water-carrier; a strainer; one who draws water from a well.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb kash"
+  },
+  {
+   "w": "آب کشی",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Drawing water from a well.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb kashī"
+  },
+  {
+   "w": "آبِ کوثر",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "The water of the river Kausar flowing in Paradise.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ĕ kausar"
+  },
+  {
+   "w": "آبِ گلگوں",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Rose-red wine.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-e gulgūṅ"
+  },
+  {
+   "w": "آبِ گوشت",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Soup; gravy; broth.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-e gosht"
+  },
+  {
+   "w": "آب گوں",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Of the colour of water, sky, glass, snow or ice; shining (sword).",
+   "ur": "",
+   "ex": [],
+   "roman": "āb gūṅ"
+  },
+  {
+   "w": "آبِ لیموں",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Lemon water.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-e lemūṅ"
+  },
+  {
+   "w": "آبِ مروارید",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Lustre of a gem; a particular disease of the eye; cataract.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-e marwārīd"
+  },
+  {
+   "w": "آبِ مقطر",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Distilled water.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-e muqattar"
+  },
+  {
+   "w": "آبِ ندامت",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Sweat caused by repentance; contrition.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-e nadāmat"
+  },
+  {
+   "w": "آبِ نقرہ",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Liquid silver used for silver-plating.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-e nuqrah"
+  },
+  {
+   "w": "آبِ نیساں",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Spring rains; the rainfall during the month of Naisān, the seventh month of the Romans corresponding to the month of March.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-e naisāṅ"
+  },
+  {
+   "w": "آب و تاب",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Lustre; dignity; beauty; grandeur; magnificence.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ŏ tāb"
+  },
+  {
+   "w": "آب و رنگ",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Glory.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ŏ rang"
+  },
+  {
+   "w": "آب و دانہ",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Subsistence.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ŏ dānā"
+  },
+  {
+   "w": "آب و دانہ اٹھنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be transferred from a place; cessation of a source of income; to be about to die.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ŏ dānah uthnā"
+  },
+  {
+   "w": "آب و دانہ حرام ہونا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be tired of life; to be fed up with life.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ŏ dānah harām honā"
+  },
+  {
+   "w": "آب و دانے کا زور ہونا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be driven or attracted to a place by the subsistence in store for one at that place; to be attracted by fate.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ŏ dāne kā zor honā"
+  },
+  {
+   "w": "آب و گل",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Disposition; temperament; matter; the elements employed in the creation of the universe. (Lit.) Water and clay.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ŏ gil"
+  },
+  {
+   "w": "آب و نان",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Food.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ŏ nān"
+  },
+  {
+   "w": "آب و نمک",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Taste; savour; relish.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ŏ namak"
+  },
+  {
+   "w": "آب و ہوا",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Climate.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ŏ hawā"
+  },
+  {
+   "w": "آب و ہوا بدل جانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To change (climate).",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ŏ-hawā badal janā"
+  },
+  {
+   "w": "آب و ہوا تبدیل کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To go for a change of climate.",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ŏ hawā tabdīl karnā"
+  },
+  {
+   "w": "آب و ہوا راس نہ آنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be unsuitable (climate).",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ŏ hawā rās nah ānā"
+  },
+  {
+   "w": "آب و ہوا موافق آنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be agreeable (climate).",
+   "ur": "",
+   "ex": [],
+   "roman": "āb-ŏ hawā muwāfiq ānā"
+  },
+  {
+   "w": "آباد",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Inhabited; populated; peopled; cultivated; flourishing; prosperous; happy.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābād"
+  },
+  {
+   "w": "آباد کار",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A settler on waste land; a cultivator.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābād kār"
+  },
+  {
+   "w": "آباد کاری",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Settlement; habitation; populating; cultivating.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābād kārī"
+  },
+  {
+   "w": "آباد کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To populate; to cultivate; to inhabit; to settle.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābād karnā"
+  },
+  {
+   "w": "آبادانی",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Population; cultivation; habitation; abundance; prosperity.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābādānī"
+  },
+  {
+   "w": "آبادی",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Population; prosperity; a village site; the people living in a place.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābādī"
+  },
+  {
+   "w": "آبان",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "The eighth month of the Persian year; tenth day of that month.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābān"
+  },
+  {
+   "w": "آباء",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Fathers; fore-fathers.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābā'"
+  },
+  {
+   "w": "آباء و اجداد",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Ancestors; fore-fathers.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābā'ŏ ajdād"
+  },
+  {
+   "w": "آبائے شہر",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "City fathers; municipal commissioners; councillors.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābā-ĕ shahr"
+  },
+  {
+   "w": "آبائے علوی",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "People of high rank.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābā-ĕ 'ulwī"
+  },
+  {
+   "w": "آبائی",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Ancestral.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābā'ī"
+  },
+  {
+   "w": "آبرو",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Brightness of face; honour; character; good name; fame; rank; dignity; chastity.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābrū"
+  },
+  {
+   "w": "آبرو اتارنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To bring into disrepute; to dishonour; to disgrace; to violate the chastity of.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābrū utārnā"
+  },
+  {
+   "w": "آبرو بگاڑنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To bring into disrepute; to dishonour; to disgrace; to violate the chastity of.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābrū bigārnā"
+  },
+  {
+   "w": "آبرو لینا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To bring into disrepute; to dishonour; to disgrace; to violate the chastity of.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābrū lenā"
+  },
+  {
+   "w": "آبرو بچانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To save one's honour.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābrū bachānā"
+  },
+  {
+   "w": "آبرو بخشنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To confer honour.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābrū bakhshnā"
+  },
+  {
+   "w": "آبرو برباد کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To destroy one's honour, self-respect or reputation.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābrū barbād karnā"
+  },
+  {
+   "w": "آبرو پر پانی پھیر دینا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To destroy one's honour, self-respect or reputation.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābrū par pānī pher denā"
+  },
+  {
+   "w": "آبرو خاک میں ملانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To destroy one's honour, self-respect or reputation.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābrū khāk meṅ milānā"
+  },
+  {
+   "w": "آبرو بڑھنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To gain more honour.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābrū barhnā"
+  },
+  {
+   "w": "آبرو بنانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To acquire honour or reputation.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābrū banānā"
+  },
+  {
+   "w": "آبرو پانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To gain renown, rank or dignity.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābrū pānā"
+  },
+  {
+   "w": "آبرو پیدا کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To gain renown, rank or dignity.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābrū paidā karnā"
+  },
+  {
+   "w": "آبرو حاصل کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To gain renown, rank or dignity.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābrū hāṣil karnā"
+  },
+  {
+   "w": "آبرو پر حرف آنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be disgraced; to lose reputation.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābrū par harf ānā"
+  },
+  {
+   "w": "آبرو رکھنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To uphold one's respect, honour or reputation; to save from dishonour.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābrū rakhnā"
+  },
+  {
+   "w": "آبرو ریزی",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Slander; calumny; defamation; vilification; violation of chastity; rape.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābrū rezī"
+  },
+  {
+   "w": "آبرو ریزی کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To slander; to defame; to rape; to calumniate; to violate the chastity of.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābrū rezī karnā"
+  },
+  {
+   "w": "آبرو کا لاگو ہونا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be bent upon ruining one's honour, character or reputation.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābrū kā lāgū honā"
+  },
+  {
+   "w": "آبرو کے پیچھے پڑنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be bent upon ruining one's honour, character or reputation.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābrū ke pīchhe parnā"
+  },
+  {
+   "w": "آبرو کھونا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To lose respect.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābrū khonā"
+  },
+  {
+   "w": "آبرو گئی پھر نہیں آتی",
+   "pron": "",
+   "pos": "prov.",
+   "def": "Lost reputation is seldom regained; credit lost is like a Venice glass which when broken cannot be soldered.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābrū ga'ī phir nahīṅ ātī"
+  },
+  {
+   "w": "آبرو موتی کی سی آب ہے",
+   "pron": "",
+   "pos": "prov.",
+   "def": "Hohnour is like the lustre of a pearl.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābrū motī kī sī āb hai"
+  },
+  {
+   "w": "آبرو میں بٹا لگنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To bring slur on character or reputation; to lose confidence or good name.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābrū meṅ battā lagnā"
+  },
+  {
+   "w": "آبرو میں فرق آ جانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To bring slur on character or reputation; to lose confidence or good name.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābrū meṅ farq ā jānā"
+  },
+  {
+   "w": "آبستنی",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "A pregnant woman; a kind of musical instrument.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābistanī"
+  },
+  {
+   "w": "آبشار",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Waterfall; cataract; cascade.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābshār"
+  },
+  {
+   "w": "آبگینہ",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Crystal glass; mirror; a lover's wine glass.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābgīnah"
+  },
+  {
+   "w": "آبلہ",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Blisters; boils.",
+   "ur": "",
+   "ex": [],
+   "roman": "āblah"
+  },
+  {
+   "w": "آبلہ پا",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Having blisters on the feet; tired; fatigued; exhausted.",
+   "ur": "",
+   "ex": [],
+   "roman": "āblah pā"
+  },
+  {
+   "w": "آبلہ پائی",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "State of being tired; helplessness.",
+   "ur": "",
+   "ex": [],
+   "roman": "āblah pā'ī"
+  },
+  {
+   "w": "آبلہِ فرنگ",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Syphilis.",
+   "ur": "",
+   "ex": [],
+   "roman": "ālbah-ĕ farang"
+  },
+  {
+   "w": "آبنائے",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "(Geog.) A strait.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābnāi"
+  },
+  {
+   "w": "آبنوس",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Ebony.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābnūs"
+  },
+  {
+   "w": "آبنوسی",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Made of ebony; of ebony colour; black; ebonized.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābnūsī"
+  },
+  {
+   "w": "آبی",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Watery; aquatic; moist; aqueous.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābī"
+  },
+  {
+   "w": "آبیاری",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Irrigation; watering.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābyārī"
+  },
+  {
+   "w": "آبیانہ",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Water tax; water rate.",
+   "ur": "",
+   "ex": [],
+   "roman": "ābyānah"
+  },
+  {
+   "w": "آپ",
+   "pron": "",
+   "pos": "pro. (H)",
+   "def": "Self; selves; you; yourself; you sir (used when addressing a superior).",
+   "ur": "",
+   "ex": [],
+   "roman": "āp"
+  },
+  {
+   "w": "آپ آپ کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To flatter; to be selfish.",
+   "ur": "",
+   "ex": [],
+   "roman": "āp āp karnā"
+  },
+  {
+   "w": "آپ بھاتی",
+   "pron": "",
+   "pos": "adv.",
+   "def": "According to one's own pleasure.",
+   "ur": "",
+   "ex": [],
+   "roman": "āp bhātī"
+  },
+  {
+   "w": "آپ بھلے تو جگ بھلا",
+   "pron": "",
+   "pos": "prov.",
+   "def": "Good mind good find.",
+   "ur": "",
+   "ex": [],
+   "roman": "āp bhale to jag bhalā"
+  },
+  {
+   "w": "آپ بیتی",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "The story of one's own experience; autobiography.",
+   "ur": "",
+   "ex": [],
+   "roman": "āp bītī"
+  },
+  {
+   "w": "آپ جانیں آپ کا کام",
+   "pron": "",
+   "pos": "",
+   "def": "Manage your own affairs; do as you like.",
+   "ur": "",
+   "ex": [],
+   "roman": "āp jāneṅ āp kā kām"
+  },
+  {
+   "w": "آپ ڈال ڈال، میں پات پات",
+   "pron": "",
+   "pos": "prov.",
+   "def": "I am cleverer than you.",
+   "ur": "",
+   "ex": [],
+   "roman": "āp dāl dāl, maiṅ pāt pāt"
+  },
+  {
+   "w": "آپ ڈوبے تو جگ ڈوبا، آپ موئے تو جگ موا",
+   "pron": "",
+   "pos": "prov.",
+   "def": "Death's day is dooms-day.",
+   "ur": "",
+   "ex": [],
+   "roman": "āp dūbe to jag dūbā, āp mue to jag muā"
+  },
+  {
+   "w": "آپ ڈوبے تو ڈوبے، اور کو بھی لے ڈوبے",
+   "pron": "",
+   "pos": "prov.",
+   "def": "To ruin others along with oneself.",
+   "ur": "",
+   "ex": [],
+   "roman": "āp dūbe to dūbe, aur ko bhī le dūbe"
+  },
+  {
+   "w": "آپ سے ابے ہونا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To have one's position lowered; to be disgraced; to be degraded; to be undervalued.",
+   "ur": "",
+   "ex": [],
+   "roman": "āp se abe honā"
+  },
+  {
+   "w": "آپ سے آپ",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Of one's own accord; voluntarily; spontaneously.",
+   "ur": "",
+   "ex": [],
+   "roman": "āp se āp"
+  },
+  {
+   "w": "آپ فضیحت، اوروں کو نصیحت",
+   "pron": "",
+   "pos": "prov.",
+   "def": "He plucks out the teeth of a dog and barks himself; bell calls others to church, but goes not itself.",
+   "ur": "",
+   "ex": [],
+   "roman": "āp fazīhat, auroṅ ko nasīhat"
+  },
+  {
+   "w": "آپ کا پاس ہے، آپ کا منہ ہے",
+   "pron": "",
+   "pos": "",
+   "def": "It is out of regard for you.",
+   "ur": "",
+   "ex": [],
+   "roman": "āp kā pās hai, āp kā muṅh hai"
+  },
+  {
+   "w": "آپ کاج مہا کاج",
+   "pron": "",
+   "pos": "prov.",
+   "def": "Self done well done; one's own business is the most important.",
+   "ur": "",
+   "ex": [],
+   "roman": "āp kāj mahā kāj"
+  },
+  {
+   "w": "آپ کا کیا بگڑتا ہے؟",
+   "pron": "",
+   "pos": "",
+   "def": "You won't lose anything.",
+   "ur": "",
+   "ex": [],
+   "roman": "āp kā kiyā bigartā hai?"
+  },
+  {
+   "w": "آپ کو آسمان پر کھینچنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To put on airs; to be proud.",
+   "ur": "",
+   "ex": [],
+   "roman": "āp ko āsmān par kheṅchnā"
+  },
+  {
+   "w": "آپ کو شاخِ زعفران سمجھنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To put on airs; to be proud.",
+   "ur": "",
+   "ex": [],
+   "roman": "āp ko shākh-ĕ z'afrān samajhnā"
+  },
+  {
+   "w": "آپ کو بھول جانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To forget one's past.",
+   "ur": "",
+   "ex": [],
+   "roman": "āp ko bhūl jānā"
+  },
+  {
+   "w": "آپ کو پانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To estimate one's correct value.",
+   "ur": "",
+   "ex": [],
+   "roman": "āp ko pānā"
+  },
+  {
+   "w": "آپ کو دور کھینچنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To keep oneself aloof (from); to think too much of one's self.",
+   "ur": "",
+   "ex": [],
+   "roman": "āp ko dūr kheṅchnā"
+  },
+  {
+   "w": "آپ کو ڈبونا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To ruin oneself.",
+   "ur": "",
+   "ex": [],
+   "roman": "āp ko dabonā"
+  },
+  {
+   "w": "آپ کو کھونا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To forget oneself.",
+   "ur": "",
+   "ex": [],
+   "roman": "āp ko khonā"
+  },
+  {
+   "w": "آپ کھائے بلی کو بتائے",
+   "pron": "",
+   "pos": "prov.",
+   "def": "Blaming others for one's own fault.",
+   "ur": "",
+   "ex": [],
+   "roman": "āp khāe billī ko batāe"
+  },
+  {
+   "w": "آپ ہی آپ",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Spontaneously; alone.",
+   "ur": "",
+   "ex": [],
+   "roman": "āp hī āp"
+  },
+  {
+   "w": "آپا",
+   "pron": "",
+   "pos": "n.f. (T)",
+   "def": "An elder sister; a nurse.",
+   "ur": "",
+   "ex": [],
+   "roman": "āpā"
+  },
+  {
+   "w": "آپا",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Self.",
+   "ur": "",
+   "ex": [],
+   "roman": "āpā"
+  },
+  {
+   "w": "آپا دھاپی",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "A race for self; selfishness.",
+   "ur": "",
+   "ex": [],
+   "roman": "āpā dhāpī"
+  },
+  {
+   "w": "آپے سے باہر ہونا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be beside oneself (with joy or anger); to be in a rapture; to be in a fury.",
+   "ur": "",
+   "ex": [],
+   "roman": "āpe se bāhar honā"
+  },
+  {
+   "w": "آپے میں آنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To come to one's senses.",
+   "ur": "",
+   "ex": [],
+   "roman": "āpe meṅ ānā"
+  },
+  {
+   "w": "آپے میں ہونا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be in one's senses.",
+   "ur": "",
+   "ex": [],
+   "roman": "āpe meṅ honā"
+  },
+  {
+   "w": "آپس",
+   "pron": "",
+   "pos": "adv.",
+   "def": "One another; each other; together.",
+   "ur": "",
+   "ex": [],
+   "roman": "āpas"
+  },
+  {
+   "w": "آپس داری",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Brotherhood; relationship.",
+   "ur": "",
+   "ex": [],
+   "roman": "āpas dārī"
+  },
+  {
+   "w": "آپس کی بات",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Between ourselves; a private or family affairs.",
+   "ur": "",
+   "ex": [],
+   "roman": "āpas kī bāt"
+  },
+  {
+   "w": "آپس کی پھوٹ",
+   "pron": "",
+   "pos": "v.",
+   "def": "Internal discord or dissension; quarrel between husband and wife.",
+   "ur": "",
+   "ex": [],
+   "roman": "āpas kī phūt"
+  },
+  {
+   "w": "آپس میں",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Mutually; a matter between friends or relatives.",
+   "ur": "",
+   "ex": [],
+   "roman": "āpas meṅ"
+  },
+  {
+   "w": "آپس میں رہنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To live together; to maintain good relations with neighbours.",
+   "ur": "",
+   "ex": [],
+   "roman": "āpas meṅ rehnā"
+  },
+  {
+   "w": "آتا",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "That which is due to one; dues; debts.",
+   "ur": "",
+   "ex": [],
+   "roman": "ātā"
+  },
+  {
+   "w": "آتا جاتا",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A traveller; a passer-by.",
+   "ur": "",
+   "ex": [],
+   "roman": "ātā jātā"
+  },
+  {
+   "w": "آتا نہ چھوڑیے، جاتا نہ موڑیے",
+   "pron": "",
+   "pos": "prov.",
+   "def": "Take what comes your way, pursue not the evanescent.",
+   "ur": "",
+   "ex": [],
+   "roman": "ātā nah chhoriye, jātā nah moriye"
+  },
+  {
+   "w": "آتش",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Fire.",
+   "ur": "",
+   "ex": [],
+   "roman": "ātish"
+  },
+  {
+   "w": "آتش انداز",
+   "pron": "",
+   "pos": "adj. & n.m.",
+   "def": "Casting out fire; one who kindles fire.",
+   "ur": "",
+   "ex": [],
+   "roman": "ātish andāz"
+  }
+ ]
 }
