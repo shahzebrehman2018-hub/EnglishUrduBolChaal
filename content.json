@@ -39364,7 +39364,7 @@
    "ex": [],
    "pos": "",
    "pron": "",
-   "ur": "ہر صورت میں -",
+   "ur": "ہر صورت میں - ؛ ہر حالت میں - بہر صورت -",
    "w": "At all events"
   },
   {
@@ -47795,6 +47795,1662 @@
    "pos": "v.t.",
    "def": "Solemnly declare",
    "ur": "قول و قرار کرنا - حتمی طور پر کہنا -",
+   "ex": []
+  },
+  {
+   "w": "Asseveration",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "حلفیہ بیان - اقرار واثق -",
+   "ex": []
+  },
+  {
+   "w": "Assiduity",
+   "pron": "as-id-ui-ti",
+   "pos": "n.",
+   "def": "Constant attention",
+   "ur": "گہری توجہ - انہماک - سخت محنت -",
+   "ex": []
+  },
+  {
+   "w": "Assiduous",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "گہری توجہ کرنے والا - منہمک - سخت محنتی - پختہ ارادے والا -",
+   "ex": []
+  },
+  {
+   "w": "Assiduously",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "انہماک کے ساتھ - گہری توجہ کے ساتھ - عزم بالجزم کے ساتھ -",
+   "ex": []
+  },
+  {
+   "w": "Assiduousness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "محنت شاقہ - تندہی - پابندی - توجہ - انہماک -",
+   "ex": []
+  },
+  {
+   "w": "Assign",
+   "pron": "ə-sin",
+   "pos": "v.t.",
+   "def": "Appoint, ascribe",
+   "ur": "لگانا - منسوب کرنا - حصے مقرر کرنا - تفویض کرنا - مقرر کرنا - حوالے معمول کرنا - وجہ بتانا -",
+   "ex": []
+  },
+  {
+   "w": "Assignable",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "قابل تفویض - قابل حوالگی -",
+   "ex": []
+  },
+  {
+   "w": "Assignor",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "ٹھہرانے والا - مقرر کرنے والا - سپرد کرنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Assign",
+   "pron": "ə-sin",
+   "pos": "n.",
+   "def": "One to whom property is legally transferred",
+   "ur": "جس کے نام قانونی طور پر جائداد منتقل کی جائے -",
+   "ex": []
+  },
+  {
+   "w": "Assignation",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "خفیہ ملاقات کا وعدہ - منتقلی - سپردگی - انتقال جائداد -",
+   "ex": []
+  },
+  {
+   "w": "Assignee",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "منتظم - کارکن - عوضی - ولی - مختار -",
+   "ex": []
+  },
+  {
+   "w": "Assignment",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "اظہار وجوہ - توجیہ - سپردگی - تفویض - انتقال نامہ -",
+   "ex": []
+  },
+  {
+   "w": "Assimilate",
+   "pron": "ə-simil-at",
+   "pos": "v.t. & i.",
+   "def": "Make like, absorb into,",
+   "ur": "ملا دینا - یکساں کرنا - مشابہ کرنا - مل جانا - یکساں ہونا - ہم شکل ہونا - ہضم ہونا - جذب کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Assimilability",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "جذب کرنے کی قابلیت - ہضم کرنے کی طاقت -",
+   "ex": []
+  },
+  {
+   "w": "Assimilation",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "ہضم - جذب -",
+   "ex": []
+  },
+  {
+   "w": "Assimilable",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "جذب کرنے کے قابل - ہضم کے قابل -",
+   "ex": []
+  },
+  {
+   "w": "Assimilative",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "ہضم کرنے والا - جذب کرنے والا - عمل -",
+   "ex": []
+  },
+  {
+   "w": "Assimilator",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "یکساں کرنے والا - مشابہ بنانے والا - جاذب -",
+   "ex": []
+  },
+  {
+   "w": "Assimilatory",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "ہضم کرنے والا - ہاضم - جذب کے متعلق -",
+   "ex": []
+  },
+  {
+   "w": "Assist",
+   "pron": "ə-sist",
+   "pos": "v.t. & i.",
+   "def": "Help",
+   "ur": "مدد کرنا - دستگیری کرنا - ہاتھ بٹانا - اعانت کرنا - تائید کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Assistance",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "مدد - دستگیری - اعانت -",
+   "ex": []
+  },
+  {
+   "w": "Assistant",
+   "pron": "",
+   "pos": "adj. & n.",
+   "def": "",
+   "ur": "مدد گار - ہاتھ بٹانے والا - معاون -",
+   "ex": []
+  },
+  {
+   "w": "Assize",
+   "pron": "ə-siz",
+   "pos": "n.",
+   "def": "Periodical session of courts of justice",
+   "ur": "تحقیقات جیوری - عدالت فوجداری -",
+   "ex": []
+  },
+  {
+   "w": "Associable",
+   "pron": "əso-shi-əbl",
+   "pos": "adj.",
+   "def": "Allied in thought",
+   "ur": "جو خیال میں کسی دوسری چیز کے ساتھ ملایا جا سکے -",
+   "ex": []
+  },
+  {
+   "w": "Associability",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "تلازم پذیری -",
+   "ex": []
+  },
+  {
+   "w": "Associate",
+   "pron": "ə-so-shi-at",
+   "pos": "adj. & n.",
+   "def": "Joined in companionship",
+   "ur": "ساتھی - رفیق - شریک - ہم نشیں - جلیس - ساتھی - ساجھی - ہم صحبت - کسی ادارہ کا معمولی رکن - تعلق رکھنے والی چیز -",
+   "ex": []
+  },
+  {
+   "w": "Associate",
+   "pron": "ə-so-shi-at",
+   "pos": "v.t. & i.",
+   "def": "Join, connect,",
+   "ur": "کسی خیال کے ساتھ مربوط کرنا - ساتھی بنانا - رفیق بنانا - ملنا - ایک ہو جانا - یکدل ہونا - متفق ہو جانا -",
+   "ex": []
+  },
+  {
+   "w": "Associative-tory",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "ربط قائم کرنے والا - ملانے والا -",
+   "ex": []
+  },
+  {
+   "w": "Associator",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "راہ و رسم رکھنے والا - رفیق - شریک -",
+   "ex": []
+  },
+  {
+   "w": "Association",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "بے تکلفی - دوستی - مجلس - انجمن - باہمی میل جول -",
+   "ex": []
+  },
+  {
+   "w": "Assonance",
+   "pron": "asən-ans",
+   "pos": "n.",
+   "def": "Resemblance of sound",
+   "ur": "ہم آوازی - ہم آہنگی - مشابہت - قافیہ بندی - یکساں -",
+   "ex": []
+  },
+  {
+   "w": "Assonant",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "مماثل - ہم آہنگ - ہم آواز -",
+   "ex": []
+  },
+  {
+   "w": "Assort",
+   "pron": "ə-sort",
+   "pos": "v.t. & i.",
+   "def": "Arrange in sorts",
+   "ur": "چھانٹ کر یکساں چیزوں کو ترتیب دینا - ساتھ ساتھ رکھنا - ایک قسم کا مال الگ الگ کرنا یا سجانا - ساتھی ہونا - شریک ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Assortment",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "چیزوں یا مال کی ترتیب - درجہ بندی -",
+   "ex": []
+  },
+  {
+   "w": "Assuage",
+   "pron": "ə-swaj",
+   "pos": "v.t.",
+   "def": "Calm, sooth,",
+   "ur": "تسلی دینا - کم کرنا - ہلکا کرنا - اطمینان دلانا -",
+   "ex": []
+  },
+  {
+   "w": "Assuagement",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "تخفیف - دلاسا - تسکین - تسلی -",
+   "ex": []
+  },
+  {
+   "w": "Assume",
+   "pron": "ə-soom",
+   "pos": "v.t.",
+   "def": "Take upon oneself",
+   "ur": "اختیار کرنا - قبول کرنا - عائد کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Assuming",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "برخود غلط متعلق کرنے والا - ڈبنگیا - مغرور -",
+   "ex": []
+  },
+  {
+   "w": "Assumable",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "فرض کرنے کے قابل -",
+   "ex": []
+  },
+  {
+   "w": "Assumably",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "بالفرض - مفروضانہ -",
+   "ex": []
+  },
+  {
+   "w": "Assumption",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "استقبال مریمؑ (بہشت میں) - ذمہ داری - شبخی - مفروضہ -",
+   "ex": []
+  },
+  {
+   "w": "Assumptive",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "فرضی - تعلی باز - خودبین - شیخی خورہ -",
+   "ex": []
+  },
+  {
+   "w": "Assurance",
+   "pron": "ə-shoor-ans",
+   "pos": "n.",
+   "def": "Formal guarantee",
+   "ur": "بھروسا - طمانیت - ضمانت - یقین - اعتبار - بیمہ - خود اعتمادی - دیدہ دلیری - گستاخی - تقویٰ -",
+   "ex": []
+  },
+  {
+   "w": "Assure",
+   "pron": "ə-shoor",
+   "pos": "v.t.",
+   "def": "make certain",
+   "ur": "وثوق سے کہنا - اطمینان کر لینا - بھروسا دلانا - یقین دلانا - مطمئن کرنا - حتمی طور پر کہنا -",
+   "ex": []
+  },
+  {
+   "w": "Assuredly",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "بے شک - بلاشبہ - یقیناً -",
+   "ex": []
+  },
+  {
+   "w": "Assurer",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "اطمینان دلانے والا - ٹھیکہ لینے والا - بیمہ کرنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Assuredness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "یقینی ہونا - تیقن -",
+   "ex": []
+  },
+  {
+   "w": "Assurgent",
+   "pron": "ə-sur-jent",
+   "pos": "adj.",
+   "def": "Rising",
+   "ur": "ٹھاٹھیں مارتا ہوا - حملہ آور - ابھرتا ہوا - چڑھتا ہوا -",
+   "ex": []
+  },
+  {
+   "w": "Astatic",
+   "pron": "a-stat-ik",
+   "pos": "adj.",
+   "def": "Not tending to keep one position",
+   "ur": "متزلزل - متحرک - جو ایک مقام پر نہ رہ سکے -",
+   "ex": []
+  },
+  {
+   "w": "Aster",
+   "pron": "as-tər",
+   "pos": "n.",
+   "def": "Plants with showy radiated flowers",
+   "ur": "ایک پودا جس میں تاروں جیسے پھول آتے ہیں - بھڑکیلے پھول - رنگین پھول -",
+   "ex": []
+  },
+  {
+   "w": "Asterisk",
+   "pron": "astər-isk",
+   "pos": "n. & v.t.",
+   "def": "To put star (*)",
+   "ur": "عبارت پر ستارے کا نشان لگانا -",
+   "ex": []
+  },
+  {
+   "w": "Astern",
+   "pron": "ə-stərn",
+   "pos": "adv.",
+   "def": "At the stern",
+   "ur": "عقب میں - جہاز کی پچھلی طرف -",
+   "ex": []
+  },
+  {
+   "w": "Asteroid",
+   "pron": "astər-oid",
+   "pos": "adj. & n.",
+   "def": "Star like",
+   "ur": "ایک قسم کی آتش بازی - ستارے کی شکل کا - ستارہ نما -",
+   "ex": []
+  },
+  {
+   "w": "Asthma",
+   "pron": "as-ma",
+   "pos": "n.",
+   "def": "Respiratory disease",
+   "ur": "سانس کا رکنا - ضیق النفس - دمہ -",
+   "ex": []
+  },
+  {
+   "w": "Asthmatic",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "دمے میں مبتلا - دمے والا - دمے کے متعلق - دمے کا -",
+   "ex": []
+  },
+  {
+   "w": "Astir",
+   "pron": "a-stər",
+   "pos": "adv. & adj.",
+   "def": "In motion",
+   "ur": "حرکت میں - چلتا پھرتا - بیدار - سراسیمہ -",
+   "ex": []
+  },
+  {
+   "w": "Astonish",
+   "pron": "əs-ton-ish",
+   "pos": "v.t.",
+   "def": "Surprise,",
+   "ur": "ششدر کرنا - حیرت میں ڈالنا - حیران کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Astonishment",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "حیرانی - حیرت - تعجب - اچنبھا -",
+   "ex": []
+  },
+  {
+   "w": "Astound",
+   "pron": "əs-townd",
+   "pos": "v.t.",
+   "def": "Shock with surprise",
+   "ur": "حیران کر دینا - ہکا بکا کر دینا - اچنبھے میں ڈالنا - دنگ کر دینا -",
+   "ex": []
+  },
+  {
+   "w": "Astounding",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "اچنبھے میں ڈالنے والی - دنگ کرنے والی - نہایت عجیب -",
+   "ex": []
+  },
+  {
+   "w": "Astraddle",
+   "pron": "ə-stradl",
+   "pos": "adv. & adj.",
+   "def": "In a straddling position",
+   "ur": "ٹانگیں لٹکائے ہوئے - گھوڑے پر بغیر زین کے سواری کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Astrakhan",
+   "pron": "as-trə-kan",
+   "pos": "n.",
+   "def": "Skin of lambs from Astrakhan in Russia",
+   "ur": "استرا خانی ٹوپی - استرا خانی پوستین -",
+   "ex": []
+  },
+  {
+   "w": "Astral",
+   "pron": "as-tral",
+   "pos": "adj.",
+   "def": "Connected with stars",
+   "ur": "تاروں جیسا - ستاروں کے متعلق -",
+   "ex": []
+  },
+  {
+   "w": "Astray",
+   "pron": "ə-stra",
+   "pos": "adv. & adj.",
+   "def": "Out of the right way",
+   "ur": "غلط راستے پر - بھولا ہوا - بھٹکا ہوا - گم کردہ راہ - گمراہ -",
+   "ex": []
+  },
+  {
+   "w": "Astrict",
+   "pron": "ə-strikt",
+   "pos": "v.t.",
+   "def": "Bind tightly",
+   "ur": "مضبوط باندھنا - پابند کرنا - جکڑنا - اخلاق یا قانون کی ذمہ داری عائد کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Astriction",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "اخلاق یا قانون کی دباؤ - بندش - پابندی -",
+   "ex": []
+  },
+  {
+   "w": "Astrictive",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "سکیڑنے والا - قابض -",
+   "ex": []
+  },
+  {
+   "w": "Astride",
+   "pron": "ə-strid",
+   "pos": "adv. & prep.",
+   "def": "in striding position",
+   "ur": "پیر لٹکا کر بیٹھے ہوئے - گھوڑے پر ٹانگیں لٹکا کر بیٹھے ہوئے - گھوڑے پر آسن مارے ہوئے -",
+   "ex": []
+  },
+  {
+   "w": "Astringe",
+   "pron": "əst-ring",
+   "pos": "v.t.",
+   "def": "Bind together",
+   "ur": "قبض پیدا کرنا - جکڑنا - مضبوط باندھنا -",
+   "ex": []
+  },
+  {
+   "w": "Astringent",
+   "pron": "",
+   "pos": "adj. & v.",
+   "def": "",
+   "ur": "تیز - خشک - سکیڑنے والا - قابض -",
+   "ex": []
+  },
+  {
+   "w": "Astringently",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "تندی سے - تیزی سے - سختی سے -",
+   "ex": []
+  },
+  {
+   "w": "Astrolabe",
+   "pron": "astro-lab",
+   "pos": "n.",
+   "def": "Instrument formerly used for taking altitudes",
+   "ur": "آفتاب اور ستاروں کی بلندی معلوم کرنے کا آلہ - اصطرلاب -",
+   "ex": []
+  },
+  {
+   "w": "Astrology",
+   "pron": "as-treloji",
+   "pos": "n.",
+   "def": "Practical astronomy",
+   "ur": "جوتش - نجوم - ستارہ شناسی -",
+   "ex": []
+  },
+  {
+   "w": "Astrologer",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "نجومی - جوتشی - منجم -",
+   "ex": []
+  },
+  {
+   "w": "Astronomy",
+   "pron": "astrə-nomie",
+   "pos": "n.",
+   "def": "science of the heavenly bodies",
+   "ur": "ستاروں کا علم - علم ہیئت -",
+   "ex": []
+  },
+  {
+   "w": "Astronomer",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "علم فلکیات کا عالم - علم ہیئت جاننے والا -",
+   "ex": []
+  },
+  {
+   "w": "Astronomical",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "اجرام فلکی کا - علم ہیئت کے متعلق - فلکیاتی -",
+   "ex": []
+  },
+  {
+   "w": "Astronomically",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "علم ہیئت کے طریقے پر - فلکیاتی طور پر - علم ہیئت کی رو سے -",
+   "ex": []
+  },
+  {
+   "w": "Astute",
+   "pron": "əs-tut",
+   "pos": "adj.",
+   "def": "Shrewd",
+   "ur": "عیار - چالاک - ہوشیار - سیانا - زیرک - تیز فہم -",
+   "ex": []
+  },
+  {
+   "w": "Astutely",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "چالاکی سے - ہوشیاری سے - عیاری سے -",
+   "ex": []
+  },
+  {
+   "w": "Astuteness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "عیاری - زیرکی - چالاکی -",
+   "ex": []
+  },
+  {
+   "w": "Asunder",
+   "pron": "ə-sun-der",
+   "pos": "adv.",
+   "def": "In pieces, apart",
+   "ur": "جدا جدا - علیحدہ - الگ الگ -",
+   "ex": []
+  },
+  {
+   "w": "Asylum",
+   "pron": "ə-silem",
+   "pos": "n.",
+   "def": "sanctuary",
+   "ur": "پناہ - غریب خانہ - جائے پناہ - دارالامان -",
+   "ex": []
+  },
+  {
+   "w": "At",
+   "pron": "ət",
+   "pos": "prep.",
+   "def": "Expressing position",
+   "ur": "میں - پر - کے - سے - طرف - جانب - اوپر -",
+   "ex": []
+  },
+  {
+   "w": "At best",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بہترین حالت میں -",
+   "ex": []
+  },
+  {
+   "w": "At most",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "زیادہ سے زیادہ -",
+   "ex": []
+  },
+  {
+   "w": "At random",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "اٹکل پچو -",
+   "ex": []
+  },
+  {
+   "w": "At worst",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بدترین حالت میں -",
+   "ex": []
+  },
+  {
+   "w": "Atheism",
+   "pron": "a-thi-izm",
+   "pos": "n.",
+   "def": "Godlessness",
+   "ur": "بے دینی - کفر - دہریت - خدا کو نہ ماننا -",
+   "ex": []
+  },
+  {
+   "w": "Atheist",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "بے دین - کافر - دہریہ - ملحد -",
+   "ex": []
+  },
+  {
+   "w": "Atheistic",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "بے دینوں جیسا - کافرانہ - ملحدانہ -",
+   "ex": []
+  },
+  {
+   "w": "Atheistically",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "بے دینی کی رو سے - کافرانہ طور پر - دہریت کے ساتھ -",
+   "ex": []
+  },
+  {
+   "w": "Athirst",
+   "pron": "ə-thərst",
+   "pos": "adj.",
+   "def": "Thirsty",
+   "ur": "آرزو مند - تشنہ - تشنہ کام -",
+   "ex": []
+  },
+  {
+   "w": "Athlete",
+   "pron": "ath-let",
+   "pos": "n. & adj.",
+   "def": "Robust, vigorous",
+   "ur": "قوی ہیکل - کھلاڑی - پہلوان - کسرتی - ورزشی -",
+   "ex": []
+  },
+  {
+   "w": "Athletic",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "کھیل کے متعلق - ورزشی - اٹھا کٹا - توانا - قوی -",
+   "ex": []
+  },
+  {
+   "w": "Athletically",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "ورزشی طور پر - کھلاڑیوں کی طرح -",
+   "ex": []
+  },
+  {
+   "w": "Athleticism",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "جسمانی تنو مندی کا نظریہ - کسرتی بننے کی شوق - جسم کو اچھی حالت میں رکھنے کا فن -",
+   "ex": []
+  },
+  {
+   "w": "At home",
+   "pron": "ət-hom",
+   "pos": "n.",
+   "def": "Reception of visitors at a certain time of the day",
+   "ur": "بے تکلفی - دعوت - گھر پر رہنا - ملنا -",
+   "ex": []
+  },
+  {
+   "w": "Athwart",
+   "pron": "əth-wart",
+   "pos": "adv. & prep.",
+   "def": "Across, from side to side",
+   "ur": "آڑ میں - ترچھا - آر پار - ٹیڑھے ٹیڑھے -",
+   "ex": []
+  },
+  {
+   "w": "Atlantic",
+   "pron": "at-lan-tik",
+   "pos": "n. & adj.",
+   "def": "About atlas in Lybia",
+   "ur": "کوہ اطلس کے متعلق - بحراوقیانوس -",
+   "ex": []
+  },
+  {
+   "w": "Atlas",
+   "pron": "at-les",
+   "pos": "n.",
+   "def": "A mountain range in North Africa, volume of maps",
+   "ur": "نقشوں کی کتاب - کوہ اطلس -",
+   "ex": []
+  },
+  {
+   "w": "Atmosphere",
+   "pron": "at-mos-fər",
+   "pos": "n.",
+   "def": "Gaseous envelope surrounding earth",
+   "ur": "فضا - ماحول - ہوا - کرہ باد -",
+   "ex": []
+  },
+  {
+   "w": "Atmospherical",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "ہوائی - فضائی -",
+   "ex": []
+  },
+  {
+   "w": "Atmospherically",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "فضائی طور سے - بہ اعتبار ماحول -",
+   "ex": []
+  },
+  {
+   "w": "Atom",
+   "pron": "at-em",
+   "pos": "n.",
+   "def": "Indivisible particle of matter",
+   "ur": "چھوٹا سا - چھوٹا نا قابل تقسیم ذرہ - جوہر -",
+   "ex": []
+  },
+  {
+   "w": "Atomic",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ایٹمی - جوہری -",
+   "ex": []
+  },
+  {
+   "w": "Atomical",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "ایٹم کی بابت - جوہر کے متعلق -",
+   "ex": []
+  },
+  {
+   "w": "Atomically",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "ایٹمی طریقے سے - جوہری طور پر -",
+   "ex": []
+  },
+  {
+   "w": "Atomism",
+   "pron": "at-emizm",
+   "pos": "n.",
+   "def": "",
+   "ur": "نظریہ جوہر - جوہری عمل کا نظریہ -",
+   "ex": []
+  },
+  {
+   "w": "Atomist",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "جوہری نظریہ کا قائل -",
+   "ex": []
+  },
+  {
+   "w": "Atomize",
+   "pron": "",
+   "pos": "v.t.",
+   "def": "",
+   "ur": "مادہ کو جواہر دار بنانا - ناقابل تقسیم ذرات میں تبدیل کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Atomizer",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "ایسا آلہ جس سے سیال مادہ چھڑکا جا سکے -",
+   "ex": []
+  },
+  {
+   "w": "Atomy",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "مادہ - چھوٹا ذرہ -",
+   "ex": []
+  },
+  {
+   "w": "Atone",
+   "pron": "ə-ton",
+   "pos": "v.t. & i.",
+   "def": "Make amends",
+   "ur": "دشمنوں سے صلح کرنا - تلافی مدافات کرنا - کفارہ دینا -",
+   "ex": []
+  },
+  {
+   "w": "Atonement",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "کفارہ -",
+   "ex": []
+  },
+  {
+   "w": "Atop",
+   "pron": "ə-top",
+   "pos": "adj.",
+   "def": "On the top",
+   "ur": "اوپر - چوٹی پر - سر پر - بالا -",
+   "ex": []
+  },
+  {
+   "w": "Atrabilious",
+   "pron": "at-rə-bil-yəs",
+   "pos": "adj.",
+   "def": "Affected by black bile",
+   "ur": "ترش مزاج - خبطی - چڑچڑا - سوداوی مزاج کا -",
+   "ex": []
+  },
+  {
+   "w": "Atrocious",
+   "pron": "ə-troshəs",
+   "pos": "adj.",
+   "def": "Wicked, very bad",
+   "ur": "ظالم - نابکار - خبیث - نہایت برا - بد ذات -",
+   "ex": []
+  },
+  {
+   "w": "Atrociously",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "نہایت بری طرح - خباثت سے -",
+   "ex": []
+  },
+  {
+   "w": "Atrociousness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "پاجی پن - خباثت -",
+   "ex": []
+  },
+  {
+   "w": "Atrocity",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "انتہائی حماقت - بد تہذیبی - پاجی پن - شرارت -",
+   "ex": []
+  },
+  {
+   "w": "Atrophy",
+   "pron": "at-rəf-i",
+   "pos": "n.",
+   "def": "Emaciation",
+   "ur": "سوکھا - خرابی ہاضمہ کی وجہ سے دبلا پن - لاغری -",
+   "ex": []
+  },
+  {
+   "w": "Atrophy",
+   "pron": "at-rəf-i",
+   "pos": "v.t. & i.",
+   "def": "",
+   "ur": "سوکھے کے مرض میں مبتلا ہونا - لاغر ہونا - دبلا ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Atropine",
+   "pron": "atro-pin",
+   "pos": "n.",
+   "def": "Poisonous alkaloid found in night shade",
+   "ur": "ایک زہریلا مادہ جو مکو سے نکلتا ہے - عرق مکو -",
+   "ex": []
+  },
+  {
+   "w": "Attach",
+   "pron": "ə-tach",
+   "pos": "v.t. & i.",
+   "def": "Make devoted",
+   "ur": "نتھی کرنا - عائد کرنا - ملانا - منسلک کرنا - شامل کرنا - شریک ہونا - کسی جماعت سے وابستہ ہونا - قرق کرنا - ضبط کرنا - ملحق کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Attache",
+   "pron": "ə-tashi",
+   "pos": "n.",
+   "def": "One attached to ambassador's staff",
+   "ur": "نائب ایلچی - عملہ سفارت کا رکن -",
+   "ex": []
+  },
+  {
+   "w": "Attache case",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "چمڑے کا چھوٹا بکس -",
+   "ex": []
+  },
+  {
+   "w": "Attachment",
+   "pron": "ə-tach-ment",
+   "pos": "n.",
+   "def": "Act of attaching",
+   "ur": "محبت - پیار - انس - وابستگی - اشتراک - منسلک ہونا - قرق - ضبطی -",
+   "ex": []
+  },
+  {
+   "w": "Attack",
+   "pron": "ə-tak",
+   "pos": "v.t.",
+   "def": "Fall upon,",
+   "ur": "ٹوٹ پڑنا - دھاوا بولنا - چڑھائی کرنا - حملہ کرنا - ضرر پہنچانا - اذیت دینا - برا اثر کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Attackable",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "حرف گیری کے قابل - قابل اعتراض - قابل گرفت -",
+   "ex": []
+  },
+  {
+   "w": "Attack",
+   "pron": "ə-tak",
+   "pos": "n.",
+   "def": "Offensive operation",
+   "ur": "دھاوا - یلغار - یورش - حملہ - چڑھائی -",
+   "ex": []
+  },
+  {
+   "w": "Attain",
+   "pron": "ə-tan",
+   "pos": "v.t. & i.",
+   "def": "Acquire",
+   "ur": "تکمیل کو پہنچانا - پورا کرنا - پہنچنا - حاصل کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Attainability, Attainableness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "حاصل کرنے کا امکان - حاصل ہونے کی صلاحیت -",
+   "ex": []
+  },
+  {
+   "w": "Attainable",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "جسکا حاصل ہونا ممکن ہو - قابل حصول -",
+   "ex": []
+  },
+  {
+   "w": "Attainder",
+   "pron": "ə-tan-dər",
+   "pos": "n.",
+   "def": "Consequences of the sentence of death or outlawry",
+   "ur": "وراثت سے محرومی - سزائے موت یا شہر بدر ہونے کا انجام - شہری حقوق سے محرومی -",
+   "ex": []
+  },
+  {
+   "w": "Attainment",
+   "pron": "ə-tan-ment",
+   "pos": "n.",
+   "def": "Act of attaining",
+   "ur": "قابلیت - اکتساب - ہنر - حصول -",
+   "ex": []
+  },
+  {
+   "w": "Attar",
+   "pron": "at-er",
+   "pos": "n.",
+   "def": "Perfume",
+   "ur": "عطر -",
+   "ex": []
+  },
+  {
+   "w": "Attemper",
+   "pron": "ət-emper",
+   "pos": "v.i.",
+   "def": "Modify temperature",
+   "ur": "آمیزش کرنا - ملانا - معتدل بنانا - حرارت معتدل کرنا - ٹھنڈا کرنا - تسکین دینا - مناسب حال کر لینا - سازگار بنا لینا -",
+   "ex": []
+  },
+  {
+   "w": "Attemperment",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "ہم آہنگی - اعتدال - مطابقت -",
+   "ex": []
+  },
+  {
+   "w": "Attempt",
+   "pron": "ə-temt",
+   "pos": "v.t.",
+   "def": "Try",
+   "ur": "جد و جہد کرنا - قصد کرنا - کوشش یا سعی کرنا - اقدام کرنا - چڑھائی کرنا - حملہ کرنا - دشمن یا قلعہ کو فتح کرنے کی کوشش کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Attemptable",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "سعی کرنے کے قابل -",
+   "ex": []
+  },
+  {
+   "w": "Attend",
+   "pron": "ə-tend",
+   "pos": "v.t. & i.",
+   "def": "Turn the mind to",
+   "ur": "مشغول ہونا - غور کرنا - توجہ کرنا - خدمت میں حاضر ہونا - رفاقت کرنا - ساتھ جانا - ملازمت کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Attendance",
+   "pron": "ə-tend-ans",
+   "pos": "n.",
+   "def": "Act of attending",
+   "ur": "حاضری - سیوا - خدمت - حاضر باشی - حضوری - موجودگی - شرکت - حاضرین کی تعداد -",
+   "ex": []
+  },
+  {
+   "w": "Dance attendance on",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کسی کے پاس ہر وقت جانا - مسلسل حاضر باشی کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Attendant",
+   "pron": "",
+   "pos": "n. & adj.",
+   "def": "",
+   "ur": "خدمت گزار - خدمتگار - حاضر رہنے والا - حاشیہ بردار - متعلقہ واقعات -",
+   "ex": []
+  },
+  {
+   "w": "Attention",
+   "pron": "ə-ten-shen",
+   "pos": "n.",
+   "def": "Act of attending; Ceremonious politeness",
+   "ur": "توجہ - دھیان - التفات - خیال - تکلفانہ آداب - خاطر مدارات -",
+   "ex": []
+  },
+  {
+   "w": "Stand at attention",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "سیدھے کھڑے ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Attentively",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "پوری توجہ سے -",
+   "ex": []
+  },
+  {
+   "w": "Attentiveness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "توجہ - دھیان - التفات -",
+   "ex": []
+  },
+  {
+   "w": "Attenuate",
+   "pron": "ə-tenu-at",
+   "pos": "adj.",
+   "def": "Slender, rarefied",
+   "ur": "پتلا - رقیق - ہلکا کیا ہوا -",
+   "ex": []
+  },
+  {
+   "w": "Attenuate",
+   "pron": "ə-tenu-at",
+   "pos": "v.t.",
+   "def": "Make slender",
+   "ur": "تخفیف کرنا - گھٹانا (قیمت) - رقیق کرنا - پتلا کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Attenuation",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "پتلا ہونا - کمی - تخفیف -",
+   "ex": []
+  },
+  {
+   "w": "Attest",
+   "pron": "ə-test",
+   "pos": "v.t. & i.",
+   "def": "Testify, certify",
+   "ur": "گواہ ہونا - حلفیہ اقرار لینا - توثیق کرنا - تصدیق کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Attestor",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "تصدیق کنندہ حاکم - حلف لینے والا - تصدیق کرنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Attestation",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "حلفیہ اقرار - تحریری اقرار - حلفیہ بیان - شہادت - تصدیق - توثیق -",
+   "ex": []
+  },
+  {
+   "w": "Attic",
+   "pron": "at-ik",
+   "pos": "n.",
+   "def": "Highest storey of house",
+   "ur": "اٹاری - بالا خانہ -",
+   "ex": []
+  },
+  {
+   "w": "Attic",
+   "pron": "at-ik",
+   "pos": "adj.",
+   "def": "Of Athens or Attica",
+   "ur": "شہر ایتھنز کا - کھرا - اصلی -",
+   "ex": []
+  },
+  {
+   "w": "Atticism",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "شیریں گفتار - فصاحت - ایتھنز کے آداب - طریقے -",
+   "ex": []
+  },
+  {
+   "w": "Attire",
+   "pron": "ə-tire",
+   "pos": "v.t. & n.",
+   "def": "Dress, array,",
+   "ur": "سنوارنا - کپڑے پہننا - لباس پہننا - ملبوس - لباس - کپڑے - پوشاک -",
+   "ex": []
+  },
+  {
+   "w": "Attitude",
+   "pron": "at-i-tud",
+   "pos": "n.",
+   "def": "Posture of body",
+   "ur": "رویہ - انداز - طرز - وضع - چہرہ مہرہ - حالت -",
+   "ex": []
+  },
+  {
+   "w": "Attitudinize",
+   "pron": "atitud-iniz",
+   "pos": "v.t.",
+   "def": "Practise attitudes",
+   "ur": "تصنع سے پیش آنا - بناوٹ سے بولنا - ٹھاٹھ یا وضع دکھانا -",
+   "ex": []
+  },
+  {
+   "w": "Attorn",
+   "pron": "a-torn",
+   "pos": "v.t. & i.",
+   "def": "Transfer",
+   "ur": "پٹہ تبدیل کرنا - قانونی طور پر منتقل کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Attornment",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "تبدیلی پٹہ -",
+   "ex": []
+  },
+  {
+   "w": "Attorney",
+   "pron": "ə-torn-i",
+   "pos": "n.",
+   "def": "One appointed to act for another",
+   "ur": "وکیل - مختار -",
+   "ex": []
+  },
+  {
+   "w": "Attorney ship",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "مختاری - وکالت -",
+   "ex": []
+  },
+  {
+   "w": "Letter, warant of attorney",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "مختار نامہ -",
+   "ex": []
+  },
+  {
+   "w": "Power of attorney",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بہ حیثیت مختار - مختاری یا وکالت کا اختیار -",
+   "ex": []
+  },
+  {
+   "w": "Attract",
+   "pron": "ə-tract",
+   "pos": "v.t.",
+   "def": "Draw to oneself",
+   "ur": "گرویدہ کرنا - کھینچنا - کشش کرنا - متوجہ کرنا - دلپسند ہونا - اچھا معلوم ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Attractability",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "کھینچنے کی قوت یا صلاحیت - کشش -",
+   "ex": []
+  },
+  {
+   "w": "Attractable",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "کشش سے متاثر ہونے والا -",
+   "ex": []
+  },
+  {
+   "w": "Attraction",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "دوسروں کو کھینچ لینے کی قابلیت - دلکشی - کشش -",
+   "ex": []
+  },
+  {
+   "w": "Attractive",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "گرویدہ کرنے والا - دلربا - دلکش -",
+   "ex": []
+  },
+  {
+   "w": "Attractively",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "جاذبیت سے - دلکشی سے -",
+   "ex": []
+  },
+  {
+   "w": "Attractiveness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "کشش - دلفریبی - دلکشی -",
+   "ex": []
+  },
+  {
+   "w": "Attribute",
+   "pron": "ə-trib-ut",
+   "pos": "n.",
+   "def": "Quality ascribed to anything",
+   "ur": "لواحق - لوازم - خاصہ - گن - خاصیت - وصف - صفت -",
+   "ex": []
+  },
+  {
+   "w": "Attribute",
+   "pron": "ə-trib-ut",
+   "pos": "v.t.",
+   "def": "",
+   "ur": "منسوب کرنا - سبب قرار دینا - خصوصیت قرار دینا - صفت قرار دینا -",
+   "ex": []
+  },
+  {
+   "w": "Attributable",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "منسوبی - نسبت پذیر -",
+   "ex": []
+  },
+  {
+   "w": "Attribution",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "خاصیت - انتساب - نسبت - لگاؤ -",
+   "ex": []
+  },
+  {
+   "w": "Attributive",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "صفاتی - وصفی - توصیفی -",
+   "ex": []
+  },
+  {
+   "w": "Attributively",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "از روئے اوصاف - بلحاظ صفات -",
+   "ex": []
+  },
+  {
+   "w": "Attrition",
+   "pron": "ə-tri-shen",
+   "pos": "n.",
+   "def": "Friction",
+   "ur": "ندامت - پچھتاوا - فرسودگی - گھسائی - رگڑ -",
+   "ex": []
+  },
+  {
+   "w": "Attune",
+   "pron": "ə-tun",
+   "pos": "v.t.",
+   "def": "Bring into musical accords",
+   "ur": "ہم آہنگ کرنا - سُر ملانا - ساز ملانا - سُر ٹھیک کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Auburn",
+   "pron": "aw-bern",
+   "pos": "adj.",
+   "def": "Golden brown",
+   "ur": "سرخی مائل سنہری بھورا - سنہری -",
+   "ex": []
+  },
+  {
+   "w": "Auction",
+   "pron": "awk-shen",
+   "pos": "n.",
+   "def": "Public sale by bidding",
+   "ur": "نیلام -",
+   "ex": []
+  },
+  {
+   "w": "Auction bridge",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "برج کھیل جس میں ہر کھیلنے والا بولی بولتا ہے - ایک قسم کا پتو کا کھیل -",
+   "ex": []
+  },
+  {
+   "w": "Dutch auction",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "ولندیزی نیلام جس میں قیمت گھٹاتے چلے جاتے ہیں -",
+   "ex": []
+  },
+  {
+   "w": "Auctioneer",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "نیلام کرنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Audacious",
+   "pron": "âw-dae-shes",
+   "pos": "adj.",
+   "def": "Daring",
+   "ur": "بے ادب - شوخ - گستاخ - جی دار - جری - بہادر -",
+   "ex": []
+  },
+  {
+   "w": "Audaciously",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "جرات سے - گستاخانہ - دلیرانہ -",
+   "ex": []
+  },
+  {
+   "w": "Audaciousness, Audacity",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "دلیری - جرات - جی داری - بہادری -",
+   "ex": []
+  },
+  {
+   "w": "Audible",
+   "pron": "awd-i-bl",
+   "pos": "adj.",
+   "def": "Perceptible to the ear",
+   "ur": "جو سنائی دے سکے - سنائی دینے والا -",
+   "ex": []
+  },
+  {
+   "w": "Audibility, Audibleness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "سننے جانے کی صلاحیت -",
+   "ex": []
+  },
+  {
+   "w": "Audibly",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "اس طرح سے کہ سنا جا سکے - بلند آواز سے -",
+   "ex": []
+  },
+  {
+   "w": "Audience",
+   "pron": "awd-ens",
+   "pos": "n.",
+   "def": "Hearing, formal interview",
+   "ur": "باریابی - رسمی ملاقات - سامعین - حاضرین جلسہ - سننے والے -",
+   "ex": []
+  },
+  {
+   "w": "Audit",
+   "pron": "awd-it",
+   "pos": "n.",
+   "def": "Examination of accounts",
+   "ur": "حساب کی جانچ پڑتال - تنقیح - باز پرس -",
+   "ex": []
+  },
+  {
+   "w": "Audit-room",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "حساب کتاب کے دفتر کا کمرہ جو گرجاؤں میں ہوتا ہے -",
+   "ex": []
+  },
+  {
+   "w": "Audit-office",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "دفتر تنقیح - محاسب کا دفتر -",
+   "ex": []
+  },
+  {
+   "w": "Audition",
+   "pron": "aw-dish-ən",
+   "pos": "n.",
+   "def": "Power of hearing",
+   "ur": "کان لگا کر سننا - سننے کی قوت - سماعت -",
+   "ex": []
+  },
+  {
+   "w": "Auditive",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "سماعت کے متعلق -",
+   "ex": []
+  },
+  {
+   "w": "Auditor",
+   "pron": "awd-it-ər",
+   "pos": "n.",
+   "def": "",
+   "ur": "حساب کی جانچ کرنے والا - تنقیح کنندہ - تنقیح ساز -",
+   "ex": []
+  },
+  {
+   "w": "Auditorship",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "عہدہ تنقیح ساز -",
+   "ex": []
+  },
+  {
+   "w": "Auditress",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "تنقیح ساز خاتون -",
+   "ex": []
+  },
+  {
+   "w": "Auditorial",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "تنقیح - حسابات کے متعلق - محاسبہ -",
+   "ex": []
+  },
+  {
+   "w": "Auditory",
+   "pron": "awd-it-əri",
+   "pos": "adj. & n.",
+   "def": "",
+   "ur": "مجمع سامعین - گوش رس - مسموع - سمعی -",
+   "ex": []
+  },
+  {
+   "w": "Auditorium",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "سامعین کے بیٹھنے کی جگہ - وہ عمارت جہاں درس ہوتا ہے - سماعت خانہ -",
+   "ex": []
+  },
+  {
+   "w": "Augean",
+   "pron": "aw-jiən",
+   "pos": "adj.",
+   "def": "Filthy-",
+   "ur": "غلیظ - گندہ - کثیف جیسے اجیس کے اصطبل - ہرقل نے دریائے الفیوس کو بہا کر اجیس کے اصطبل صاف کیے تھے -",
+   "ex": []
+  },
+  {
+   "w": "Auger",
+   "pron": "aw-gər",
+   "pos": "n.",
+   "def": "Tool for boring holes in wood",
+   "ur": "سوراخ کرنے کا آلہ - برما -",
    "ex": []
   }
  ],
