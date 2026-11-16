@@ -61292,6 +61292,1774 @@
    "def": "",
    "ur": "ہار جانا - ہلکا ثابت ہونا - پلڑا ڈنڈی کو لگنا -",
    "ex": []
+  },
+  {
+   "w": "Beam",
+   "pron": "bem",
+   "pos": "v.t. & i.",
+   "def": "Smile",
+   "ur": "مسکرانا - شگفتہ ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Beaming",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "چمکدار - منور - شگفتہ - روشن - دمکتا ہوا -",
+   "ex": []
+  },
+  {
+   "w": "Beamy",
+   "pron": "bemi",
+   "pos": "adj.",
+   "def": "Radiant",
+   "ur": "چمکدار - تابندہ - روشن -",
+   "ex": []
+  },
+  {
+   "w": "Bean",
+   "pron": "ben",
+   "pos": "n.",
+   "def": "kind of plants bearing kidney shaped seeds in pods,",
+   "ur": "باقلا - لوبیا - پھلی -",
+   "ex": []
+  },
+  {
+   "w": "Bean feast, Beano",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "سالانہ دعوت جو کارخانہ دار مزدوروں کو دیتے ہیں - کھیل کود - خوش وقتی -",
+   "ex": []
+  },
+  {
+   "w": "Bear",
+   "pron": "bar",
+   "pos": "n.",
+   "def": "Heavy hairy quadruped, rough person",
+   "ur": "ریچھ - بھالو - بدتمیز آدمی - گندہٗ ناتراش - سٹے باز - وعدے پر سودا کرنے والا - قیمت گرانے والا -",
+   "ex": []
+  },
+  {
+   "w": "Bear-garden",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ریچھ کی جگہ - بھنکڑ خانہ -",
+   "ex": []
+  },
+  {
+   "w": "Bearskin",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ریچھ کی کھال کا لبادہ - محافظ فوجی دستے کی پشم دار ٹوپی -",
+   "ex": []
+  },
+  {
+   "w": "Great Bear",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بڑا کھولا - بنات النعش کبریٰ - دب اکبر -",
+   "ex": []
+  },
+  {
+   "w": "Little Bear",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "چھوٹا کھولا - بنات النعش صغریٰ - دب اصغر -",
+   "ex": []
+  },
+  {
+   "w": "Bearish",
+   "pron": "bar-ish",
+   "pos": "adj.",
+   "def": "Like a bear",
+   "ur": "بھالو کی طرح - ریچھ جیسا -",
+   "ex": []
+  },
+  {
+   "w": "Bearishness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "ریچھ کی طرح ہونا - اجڈ پن - بدتمیزی -",
+   "ex": []
+  },
+  {
+   "w": "Bear",
+   "pron": "bar",
+   "pos": "v. t. & i.",
+   "def": "Carry away",
+   "ur": "لے جانا - اٹھا لے جانا - سنبھالنا - سہنا - دل میں رکھنا - برداشت کرنا - اپنے ذمے لینا - جھنا - زور ڈالنا -",
+   "ex": []
+  },
+  {
+   "w": "Bear a grudge",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بغض رکھنا - کینہ رکھنا -",
+   "ex": []
+  },
+  {
+   "w": "Bear oneself well",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "اچھے طریقے سے کام لینا - شرافت کا اظہار کرنا - رکھ رکھاؤ -",
+   "ex": []
+  },
+  {
+   "w": "Bear away the palm",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "سرسہرہ ہونا - بازی لے جانا -",
+   "ex": []
+  },
+  {
+   "w": "Bear out",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "قول کو سچ کر دکھانا - تصدیق کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Bear up",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "حمایت کرنا - ہمت نہ ہارنا - مایوس نہ ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Bear with",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "درگزر کرنا - برداشت کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Bring to bear",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "اثر ڈالنا یا کام میں لانا -",
+   "ex": []
+  },
+  {
+   "w": "Does not bear repeating",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "اعادہ کے قابل نہیں -",
+   "ex": []
+  },
+  {
+   "w": "Bearable",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "قابل برداشت -",
+   "ex": []
+  },
+  {
+   "w": "Beard",
+   "pron": "be-rd",
+   "pos": "",
+   "def": "Hair of lower face",
+   "ur": "ڈاڑھی - ریش - مچھلیوں کے لمبے بال - اناج کے بھسے یا بالیوں کے مہین ریشے -",
+   "ex": []
+  },
+  {
+   "w": "Bearded",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "ریش دار - ڈاڑھی والا -",
+   "ex": []
+  },
+  {
+   "w": "Beardless",
+   "pron": "",
+   "pos": "adj",
+   "def": "",
+   "ur": "بے ریش - ان ڈاڑھیا -",
+   "ex": []
+  },
+  {
+   "w": "Beardlessness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "بے ڈاڑھی ہونا - بے ریش پن -",
+   "ex": []
+  },
+  {
+   "w": "Beard",
+   "pron": "be-rd",
+   "pos": "v.t.",
+   "def": "Oppose openly",
+   "ur": "علانیہ مقابلہ کرنا - مخالفت کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Beard the lion in his den",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "شیر کو اس کے بھٹ میں للکارنا - کسی کے گھر یا محل میں اس کو دھمکانا -",
+   "ex": []
+  },
+  {
+   "w": "Bearer",
+   "pron": "ber-er",
+   "pos": "n.",
+   "def": "Carrier of coffin",
+   "ur": "لے جانے والا - جنازہ بردار - عامل - خدمت گار -",
+   "ex": []
+  },
+  {
+   "w": "Bearing",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "برتاؤ - طرز عمل - ڈھنگ - سمت - رخ -",
+   "ex": []
+  },
+  {
+   "w": "Lose one's bearing",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بھنک جانا - شعور کھو بیٹھنا - سدھ نہ رہنا -",
+   "ex": []
+  },
+  {
+   "w": "Beast",
+   "pron": "be-st",
+   "pos": "n.",
+   "def": "Animal",
+   "ur": "قابل نفرت آدمی - وحشی انسان - چوپایہ - حیوان -",
+   "ex": []
+  },
+  {
+   "w": "Beastliness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "بسیار خوری - شہوت پرستی - بدستی - حیوانیت -",
+   "ex": []
+  },
+  {
+   "w": "Beastly",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "جانور جیسا - نفرت انگیز - نجس - حیوان خصلت -",
+   "ex": []
+  },
+  {
+   "w": "Beat",
+   "pron": "bet",
+   "pos": "v. t. & i.",
+   "def": "Strike repeatedly",
+   "ur": "پیٹنا - مارنا - غالب آنا - سبقت لے جانا - دل کا دھڑکنا - گھڑی کا چلنا - زد و کوب کرنا - پانکا کرنا - پانک کر لانا -",
+   "ex": []
+  },
+  {
+   "w": "Beat about the bush",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "اصل معاملہ سے دور رہنا - بات اڑا دینا - ہیر پھیر کرنا - ٹامک ٹوئیاں مارنا -",
+   "ex": []
+  },
+  {
+   "w": "Beat a retreat",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "پسپا ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Beat black and blue",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "مارتے مارتے نیل ڈال دینا -",
+   "ex": []
+  },
+  {
+   "w": "Beat down, back, away, off",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "مار بھگانا -",
+   "ex": []
+  },
+  {
+   "w": "Beat hollow",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "مد مقابل کو پوری پوری شکست دینا -",
+   "ex": []
+  },
+  {
+   "w": "Beat one's brains",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "سر کھپانا - دماغ سوزی کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Beat the air",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "لا حاصل کام کرنا - بے فائدہ کوشش کرنا - ہوا کو مٹھی میں تھامنے کی کوشش کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Beat up eggs",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "انڈے (وغیرہ) پھینٹنا -",
+   "ex": []
+  },
+  {
+   "w": "Beats cock fighting",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بہت خوب ہے - نہایت دلچسپ ہے -",
+   "ex": []
+  },
+  {
+   "w": "Beat an alarm",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "مقابلہ کی تیاری کرنا - خطرے کی اطلاع دینا -",
+   "ex": []
+  },
+  {
+   "w": "Beat into one's head",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "سر میں ٹھونسنا - دماغ میں اتارنا -",
+   "ex": []
+  },
+  {
+   "w": "Beat",
+   "pron": "bet",
+   "pos": "n.",
+   "def": "Stroke",
+   "ur": "ضرب - چوٹ - گھڑی کی ٹک ٹک - دل کی دھڑکن - بندوق وغیرہ کی زد - مقررہ گشت -",
+   "ex": []
+  },
+  {
+   "w": "Beaten",
+   "pron": "bat-en",
+   "pos": "adj.",
+   "def": "Dejected, exhausted",
+   "ur": "پٹا ہوا - ہارا ہوا - تھکا ہوا - پا مال - پرانا -",
+   "ex": []
+  },
+  {
+   "w": "Beater",
+   "pron": "bat-er",
+   "pos": "n.",
+   "def": "Man employed to rouse game",
+   "ur": "پانکا کرنے والا - درمٹ - سوکری - تھاپ -",
+   "ex": []
+  },
+  {
+   "w": "Beatific",
+   "pron": "batifik",
+   "pos": "adj.",
+   "def": "Making blessed",
+   "ur": "بشیر - مبارک - روحانی خوشی بخشنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Beatify",
+   "pron": "batifi",
+   "pos": "v.t.",
+   "def": "Make happy",
+   "ur": "روحانی خوشی سے نہال کرنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Beating",
+   "pron": "bating",
+   "pos": "n.",
+   "def": "Chastisement, defeat",
+   "ur": "مار - سزا - ہار - شکست -",
+   "ex": []
+  },
+  {
+   "w": "Beau",
+   "pron": "bo",
+   "pos": "n.",
+   "def": "Dandy, lady's man",
+   "ur": "البیلا - بانکا - چھیلا - رنگیلا - عاشق -",
+   "ex": []
+  },
+  {
+   "w": "Beau geste",
+   "pron": "bozhest",
+   "pos": "n.",
+   "def": "",
+   "ur": "بڑائی کا دکھاوا - امارت کی نمائش - بڑ بھس - نواب بے طبل و علم -",
+   "ex": []
+  },
+  {
+   "w": "Beauideal",
+   "pron": "bo-idal",
+   "pos": "n.",
+   "def": "one's highest type of beauty",
+   "ur": "حسن کا انتہائی معیار - خوب سے خوب تر -",
+   "ex": []
+  },
+  {
+   "w": "Beauteous",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "حسین - دلکش - جمیل - خوبصورت -",
+   "ex": []
+  },
+  {
+   "w": "Beautiful",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "حسین - دلکش - خوش نما - دلپذیر -",
+   "ex": []
+  },
+  {
+   "w": "Beautify",
+   "pron": "",
+   "pos": "v.t.",
+   "def": "",
+   "ur": "سجانا - آراستہ کرنا - خوبصورت بنانا - مزین کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Beautifier",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "مشاطہ - سجانے والا - مزین کرنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Beauty",
+   "pron": "buti",
+   "pos": "n.",
+   "def": "Combination of attractive qualities",
+   "ur": "روپ - خوبصورتی - حسن - جمال - دلکشی - خوش ادائی -",
+   "ex": []
+  },
+  {
+   "w": "Beauty is but skin deep",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "صورت سے سیرت کا اندازہ نہیں لگایا جا سکتا -",
+   "ex": []
+  },
+  {
+   "w": "Beauty-sleep",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "حسن افزا نیند -",
+   "ex": []
+  },
+  {
+   "w": "Beauty-spot",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "مصنوعی خال - دلکش منظر -",
+   "ex": []
+  },
+  {
+   "w": "A beauty",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "(طنزاً) دیدنی - دیکھنے کے قابل - قابل دید -",
+   "ex": []
+  },
+  {
+   "w": "That is the beauty of it",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "یہی تو مزے کی بات ہے - یہی تو اس کی خوبی ہے -",
+   "ex": []
+  },
+  {
+   "w": "Beaver",
+   "pron": "bevar",
+   "pos": "n.",
+   "def": "Soft-furred rodent; lower faceguard of helmet",
+   "ur": "سنجاب - اود بلاؤ - سگ آبی - اونی ٹوپی - خود کا اگلا حصہ -",
+   "ex": []
+  },
+  {
+   "w": "Becalm",
+   "pron": "be-kam",
+   "pos": "v.t.",
+   "def": "Make calm",
+   "ur": "چپ کرنا - خاموش کرنا - دلاسا دینا -",
+   "ex": []
+  },
+  {
+   "w": "Because",
+   "pron": "bi-kaz",
+   "pos": "conj. & adv.",
+   "def": "For the reason",
+   "ur": "اس لیے کہ - کیونکہ - بدیں وجہ - بہ سبب - اینکہ -",
+   "ex": []
+  },
+  {
+   "w": "Beck",
+   "pron": "bek",
+   "pos": "n.",
+   "def": "Mountain Stream",
+   "ur": "چشمہ - پہاڑی نالہ - اشارہ - معنی خیز اشارہ - سر کی جنبش -",
+   "ex": []
+  },
+  {
+   "w": "Be at a person's beck and call",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کسی کے اشارے پر چلنا -",
+   "ex": []
+  },
+  {
+   "w": "Beck",
+   "pron": "bek",
+   "pos": "v.t. & i.",
+   "def": "Make mute signal",
+   "ur": "اشارے کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Beckon",
+   "pron": "bekan",
+   "pos": "v.t. & i.",
+   "def": "Call attention by gesture",
+   "ur": "اشارے سے اپنی طرف متوجہ کرنا - اشارے کرنا - اطلاع دینا -",
+   "ex": []
+  },
+  {
+   "w": "Becloud",
+   "pron": "bi-clowd",
+   "pos": "v.t.",
+   "def": "Cover with clouds",
+   "ur": "ابر سے ڈھک دینا - پردہ ڈالنا - چھپا دینا -",
+   "ex": []
+  },
+  {
+   "w": "Become",
+   "pron": "bi-kum",
+   "pos": "v.t. & i.",
+   "def": "Come into being",
+   "ur": "ہونا - ہو جانا - ٹھیک ہونا - شایان ہونا - زیب دینا -",
+   "ex": []
+  },
+  {
+   "w": "Becoming",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "زیبا - مناسب - موزوں - شایان شان - سزا وار -",
+   "ex": []
+  },
+  {
+   "w": "Becomingly",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "موزونیت سے -",
+   "ex": []
+  },
+  {
+   "w": "Becomingness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "زیبائش - موزونیت -",
+   "ex": []
+  },
+  {
+   "w": "Bed",
+   "pron": "bed",
+   "pos": "n.",
+   "def": "Thing to sleep on",
+   "ur": "پلنگ - چارپائی - بستر - بچھونا - فرش - بنیاد - کیاری - تختہ - سمندر اور دریا کی تہہ -",
+   "ex": []
+  },
+  {
+   "w": "Bed and board",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "زن و شوہر کے تعلقات - میہانداری - قیام و طعام -",
+   "ex": []
+  },
+  {
+   "w": "Bedchamber",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "خواب گاہ -",
+   "ex": []
+  },
+  {
+   "w": "Bedfellow",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ایک ہی رنگ کے - ساتھی - رفیق -",
+   "ex": []
+  },
+  {
+   "w": "Bedmaker",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "جامعہ آکسفورڈ اور کیمرج کا خادم یا خادمہ -",
+   "ex": []
+  },
+  {
+   "w": "Bed of downs, flowers, roses",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "آرام کی زندگی - پھولوں کی سیج -",
+   "ex": []
+  },
+  {
+   "w": "Bed of sickness",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بستر علالت -",
+   "ex": []
+  },
+  {
+   "w": "Bedpost",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "مسہری کے ڈنڈے - پلنگ کے پائے -",
+   "ex": []
+  },
+  {
+   "w": "Bed ridden",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ضعیف - کمزور - صاحب فراش -",
+   "ex": []
+  },
+  {
+   "w": "Bed-side manner",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "مریض کو تسلی دینے کا ڈھب -",
+   "ex": []
+  },
+  {
+   "w": "Bed-sore",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ایک عرصے تک لیٹے رہنے سے مریض کے جو زخم پڑ جاتے ہیں - زخم بستر -",
+   "ex": []
+  },
+  {
+   "w": "Bedspread",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بستر کی چادر - پلنگ پوش -",
+   "ex": []
+  },
+  {
+   "w": "Bedstead",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "مسہری - پلنگ -",
+   "ex": []
+  },
+  {
+   "w": "Between you and me and the bed post",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "راز - خفیہ مشورہ -",
+   "ex": []
+  },
+  {
+   "w": "Die in one's bed",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "طبعی موت مرنا -",
+   "ex": []
+  },
+  {
+   "w": "Lie in the bed one has made",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "چاہ کن را چاہ در پیش - اپنے اعمال کی سزا بھگتنا -",
+   "ex": []
+  },
+  {
+   "w": "Bed",
+   "pron": "bed",
+   "pos": "v.t. & i.",
+   "def": "Put or go to bed",
+   "ur": "بستر پر سونا - سلانا - گاڑنا - نصب کرنا - تہ جمانا - کیاری بنانا -",
+   "ex": []
+  },
+  {
+   "w": "Bedabble",
+   "pron": "bi-dab-l",
+   "pos": "v.t.",
+   "def": "Stain, splash,",
+   "ur": "لتھیڑنا - دھبے ڈالنا - چھڑکنا - گیلا کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Bedaub",
+   "pron": "bi-dawb",
+   "pos": "v.t.",
+   "def": "Smear with paint",
+   "ur": "رنگنا - میلا کرنا - رنگ چڑھانا -",
+   "ex": []
+  },
+  {
+   "w": "Bedding",
+   "pron": "bed-ing",
+   "pos": "n.",
+   "def": "Mattress, bed cloths",
+   "ur": "بچھونا - بستر - توشک - گدا - نچلی تہہ -",
+   "ex": []
+  },
+  {
+   "w": "Bedeck",
+   "pron": "bi-dek",
+   "pos": "v.t.",
+   "def": "Adorn",
+   "ur": "سنگھارنا - آراستہ کرنا - سجانا -",
+   "ex": []
+  },
+  {
+   "w": "Bedevil",
+   "pron": "bi-dev-l",
+   "pos": "v.t.",
+   "def": "Treat with diabolical violence",
+   "ur": "کسی پر بنایہ آسیب ہونا - ظلم کرنا - ابتری پھیلانا - کسی کو شیطان کہہ کر پکارنا -",
+   "ex": []
+  },
+  {
+   "w": "Bedevilment",
+   "pron": "bi-devl-ment",
+   "pos": "n.",
+   "def": "Possession by devil, confusion",
+   "ur": "آسیب کا خلل - ناقابل برداشت - مصیبت - ابتری -",
+   "ex": []
+  },
+  {
+   "w": "Bedew",
+   "pron": "bi-deu",
+   "pos": "v.t.",
+   "def": "Cover with drops,",
+   "ur": "چھڑکنا - بھگونا - شبنم سے گیلا کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Bedim",
+   "pron": "bi-dim",
+   "pos": "v.t.",
+   "def": "Make dim",
+   "ur": "دھندلا کرنا - بینائی یا دماغ کو دھندلانا -",
+   "ex": []
+  },
+  {
+   "w": "Bedizen",
+   "pron": "bi-dizn",
+   "pos": "n. & v.t.",
+   "def": "Dress out gaudily",
+   "ur": "آرائش میں شوخ اور بھدے رنگ استعمال کرنا - پھوڑاڑ پن سے آرائش کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Bedlam",
+   "pron": "bed-lam",
+   "pos": "n.",
+   "def": "Lunatic asylum",
+   "ur": "غل غپاڑے کی جگہ - پاگل خانہ -",
+   "ex": []
+  },
+  {
+   "w": "Bedlamite",
+   "pron": "",
+   "pos": "adj. & n.",
+   "def": "",
+   "ur": "دیوانہ - پاگل - سودائی -",
+   "ex": []
+  },
+  {
+   "w": "Bedouin",
+   "pron": "bedoo-in",
+   "pos": "n.",
+   "def": "Arab of the desert",
+   "ur": "خانہ بدوش - بدو - صحرائی -",
+   "ex": []
+  },
+  {
+   "w": "Bedrabbled",
+   "pron": "bi-drabld",
+   "pos": "adj.",
+   "def": "Dirty with rain and mud",
+   "ur": "کیچڑ پانی میں لتھڑا ہوا -",
+   "ex": []
+  },
+  {
+   "w": "Bedraggle",
+   "pron": "bi-dragl",
+   "pos": "v.t.",
+   "def": "Wet by trailing",
+   "ur": "کیچڑ پانی میں لتھڑنا - لباس کا مٹی میں خراب ہو جانا -",
+   "ex": []
+  },
+  {
+   "w": "Bee",
+   "pron": "be",
+   "pos": "n.",
+   "def": "Stinging social insect",
+   "ur": "مہال یا شہد کی مکھی - نحل - بڑے انہماک سے کام کرنے والا - کام یا تفریح کا مجمع -",
+   "ex": []
+  },
+  {
+   "w": "To have bees in the head",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بے کل ہونا - بے آرام ہونا - بے چین ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Bee-bread",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "پھول کا زیرہ جو شہد کی مکھی کھاتی ہے -",
+   "ex": []
+  },
+  {
+   "w": "Bee-eater",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "ایک پرند جو شہد کی مکھیاں کھاتا ہے -",
+   "ex": []
+  },
+  {
+   "w": "Beehive",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "شہد کی مکھیوں کا چھتہ -",
+   "ex": []
+  },
+  {
+   "w": "Have a bee in one's bonnet",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کسی چیز کا خبط ہو جانا -",
+   "ex": []
+  },
+  {
+   "w": "Beech",
+   "pron": "bech",
+   "pos": "n.",
+   "def": "Smooth-barked glossy leaved forest tree",
+   "ur": "سفیدے کی قسم کا ایک درخت جس کی چھال چکنی اور پتے چمکدار ہوتے ہیں -",
+   "ex": []
+  },
+  {
+   "w": "Beef",
+   "pron": "bef",
+   "pos": "n.",
+   "def": "Flesh of ox or cow",
+   "ur": "گائے کا گوشت - جسامت - جسم کا گتھا ہوا حصہ -",
+   "ex": []
+  },
+  {
+   "w": "Beefeater",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "لندن برج کا نگران سپاہی - انگریز -",
+   "ex": []
+  },
+  {
+   "w": "Beef tea",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "گائے کے گوشت کی یخنی یا شوربا -",
+   "ex": []
+  },
+  {
+   "w": "Beefy",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "بے وقوف - گاودی - ٹھوس جسم کا - بیل کی طرح -",
+   "ex": []
+  },
+  {
+   "w": "Beefiness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "گتھیلا پن - مضبوطی -",
+   "ex": []
+  },
+  {
+   "w": "Been",
+   "pron": "ben",
+   "pos": "pa.p.",
+   "def": "Of be",
+   "ur": "ہوا تھا - ہو گیا تھا -",
+   "ex": []
+  },
+  {
+   "w": "Beer",
+   "pron": "bar",
+   "pos": "n.",
+   "def": "Wine of fermented malt",
+   "ur": "ہلکی شراب - جو کی شراب -",
+   "ex": []
+  },
+  {
+   "w": "Beery",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "بوزہ باز - نشہ میں مست - جو کی شراب کی طرح -",
+   "ex": []
+  },
+  {
+   "w": "Beet",
+   "pron": "bet",
+   "pos": "n.",
+   "def": "A plant with succulent roots",
+   "ur": "چقندر - گدے دار پودے -",
+   "ex": []
+  },
+  {
+   "w": "Beetroot",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "شکر قند - چقندر -",
+   "ex": []
+  },
+  {
+   "w": "Beetle",
+   "pron": "bi-tl",
+   "pos": "n.",
+   "def": "Insects having upper wings converted to hard wing cases",
+   "ur": "دھمس - بھونڑا - بھونرا - موگری - کھریا -",
+   "ex": []
+  },
+  {
+   "w": "Beetle-brain",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بے وقوف - بے مغز - کودن -",
+   "ex": []
+  },
+  {
+   "w": "Beetle",
+   "pron": "bi-tl",
+   "pos": "adj.",
+   "def": "Projecting brows",
+   "ur": "باہر کو نکلی ہوئی بھویں - تیوری چڑھائے ہوئے - غصے سے بھرا ہوا -",
+   "ex": []
+  },
+  {
+   "w": "Beetle",
+   "pron": "bi-tl",
+   "pos": "v.i.",
+   "def": "Project, overhang",
+   "ur": "باہر کو نکلا ہوا ہونا - لٹکتا ہوا ہونا - بد مستی کا سنڈلانا -",
+   "ex": []
+  },
+  {
+   "w": "Befall",
+   "pron": "bi-fawl",
+   "pos": "v.t. & i.",
+   "def": "Happen,",
+   "ur": "نازل ہونا - گرنا - پڑنا - بیتنا - واقع ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Befit",
+   "pron": "bi-fit",
+   "pos": "v.t.",
+   "def": "Suit",
+   "ur": "پہننا - شایان شان ہونا - موزوں ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Befitting",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "شایان شان - مناسب - موزوں -",
+   "ex": []
+  },
+  {
+   "w": "Befittingly",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "شایان شان طور پر - موزونیت سے -",
+   "ex": []
+  },
+  {
+   "w": "Befog",
+   "pron": "bi-fog",
+   "pos": "v.t.",
+   "def": "Envelop in fog",
+   "ur": "کہر یا غبار سے ڈھانپنا - تاریک کرنا - دھندلا کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Befool",
+   "pron": "bi-fool",
+   "pos": "v.t.",
+   "def": "Dupe",
+   "ur": "الو بنانا - احمق بنانا - بیوقوف بنانا -",
+   "ex": []
+  },
+  {
+   "w": "Before",
+   "pron": "bi-for",
+   "pos": "adv. prep. & conj.",
+   "def": "In front of",
+   "ur": "آگے - پہلے - قبل - اگلے وقتوں میں - رو برو - قبل اس کے کہ -",
+   "ex": []
+  },
+  {
+   "w": "Before-hand",
+   "pron": "bi-for-hand",
+   "pos": "adv.",
+   "def": "In anticipation",
+   "ur": "آگے سے - پہلے سے - پیشتر سے -",
+   "ex": []
+  },
+  {
+   "w": "Befoul",
+   "pron": "bi-fowl",
+   "pos": "v.t.",
+   "def": "Make foul",
+   "ur": "خراب کرنا - گندہ کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Befriend",
+   "pron": "bi-frend",
+   "pos": "v.t.",
+   "def": "Help, favour",
+   "ur": "دوستی کرنا - دستگیری کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Beg",
+   "pron": "beg",
+   "pos": "v.t. & i.",
+   "def": "Ask for",
+   "ur": "مانگنا - عاجزی سے مانگنا - بھیک مانگنا - بھیک پر گزر کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Begad",
+   "pron": "bi-gad",
+   "pos": "Interj.",
+   "def": "By God",
+   "ur": "خدا کی قسم - واللہ -",
+   "ex": []
+  },
+  {
+   "w": "Beget",
+   "pron": "bi-get",
+   "pos": "v.t.",
+   "def": "Give rise to",
+   "ur": "جننا - پیدا کرنا - بانی ہونا - باعث ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Begetter",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "پیدا کرنے والا - بانی -",
+   "ex": []
+  },
+  {
+   "w": "Beggar",
+   "pron": "be-gar",
+   "pos": "n.",
+   "def": "One who begs",
+   "ur": "بھکاری - منگتا - فقیر - بھیک منگا -",
+   "ex": []
+  },
+  {
+   "w": "It beggars description",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بیان کرنے سے زبان قاصر ہے - ناقابل بیان - بیان سے باہر -",
+   "ex": []
+  },
+  {
+   "w": "Beggarly",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "کنگال - کمینہ - نادار - مفلس - غریب -",
+   "ex": []
+  },
+  {
+   "w": "Beggarliness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "بے عقلی - کمینگی - ناداری - کنگال پن -",
+   "ex": []
+  },
+  {
+   "w": "Beggary",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "ناداری - افلاس - محتاجی - بھیک -",
+   "ex": []
+  },
+  {
+   "w": "Begin",
+   "pron": "bi-gin",
+   "pos": "v.t. & i.",
+   "def": "Commence,",
+   "ur": "آغاز کرنا - پہل کرنا - پیدا کرنا - وجود میں لانا - شروع ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Beginner",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "شروع کرنے والا - موجد - ابجد خوان - نو آموز - مبتدی -",
+   "ex": []
+  },
+  {
+   "w": "Beginning",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "منبع - اصل مرکز - آغاز - ابتدا -",
+   "ex": []
+  },
+  {
+   "w": "The beginning of the end",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "انجام کے آثار -",
+   "ex": []
+  },
+  {
+   "w": "Begird",
+   "pron": "Bi-gerd",
+   "pos": "v.t.",
+   "def": "Encircle",
+   "ur": "احاطہ کرنا - حلقہ ڈالنا - گھیر لینا - گھیرنا -",
+   "ex": []
+  },
+  {
+   "w": "Begone",
+   "pron": "bi-gon",
+   "pos": "v. imp.",
+   "def": "Get away",
+   "ur": "چل ہٹ - دور ہو - اپنا رستہ لے -",
+   "ex": []
+  },
+  {
+   "w": "Begrime",
+   "pron": "bi-grim",
+   "pos": "v.t.",
+   "def": "Soil deeply",
+   "ur": "خراب کرنا - بھرنا - گیلی مٹی میں ملانا - آلودہ کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Beguile",
+   "pron": "bi-gil",
+   "pos": "v.t.",
+   "def": "Delude",
+   "ur": "دم دینا - دھوکا دینا - گمراہ کرنا - بہلانا - تفریح طبع کا باعث ہونا - تفریح کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Beguilement",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "چکمہ - بہلاوا - فریب دہی -",
+   "ex": []
+  },
+  {
+   "w": "Beguiler",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "دغا دینے والا - دھوکے باز - فریبی -",
+   "ex": []
+  },
+  {
+   "w": "Begum",
+   "pron": "bi-gum",
+   "pos": "n.",
+   "def": "Wife of a noble",
+   "ur": "امیر یا نواب کی بیوی - بیگم -",
+   "ex": []
+  },
+  {
+   "w": "Behalf",
+   "pron": "bi-haf",
+   "pos": "n.",
+   "def": "On account of",
+   "ur": "پیچھے - لئے - جانب - طرف - واسطے - خاطر -",
+   "ex": []
+  },
+  {
+   "w": "Behave",
+   "pron": "bi-hav",
+   "pos": "v.i.",
+   "def": "Conduct with propriety",
+   "ur": "پیش آنا - سلیقہ برتنا - آداب کا خیال رکھنا - کسی آدمی یا مشین کا اچھی طرح کام دینا -",
+   "ex": []
+  },
+  {
+   "w": "Well-behaved",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "با تمیز - مہذب - خوش اخلاق -",
+   "ex": []
+  },
+  {
+   "w": "Behaviour",
+   "pron": "bi-hav-yer",
+   "pos": "n.",
+   "def": "Deportment",
+   "ur": "چال ڈھال - طور طریقہ - چال چلن - اچھن - اچھی یا بری طرح کام کرنا - کردار -",
+   "ex": []
+  },
+  {
+   "w": "Be on one's good behaviour",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "نیک نامی پیدا کرنے کے لئے جان توڑ کوشش کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Behaviourism",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "یہ نظریہ کہ انسان کا کردار جوابی حرکت کے عمل پر مبنی ہے ، ہر انسان کے کردار کا تجزیہ نفسیاتی طور پر کیا جا سکتا ہے اور اس کے عمل کے متعلق پیشین گوئی کی جا سکتی ہے -",
+   "ex": []
+  },
+  {
+   "w": "Behead",
+   "pron": "bi-had",
+   "pos": "v.t.",
+   "def": "Kill by cutting the head",
+   "ur": "گردن مارنا - قتل کرنا - سر اڑا دینا -",
+   "ex": []
+  },
+  {
+   "w": "Behest",
+   "pron": "bi-hest",
+   "pos": "n.",
+   "def": "Command",
+   "ur": "امر - ہدایت - حکم - فرمان -",
+   "ex": []
+  },
+  {
+   "w": "Behind",
+   "pron": "bi-hind",
+   "pos": "adv.",
+   "def": "In or to the rear",
+   "ur": "پیچھے - پشت پر - عقب میں - دیر کر کے - پیچھے کی طرف - کسی کی پشت پر - تائید میں -",
+   "ex": []
+  },
+  {
+   "w": "Behind the scene",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "پس پردہ - راز میں - مخفی -",
+   "ex": []
+  },
+  {
+   "w": "Behind time",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "زمانے سے پیچھے - بعد از وقت -",
+   "ex": []
+  },
+  {
+   "w": "Fall behind",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "پس ماندہ ہونا - پیچھے رہ جانا -",
+   "ex": []
+  },
+  {
+   "w": "Go behind one's words",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "وعدے کے مطابق عہدہ برآ ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Behindhand",
+   "pron": "behind-hand",
+   "pos": "adj. & adv.",
+   "def": "out of date",
+   "ur": "پیچھے رہنے والا - پس ماندی - پیچھے -",
+   "ex": []
+  },
+  {
+   "w": "Behold",
+   "pron": "be-hold",
+   "pos": "v.t.",
+   "def": "Become aware",
+   "ur": "لیجئے - لو - اے لو - دیکھنا - دیکھو -",
+   "ex": []
+  },
+  {
+   "w": "Beholder",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "نظارکی - تماشائی - دیکھنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Beholden",
+   "pron": "bi-holden",
+   "pos": "adj.",
+   "def": "Under obligation",
+   "ur": "مرہون منت - زیر بار احسان - ممنون -",
+   "ex": []
+  },
+  {
+   "w": "Behoof",
+   "pron": "bi-hoof",
+   "pos": "n.",
+   "def": "Advantage",
+   "ur": "خاطر - غرض - واسطہ - فائدہ -",
+   "ex": []
+  },
+  {
+   "w": "Behove",
+   "pron": "bi-hoov",
+   "pos": "v.i.",
+   "def": "Be uncumbent on",
+   "ur": "واجب ہونا - مناسب ہونا - لازم ہونا - فرض ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Being",
+   "pron": "be-ing",
+   "pos": "n.",
+   "def": "Existence",
+   "ur": "شخص - مخلوق - وجود - زندگی - ہستی -",
+   "ex": []
+  },
+  {
+   "w": "Belabour",
+   "pron": "bi-la-bar",
+   "pos": "v.t.",
+   "def": "Thrash",
+   "ur": "مارنا - پیٹنا - ٹھونکنا - بری طرح مارنا -",
+   "ex": []
+  },
+  {
+   "w": "Belated",
+   "pron": "bi-lated",
+   "pos": "adj.",
+   "def": "Overtaken by darkness",
+   "ur": "راستے میں رات ہو جانا - دیر رس - دیر میں پہنچنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Belaud",
+   "pron": "bi-lawd",
+   "pos": "v.t.",
+   "def": "Load with praise",
+   "ur": "حد سے زیادہ تعریف کرنا - آسمان پر چڑھانا -",
+   "ex": []
+  },
+  {
+   "w": "Belch",
+   "pron": "belch",
+   "pos": "v.t. & i.",
+   "def": "Emit wind noisily from throat",
+   "ur": "شعلے اڑانا - آتش فشاں ہونا - توپ کا گرجنا - بکواس کرنا - فحش بکنا - ڈکار لینا -",
+   "ex": []
+  },
+  {
+   "w": "Belch",
+   "pron": "belch",
+   "pos": "n.",
+   "def": "",
+   "ur": "ڈکار - فحش بکواس - توپ کی گرج - آتش فشانی - شعلوں کی بھڑک -",
+   "ex": []
+  },
+  {
+   "w": "Belcher",
+   "pron": "belcher",
+   "pos": "n.",
+   "def": "Coloured handkerchiefs",
+   "ur": "رنگ برنگے رومال - گلو بند -",
+   "ex": []
+  },
+  {
+   "w": "Beldam",
+   "pron": "beldam",
+   "pos": "n.",
+   "def": "Old woman",
+   "ur": "لڑاکا عورت - ڈائن - بڑھیا -",
+   "ex": []
+  },
+  {
+   "w": "Beleaguer",
+   "pron": "bi-legər",
+   "pos": "v.t.",
+   "def": "Besiege",
+   "ur": "نرغے میں لینا - ناکہ بندی کرنا - محاصرہ کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Belfry",
+   "pron": "bel-fri",
+   "pos": "n.",
+   "def": "Bell town",
+   "ur": "گھنٹیوں گھر - گرجے کا گھنٹیوں گھر -",
+   "ex": []
+  },
+  {
+   "w": "Belfried",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "وہ عمارت جس میں گھنٹی لگا ہو -",
+   "ex": []
+  },
+  {
+   "w": "Belgian",
+   "pron": "bel-giən",
+   "pos": "n.",
+   "def": "A native of Belgium",
+   "ur": "ملک بلجیم کا باشندہ -",
+   "ex": []
+  },
+  {
+   "w": "Belgravia",
+   "pron": "bel-gravia",
+   "pos": "n.",
+   "def": "Fashionable part of London",
+   "ur": "لندن کا مغربی حصہ جہاں امراء رہتے ہیں -",
+   "ex": []
+  },
+  {
+   "w": "Belgravian",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "لندن کے فیشن ایبل حصے کا رہنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Belial",
+   "pron": "Belyəl",
+   "pos": "n.",
+   "def": "The Devil",
+   "ur": "شیطان - ابلیس -",
+   "ex": []
+  },
+  {
+   "w": "Man of Belial",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "لعنتی - مردود - بدبخت -",
+   "ex": []
+  },
+  {
+   "w": "Belie",
+   "pron": "bi-li",
+   "pos": "v.t.",
+   "def": "Give false notion",
+   "ur": "جھٹلانا - جھوٹا بنانا - وفا نہ کرنا - تکذیب کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Belief",
+   "pron": "bi-lif",
+   "pos": "n.",
+   "def": "Trust, confidence",
+   "ur": "بھروسا - اعتبار - یقین - عقیدہ - رائے - اعتماد -",
+   "ex": []
+  },
+  {
+   "w": "To the best of my belief",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "پورے یقین کے ساتھ -",
+   "ex": []
+  },
+  {
+   "w": "Believe",
+   "pron": "bi-lev",
+   "pos": "v.t. & i.",
+   "def": "Have faith in",
+   "ur": "سمجھنا - اعتماد کرنا - ایمان لانا - مان لینا - یقین کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Make believe",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "تصنع کرنا - جھوٹ موٹ سمجھ لینا -",
+   "ex": []
+  },
+  {
+   "w": "Believable",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "قابل اعتبار - قابل یقین -",
+   "ex": []
+  },
+  {
+   "w": "Believer",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "ماننے والا - معتقد - صاحب ایمان - مومن -",
+   "ex": []
+  },
+  {
+   "w": "Believing",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "اعتقاد کرنے والا - خوش عقیدہ - ایمان والا -",
+   "ex": []
+  },
+  {
+   "w": "Belittle",
+   "pron": "bi-litl",
+   "pos": "v.t.",
+   "def": "Depreciate",
+   "ur": "کم کرنا - تحقیر کرنا - گھٹانا - بے وقعتی کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Bell",
+   "pron": "bel",
+   "pos": "n.",
+   "def": "Hollow thing of cast iron",
+   "ur": "گھنٹا - گھنٹی - گھونگھرو - ناقوس -",
+   "ex": []
+  },
+  {
+   "w": "Bell-flower",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "گھنٹی نما پھول -",
+   "ex": []
+  },
+  {
+   "w": "Bell-weather",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "وہ بھیڑ جو سب سے آگے چلتی ہے اس کے گلے میں گھنٹی بندھی ہوتی ہے - اگوا کار بھیڑ -",
+   "ex": []
+  },
+  {
+   "w": "To bear the bell",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "خطرے کا کام انجام دینا - بازی یا سبقت لے جانا -",
+   "ex": []
+  },
+  {
+   "w": "Belladona",
+   "pron": "bel-a-don-a",
+   "pos": "n.",
+   "def": "A poisonous plant with purple flowers",
+   "ur": "بلادر - بھلاواں - سکو -",
+   "ex": []
+  },
+  {
+   "w": "Belle",
+   "pron": "bel",
+   "pos": "n.",
+   "def": "A handsome woman",
+   "ur": "گوری - البیلی - حسینوں کی سرتاج - حسینہ -",
+   "ex": []
+  },
+  {
+   "w": "Belles-lettres",
+   "pron": "belis-leters",
+   "pos": "n.",
+   "def": "Literary books",
+   "ur": "ادب - خالص ادبی کتابیں -",
+   "ex": []
+  },
+  {
+   "w": "Belletrist",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "ادیب -",
+   "ex": []
+  },
+  {
+   "w": "Belletristic",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "ادبی - ادیبانہ -",
+   "ex": []
+  },
+  {
+   "w": "Bellicose",
+   "pron": "bel-ik-os",
+   "pos": "adj.",
+   "def": "Inclined to fighting",
+   "ur": "جھگڑالو - لڑاکا -",
+   "ex": []
+  },
+  {
+   "w": "Bellicosity",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "لڑاکا پن -",
+   "ex": []
+  },
+  {
+   "w": "Belligerency",
+   "pron": "bel-ij-ərənsi",
+   "pos": "n.",
+   "def": "status of a belligerent",
+   "ur": "شریک جنگ کی حیثیت (ریاست)",
+   "ex": []
+  },
+  {
+   "w": "Belligerent",
+   "pron": "bel-ij-ər-ant",
+   "pos": "adj.",
+   "def": "",
+   "ur": "محارب حکومت - شریک جنگ - جو ریاست جنگ میں شریک ہو -",
+   "ex": []
+  },
+  {
+   "w": "Bellow",
+   "pron": "Bel-o",
+   "pos": "v.t. & n.",
+   "def": "Roar as a bull",
+   "ur": "بیل کی طرح ڈکرانا - گونجنا - چیخنا - توپ کی آواز - گونجدار آواز -",
+   "ex": []
+  },
+  {
+   "w": "Bellows",
+   "pron": "Bel-oz",
+   "pos": "n.",
+   "def": "Contrivance for driving air into the fire",
+   "ur": "دھونکنی - بھٹی - اشتعال - بھڑکانے -",
+   "ex": []
+  },
+  {
+   "w": "Belly",
+   "pron": "bel-i",
+   "pos": "n.",
+   "def": "Abdomen",
+   "ur": "پیٹ - شکم - معدہ - رحم - بسیار خوری -",
+   "ex": []
+  },
+  {
+   "w": "Belly-pinched",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "فاقہ مست - بھوکا -",
+   "ex": []
+  },
+  {
+   "w": "Belly-timber",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "غذا - کھانا - پیٹ کا ایندھن -",
+   "ex": []
   }
  ],
  "urdu_english": [
