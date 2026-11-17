@@ -59146,7 +59146,7 @@
    "pron": "",
    "pos": "",
    "def": "",
-   "ur": "سحر - جادو -",
+   "ur": "سحر - جادو - ٹونا -",
    "ex": []
   },
   {
@@ -70411,6 +70411,1734 @@
    "pos": "",
    "def": "",
    "ur": "موقع کا منتظر رہنا -",
+   "ex": []
+  },
+  {
+   "w": "Biennial",
+   "pron": "bie-nyal",
+   "pos": "adj. & n.",
+   "def": "Two-yearly",
+   "ur": "ہر دو برس بعد ہونے والا - دو سال رہنے والا - دو برسی -",
+   "ex": []
+  },
+  {
+   "w": "Bier",
+   "pron": "bir",
+   "pos": "n.",
+   "def": "Coffin bearing vehicle",
+   "ur": "ارتھی - تابوت - جنازہ -",
+   "ex": []
+  },
+  {
+   "w": "Biff",
+   "pron": "bif",
+   "pos": "n.",
+   "def": "A smart blow",
+   "ur": "جانلٹا - تھپڑ - گھونسا - مکا -",
+   "ex": []
+  },
+  {
+   "w": "Biflorous",
+   "pron": "biflәrәs",
+   "pos": "adj.",
+   "def": "Having two flowers",
+   "ur": "دو پھول والا - دو پھولیا - دو غنچہ -",
+   "ex": []
+  },
+  {
+   "w": "Bifold",
+   "pron": "bi-fold",
+   "pos": "adj.",
+   "def": "Having two layers",
+   "ur": "دہرا - دو تہوں والا -",
+   "ex": []
+  },
+  {
+   "w": "Bifoliate",
+   "pron": "bi-foli-at",
+   "pos": "adj.",
+   "def": "Of two leaves",
+   "ur": "دو پتی والا - دو پتا - دو برگہ -",
+   "ex": []
+  },
+  {
+   "w": "Bifurcate",
+   "pron": "bifur-kat",
+   "pos": "adj.",
+   "def": "Forked",
+   "ur": "دو سنگھا - دو شاخہ -",
+   "ex": []
+  },
+  {
+   "w": "Bifurcation",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "دو شاخی تقسیم - دو شاخہ ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Big",
+   "pron": "big",
+   "pos": "adv. & adj.",
+   "def": "Large",
+   "ur": "بڑا بھاری - بھاری بھر کم - لمبا چوڑا - فراخ - کشادہ - بڑے بڑے رقبے کا - ممتاز - سر کردہ - حاملہ -",
+   "ex": []
+  },
+  {
+   "w": "Bigwig",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بہت بڑا آدمی -",
+   "ex": []
+  },
+  {
+   "w": "Grow too big for one's boots",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "دماغ ہونا - حیثیت سے بڑھ کر سمجھنا - اپنے آپ کو بڑا آدمی سمجھنا -",
+   "ex": []
+  },
+  {
+   "w": "Bigamist",
+   "pron": "bigamist",
+   "pos": "n.",
+   "def": "A man with two wives or a woman with two husbands",
+   "ur": "دو جورو والا - دو شوہر والی -",
+   "ex": []
+  },
+  {
+   "w": "Bigamous",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "دو شوہر والی - دو/جورو والا - دو جورو رکھنے والا مرد یا دو شوہر رکھنے والی بیوی -",
+   "ex": []
+  },
+  {
+   "w": "Bigamy",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "ایک وقت میں دو شوہروں یا دو بیویوں کو رکھنا -",
+   "ex": []
+  },
+  {
+   "w": "Bight",
+   "pron": "bit",
+   "pos": "n.",
+   "def": "Curve of a coast",
+   "ur": "کھاڑی - خلیج -",
+   "ex": []
+  },
+  {
+   "w": "Bigot",
+   "pron": "bigәt",
+   "pos": "n.",
+   "def": "One who gives unreasonable weight to his views",
+   "ur": "ہٹ دھرم - متعصب - کٹر - تنگ نظر -",
+   "ex": []
+  },
+  {
+   "w": "Bigotry",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "تعصب - ہٹ دھرمی -",
+   "ex": []
+  },
+  {
+   "w": "Bike",
+   "pron": "bik",
+   "pos": "v.t.",
+   "def": "To ride on bicycle",
+   "ur": "بائیسکل چلانا -",
+   "ex": []
+  },
+  {
+   "w": "Bilateral",
+   "pron": "bi-latәr-әl",
+   "pos": "",
+   "def": "Of or on, with two sides",
+   "ur": "دو روید - دو رخا - دو پہلو -",
+   "ex": []
+  },
+  {
+   "w": "Bilaterally",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "دو جماعتی وفا داری سے - دو رخی سے -",
+   "ex": []
+  },
+  {
+   "w": "Bilbo",
+   "pron": "bil-bo",
+   "pos": "n.",
+   "def": "Sword",
+   "ur": "کرچ - تلوار -",
+   "ex": []
+  },
+  {
+   "w": "Bile",
+   "pron": "bil",
+   "pos": "n.",
+   "def": "A yellow bitter fluid",
+   "ur": "چڑچڑا پن - غصہ - صفرا - پت - زرد آب -",
+   "ex": []
+  },
+  {
+   "w": "Bile.stone",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "پتہ کی پتھری - سنگریزہ -",
+   "ex": []
+  },
+  {
+   "w": "Bilge",
+   "pron": "bilj",
+   "pos": "n.",
+   "def": "Nearly horizontal part of a ship's bottom",
+   "ur": "جہاز کا پیندا - گندہ پانی جو جہاز کی تہ میں جم جاتا ہے - پیپے کا پیٹھ -",
+   "ex": []
+  },
+  {
+   "w": "Bilge",
+   "pron": "bilj",
+   "pos": "v. t. & i.",
+   "def": "Spring a leak in the bilge",
+   "ur": "جہاز میں سوراخ کرنا یا ہونا - پیندا اٹھنا -",
+   "ex": []
+  },
+  {
+   "w": "Biliary",
+   "pron": "Bilәri",
+   "pos": "adj.",
+   "def": "Of the bile",
+   "ur": "ترش مزاج - صفراوی -",
+   "ex": []
+  },
+  {
+   "w": "Bilingual",
+   "pron": "Biling-gәl",
+   "pos": "adj.",
+   "def": "In two languages,",
+   "ur": "دو زبانوں کا بولنے والا - دو زبانوں میں -",
+   "ex": []
+  },
+  {
+   "w": "Bilious",
+   "pron": "bi li әs",
+   "pos": "adj.",
+   "def": "Affected by bile",
+   "ur": "چڑچڑا - ترش مزاج - صفراوی -",
+   "ex": []
+  },
+  {
+   "w": "Biliously",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "چڑچڑے پن سے - ترش مزاجی سے -",
+   "ex": []
+  },
+  {
+   "w": "Biliousness",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "امتلا - متلی - چڑچڑا پن - ترش مزاجی -",
+   "ex": []
+  },
+  {
+   "w": "Bilk",
+   "pron": "bilk",
+   "pos": "v.t.",
+   "def": "Evade payment",
+   "ur": "ٹھگنا - ادا نہ کرنا - دھوکا دینا - فریب دینا - قرض لے کر ادا نہ کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Bill",
+   "pron": "bil",
+   "pos": "v.t.",
+   "def": "Announce, put in the programme",
+   "ur": "چونچ سے چونچ ملانا - چڑیوں کا دانہ بدلنا - پروگرام میں داخل کرنا - اعلان کرنا - اشتہار لگانا -",
+   "ex": []
+  },
+  {
+   "w": "Bill",
+   "pron": "bil",
+   "pos": "n.",
+   "def": "Draft of law",
+   "ur": "پروگرام - مسودہ قانون چونچ -",
+   "ex": []
+  },
+  {
+   "w": "Billet",
+   "pron": "bilit",
+   "pos": "n.",
+   "def": "Order to board and lodge the soldiers",
+   "ur": "چٹھی - پروانہ - سپاہیوں کے قیام و طعام کا حکم - منزل مقصود - خدمت - نوکری -",
+   "ex": []
+  },
+  {
+   "w": "Billet-doux",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "محبت نامہ - عشقیہ خط -",
+   "ex": []
+  },
+  {
+   "w": "Billiards",
+   "pron": "bil-yards",
+   "pos": "n.",
+   "def": "A game played with cues and ivory balls on a table",
+   "ur": "انٹا - انٹے کا کھیل - بلیرڈ -",
+   "ex": []
+  },
+  {
+   "w": "Billingsgate",
+   "pron": "bil-ingz-gat",
+   "pos": "n.",
+   "def": "Abuse",
+   "ur": "سب و شتم - بد زبانی - گالی گلوچ -",
+   "ex": []
+  },
+  {
+   "w": "Billion",
+   "pron": "bilyәn",
+   "pos": "n.",
+   "def": "A million millions",
+   "ur": "دس کھرب -",
+   "ex": []
+  },
+  {
+   "w": "Billow",
+   "pron": "bil-o",
+   "pos": "n.",
+   "def": "A great wave",
+   "ur": "لہر کی طرح چلنے والی کوف شے - لہر - بڑی موج -",
+   "ex": []
+  },
+  {
+   "w": "Billowy",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "موجزن - مواج - متلاطم -",
+   "ex": []
+  },
+  {
+   "w": "Billow",
+   "pron": "bil-o",
+   "pos": "v. t.",
+   "def": "Rise, move, in billows",
+   "ur": "لہرانا - موجیں مارنا - بلکورے لینا -",
+   "ex": []
+  },
+  {
+   "w": "Billy-goat",
+   "pron": "bili-got",
+   "pos": "n.",
+   "def": "Male goat",
+   "ur": "بکرا -",
+   "ex": []
+  },
+  {
+   "w": "Bimanal, Bimanous",
+   "pron": "bim-ә-nal",
+   "pos": "adj.",
+   "def": "Two-handed",
+   "ur": "دو ہتھا (دو ہاتھ پلانے والا جانور) - دو ہستہ -",
+   "ex": []
+  },
+  {
+   "w": "Bimetallic",
+   "pron": "bi-mi-tal-ik",
+   "pos": "adj.",
+   "def": "Using gold and silver as legal tender",
+   "ur": "دو دھات کا - دو دھاتی -",
+   "ex": []
+  },
+  {
+   "w": "Bimetallism",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "یہ نظریہ کہ سونا اور چاندی دونوں کے سکوں کا رواج ہو - دو دھاتی اصول -",
+   "ex": []
+  },
+  {
+   "w": "Bimetallist",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "دو دھاتی اصول کا حامی -",
+   "ex": []
+  },
+  {
+   "w": "Bin",
+   "pron": "bin",
+   "pos": "n.",
+   "def": "Recepticle of corn, coal and dust",
+   "ur": "ٹوکرا - پیپا - کوڑا کرکٹ ڈالنے کا بڑا برتن -",
+   "ex": []
+  },
+  {
+   "w": "Binary",
+   "pron": "binari",
+   "pos": "adj.",
+   "def": "Dual",
+   "ur": "دہرا - جوڑا - جوڑے دار -",
+   "ex": []
+  },
+  {
+   "w": "Binary compound",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "دو عنصر - دو عنصری مرکب -",
+   "ex": []
+  },
+  {
+   "w": "Binary measure",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "دو تال - دو تالا -",
+   "ex": []
+  },
+  {
+   "w": "Binate, Binous",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "جڑواں - جوڑ دار -",
+   "ex": []
+  },
+  {
+   "w": "Bind",
+   "pron": "bind",
+   "pos": "v.t.",
+   "def": "Tie, Fasten",
+   "ur": "باندھنا - گٹھری یا گٹھا باندھنا - جکڑنا - لپیٹنا - لازم ہونا یا قرار دینا - کوئی فرض یا قید عائد کرنا - پابند چمکانا کرنا - قبض پیدا کرنا - چمکا لینا - پٹی باندھنا -",
+   "ex": []
+  },
+  {
+   "w": "Half-bound",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "کتاب کی جلد جس میں جلدی پٹی اور کونے چمڑے کے ہوں -",
+   "ex": []
+  },
+  {
+   "w": "Bind",
+   "pron": "bind",
+   "pos": "n.",
+   "def": "Clay between coal strata",
+   "ur": "کوئلے کی تہوں کے درمیان کی سخت مٹی - میل - چوڑائی -",
+   "ex": []
+  },
+  {
+   "w": "Binder",
+   "pron": "binder",
+   "pos": "n.",
+   "def": "One who binds",
+   "ur": "جلد ساز - بندھن - پٹی - لانبا پتھر (حیدر) جو دیوار میں دیں - چوڑی پٹی جو زخم کے پیچ پر باندھتے ہیں - کاغذ رکھنے کا گتہ - قابض دوا -",
+   "ex": []
+  },
+  {
+   "w": "Binding",
+   "pron": "bind-ing",
+   "pos": "adj.",
+   "def": "Obligatory",
+   "ur": "واجب - لازم - ضروری - واثق -",
+   "ex": []
+  },
+  {
+   "w": "Binding",
+   "pron": "bind-ing",
+   "pos": "n.",
+   "def": "Book-cover, braid",
+   "ur": "بندھن - کتاب کی جلد - حاشیہ - مغزی -",
+   "ex": []
+  },
+  {
+   "w": "Bindweed",
+   "pron": "bind-weed",
+   "pos": "n.",
+   "def": "Different kinds of creepers",
+   "ur": "مختلف قسم کی بیلیں - جیسے عشق پیچاں -",
+   "ex": []
+  },
+  {
+   "w": "Bine",
+   "pron": "bin",
+   "pos": "",
+   "def": "Flexible shoot",
+   "ur": "اوپر جانے والی بیل کی نئی شاخ -",
+   "ex": []
+  },
+  {
+   "w": "Binocular (s)",
+   "pron": "benokl-әr",
+   "pos": "",
+   "def": "Two-eyed field glass",
+   "ur": "دو آنکھا - دو چشم - دو آنکھیں - دور بین -",
+   "ex": []
+  },
+  {
+   "w": "Binomial",
+   "pron": "bi-nomi-әl",
+   "pos": "adj.",
+   "def": "Consisting of two terms",
+   "ur": "دو حصول کا بنا ہوا - دو عددی -",
+   "ex": []
+  },
+  {
+   "w": "Binominal",
+   "pron": "bi-nom-inal",
+   "pos": "adj.",
+   "def": "Of two names",
+   "ur": "دو اسمی -",
+   "ex": []
+  },
+  {
+   "w": "Biogenesis",
+   "pron": "biojenesis",
+   "pos": "n.",
+   "def": "Hypothesis that living matter arises from living matter",
+   "ur": "یہ نظریہ کہ زندہ مادہ ہمیشہ زندہ مادے سے پیدا ہوتا ہے - نظریہ حیات -",
+   "ex": []
+  },
+  {
+   "w": "Biographee",
+   "pron": "bio-grwfi",
+   "pos": "n.",
+   "def": "Person whose biography is written",
+   "ur": "وہ شخص جس کا تذکرہ لکھا گیا ہو -",
+   "ex": []
+  },
+  {
+   "w": "Biographer",
+   "pron": "bio-grafer",
+   "pos": "n.",
+   "def": "One who writes the life of a person",
+   "ur": "سوانح نگار - تذکرہ نویس -",
+   "ex": []
+  },
+  {
+   "w": "Biography",
+   "pron": "bio-grafi",
+   "pos": "",
+   "def": "Written life of a person",
+   "ur": "سوانح عمری - سر گزشت - تذکرہ -",
+   "ex": []
+  },
+  {
+   "w": "Biographic (al)",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "سوانح عمری کے متعلق -",
+   "ex": []
+  },
+  {
+   "w": "Biographically",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "سوانح عمری کے طور پر - تذکرہ نویسی کے انداز سے -",
+   "ex": []
+  },
+  {
+   "w": "Biology",
+   "pron": "bio-loji",
+   "pos": "n.",
+   "def": "Science of physical life",
+   "ur": "جسموں کی زندگی کا علم - علم الحیات -",
+   "ex": []
+  },
+  {
+   "w": "Biologic (al)",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "علم حیات کے متعلق -",
+   "ex": []
+  },
+  {
+   "w": "Biologically",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "از روئے علم حیات -",
+   "ex": []
+  },
+  {
+   "w": "Biologist",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "حیات اجسام کے علم کا ماہر - حیاتیات کا ماہر -",
+   "ex": []
+  },
+  {
+   "w": "Bioscope",
+   "pron": "bioskop",
+   "pos": "n.",
+   "def": "Cinema",
+   "ur": "بائسکوپ - متحرک تصاویر دکھانے والا -",
+   "ex": []
+  },
+  {
+   "w": "Biparous",
+   "pron": "bi-parәs",
+   "pos": "adj.",
+   "def": "Bearing two at a birth",
+   "ur": "دو بچے دینے والے -",
+   "ex": []
+  },
+  {
+   "w": "Biped",
+   "pron": "bi-ped",
+   "pos": "adj. & n.",
+   "def": "Two-footed",
+   "ur": "دو پاؤں والا - دو پایہ -",
+   "ex": []
+  },
+  {
+   "w": "Biplane",
+   "pron": "bi-plan",
+   "pos": "n.",
+   "def": "Two winged aeroplane",
+   "ur": "دو پنکھی ہوائی جہاز -",
+   "ex": []
+  },
+  {
+   "w": "Biquadrate",
+   "pron": "bikwood-rat",
+   "pos": "n.",
+   "def": "Square of square",
+   "ur": "چوگنی قوت مکرر ۴ -",
+   "ex": []
+  },
+  {
+   "w": "Biquadratic",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "مربع کا مربع - چوگنی قوت کا عدد -",
+   "ex": []
+  },
+  {
+   "w": "Birch",
+   "pron": "bәrch",
+   "pos": "n.",
+   "def": "A kind of forest tree",
+   "ur": "چھڑی - بید - صنوبر کا درخت -",
+   "ex": []
+  },
+  {
+   "w": "Birch-rod",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "صنوبر کی پتلی ٹہنیوں کا مٹھا جس سے بچوں کو مارتے تھے -",
+   "ex": []
+  },
+  {
+   "w": "Birchen",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "صنوبر کا - صنوبری -",
+   "ex": []
+  },
+  {
+   "w": "Birch",
+   "pron": "bәrch",
+   "pos": "v.t.",
+   "def": "Flog with a birch",
+   "ur": "سزا دینا - چھڑی سے مارنا - چھڑی سے سزا دینا -",
+   "ex": []
+  },
+  {
+   "w": "Bird",
+   "pron": "bәrd",
+   "pos": "n.",
+   "def": "Feathered vertibrate",
+   "ur": "چڑیا - پنچھی - پرندہ -",
+   "ex": []
+  },
+  {
+   "w": "Bird-fancier",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "پرندوں کا ماہر - پرندے بیچنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Bird in bush",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "خیالی یا احتمالی نفع -",
+   "ex": []
+  },
+  {
+   "w": "Bird in hand",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "یقینی فائدہ -",
+   "ex": []
+  },
+  {
+   "w": "Bird of paradise",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "نیو گنی کا پرندہ جس کے پر بہت خوبصورت ہوتے ہیں -",
+   "ex": []
+  },
+  {
+   "w": "Bird of passage",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "وقتی فائدہ اٹھانے والے - ہری چک - مقام تبدیل کرنے والے پرند -",
+   "ex": []
+  },
+  {
+   "w": "Bird of prey",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "شاہین - باز - ہری - شکرا - شکاری پرندہ -",
+   "ex": []
+  },
+  {
+   "w": "Bird-seed",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "چڑیوں کا دانہ -",
+   "ex": []
+  },
+  {
+   "w": "Bird's eye view",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "محمل نظر - طائرانہ نظر -",
+   "ex": []
+  },
+  {
+   "w": "Birds of a feather",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ایک ہی قماش کے - ایک ہی تھیل کے چٹے بٹے -",
+   "ex": []
+  },
+  {
+   "w": "Kill two birds with one stone",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ایک پتھر دو کاج -",
+   "ex": []
+  },
+  {
+   "w": "Little bird",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "جس کا نام بتانا منظور نہ ہو - خبر -",
+   "ex": []
+  },
+  {
+   "w": "Old bird",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بے سوچے سمجھے اعتبار نہ کرنے والا - چوکس - چوکنا - تجربہ کار - خرانٹ -",
+   "ex": []
+  },
+  {
+   "w": "Biscuit",
+   "pron": "bisket",
+   "pos": "n.",
+   "def": "Dry, round cake",
+   "ur": "میٹھی ٹکیہ - میٹھے یا نمکین بسکٹ - بادامی رنگ کی چیز -",
+   "ex": []
+  },
+  {
+   "w": "Bisect",
+   "pron": "bi-sekt",
+   "pos": "v.t.",
+   "def": "Cut or divide into two parts",
+   "ur": "آدھا آدھا کرنا - بیچ سے کاٹنا - نصف کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Bisector",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "دو حصول میں تقسیم کرنے والا (خط) -",
+   "ex": []
+  },
+  {
+   "w": "Bisexual",
+   "pron": "biseksual",
+   "pos": "adj.",
+   "def": "Of both sexes",
+   "ur": "نر مادہ ملے ہوئے - دو جنسی -",
+   "ex": []
+  },
+  {
+   "w": "Bishop",
+   "pron": "bishәp",
+   "pos": "n.",
+   "def": "Governor of a diocese",
+   "ur": "شطرنج کا رخ یا فیل - لاٹ پادری - مسالہ دار شراب -",
+   "ex": []
+  },
+  {
+   "w": "Bishopric",
+   "pron": "bishәprik",
+   "pos": "n.",
+   "def": "Office of a bishop",
+   "ur": "لاٹ پادری کا عہدہ یا حلقہ اقتدار -",
+   "ex": []
+  },
+  {
+   "w": "Bismuth",
+   "pron": "bismәth",
+   "pos": "n.",
+   "def": "A reddish white metal",
+   "ur": "ایک قسم کی دھات - پھول کانسی -",
+   "ex": []
+  },
+  {
+   "w": "Bison",
+   "pron": "bi-sn",
+   "pos": "n.",
+   "def": "Wild ox of two species",
+   "ur": "ارنا بھینا -",
+   "ex": []
+  },
+  {
+   "w": "Bisque",
+   "pron": "bisk",
+   "pos": "n.",
+   "def": "A handicap of plus fifteen in tennis",
+   "ur": "(ٹینس) گیم کے چار پوائنٹ میں سے ایک پوائنٹ بغیر جیتے ہوئے پانا -",
+   "ex": []
+  },
+  {
+   "w": "Bissextile",
+   "pron": "bisekst-il",
+   "pos": "adj. & n.",
+   "def": "Leap year",
+   "ur": "لیپ کا سال - سال کبیسہ -",
+   "ex": []
+  },
+  {
+   "w": "Bistoury",
+   "pron": "bistәr-i",
+   "pos": "n.",
+   "def": "Surgeon's scarpel",
+   "ur": "جراح یا سرجن کی چھوری - چاقو - نشتر -",
+   "ex": []
+  },
+  {
+   "w": "Bit",
+   "pron": "bit",
+   "pos": "n.",
+   "def": "Mouthpiece of bridle, something to eat",
+   "ur": "لگام کا دہانہ - کنجی کی جڑ - رندے کا لوہا - نوالہ - ٹکڑا - برزہ - پارہ -",
+   "ex": []
+  },
+  {
+   "w": "Draw bit",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "لگام کھینچے رکھنا - باگ کھینچنا -",
+   "ex": []
+  },
+  {
+   "w": "Take bit between teeth",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بے قابو ہو جانا -",
+   "ex": []
+  },
+  {
+   "w": "Do one's bit",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "غریبانه اپنا حق ادا کرنا - کسی کام میں اپنا حصہ پورا کرنا - جو کر سکتا ہو وہ کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Give a bit of one's mind",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کھری کھری سنانا -",
+   "ex": []
+  },
+  {
+   "w": "Not a bit",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ہرگز نہیں - بالکل نہیں -",
+   "ex": []
+  },
+  {
+   "w": "Wait a bit",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ذرا ٹھہرو -",
+   "ex": []
+  },
+  {
+   "w": "Two annas bit",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "دو آنے کا سکہ - دونی -",
+   "ex": []
+  },
+  {
+   "w": "Bit",
+   "pron": "bit",
+   "pos": "v.t.",
+   "def": "Put bit into mouth",
+   "ur": "لگام لگانا - دہانہ چڑھانا - روکنا - تھامنا - لگام کا عادی بنانا -",
+   "ex": []
+  },
+  {
+   "w": "Bitch",
+   "pron": "bich",
+   "pos": "n.",
+   "def": "Female of dog, fox, or wolf",
+   "ur": "کتیا - بھیڑیے یا لومڑی کی مادہ - فاحشہ عورت -",
+   "ex": []
+  },
+  {
+   "w": "Bite",
+   "pron": "bit",
+   "pos": "v.t. & i.",
+   "def": "Cut into or nip with the teeth",
+   "ur": "کاٹ کھانا - دانت سے کاٹنا - ڈسنا - چبھنا - لگنا - (مرچیں) پکڑنا - پکڑ لینا - دھوکا دینا - پھنس جانا - جھانسے میں آنا -",
+   "ex": []
+  },
+  {
+   "w": "Bite off more than one can chew",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "اپنی طاقت سے بڑھکر کام کا ذمہ لینا -",
+   "ex": []
+  },
+  {
+   "w": "Bite one's lips",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ہونٹ چبا کر رہ جانا - غصہ ضبط کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Bite the dust or ground",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کھیت رہنا - کام آنا - مر جانا -",
+   "ex": []
+  },
+  {
+   "w": "Frost-bitten",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "برفباری کی وجہ سے جسم پر زخم آنا -",
+   "ex": []
+  },
+  {
+   "w": "Bite",
+   "pron": "bit",
+   "pos": "n.",
+   "def": "Wound made by biting",
+   "ur": "دانت کا زخم - کٹا ہوا ٹکڑا - لقمہ - مچھلی کا چارہ نگلنا - قابو - گرفت -",
+   "ex": []
+  },
+  {
+   "w": "Biter",
+   "pron": "bitәr",
+   "pos": "n.",
+   "def": "Swindler",
+   "ur": "کاٹنے والا - دغا باز - دھوکا دینے والا -",
+   "ex": []
+  },
+  {
+   "w": "Biting",
+   "pron": "bit-ing",
+   "pos": "adj.",
+   "def": "Stinging",
+   "ur": "طنزیہ - طنز آمیز - چبھتی ہوئی - سخت - تیز -",
+   "ex": []
+  },
+  {
+   "w": "Bitingly",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "طعنہ آمیزی سے - طنز سے - سختی سے - تیزی سے -",
+   "ex": []
+  },
+  {
+   "w": "Bitter",
+   "pron": "bitәr",
+   "pos": "adj., adv. & n.",
+   "def": "Relentless, bicing, harsh",
+   "ur": "کڑوا - تلخ - تند - تیز - ناگوار - مہلک - کڑاکے کا (جاڑا) -",
+   "ex": []
+  },
+  {
+   "w": "To the bitter end",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "تلخ انجام تک - آخر وقت تک -",
+   "ex": []
+  },
+  {
+   "w": "Bitterish",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "تلخی آمیز - قدرے تلخ -",
+   "ex": []
+  },
+  {
+   "w": "Bitterness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "عداوت - بغض - کینہ - کڑوا پن - تلخی -",
+   "ex": []
+  },
+  {
+   "w": "Bittern",
+   "pron": "bitәrn",
+   "pos": "n.",
+   "def": "Marsh birds like heron",
+   "ur": "بگلا - بزہ - کالی - لال سر -",
+   "ex": []
+  },
+  {
+   "w": "Bitumen",
+   "pron": "bitu-mәn",
+   "pos": "n.",
+   "def": "Asphalt",
+   "ur": "رال - نفط -",
+   "ex": []
+  },
+  {
+   "w": "Bituminous",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "رال دار - نفطی -",
+   "ex": []
+  },
+  {
+   "w": "Bituminize",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "رال بنانا - رال سے رنگنا -",
+   "ex": []
+  },
+  {
+   "w": "Bitumination",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "رال ملانے کا عمل - رال کی رنگائی -",
+   "ex": []
+  },
+  {
+   "w": "Bivalve",
+   "pron": "bi-valv",
+   "pos": "adj.",
+   "def": "With two valve",
+   "ur": "دو پلڑا - دو دہانہ - گھونگھا سیپی وغیرہ کی قسم کے جانور -",
+   "ex": []
+  },
+  {
+   "w": "Bivouac",
+   "pron": "bivooak",
+   "pos": "v.i. & n.",
+   "def": "Temporary encampment without tents",
+   "ur": "کھلی جگہ پر فوج کا پڑاؤ - پڑاؤ کرنا - شب بھر کھلی ہوا میں بستانا -",
+   "ex": []
+  },
+  {
+   "w": "Bizarre",
+   "pron": "bi-zar",
+   "pos": "adj.",
+   "def": "Fantastic",
+   "ur": "عجیب - بے سروپا - اوٹ پٹانگ - نیم وحشی - گنوار - آدھا تیتر آدھا بٹیر -",
+   "ex": []
+  },
+  {
+   "w": "Blab",
+   "pron": "",
+   "pos": "v.t. & i.",
+   "def": "Talk foolishly",
+   "ur": "پیٹ کا ہلکا ہونا - راز افشا کرنا - بے تکی باتیں کرنا - نا گفتنی بات کہہ دینا -",
+   "ex": []
+  },
+  {
+   "w": "Black",
+   "pron": "blak",
+   "pos": "adj.",
+   "def": "Very dark-coloured",
+   "ur": "کالا کلوٹا - سیاہ فام - سیاہ - تاریک - وحشت ناک - شدید - سنگین - نہایت برا - بھیانک - ماتمی - ذلت کا - رسوائی کا -",
+   "ex": []
+  },
+  {
+   "w": "Black and white",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "سیاہ و سفید - تحریر -",
+   "ex": []
+  },
+  {
+   "w": "Black-beetle",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بھونرا -",
+   "ex": []
+  },
+  {
+   "w": "Blackbird",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "یورپ کا ایک خوش آواز پرند - کوئل - پپیا -",
+   "ex": []
+  },
+  {
+   "w": "Black-board",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "تختہ سیاہ -",
+   "ex": []
+  },
+  {
+   "w": "Black despair",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "دلشکنی - نا امیدی - شدید مایوسی -",
+   "ex": []
+  },
+  {
+   "w": "Black dog",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بد مزاجی کا دورہ -",
+   "ex": []
+  },
+  {
+   "w": "Black eye",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "نیل پڑنا - چوٹ سے آنکھ کے گرد سیاہی آ جانا -",
+   "ex": []
+  },
+  {
+   "w": "Black-face",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کالے منہ کی بھیڑ -",
+   "ex": []
+  },
+  {
+   "w": "Blackguard",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "فحش کلام - بدمعاش - لچا -",
+   "ex": []
+  },
+  {
+   "w": "Black-hearted",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "سنگدل - سیاہ قلب -",
+   "ex": []
+  },
+  {
+   "w": "Black ingratitude",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "شرم ناک محسن کشی -",
+   "ex": []
+  },
+  {
+   "w": "Black leg",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "دھوکا دینے والا -",
+   "ex": []
+  },
+  {
+   "w": "Black looks",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "تیوری چڑھائے ہوئے - غصے سے بھرا ہوا -",
+   "ex": []
+  },
+  {
+   "w": "Blackmail",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "دھمکی دے کر زوریہ وصول کرنا - راز چھپانے کے لئے دباؤ ڈال کر رقم لینا -",
+   "ex": []
+  },
+  {
+   "w": "Black Maria",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "جیل گاڑی - قیدیوں کی گاڑی -",
+   "ex": []
+  },
+  {
+   "w": "Black mark",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بدنامی - بدنما داغ - کلنک کا ٹیکا -",
+   "ex": []
+  },
+  {
+   "w": "Black sheep",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "پاجی - بدمعاش - دغا باز -",
+   "ex": []
+  },
+  {
+   "w": "Black-water fever",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ایسا بخار جس میں پیشاب میں خون آتا ہے - کالا بخار -",
+   "ex": []
+  },
+  {
+   "w": "Crimes of blackest dye",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ہولناک جرائم -",
+   "ex": []
+  },
+  {
+   "w": "Black-ball",
+   "pron": "blәk-bal",
+   "pos": "v.t.",
+   "def": "Disqualify the person who is seeking election in a ballot",
+   "ur": "نا منظور کرنا - خلاف رائے دینا - ناراضمندی کا اظہار کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Blackness",
+   "pron": "blәckness",
+   "pos": "n.",
+   "def": "Dark colour",
+   "ur": "سیاہی - اندھیرا - کالا پن -",
+   "ex": []
+  },
+  {
+   "w": "Black",
+   "pron": "blәk",
+   "pos": "v.t. & n.",
+   "def": "Make black, black paint, blake dye",
+   "ur": "کالا کرنا - سیاہ کرنا - روسیاہ کرنا - سیاہ پوشاک حبشی - سیاہ وارنش روغن -",
+   "ex": []
+  },
+  {
+   "w": "Blackage",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "حبشی -",
+   "ex": []
+  },
+  {
+   "w": "Blackamoor",
+   "pron": "blackamoor",
+   "pos": "n.",
+   "def": "",
+   "ur": "کالا - حبشی - زنگی -",
+   "ex": []
+  },
+  {
+   "w": "Blacken",
+   "pron": "blaken",
+   "pos": "v.t. & i.",
+   "def": "Become black,",
+   "ur": "کالا ہو جانا - سیاہ پڑنا - کسی کو بدنام کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Blacking",
+   "pron": "black-ing",
+   "pos": "n.",
+   "def": "Black shoe polish",
+   "ur": "جوتوں کا سیاہ روغن -",
+   "ex": []
+  },
+  {
+   "w": "Bladder",
+   "pron": "bladәr",
+   "pos": "n.",
+   "def": "Anything hollow and inflated",
+   "ur": "پھکنا - مثانہ - ہوا سے پھولی ہوئی چیز - ربر کا پھکنا -",
+   "ex": []
+  },
+  {
+   "w": "Bladdery",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "پھکنے دار - لفاط - پاتوف -",
+   "ex": []
+  },
+  {
+   "w": "Blade",
+   "pron": "blad",
+   "pos": "n.",
+   "def": "Cutting piece of an edged tool",
+   "ur": "برک - پتا - چاقو کا پھل - ڈاڑھی بنانے کی فولادی پتی - خوش طبع - بانکا - سیانا -",
+   "ex": []
+  },
+  {
+   "w": "Blain",
+   "pron": "blan",
+   "pos": "n.",
+   "def": "Inflamed sore on skin",
+   "ur": "چھالا - پھوڑا - پھنسی -",
+   "ex": []
+  },
+  {
+   "w": "Blame",
+   "pron": "blam",
+   "pos": "v.t.",
+   "def": "Find fault with",
+   "ur": "الزام لگانا - ملامت کرنا - عیب جوئی کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Blamable",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "قابل ملامت - مستوجب سزا - قصور وار -",
+   "ex": []
+  },
+  {
+   "w": "Blameful",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "قابل ملامت - ملزمانہ - مجرمانہ -",
+   "ex": []
+  },
+  {
+   "w": "Blameless",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "معصوم - بے گناہ - بے قصور -",
+   "ex": []
+  },
+  {
+   "w": "Blamelessly",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "معصومانہ - بے گناہی سے -",
+   "ex": []
+  },
+  {
+   "w": "Blamelessness",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "معصومیت - بے گناہی -",
+   "ex": []
+  },
+  {
+   "w": "Blameworthy",
+   "pron": "blam-warthi",
+   "pos": "adj.",
+   "def": "",
+   "ur": "قابل ملامت - گناہگار - مجرم -",
+   "ex": []
+  },
+  {
+   "w": "Blameworthiness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "جرم - قابل ملامت ہونا - گنہگاری -",
+   "ex": []
+  },
+  {
+   "w": "Blanch",
+   "pron": "blәnch",
+   "pos": "v.t.",
+   "def": "Make white",
+   "ur": "مقشر کرنا - چھیلنا - سفید کرنا - اجلا کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Bland",
+   "pron": "bland",
+   "pos": "adj.",
+   "def": "Gentle, polite",
+   "ur": "نرم - ملائم - نازک - خوش اخلاق - خوشگوار -",
+   "ex": []
+  },
+  {
+   "w": "Blandly",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "نرمی سے - خوش اخلاق سے -",
+   "ex": []
+  },
+  {
+   "w": "Blandness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "ملائمت - نرمی - خوش اخلاق -",
+   "ex": []
+  },
+  {
+   "w": "Blandish",
+   "pron": "blәnd-ish",
+   "pos": "v.t.",
+   "def": "Flatter",
+   "ur": "چاپلوسی کرنا - خوشامد کرنا - ناز دکھانا - غمزے کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Blandishment",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "شیریں زبانی - غمزے - نخرے - ناز و ادا -",
+   "ex": []
+  },
+  {
+   "w": "Blank",
+   "pron": "blangk",
+   "pos": "adj.",
+   "def": "Not written or printed",
+   "ur": "کورا - سادہ - بے معنی چیز - گھبرایا ہوا - ہوش باختہ - حیران پریشان - پکا بکا - غیر مقتضی - بے فائدہ -",
+   "ex": []
+  },
+  {
+   "w": "Blank look",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "خالی جھانکنا - پکا بکا ہونا - دیکھتے رہ جانا -",
+   "ex": []
+  },
+  {
+   "w": "Look blank",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "گھبرایا ہوا دکھائی دینا - خالی الذہن ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Blankness",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "گھبراہٹ - ہوش باختگی -",
+   "ex": []
+  },
+  {
+   "w": "Blank",
+   "pron": "blangk",
+   "pos": "n.",
+   "def": "Empty surface",
+   "ur": "خالی جگہ - سادہ کاغذ - خالی خط - قرعہ اندازی کا خالی ٹکٹ - عبارت کے درمیان خالی جگہ -",
+   "ex": []
+  },
+  {
+   "w": "Blanket",
+   "pron": "blangk-it",
+   "pos": "n.",
+   "def": "Woollen sheet",
+   "ur": "کمبل - کملی - لوئی - دھسا - پشمینے کی چادر -",
+   "ex": []
+  },
+  {
+   "w": "Born on wrong side of blanket",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "حرامی - ولدالزنا -",
+   "ex": []
+  },
+  {
+   "w": "Wet blanket",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "عیش کھٹا کرنے والا - رنگ میں بھنگ ڈالنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Blanket",
+   "pron": "blangk-it",
+   "pos": "v.t.",
+   "def": "Cover with a blanket",
+   "ur": "کمبل اوڑھانا - کمبل لپیٹنا - معاملے کو دبا دینا -",
+   "ex": []
+  },
+  {
+   "w": "Blankly",
+   "pron": "blangk-li",
+   "pos": "adv.",
+   "def": "Without expression",
+   "ur": "خالی الذہن ہو کر - خالی نظرت سے -",
+   "ex": []
+  },
+  {
+   "w": "Blarney",
+   "pron": "blar-ni",
+   "pos": "n., v.t. & i.",
+   "def": "Cajoling talk",
+   "ur": "پھسلانا - بہلانا - للو پتو کرنا - چکنی چپڑی باتیں -",
+   "ex": []
+  },
+  {
+   "w": "Blaspheme",
+   "pron": "blas-fem",
+   "pos": "v.t. & i.",
+   "def": "Talk impiously,",
+   "ur": "کفر بکنا - اللہ کی بے ادبی کرنا - بے ادب کے کلمات کہنا -",
+   "ex": []
+  },
+  {
+   "w": "Blasphemer",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "بے ادب - منکر - کفر بکنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Blasphemous",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "کافر - ملحد - کفر گو -",
+   "ex": []
+  },
+  {
+   "w": "Blasphemously",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "کافرانہ طور پر - ملحدانہ -",
+   "ex": []
+  },
+  {
+   "w": "Blasphemy",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کلمہ کفر - مفت دین -",
+   "ex": []
+  },
+  {
+   "w": "Blast",
+   "pron": "blast",
+   "pos": "n.",
+   "def": "Strong gust of wind",
+   "ur": "گرم ہوا - ہوا کا جھونکا - دھماکہ - غضب - آفت - طوفان - پالا -",
+   "ex": []
+  },
+  {
+   "w": "Blast",
+   "pron": "blast",
+   "pos": "v.t.",
+   "def": "Blow up with an explosive",
+   "ur": "بارود سے اڑانا - غارت کرنا - ملیا میٹ کرنا - جھلس دینا - پٹا لگنا - خاک میں ملانا -",
+   "ex": []
+  },
+  {
+   "w": "Blasted",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "لعنتی - جھلسا ہوا - غارت شدہ -",
+   "ex": []
+  },
+  {
+   "w": "Blasting",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "شیاناس کرنا - بارود سے اڑانا -",
+   "ex": []
+  },
+  {
+   "w": "Blastoderm",
+   "pron": "blasto-derm",
+   "pos": "n.",
+   "def": "Hollow ball of cells",
+   "ur": "جنین کی جھلی - پردہ جنین -",
+   "ex": []
+  },
+  {
+   "w": "Blatant",
+   "pron": "blatant",
+   "pos": "adj.",
+   "def": "Noisy",
+   "ur": "اودھم مچانے والا - غل غپاڑا کرنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Blatancy",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "شوریدہ سری - غل غپاڑا - اودھم -",
+   "ex": []
+  },
+  {
+   "w": "Blatantly",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "شوریدہ سری سے - چیخ پکار کر - اودھم مچا کر - وحشیانہ طور پر -",
+   "ex": []
+  },
+  {
+   "w": "Blaze",
+   "pron": "blaz",
+   "pos": "n.",
+   "def": "Bright flame or fire",
+   "ur": "تیز شعلہ - بھڑک - جوش - اشتعال - آب و تاب - بھڑکے ہوئے جذبات - اشاعت - شہرت - افشا -",
+   "ex": []
+  },
+  {
+   "w": "Blaze",
+   "pron": "blaz",
+   "pos": "v.i.",
+   "def": "Proclaim",
+   "ur": "بھڑکنا - شعلہ زن ہونا - روشن ہونا - چمکنا - ظاہر ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Blazing indiscretion",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بد احتیاطی - کھلی بے شعوری - سخت نادانی - بہت بڑی لغزش -",
+   "ex": []
+  },
+  {
+   "w": "Blazing scent",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "شکار یا شکری کی تیز بو -",
+   "ex": []
+  },
+  {
+   "w": "Blaze",
+   "pron": "blaz",
+   "pos": "v.t.",
+   "def": "Mark or number trees by chipping the bark",
+   "ur": "درختوں پر نشان اندازی کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Blazer",
+   "pron": "blazer",
+   "pos": "n.",
+   "def": "Coloured coat of players",
+   "ur": "کھلاڑیوں کے پہننے کا رنگین کوٹ - کذب و افترا - سفید جھوٹ -",
+   "ex": []
+  },
+  {
+   "w": "Blazon",
+   "pron": "bla-zn",
+   "pos": "n.",
+   "def": "Coat of arms",
+   "ur": "خاندانی نشان - نشان امارت - آب و تاب -",
+   "ex": []
+  },
+  {
+   "w": "Blazon",
+   "pron": "bla-zn",
+   "pos": "v.t.",
+   "def": "Describe or paint names heraldically",
+   "ur": "خاندانی نشانات کا حال آب و تاب کے ساتھ بیان کرنا - اعزازی نشان بنانا - جھنڈے کا نشان بنانا -",
+   "ex": []
+  },
+  {
+   "w": "Blazonry",
+   "pron": "blazr-ri",
+   "pos": "n.",
+   "def": "Brightly-coloured display",
+   "ur": "خاندانی یا ذاتی نشان - ان نشانوں کے بنانے اور ان کی تاریخ بیان کرنے کا فن - شوخ رنگوں کی نمائش -",
    "ex": []
   }
  ],
