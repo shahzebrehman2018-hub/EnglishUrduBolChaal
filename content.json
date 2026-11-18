@@ -77820,6 +77820,1582 @@
    "def": "Long pin for fastening hair",
    "ur": "سوا - بڑی سوئی - ٹانپ نکالنے کی چمٹی - بالوں میں لگانے کی پن -",
    "ex": []
+  },
+  {
+   "w": "Body",
+   "pron": "bodi",
+   "pos": "n.",
+   "def": "Man or animal as material organism",
+   "ur": "مادہ - وجود - جسم - بدن - لاش - اکثریت - آدمی - شخص - جماعت - گروہ - انجمن - جمعیت - مقدار - طاقت -",
+   "ex": []
+  },
+  {
+   "w": "Body politic",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "مملکت - دولت - سماج - جماعتی سیاست -",
+   "ex": []
+  },
+  {
+   "w": "In a body",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "سب اکٹھے ہو کر - سب ملکر -",
+   "ex": []
+  },
+  {
+   "w": "Keep body and soul together",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "برے بھلے گزر کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Body",
+   "pron": "bod-i",
+   "pos": "v.t.",
+   "def": "Provide with body",
+   "ur": "مجسم کرنا - تصور میں لانا - مثال یا نمونہ ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Bog",
+   "pron": "bog",
+   "pos": "n.",
+   "def": "Wet spongy ground",
+   "ur": "پھانک - دھسن - دلدل -",
+   "ex": []
+  },
+  {
+   "w": "Boggy",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "دلدلی -",
+   "ex": []
+  },
+  {
+   "w": "Bog",
+   "pron": "bog",
+   "pos": "v.t.",
+   "def": "Submerge in bog",
+   "ur": "دلدل میں پھنسنا -",
+   "ex": []
+  },
+  {
+   "w": "Boggle",
+   "pron": "bog-l",
+   "pos": "v.i.",
+   "def": "Start with fright",
+   "ur": "جھجھکنا - ہچکچانا - پس و پیش کرنا - سیم جانا -",
+   "ex": []
+  },
+  {
+   "w": "Bogie",
+   "pron": "bogi",
+   "pos": "n.",
+   "def": "Under-carriage",
+   "ur": "ریل کے ڈبے کا نچلا حصہ - بوگی -",
+   "ex": []
+  },
+  {
+   "w": "Bogle",
+   "pron": "bo-gl",
+   "pos": "n.",
+   "def": "Scarecrow",
+   "ur": "چڑیوں کو ڈرانے کا پتلا - ڈراوا -",
+   "ex": []
+  },
+  {
+   "w": "Bogus",
+   "pron": "bogas",
+   "pos": "adj.",
+   "def": "Sham",
+   "ur": "جعلی - بناوٹی - مصنوعی - غیر حقیقی -",
+   "ex": []
+  },
+  {
+   "w": "Bogy-ey",
+   "pron": "bog-i",
+   "pos": "n.",
+   "def": "The devil, goblin",
+   "ur": "بھوت پریت - شیطان - ہوا -",
+   "ex": []
+  },
+  {
+   "w": "Bohemian",
+   "pron": "bo-he-mi-ən",
+   "pos": "adj. & n.",
+   "def": "Of free and easy habits",
+   "ur": "بوہیمیا کا باشندہ - اوباش - آزاد - لا ابالی - طبیعت والا - آزاد مشرب -",
+   "ex": []
+  },
+  {
+   "w": "Bohemianism",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "اوباشی - آزادانہ مشرب -",
+   "ex": []
+  },
+  {
+   "w": "Bohemianize",
+   "pron": "",
+   "pos": "v.t.",
+   "def": "",
+   "ur": "آزاد مشرب بنانا - اوباش بنانا -",
+   "ex": []
+  },
+  {
+   "w": "Boil",
+   "pron": "boil",
+   "pos": "n.",
+   "def": "Hard inflamed tumour",
+   "ur": "دنبل - پھوڑا - پھنسی - ابال - گرمی کا نقطہ تبخیر - تبخیر -",
+   "ex": []
+  },
+  {
+   "w": "Boil",
+   "pron": "boil",
+   "pos": "v.t. & i.",
+   "def": "Bubble up",
+   "ur": "ابالنا - ابل جانا - کھولنا - گرم ہونا - جوش کھانا -",
+   "ex": []
+  },
+  {
+   "w": "Boil down, away",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "پانی کو بھاپ بنا کر اڑا دینا -",
+   "ex": []
+  },
+  {
+   "w": "Blood boils",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "غصے سے خون کھولتا ہے -",
+   "ex": []
+  },
+  {
+   "w": "Keep the pot boiling",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "گزران کرنا - ضرورت بھر کما لینا - کام چلانا -",
+   "ex": []
+  },
+  {
+   "w": "Boiler",
+   "pron": "boiler",
+   "pos": "n.",
+   "def": "One who boils, vessel for boiling",
+   "ur": "دیگ - پتیلا - کڑھاؤ - کارخانوں کا بائلر - ابالنے والا - دھوبی کی بھٹی - ترکاریاں جو ابال کر کھائی جائیں -",
+   "ex": []
+  },
+  {
+   "w": "Boiling",
+   "pron": "boil-ing",
+   "pos": "adj. & n.",
+   "def": "Temperature at which water boils",
+   "ur": "ابال - جوش -",
+   "ex": []
+  },
+  {
+   "w": "Boisterous",
+   "pron": "boistar-əs",
+   "pos": "adj.",
+   "def": "Violent, rough",
+   "ur": "تیز - تند - شور کرنے والا - اودھم مچانے والا -",
+   "ex": []
+  },
+  {
+   "w": "Boisterously",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "غل مچانے کے ساتھ - تیزی سے -",
+   "ex": []
+  },
+  {
+   "w": "Bold",
+   "pron": "bold",
+   "pos": "adj.",
+   "def": "Courageous",
+   "ur": "نڈر - دلیر - شیر دل - بہادر - باعزم - ہمت والا -",
+   "ex": []
+  },
+  {
+   "w": "Boldly",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "دلیری سے - جرأت سے - بے باکانہ -",
+   "ex": []
+  },
+  {
+   "w": "Boldness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "دلیری - جرأت - ہمت - شجاعت -",
+   "ex": []
+  },
+  {
+   "w": "Bole",
+   "pron": "bol",
+   "pos": "n.",
+   "def": "Stem, trunk",
+   "ur": "لال مٹی - ڈلا - ڈمیلا - تنا -",
+   "ex": []
+  },
+  {
+   "w": "Bolero",
+   "pron": "Bo-le-ro",
+   "pos": "n.",
+   "def": "Spanish dance, woman's short jacket",
+   "ur": "ایک اسپانوی ناچ - یورپی عورتوں کی جاکٹ -",
+   "ex": []
+  },
+  {
+   "w": "Boletus",
+   "pron": "bole-təs",
+   "pos": "n.",
+   "def": "A kind of mushroom",
+   "ur": "ایک قسم کی کھمبی یا چھتری -",
+   "ex": []
+  },
+  {
+   "w": "Bolshevik",
+   "pron": "bol-shə-vik",
+   "pos": "n:",
+   "def": "Advocate of proletarian dictatorship in Russia",
+   "ur": "انقلاب پسند - انتہا پسند - عوامی آمریت کا حامی -",
+   "ex": []
+  },
+  {
+   "w": "Bolster",
+   "pron": "bolstar",
+   "pos": "n.",
+   "def": "Long stuffed pillow, pad",
+   "ur": "گول لمبا تکیہ - تکیہ - گول تکیہ - مشینوں کی گدی -",
+   "ex": []
+  },
+  {
+   "w": "Bolster",
+   "pron": "bolstar",
+   "pos": "v.t. & i.",
+   "def": "Support with pad or pillow",
+   "ur": "تکیہ لگانا - سہارا دینا - اعانت مہرمانہ کرنا - شد دینا - ایک دوسرے کو تکیے مارنا - تکیہ بازی -",
+   "ex": []
+  },
+  {
+   "w": "Bolster-fight",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "تکیہ بازی -",
+   "ex": []
+  },
+  {
+   "w": "Bolt",
+   "pron": "bolt",
+   "pos": "n.",
+   "def": "Sliding piece of lock; Sudden start",
+   "ur": "تیر - بان - خدنگ - بلی - کھٹکا - چٹخنی - بجلی کی کوند - چھلانگ - کرمچ کا تہان - گریز - فرار -",
+   "ex": []
+  },
+  {
+   "w": "Bolt from the blue",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "سانحہ - ناگہانی مصیبت -",
+   "ex": []
+  },
+  {
+   "w": "Fool's bolt soon shot",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بیوقوف جلد بولتا اور جلد چپ ہو جاتا ہے -",
+   "ex": []
+  },
+  {
+   "w": "Bolt",
+   "pron": "bolt",
+   "pos": "v.t. & i.",
+   "def": "Dart off or away",
+   "ur": "بھاگ جانا - فرار ہو جانا - رفو چکر ہو جانا - چھلانگ مارنا - پیچوں سے کسنا - دروازے کی چٹخنی چڑھانا - بند کر لینا -",
+   "ex": []
+  },
+  {
+   "w": "Bolt out",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "دروازے بند کر لینا - اندر نہ آنے دینا -",
+   "ex": []
+  },
+  {
+   "w": "Bolt",
+   "pron": "bolt",
+   "pos": "adv.",
+   "def": "",
+   "ur": "کھوٹے کی طرح سیدھا (پینھنا) -",
+   "ex": []
+  },
+  {
+   "w": "Bolt, boult",
+   "pron": "bolt",
+   "pos": "v.t.",
+   "def": "Sift, investigate",
+   "ur": "چھان بین کرنا - پرکھنا - تولنا -",
+   "ex": []
+  },
+  {
+   "w": "Bolter",
+   "pron": "bolter",
+   "pos": "n.",
+   "def": "Horse given to bolting",
+   "ur": "بھاگنے والا - چھپتی کرنے والا - منہ زور گھوڑا -",
+   "ex": []
+  },
+  {
+   "w": "Bolus",
+   "pron": "bo-las",
+   "pos": "n.",
+   "def": "Large pill",
+   "ur": "بڑی گولی - حب - قرص -",
+   "ex": []
+  },
+  {
+   "w": "Bomb",
+   "pron": "bom",
+   "pos": "n., v.t. & i.",
+   "def": "An explosive projectile",
+   "ur": "بم - بم کا گولا - بم گرانا - بم پھینکنا - بم چلانا - بم مارنا -",
+   "ex": []
+  },
+  {
+   "w": "Bomb-proof",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "جس پر بم اثر نہ کر سکے - بم روک -",
+   "ex": []
+  },
+  {
+   "w": "Bomb-shell",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "توپ کا گولا -",
+   "ex": []
+  },
+  {
+   "w": "Bomber",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بم مارنے والا سپاہی - بم برسانے والا ہوائی جہاز - جہاز جو بمباری کرتا ہے -",
+   "ex": []
+  },
+  {
+   "w": "Bombard",
+   "pron": "bombard",
+   "pos": "v.t.",
+   "def": "Batter with shot and shells",
+   "ur": "گولہ باری کرنا - گولے برسانا - بحث میں مخالف پر دلیلوں اور گالیوں کی بوچھار کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Bombardment",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "گولہ باری -",
+   "ex": []
+  },
+  {
+   "w": "Bombardier",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "توپ خانے کا حافظت افسر -",
+   "ex": []
+  },
+  {
+   "w": "Bombasine",
+   "pron": "bum-bə-zen",
+   "pos": "n.",
+   "def": "Black cloth much used in mourning",
+   "ur": "کالا باریک ریشمی کپڑا جو ماتمی لباس کے طور پر استعمال ہوتا ہے -",
+   "ex": []
+  },
+  {
+   "w": "Bombast",
+   "pron": "bum-bast",
+   "pos": "n.",
+   "def": "Tall talk",
+   "ur": "لچھے دار باتیں - عبارت آرائی - لفظی -",
+   "ex": []
+  },
+  {
+   "w": "Bombastic",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "تبخترانہ - عبارت آرائی کے متعلق - لفظی کا -",
+   "ex": []
+  },
+  {
+   "w": "Bombastically",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "لفظی کے ساتھ - بیجا عبارت آرائی سے -",
+   "ex": []
+  },
+  {
+   "w": "Bonafide",
+   "pron": "bona-fid",
+   "pos": "adj. & adv.",
+   "def": "Sincerely",
+   "ur": "اصلی - اصل میں - حقیقت میں -",
+   "ex": []
+  },
+  {
+   "w": "Bonafides",
+   "pron": "bona-fids",
+   "pos": "n.",
+   "def": "Honest intention",
+   "ur": "خلوص نیت - نیک نیتی -",
+   "ex": []
+  },
+  {
+   "w": "Bon-bon",
+   "pron": "bonbon",
+   "pos": "n.",
+   "def": "Sweetmeat",
+   "ur": "کھانے کے کھلونے - مٹھائی کی گولیاں -",
+   "ex": []
+  },
+  {
+   "w": "Bond",
+   "pron": "bond",
+   "pos": "n.",
+   "def": "Binding engagement",
+   "ur": "بند - بندھن - جوڑ - میل - دستاویز - اقرار نامہ - اقرار واثق - تحریری معاہدہ -",
+   "ex": []
+  },
+  {
+   "w": "Bond street",
+   "pron": "bond-stret",
+   "pos": "n.",
+   "def": "A street of London visited by fashionable gents and ladies",
+   "ur": "بانڈ اسٹریٹ جہاں فیشن ایبل لوگ سیر کو جاتے ہیں -",
+   "ex": []
+  },
+  {
+   "w": "Bond",
+   "pron": "bond",
+   "pos": "v.t.",
+   "def": "Bind together",
+   "ur": "کروڑ گیروں کی تحویل میں مال رکھنا - جوڑنا - ملانا -",
+   "ex": []
+  },
+  {
+   "w": "Bond",
+   "pron": "bond",
+   "pos": "adj.",
+   "def": "In slavery",
+   "ur": "زر خرید (غلام یا باندی) -",
+   "ex": []
+  },
+  {
+   "w": "Bondman",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "غلام -",
+   "ex": []
+  },
+  {
+   "w": "Bond maid",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "لونڈی - باندی -",
+   "ex": []
+  },
+  {
+   "w": "Bond servant",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "زر خرید غلام - حلقہ بگوش -",
+   "ex": []
+  },
+  {
+   "w": "Bondage",
+   "pron": "bondəj",
+   "pos": "n.",
+   "def": "Serfdom",
+   "ur": "غلامی - قید - پابندی - اسیری -",
+   "ex": []
+  },
+  {
+   "w": "Bone",
+   "pron": "bon",
+   "pos": "n.",
+   "def": "Body's hard, solid essential part",
+   "ur": "استخوان - ہڈی - مچھلی کا کانٹا - جسم - لاش - ہڈی - ہڈی کی بنی ہوئی چیز - جھگڑے کی چیز -",
+   "ex": []
+  },
+  {
+   "w": "Bone dry",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "تارک شراب - بالکل خشک -",
+   "ex": []
+  },
+  {
+   "w": "Bone of contention",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "اختلاف کی جڑ - بنائے فساد - باعث نزاع -",
+   "ex": []
+  },
+  {
+   "w": "Bone-setter",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ہڈی کے اکھڑے ہوئے جوڑ درست کرنے والا - ہڈی بٹھانے والا -",
+   "ex": []
+  },
+  {
+   "w": "Bone to pick with some one",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کسی معاملے میں کسی سے جھگڑا کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Feel in one's bones",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "پوری طرح یقین رکھنا -",
+   "ex": []
+  },
+  {
+   "w": "Horse with plenty of bones",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "موٹی ہڈی کا گھوڑا - بڑی کانٹھی کا گھوڑا -",
+   "ex": []
+  },
+  {
+   "w": "Make no bones of, about",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "پس و پیش نہ کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Will never make old bones",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بڑی عمر تک نہیں پہنچے گا -",
+   "ex": []
+  },
+  {
+   "w": "Bone",
+   "pron": "bon",
+   "pos": "v.t.",
+   "def": "Take out the bones from fish and meat",
+   "ur": "گوشت سے ہڈی الگ کرنا - مچھلی سے کانٹے نکالنا -",
+   "ex": []
+  },
+  {
+   "w": "Bonfire",
+   "pron": "bonefir",
+   "pos": "n.",
+   "def": "A large open-air fire",
+   "ur": "وہ آگ جو کسی تقریب میں جلائی جائے - خوشی کا الاؤ -",
+   "ex": []
+  },
+  {
+   "w": "To make a bonfire of",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "جلا ڈالنا - تلف کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Bon-mot",
+   "pron": "Bon-mat",
+   "pos": "n.",
+   "def": "Witty saying",
+   "ur": "نکتہ - لطیفہ - چٹکلا -",
+   "ex": []
+  },
+  {
+   "w": "Bonne-bouche",
+   "pron": "bon-boosh",
+   "pos": "n.",
+   "def": "Tit-bit",
+   "ur": "تر مال - تر نوالہ - چکنی چپڑی - لذیذ کھانا جو آخر میں کھایا جائے -",
+   "ex": []
+  },
+  {
+   "w": "Bonnet",
+   "pron": "bon-it",
+   "pos": "n.",
+   "def": "Scotch cap, woman's head-dress",
+   "ur": "عورتوں کی بے چھجے کی ٹوپی - اسکٹ لینڈ کی مردانہ ٹوپی - موٹر کار کے انجن کا ڈھکن - انقلابیوں کی لال ٹوپی -",
+   "ex": []
+  },
+  {
+   "w": "Bonny",
+   "pron": "bon-i",
+   "pos": "adj.",
+   "def": "Comely",
+   "ur": "سندر - خوبصورت - چنچل - ہشاش بشاش -",
+   "ex": []
+  },
+  {
+   "w": "Bonus",
+   "pron": "bon-əs",
+   "pos": "n.",
+   "def": "Something into the bargain",
+   "ur": "انعام - عطیہ - زائد تنخواہ - زائد منافع - بیمہ کرانے والوں کا منافع - مزدوروں کو انعام جو اجرت کے علاوہ دیا جائے -",
+   "ex": []
+  },
+  {
+   "w": "Bony",
+   "pron": "bon-i",
+   "pos": "adj.",
+   "def": "Of, like bones",
+   "ur": "دبلا پتلا - سوکھا ہوا - ہڈی دار - استخوانی -",
+   "ex": []
+  },
+  {
+   "w": "Boo",
+   "pron": "bo",
+   "pos": "n., v.t. & i.",
+   "def": "Sound of disapproval",
+   "ur": "نفرت - ناراضگی کی آواز - لو لو -",
+   "ex": []
+  },
+  {
+   "w": "Booby",
+   "pron": "boo-bi",
+   "pos": "n.",
+   "def": "Silly, dull-witted, fool",
+   "ur": "الو - احمق - بے وقوف - مورکھ - گاودی -",
+   "ex": []
+  },
+  {
+   "w": "Booby-trap",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "دروازے سے لگا کر اس طرح کوئی چیز رکھنا کہ کھلتے ہی اوپر گر پڑے -",
+   "ex": []
+  },
+  {
+   "w": "Boobyish",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "بے وقوفانہ - احمقانہ -",
+   "ex": []
+  },
+  {
+   "w": "Book",
+   "pron": "book",
+   "pos": "n.",
+   "def": "Written or printed matter",
+   "ur": "کتاب - بیاض - بہی کھاتہ - پوتھی - پستک - خیالی صحیفہ یا تحریر - گھڑ دوڑ کی شرط لینے والے -",
+   "ex": []
+  },
+  {
+   "w": "Book learning",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کتابی علم -",
+   "ex": []
+  },
+  {
+   "w": "Book worm",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کتاب کا کیڑا -",
+   "ex": []
+  },
+  {
+   "w": "Bring to book",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "حساب کتاب لینا - مواخذہ کرنا - جواب طلب کرنا -",
+   "ex": []
+  },
+  {
+   "w": "In one's bad books",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "رائے خراب ہونا - معتوب ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Speak like a book",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کتابی زبان بولنا - کتابی معلومات کا اظہار کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Take a leaf out of one's book",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کسی کو نمونہ بنانا - کسی کی تقلید کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Bookish",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "کتابی - کتابی کیڑا -",
+   "ex": []
+  },
+  {
+   "w": "Bookishly",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "کتابی کیڑے کی طرح -",
+   "ex": []
+  },
+  {
+   "w": "Bookishness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "کتابی علمیت - کتابیت - کتابی کیڑا ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Booklet",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "کتابچہ -",
+   "ex": []
+  },
+  {
+   "w": "Book",
+   "pron": "book",
+   "pos": "v.t.",
+   "def": "Enter in a book or list",
+   "ur": "نشست محفوظ کرانا یا فہرست میں اندراج کرانا -",
+   "ex": []
+  },
+  {
+   "w": "Boom",
+   "pron": "bom",
+   "pos": "n.",
+   "def": "Floating barrier of timber",
+   "ur": "کسی ندی یا بندرگاہ پر لکڑی کی روک - بادبانی شہتیر - بادبان کے نیچے کی لکڑی -",
+   "ex": []
+  },
+  {
+   "w": "Boom",
+   "pron": "bom",
+   "pos": "v.i. & n.",
+   "def": "Make deep resonant sound",
+   "ur": "گرجنا - بھنبھنانا - سارس کی سی آواز نکلنا - سارس کی آواز -",
+   "ex": []
+  },
+  {
+   "w": "Boom",
+   "pron": "bom",
+   "pos": "v.t. & n.",
+   "def": "Sudden activity",
+   "ur": "بازاری ہل چل - تجارتی گرم بازاری - کسی ایجاد کی وجہ سے مشہور ہو جانا - کسی چیز کی غیر معمولی مانگ -",
+   "ex": []
+  },
+  {
+   "w": "Boomerang",
+   "pron": "boom-ə-rang",
+   "pos": "n.",
+   "def": "Australian curved hard-wood missile",
+   "ur": "آسٹریلیا کے قدیم باشندوں کا ہتھیار جو پھینکنے والے کے پاس واپس آتا ہے - تجویز یا دلیل جو پیش کرنے والے ہی کو نقصان پہنچائے -",
+   "ex": []
+  },
+  {
+   "w": "Boon",
+   "pron": "bon",
+   "pos": "n.",
+   "def": "Request, thing asked for",
+   "ur": "دان - بخشش - عطیہ - التجا - استدعا - درخواست - برکت - نعمت -",
+   "ex": []
+  },
+  {
+   "w": "Boon",
+   "pron": "bon",
+   "pos": "adj.",
+   "def": "Bounteous, benign",
+   "ur": "خوش مزاج - یار باش - فیاض - دریا دل - ساز گار - موافق -",
+   "ex": []
+  },
+  {
+   "w": "Boor",
+   "pron": "boor",
+   "pos": "n.",
+   "def": "Clumsy, ill-bred fellow",
+   "ur": "دیہاتی - دہقان - جاہل - ناشائستہ - غیر مہذب - گنوار -",
+   "ex": []
+  },
+  {
+   "w": "Boorish",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "اجڈ - گنوار -",
+   "ex": []
+  },
+  {
+   "w": "Boorishly",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "گنوار بنے سے - اجڈ بنے سے -",
+   "ex": []
+  },
+  {
+   "w": "Boorishness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "پھوہڑ پن - گنوار پن -",
+   "ex": []
+  },
+  {
+   "w": "Booze",
+   "pron": "booz",
+   "pos": "v.i.",
+   "def": "Drink liquor",
+   "ur": "شراب پینا - شراب سے بد مست ہو جانا -",
+   "ex": []
+  },
+  {
+   "w": "Boost",
+   "pron": "boost",
+   "pos": "v.i.",
+   "def": "Increase the value",
+   "ur": "ناجائز طور پر طرفداری کر کے - حمایت کرنا - مشہور کرنا - قیمت بڑھانا -",
+   "ex": []
+  },
+  {
+   "w": "Booster",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "ناجائز حمایت کرنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Boot",
+   "pron": "boot",
+   "pos": "n.",
+   "def": "Footwear, foot-covering; Advantage",
+   "ur": "موزہ - جوتا جو ٹخنے تک ہو - کوچوان کی نشست کے نیچے اسباب کا صندوق - نفع - فائدہ - منفعت -",
+   "ex": []
+  },
+  {
+   "w": "Boot is on the other leg",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "یہ بات حقیقت کے خلاف ہے - غلطی دوسرے کی ہے -",
+   "ex": []
+  },
+  {
+   "w": "Boot-jack",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بوٹ اتارنے کا آلہ -",
+   "ex": []
+  },
+  {
+   "w": "Boot-legger",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "چوری سے شراب کا بیوپار کرنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Boot-trees",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "جوتوں کا سانچہ - جوتوں کا قالب -",
+   "ex": []
+  },
+  {
+   "w": "Get, give the boot",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ملازمت سے برخاست ہونا یا کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Heart in one's boots",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "خوف و ہراس کی وجہ سے دہشت سے -",
+   "ex": []
+  },
+  {
+   "w": "Boot",
+   "pron": "boot",
+   "pos": "v.t.",
+   "def": "Do good",
+   "ur": "نفع ہونا - سود مند - بھلا کرنا - فائدہ پہنچانا -",
+   "ex": []
+  },
+  {
+   "w": "Booth",
+   "pron": "boodh",
+   "pos": "n.",
+   "def": "Temporary stall",
+   "ur": "عارضی دوکان جو سائبان کے نیچے میلے میں لگائی جائے - عارضی دوکان -",
+   "ex": []
+  },
+  {
+   "w": "Polling-booth",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کسی انتخاب میں ووٹ ڈالنے کا مرکز -",
+   "ex": []
+  },
+  {
+   "w": "Bootless",
+   "pron": "boot-les",
+   "pos": "adj.",
+   "def": "Unavailing",
+   "ur": "بے سود - بے فائدہ - لا حاصل -",
+   "ex": []
+  },
+  {
+   "w": "Booty",
+   "pron": "boot-i",
+   "pos": "n.",
+   "def": "A prize",
+   "ur": "لوٹ ڈاکے کا مال - مال - غنیمت -",
+   "ex": []
+  },
+  {
+   "w": "Booze",
+   "pron": "booz",
+   "pos": "v.t. & n.",
+   "def": "Drink deeply",
+   "ur": "مسلسل پینے والا - شراب پی کر مست ہو جانا -",
+   "ex": []
+  },
+  {
+   "w": "Boozy",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "شرابی - بدمست -",
+   "ex": []
+  },
+  {
+   "w": "Bo-peep",
+   "pron": "bo-pep",
+   "pos": "n.",
+   "def": "Hiding and suddenly appearing to child",
+   "ur": "آنکھ مچولی - جھانکا جھانکی - چور چور -",
+   "ex": []
+  },
+  {
+   "w": "Play bo-peep",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "سیاسی معاملات میں چالبازی کرنا - آنکھ مچولی کھیلنا -",
+   "ex": []
+  },
+  {
+   "w": "Boracic",
+   "pron": "bo-ra-sik",
+   "pos": "adj.",
+   "def": "Of borax",
+   "ur": "سہاگے کا -",
+   "ex": []
+  },
+  {
+   "w": "Borax",
+   "pron": "bo-raks",
+   "pos": "n.",
+   "def": "A native salt of Boron",
+   "ur": "سہاگہ - بورق -",
+   "ex": []
+  },
+  {
+   "w": "Bordeaux claret",
+   "pron": "bor-do",
+   "pos": "n.",
+   "def": "A sea-port of France",
+   "ur": "فرانس کی ایک بندر گاہ - جنوبی فرانس کی شراب -",
+   "ex": []
+  },
+  {
+   "w": "Border",
+   "pron": "bordər",
+   "pos": "n. & adj.",
+   "def": "Side, boundary",
+   "ur": "کنارہ - حاشیہ - سرحد - حد - باغ کی چمن بندی -",
+   "ex": []
+  },
+  {
+   "w": "Border",
+   "pron": "bordər",
+   "pos": "v.t. & i.",
+   "def": "Put a border, adjoin",
+   "ur": "حاشیہ لگانا - گوٹ لگانا - سنجاف لگانا - حد بندی کرنا - متصل ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Bordering",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "اتصال - حد بندی -",
+   "ex": []
+  },
+  {
+   "w": "Borderer",
+   "pron": "bordərer",
+   "pos": "n.",
+   "def": "Dweller near frontier",
+   "ur": "انگلستان اور اسکٹ لینڈ کا سرحدی باشندہ -",
+   "ex": []
+  },
+  {
+   "w": "Bore",
+   "pron": "bor",
+   "pos": "n.",
+   "def": "Hollow of gun barrel; Nuisance",
+   "ur": "چھید - سوراخ - خانہ - روزن - بندوق کی نالی کا قطر - کان کھاؤ - مغز چاٹ - اجیرن - وبال جان -",
+   "ex": []
+  },
+  {
+   "w": "Bore",
+   "pron": "bor",
+   "pos": "v.t. & i.",
+   "def": "Make hole",
+   "ur": "چھیدنا - بیدھنا - برمانا - برمے سے سوراخ کرنا - رستہ نکالنا - مشین سے کنواں کھودنا - گھوڑے کا آگے سر پھینکنا - ایک گھوڑے کا دوڑ میں دوسرے گھوڑے کو دھکا دینا -",
+   "ex": []
+  },
+  {
+   "w": "Bore",
+   "pron": "bor",
+   "pos": "v.t.",
+   "def": "Weary by tedious talk",
+   "ur": "تنگ کرنا - بیزار کرنا - بے کیف کرنا - کان کھانا - مغز چاٹنا - دکھ دینا -",
+   "ex": []
+  },
+  {
+   "w": "Boreal",
+   "pron": "borəəl",
+   "pos": "adj.",
+   "def": "Of the north wind",
+   "ur": "شمالی - اتری - باد شمال کے متعلق -",
+   "ex": []
+  },
+  {
+   "w": "Boreas",
+   "pron": "bori-as",
+   "pos": "n.",
+   "def": "God of the north wind",
+   "ur": "اتری ہوا کا دیوتا -",
+   "ex": []
+  },
+  {
+   "w": "Borecole",
+   "pron": "bor-kol",
+   "pos": "n.",
+   "def": "Peasant's cabbage",
+   "ur": "کاہن - گوبھی - کرم کلا - گوبھی -",
+   "ex": []
+  },
+  {
+   "w": "Boredom",
+   "pron": "boredəm",
+   "pos": "n.",
+   "def": "Being bored",
+   "ur": "سستی - بیزاری -",
+   "ex": []
+  },
+  {
+   "w": "Borer",
+   "pron": "bor-er",
+   "pos": "n.",
+   "def": "Person, tool or machine that bores",
+   "ur": "سوراخ کرنے والا - برمانے والا - آگے کو سر پھینکنے والا گھوڑا -",
+   "ex": []
+  },
+  {
+   "w": "Born",
+   "pron": "born",
+   "pos": "adj.",
+   "def": "Come by birth",
+   "ur": "پیدا ہوا - پیدا شدہ - نو مولود - پیدا -",
+   "ex": []
+  },
+  {
+   "w": "Born with silver spoon in mouth",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "خوشحال گھر میں پیدا ہوا - قسمت کا دھنی - کھاتے پیتے گھر میں -",
+   "ex": []
+  },
+  {
+   "w": "Born under lucky star",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "خوش نصیب - اچھے ستاروں والا - سعد ستاروں کے زیر اثر پیدا ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Borough",
+   "pron": "bor-ə",
+   "pos": "n.",
+   "def": "Town sending member to parliament",
+   "ur": "وہ قصبہ جس کو پارلیمنٹ میں اپنا نمائندہ بھیجنے کا حق ملا ہو - ایسا قصبہ جس کا اپنا بلدیہ ہو -",
+   "ex": []
+  },
+  {
+   "w": "Borrow",
+   "pron": "bor-o",
+   "pos": "v.t. & i.",
+   "def": "Get temporary use of",
+   "ur": "ادھار لینا - قرض لینا - عاریتاً یا مستعار لینا - کسی دوسرے کی چیز استعمال کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Borrower",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "قرض لینے والا -",
+   "ex": []
+  },
+  {
+   "w": "Borrowing",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "قرض لینا -",
+   "ex": []
+  },
+  {
+   "w": "Borstal system",
+   "pron": "borstəl",
+   "pos": "n.",
+   "def": "Imprisonment of young criminals",
+   "ur": "کمسن مجرموں کی قید کا نظام جس میں سزا کا تعین نہیں ہوتا -",
+   "ex": []
+  },
+  {
+   "w": "Borstal Association",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "وہ انجمن جو رہائی کے بعد کمسن مجرموں کو مدد دیتی ہے -",
+   "ex": []
+  },
+  {
+   "w": "Bosh",
+   "pron": "bo-sh",
+   "pos": "n. & Interj.",
+   "def": "Nonsense, foolish talk",
+   "ur": "بیہودہ گفتگو - واہیات - حماقت -",
+   "ex": []
+  },
+  {
+   "w": "Bosom",
+   "pron": "boozəm",
+   "pos": "n.",
+   "def": "Person's breast, breast of dress",
+   "ur": "چھاتی - گود - قمیض کا سینہ - سینہ - بغل گیری - آغوش - دل - خیالات اور خواہشات -",
+   "ex": []
+  },
+  {
+   "w": "Bosom friend",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "دلی دوست - یار غار -",
+   "ex": []
+  },
+  {
+   "w": "Boss",
+   "pron": "bos",
+   "pos": "n.",
+   "def": "Master, person in authority; Protuberance",
+   "ur": "آقا - مالک - حاکم - افسر - ابھار - ڈھال کے پھول - تراشی ابھرے ہوئے نقوش -",
+   "ex": []
+  },
+  {
+   "w": "Boss",
+   "pron": "bos",
+   "pos": "v.t.",
+   "def": "Be master or manager",
+   "ur": "کسی دفتر یا ادارہ کا منتظم ہونا - کسی دوکان یا کارخانہ کا مالک ہونا - کارندوں پر نگرانی رکھنا -",
+   "ex": []
+  },
+  {
+   "w": "Botanist",
+   "pron": "botənist",
+   "pos": "n.",
+   "def": "Student of botany",
+   "ur": "علم نباتات کا عالم یا ماہر - علم نباتات کا طالب علم -",
+   "ex": []
+  },
+  {
+   "w": "Botanize",
+   "pron": "botəniz",
+   "pos": "v.t.",
+   "def": "Seeking and collecting plants for study",
+   "ur": "مطالعہ اور مشاہدہ کی غرض سے نباتات کو تلاش کرنا اور جمع کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Botany",
+   "pron": "botəni",
+   "pos": "n.",
+   "def": "Science of plants",
+   "ur": "علم نباتات -",
+   "ex": []
+  },
+  {
+   "w": "Botanical",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "نباتاتی -",
+   "ex": []
+  },
+  {
+   "w": "Botanically",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "نباتاتی نقطہ نظر سے - علم نباتات کے رو سے -",
+   "ex": []
+  },
+  {
+   "w": "Botch",
+   "pron": "boch",
+   "pos": "n., v.t. & i.",
+   "def": "Clumsy patch, repair badly",
+   "ur": "پیوند لگانا - بھدا پیوند - اناڑی پن سے کرنا - بگاڑنا - خراب مرمت کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Botcher",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "اناڑی - پھوڑ -",
+   "ex": []
+  },
+  {
+   "w": "Both",
+   "pron": "both",
+   "pos": "adj., prep. & adv.",
+   "def": "The two",
+   "ur": "ہر دو - دونوں -",
+   "ex": []
+  },
+  {
+   "w": "Have it both ways",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "چت بھی میری پٹ بھی میری -",
+   "ex": []
+  },
+  {
+   "w": "Bother",
+   "pron": "bodhər",
+   "pos": "v.t. & i.",
+   "def": "Pester, worry",
+   "ur": "دق کرنا - جان کھانا - مغز کھانا - ناک میں دم آنا -",
+   "ex": []
+  },
+  {
+   "w": "Bother",
+   "pron": "bodhər",
+   "pos": "n.",
+   "def": "Petty trouble",
+   "ur": "زحمت - تکلیف - پریشانی - بکھیڑا (بول چال) چھوڑو! مارو گولی!",
+   "ex": []
+  },
+  {
+   "w": "Botheration",
+   "pron": "",
+   "pos": "n. & Interj.",
+   "def": "Worry, confound it",
+   "ur": "جھمیلا - بکھیڑا - \"جہنم میں جائے\" (بول چال)",
+   "ex": []
+  },
+  {
+   "w": "Bothersome",
+   "pron": "bodhərsum",
+   "pos": "adj.",
+   "def": "Annoying",
+   "ur": "بکھیڑے والا - تکلیف دہ -",
+   "ex": []
+  },
+  {
+   "w": "Bottle",
+   "pron": "bot-l",
+   "pos": "n.",
+   "def": "Narrow-necked vessel; Bundle of hay",
+   "ur": "بوتل - شیشہ - قرابہ - شراب کی عادت - سوکھی گھاس کا گٹھا -",
+   "ex": []
+  },
+  {
+   "w": "Bottle-green",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "گہرا سبز -",
+   "ex": []
+  },
+  {
+   "w": "Bottle-neck",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "آمد و رفت کا تنگ راستہ -",
+   "ex": []
+  },
+  {
+   "w": "Bring up on the bottle",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بوتل کے دودھ سے بچے کی پرورش کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Over a bottle",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "شراب نوشی کے درمیان -",
+   "ex": []
+  },
+  {
+   "w": "Bottle",
+   "pron": "bot-l",
+   "pos": "v.t.",
+   "def": "Store in bottles, conceal",
+   "ur": "شیشے میں بھرنا - چھپانا - غلطی کرتے ہوئے پکڑے جانا -",
+   "ex": []
+  },
+  {
+   "w": "Bottle up",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "چھپانا - ضبط کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Look for a needle in a bottle of hay",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "گھاس کے ڈھیر میں سوئی تلاش کرنا - سعی لا حاصل -",
+   "ex": []
+  },
+  {
+   "w": "Bottom",
+   "pron": "bot-əm",
+   "pos": "n. & adj.",
+   "def": "Lowest part",
+   "ur": "پیندا - تلا - تہہ - چوڑ - بنیاد - اصلیت - حقیقت - تاجھٹ - کدورت - میل - زمین کا نشیب - دم خم - قوت برداشت - بات کی تہہ -",
+   "ex": []
+  },
+  {
+   "w": "Be at the bottom of",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "باعث ہونا - کسی چیز کا سبب ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Stand on one's own bottom",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "اپنے پیروں پر کھڑا ہونا - اپنے بل پر کھڑا ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Touch bottom",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "اصل بات دریافت کرنا - بات کی تہہ تک پہنچنا -",
+   "ex": []
+  },
+  {
+   "w": "Bottom",
+   "pron": "bot-əm",
+   "pos": "v.t. & i.",
+   "def": "Put bottom to",
+   "ur": "پیندا لگانا - تہہ تک پہنچنا - کسی چیز کی حقیقت دریافت کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Bottomless",
+   "pron": "botəm-les",
+   "pos": "adj.",
+   "def": "Very deep",
+   "ur": "بغیر پیندے کا - عمیق - حد سے زیادہ گہرا - انتہاہ -",
+   "ex": []
+  },
+  {
+   "w": "Boudoir",
+   "pron": "Bood-wer",
+   "pos": "n.",
+   "def": "Lady's private room",
+   "ur": "خلوت گہ - زنان خانہ - حجلہ -",
+   "ex": []
+  },
+  {
+   "w": "Bough",
+   "pron": "bow",
+   "pos": "n.",
+   "def": "Branch",
+   "ur": "ڈالی - شاخ - ٹہنی -",
+   "ex": []
+  },
+  {
+   "w": "Bougie",
+   "pron": "boozhe",
+   "pos": "n.",
+   "def": "Wax candle",
+   "ur": "زخم کی بتی - موم بتی - سلائی (جراح کی) -",
+   "ex": []
+  },
+  {
+   "w": "Bouilli",
+   "pron": "boo-lye",
+   "pos": "n.",
+   "def": "Stewed or boiled meat",
+   "ur": "شوربہ دار گوشت - ابلا ہوا یا دم کیا ہوا گوشت -",
+   "ex": []
+  },
+  {
+   "w": "Boulder",
+   "pron": "boldər",
+   "pos": "n.",
+   "def": "Water-worn round stone",
+   "ur": "گول پتھر - بٹا - روڑا -",
+   "ex": []
+  },
+  {
+   "w": "Bounce",
+   "pron": "bowns",
+   "pos": "v.t. & i.",
+   "def": "Burst noisily",
+   "ur": "چھلانگ لگانا - پھلانگنا - زقند بھرنا - جوش اور غصہ میں اندر گھس آنا - ڈرا دھمکا کر کام کرانا -",
+   "ex": []
+  },
+  {
+   "w": "Bouncing girl",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "گداز جسم کی لڑکی - موٹی تازی شوخ دیدہ لڑکی -",
+   "ex": []
+  },
+  {
+   "w": "Bounce",
+   "pron": "bowns",
+   "pos": "n.",
+   "def": "Boast, exaggeration",
+   "ur": "لاف زنی - ڈینگ - مبالغہ - شیخی - تمود -",
+   "ex": []
+  },
+  {
+   "w": "Bounce",
+   "pron": "bowns",
+   "pos": "adv.",
+   "def": "Suddenly, Noisily",
+   "ur": "دفعتاً - شور و غل کے ساتھ -",
+   "ex": []
+  },
+  {
+   "w": "Bouncer",
+   "pron": "bownser",
+   "pos": "n.",
+   "def": "Unblushing lie",
+   "ur": "گپ - شیخی باز - بے باکانہ جھوٹ - سفید جھوٹ -",
+   "ex": []
+  },
+  {
+   "w": "Bound",
+   "pron": "bownd",
+   "pos": "n.",
+   "def": "Limit",
+   "ur": "روک - بندش - حد - سرحد -",
+   "ex": []
+  },
+  {
+   "w": "Bound",
+   "pron": "bownd",
+   "pos": "v.t. & i.",
+   "def": "Set bounds to, bounce",
+   "ur": "حد باندھنا - حد بندی کرنا - محدود کرنا - گھیرا ڈالنا - قید لگانا - سرحد ہونا - چھلانگ لگانا - اچھلنا - ٹکرا کر واپس آنا - سبک رفتاری سے چلنا -",
+   "ex": []
   }
  ],
  "urdu_english": [
