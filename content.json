@@ -82435,7 +82435,7 @@
    "pron": "",
    "pos": "",
    "def": "",
-   "ur": "اثر ڈالنا یا کام میں لانا -",
+   "ur": "اثر ڈالنا یا کام میں لانا - (اثر) کام میں لانا -",
    "ex": []
   },
   {
@@ -92100,6 +92100,2094 @@
    "pos": "n.",
    "def": "Conciseness",
    "ur": "لفظ کم معنی بہت - بلاغت - اختصار - ایجاز - عمر دو روزہ -",
+   "ex": []
+  },
+  {
+   "w": "Brew",
+   "pron": "Broo",
+   "pos": "v.t. & i.",
+   "def": "Make by fermentation",
+   "ur": "بوزہ کشی کرنا - شراب کشید کرنا - شراب ترکیب دینا - منصوبہ باندھنا - پیدا کرنا - فساد پیدا کرنا - سازش کا زور پکڑنا -",
+   "ex": []
+  },
+  {
+   "w": "Brewage",
+   "pron": "Brooag",
+   "pos": "n.",
+   "def": "Concocted drink",
+   "ur": "ترکیب دی ہوئی شراب - منصوبہ - سازش -",
+   "ex": []
+  },
+  {
+   "w": "Bribe",
+   "pron": "brib",
+   "pos": "n.",
+   "def": "Money offered to procure action in favour of the giver",
+   "ur": "رشوت - مندہ بھرانی -",
+   "ex": []
+  },
+  {
+   "w": "Bribable",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "وہ جس کو رشوت دی جا سکے -",
+   "ex": []
+  },
+  {
+   "w": "Bribee",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "رشوت خور - رشوت لینے والا - راشی -",
+   "ex": []
+  },
+  {
+   "w": "Briber",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "رشوت دینے والا - مرتشی -",
+   "ex": []
+  },
+  {
+   "w": "Bribery",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "رشوت ستانی - رشوت -",
+   "ex": []
+  },
+  {
+   "w": "Brick",
+   "pron": "Brik",
+   "pos": "adj. & n.",
+   "def": "Clay baked by fire",
+   "ur": "اینٹ - خشت - خشت نما روٹی - (بول چال) یاروں کا یار - باوفا - نیک دل -",
+   "ex": []
+  },
+  {
+   "w": "Brick-bat",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "اینٹ کا ٹکڑا -",
+   "ex": []
+  },
+  {
+   "w": "Brick-layer",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "عمارت بنانے والا - معمار - راج -",
+   "ex": []
+  },
+  {
+   "w": "Brick-work",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "اینٹوں کی عمارت -",
+   "ex": []
+  },
+  {
+   "w": "Brick, Brick up",
+   "pron": "Brik",
+   "pos": "v.t.",
+   "def": "Block with bricks",
+   "ur": "تیغہ کرنا - اینٹوں سے چن دینا -",
+   "ex": []
+  },
+  {
+   "w": "Bridal",
+   "pron": "bridal",
+   "pos": "n. & adj.",
+   "def": "Wedding",
+   "ur": "عروسی - بیاہ - شادی - جشن عروسی -",
+   "ex": []
+  },
+  {
+   "w": "Bride",
+   "pron": "brid",
+   "pos": "n.",
+   "def": "Woman on her wedding day",
+   "ur": "دلہن - عروس -",
+   "ex": []
+  },
+  {
+   "w": "Bridegroom",
+   "pron": "brid-groom",
+   "pos": "n.",
+   "def": "Man at his marriage",
+   "ur": "دولہا - نوشہ -",
+   "ex": []
+  },
+  {
+   "w": "Bridesmaid",
+   "pron": "brid-med",
+   "pos": "n.",
+   "def": "",
+   "ur": "دلہن کی سہیلی -",
+   "ex": []
+  },
+  {
+   "w": "Bridesman",
+   "pron": "brid-man",
+   "pos": "n.",
+   "def": "",
+   "ur": "شہ بالا -",
+   "ex": []
+  },
+  {
+   "w": "Bridewell",
+   "pron": "brid-well",
+   "pos": "n.",
+   "def": "",
+   "ur": "زندان - جیل خانہ - قید خانہ - حوالات -",
+   "ex": []
+  },
+  {
+   "w": "Bridge",
+   "pron": "brij",
+   "pos": "n.",
+   "def": "Structure across a stream; A game of cards",
+   "ur": "پل - تختہ کا پل - ناک کا بانسہ - پتوں کا کھیل - آکشن برج - کانٹریکٹ برج -",
+   "ex": []
+  },
+  {
+   "w": "Bridge",
+   "pron": "brij",
+   "pos": "v.t.",
+   "def": "Span with a structure",
+   "ur": "پل باندھنا - پل بنانا - پل بندی کرنا - کشتیوں کا پل تیار کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Bridle",
+   "pron": "bri-dl",
+   "pos": "v.t. & i.",
+   "def": "Put bridle on",
+   "ur": "روکنا - تھامنا - باز رکھنا - لگام لگانا - لگام دینا -",
+   "ex": []
+  },
+  {
+   "w": "Brief",
+   "pron": "bref",
+   "pos": "n.",
+   "def": "Counsel, summary of facts of the lawsuit",
+   "ur": "انتخاب - خلاصہ - مقدمہ کا خلاصہ - مقدمہ جو وکیل کے لیے تیار کیا جاتا ہے -",
+   "ex": []
+  },
+  {
+   "w": "Hold brief for",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کسی کا وکیل ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Briefbag",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "چمڑے کا دستی بیگ -",
+   "ex": []
+  },
+  {
+   "w": "Briefless",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "وکیل جس کی وکالت نہ چلے - بے کار وکیل -",
+   "ex": []
+  },
+  {
+   "w": "Brief",
+   "pron": "bref",
+   "pos": "v.t.",
+   "def": "Reduce facts to a brief",
+   "ur": "مقدمے کے واقعات کا خلاصہ کرنا - وکیل کو مقدمے کے حالات سے آگاہ کرنا - مقدمے کے لیے وکیل کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Brief",
+   "pron": "bref",
+   "pos": "adj. & n.",
+   "def": "Concise",
+   "ur": "خلاصہ - قلیل - مختصر - اجمل - تھوڑا - کم - تھوڑی دیر کا -",
+   "ex": []
+  },
+  {
+   "w": "Briefly",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "مختصراً - اختصار سے -",
+   "ex": []
+  },
+  {
+   "w": "Briefness",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "اجمال - اختصار -",
+   "ex": []
+  },
+  {
+   "w": "Brier/Briar",
+   "pron": "Brir",
+   "pos": "n.",
+   "def": "Prickly bush especially of wild rose",
+   "ur": "خار دار جھاڑی ، بالخصوص جنگلی گلاب کی -",
+   "ex": []
+  },
+  {
+   "w": "Brig",
+   "pron": "brig",
+   "pos": "n.",
+   "def": "Two-masted vessel",
+   "ur": "دو مستول والی کشتی - دو مستولی جہاز -",
+   "ex": []
+  },
+  {
+   "w": "Brigade",
+   "pron": "brig-ad",
+   "pos": "n.",
+   "def": "Sub-division of army",
+   "ur": "فوج کا بڑا دستہ - توپخانہ - رسالہ اور پیدل فوج - کوئی منظم جماعت -",
+   "ex": []
+  },
+  {
+   "w": "Brigade",
+   "pron": "brig-ad",
+   "pos": "v.t.",
+   "def": "Form a brigade",
+   "ur": "فوج تیار کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Brigadier",
+   "pron": "brig-ad-er",
+   "pos": "n.",
+   "def": "Commanding officer of a brigade",
+   "ur": "بریگیڈ کا اعلیٰ افسر - تمن دار -",
+   "ex": []
+  },
+  {
+   "w": "Brigand",
+   "pron": "brig-and",
+   "pos": "n.",
+   "def": "Bandit",
+   "ur": "ڈاکو - راہزن - لٹیرا - قزاق -",
+   "ex": []
+  },
+  {
+   "w": "Brigandage",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "لوٹ مار - قزاق - راہزنی -",
+   "ex": []
+  },
+  {
+   "w": "Brigandish",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "لٹیروں جیسا - لٹیروں سے متعلق -",
+   "ex": []
+  },
+  {
+   "w": "Brigandism",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "راہزنی - قزاق - ڈکیتی -",
+   "ex": []
+  },
+  {
+   "w": "Bright",
+   "pron": "brit",
+   "pos": "adj.",
+   "def": "Shining",
+   "ur": "روشن - چمکدار - منور - تاباں - شوخ رنگ کا - بشاش - شفاف - آئینہ کی طرح - تاباں - منور - نامی گرامی -",
+   "ex": []
+  },
+  {
+   "w": "Brighten",
+   "pron": "briten",
+   "pos": "v.t.",
+   "def": "Shine, light",
+   "ur": "خوش کرنا - جگمگانا - روشن کرنا - چمکانا - اجالا کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Brightish",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "چمکیلا -",
+   "ex": []
+  },
+  {
+   "w": "Brightly",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "کوفر سے - درخشاں طور پر - آب و تاب سے -",
+   "ex": []
+  },
+  {
+   "w": "Brightness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "تابانی - آب و تاب - چمک دمک -",
+   "ex": []
+  },
+  {
+   "w": "Bright",
+   "pron": "Brit",
+   "pos": "adv.",
+   "def": "Brightly",
+   "ur": "تابانی کے ساتھ - درخشاں طور پر -",
+   "ex": []
+  },
+  {
+   "w": "Brilliant",
+   "pron": "bril-yent",
+   "pos": "adj.",
+   "def": "Sparkling, Bright",
+   "ur": "روشن - تاباں - چمک دار - چمکنا ہوا - شوخ - چمک دمک والا - تیز طبع - ذہین - نامی گرامی -",
+   "ex": []
+  },
+  {
+   "w": "Brilliance",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "ذکاوت - تیز طبعی - چمک دمک - آب و تاب -",
+   "ex": []
+  },
+  {
+   "w": "Brilliantly",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "ذہانت سے - چمک دمک سے - نمایاں طور پر -",
+   "ex": []
+  },
+  {
+   "w": "Brilliant",
+   "pron": "bril-yent",
+   "pos": "n.",
+   "def": "Diamond of finest cut",
+   "ur": "سب سے چھوٹا باریک ٹائپ - بہترین تراش کا ہیرا -",
+   "ex": []
+  },
+  {
+   "w": "Brilliantine",
+   "pron": "bril-yent-in",
+   "pos": "n.",
+   "def": "Cosmetic for hair",
+   "ur": "بالوں کا خوشبو دار روغن -",
+   "ex": []
+  },
+  {
+   "w": "Brim",
+   "pron": "brim",
+   "pos": "n.",
+   "def": "Edge of cup",
+   "ur": "کنارہ - چھجا - کور - لب ساغر -",
+   "ex": []
+  },
+  {
+   "w": "Brimful",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "لبالب - لبریز - پیالہ بھر -",
+   "ex": []
+  },
+  {
+   "w": "Brimless",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "بے لب - بے کور -",
+   "ex": []
+  },
+  {
+   "w": "Brimmed",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "کنارہ دار - لب دار -",
+   "ex": []
+  },
+  {
+   "w": "Brim",
+   "pron": "brim",
+   "pos": "v.t. & i.",
+   "def": "Fill, be full to the brim",
+   "ur": "لبریز کرنا - لبا لب بھرنا - لبالا ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Brim over",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "چھلک جانا -",
+   "ex": []
+  },
+  {
+   "w": "Brimmer",
+   "pron": "brimer",
+   "pos": "n.",
+   "def": "Full cup",
+   "ur": "لبریز پیالہ - چھلکتا ہوا ساغر -",
+   "ex": []
+  },
+  {
+   "w": "Brimstone",
+   "pron": "brimstan",
+   "pos": "n.",
+   "def": "Old name for sulphur, fuel of hell-fire",
+   "ur": "(پرانا نام) گندھک - دوزخ کا ایندھن -",
+   "ex": []
+  },
+  {
+   "w": "Brindled, Brindle",
+   "pron": "brindal",
+   "pos": "adj.",
+   "def": "Brownish with streaks of other colour",
+   "ur": "چت کبرا - لہرئیے دار -",
+   "ex": []
+  },
+  {
+   "w": "Brine",
+   "pron": "brin",
+   "pos": "n.",
+   "def": "Salt water, the sea",
+   "ur": "کھاری پانی - آب شور - سمندر - آنسو -",
+   "ex": []
+  },
+  {
+   "w": "Brine",
+   "pron": "brin",
+   "pos": "v.t.",
+   "def": "Steep in brine",
+   "ur": "کھاری پانی میں رکھنا - نمک میں رکھنا -",
+   "ex": []
+  },
+  {
+   "w": "Bring",
+   "pron": "bring",
+   "pos": "v.t. & i.",
+   "def": "Cause to come",
+   "ur": "لانا - لے آنا - لیتے آنا - اٹھا لانا - آمادہ کرنا - راغب کرنا - مائل کرنا - راضی کرنا - حاصل کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Bring down",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "مار ڈالنا - سزا دلانا - نیچا دکھانا - قیمت گرانا -",
+   "ex": []
+  },
+  {
+   "w": "Bring down the house",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "پرجوش تالیوں اور مرحبا کا شور ہونا - پر جوش تحسین حاصل کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Bring into play",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کام میں لانا (تدبیر) -",
+   "ex": []
+  },
+  {
+   "w": "Bring out",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "جوان لڑکی کا سماج میں تعارف کرانا - واضح کرنا - شائع کرنا - ظاہر کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Bring round",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "متفق کر لینا - ہم رائے بنا لینا -",
+   "ex": []
+  },
+  {
+   "w": "Bring up the rear",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "سب سے پیچھے آنا -",
+   "ex": []
+  },
+  {
+   "w": "Bring to light",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "فاش کرنا - افشا کرنا - ظاہر کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Bring to one's senses",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "سیدھا کر دینا - ہوش میں لانا - حواس درست کر دینا -",
+   "ex": []
+  },
+  {
+   "w": "Brink",
+   "pron": "brink",
+   "pos": "n.",
+   "def": "Edge or border",
+   "ur": "کنارہ - ساحل - لب آب -",
+   "ex": []
+  },
+  {
+   "w": "Brink of grave",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "قبر کے کنارے - لب گور -",
+   "ex": []
+  },
+  {
+   "w": "Shiver on the brink",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "وقت پر پس و پیش کرنا - ہاتھ ڈالتے ہوئے ہچکچانا -",
+   "ex": []
+  },
+  {
+   "w": "Briny",
+   "pron": "Brini",
+   "pos": "adj.",
+   "def": "Saltish",
+   "ur": "نمکین - کھاری - شور -",
+   "ex": []
+  },
+  {
+   "w": "Brisk",
+   "pron": "brisk",
+   "pos": "adj.",
+   "def": "Active",
+   "ur": "نشاط افزا - فرحت بخش - چست و چالاک - تیز - پھرتیلا -",
+   "ex": []
+  },
+  {
+   "w": "Briskly",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "تیزی سے - پھرتی سے -",
+   "ex": []
+  },
+  {
+   "w": "Briskness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "چستی - تیزی - پھرتی -",
+   "ex": []
+  },
+  {
+   "w": "Brisket",
+   "pron": "bris-kit",
+   "pos": "n.",
+   "def": "Breast of animals",
+   "ur": "جانوروں کا سینہ - سینے کا گوشت -",
+   "ex": []
+  },
+  {
+   "w": "Bristle",
+   "pron": "Bris-l",
+   "pos": "n.",
+   "def": "Stiff hair on hog's back and side",
+   "ur": "سور کا سخت بال - کڑا بال - خشخشی ڈاڑھی کے بال -",
+   "ex": []
+  },
+  {
+   "w": "Set up another's bristles",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بھڑکانا - جوش دلانا - تاؤ دلانا -",
+   "ex": []
+  },
+  {
+   "w": "Set up one's bristles",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "جوش میں آنا - تاؤ میں آنا -",
+   "ex": []
+  },
+  {
+   "w": "Bristle",
+   "pron": "Bris-l",
+   "pos": "v.t. & i.",
+   "def": "Cause the hair to stand upright",
+   "ur": "سور کے بال کی طرح کھڑا کرنا - تاؤ میں آنا - رونگٹے کھڑے ہونا - مشکلات سے اٹھا ہوا ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Bristol-board",
+   "pron": "bristal-bord",
+   "pos": "n.",
+   "def": "A kind of cardboard for drawing",
+   "ur": "ڈرائنگ کے لیے ایک قسم کا مقویٰ -",
+   "ex": []
+  },
+  {
+   "w": "Bristol fashion",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بالکل ٹھیک ٹھاک -",
+   "ex": []
+  },
+  {
+   "w": "Britain",
+   "pron": "Brit-an",
+   "pos": "n.",
+   "def": "England",
+   "ur": "سلطنت برطانیہ - برطانیہ -",
+   "ex": []
+  },
+  {
+   "w": "Britannia",
+   "pron": "Brit-an-ia",
+   "pos": "n.",
+   "def": "Personification of Britain",
+   "ur": "برطانیہ کی خیالی شکل -",
+   "ex": []
+  },
+  {
+   "w": "Britannic",
+   "pron": "Brit-an-ik",
+   "pos": "adj.",
+   "def": "Of Britain",
+   "ur": "برطانوی -",
+   "ex": []
+  },
+  {
+   "w": "British",
+   "pron": "Brit-ish",
+   "pos": "adj.",
+   "def": "Of Britons",
+   "ur": "انگریزی - برطانویوں کا - انگلستان کا -",
+   "ex": []
+  },
+  {
+   "w": "Britisher",
+   "pron": "Britisher",
+   "pos": "n.",
+   "def": "Of Britain",
+   "ur": "برطانیہ کا رہنے والا - برطانوی -",
+   "ex": []
+  },
+  {
+   "w": "Briton",
+   "pron": "Britan",
+   "pos": "n.",
+   "def": "Natives of Great Britain",
+   "ur": "رومی عہد کے برطانیہ کے قدیم باشندے -",
+   "ex": []
+  },
+  {
+   "w": "Brittle",
+   "pron": "Brit-l",
+   "pos": "adj.",
+   "def": "Apt to break",
+   "ur": "خشک - خستہ - ٹوٹ جانے والا - پھوٹک - بے لوج -",
+   "ex": []
+  },
+  {
+   "w": "Brittleness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "نزاکت - خستہ پن - بے لوج پن - پھوٹک پن -",
+   "ex": []
+  },
+  {
+   "w": "Broach",
+   "pron": "broch",
+   "pos": "n.",
+   "def": "Roasting spit, spire",
+   "ur": "الاؤ - برما - سیخ - گرجا - مندر یا مسجد کا کلس -",
+   "ex": []
+  },
+  {
+   "w": "Broach",
+   "pron": "broch",
+   "pos": "v.i. & t.",
+   "def": "Pierce a cask to draw wine",
+   "ur": "پیپے میں سوراخ کر کے شراب نکالنا - کھولنا - نکالنا بحث کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Broach",
+   "pron": "broch",
+   "pos": "v.t. & i.",
+   "def": "Cause a ship to veer and present side to wind and waves",
+   "ur": "جہاز کا رخ پھیرنا -",
+   "ex": []
+  },
+  {
+   "w": "Broad",
+   "pron": "brawd",
+   "pos": "n., adv. & adj.",
+   "def": "Large, wide",
+   "ur": "کشادہ - چوڑا چکلّا - واضح - کھلا ہوا - صاف صاف -",
+   "ex": []
+  },
+  {
+   "w": "Broad distinction",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "نمایاں فرق - واضح فرق - موٹا فرق -",
+   "ex": []
+  },
+  {
+   "w": "Broad facts",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کھلے واقعات - موٹی موٹی باتیں -",
+   "ex": []
+  },
+  {
+   "w": "Broad hint",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کھلا اشارہ -",
+   "ex": []
+  },
+  {
+   "w": "Broad rule",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "عام قاعدہ - کھلا قاعدہ -",
+   "ex": []
+  },
+  {
+   "w": "Broaden",
+   "pron": "braden",
+   "pos": "v.t.",
+   "def": "To make broad",
+   "ur": "وسیع کرنا - چوڑا کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Broadly",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "وسیع نظر سے -",
+   "ex": []
+  },
+  {
+   "w": "Broadish",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "کچھ چوڑا - چوڑا سا -",
+   "ex": []
+  },
+  {
+   "w": "Broadcast",
+   "pron": "brawd-kast",
+   "pos": "adj., adv., v.t. & i.",
+   "def": "Scatter, disseminate news by wireless",
+   "ur": "پھیلا ہوا - بکھیرنا - اشاعت کرنا - چرچا کرنا - نشر کرنا - مشہور کرنا - شہرت دینا - پرچار کرنا - پھیلانا -",
+   "ex": []
+  },
+  {
+   "w": "Broadness",
+   "pron": "brawd-nes",
+   "pos": "n.",
+   "def": "Indelicacy",
+   "ur": "چوڑائی - عرض - پھونڈا پن - پھوڑ زبان -",
+   "ex": []
+  },
+  {
+   "w": "Brobdingnag",
+   "pron": "brob-ding-nag",
+   "pos": "n.",
+   "def": "Land of giants",
+   "ur": "راکشسوں کی راجدھانی - دیووں کا ملک - راکشسوں کا ملک -",
+   "ex": []
+  },
+  {
+   "w": "Brobdingnagian",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "بہت بڑا - راکشسوں جیسا - دیو سا -",
+   "ex": []
+  },
+  {
+   "w": "Brocade",
+   "pron": "Brok-ad",
+   "pos": "n.",
+   "def": "Women cloth with gold and silver",
+   "ur": "کمخواب - زر بفت - دبیا -",
+   "ex": []
+  },
+  {
+   "w": "Brocade",
+   "pron": "Brok-ad",
+   "pos": "v.t.",
+   "def": "Work with raised pattern",
+   "ur": "کمخواب یا زربفت بنانا -",
+   "ex": []
+  },
+  {
+   "w": "Broccoli",
+   "pron": "broka-li",
+   "pos": "n.",
+   "def": "A kind of cabbage",
+   "ur": "گوبھی کی ایک قسم -",
+   "ex": []
+  },
+  {
+   "w": "Brochure",
+   "pron": "Bro-shoor",
+   "pos": "n.",
+   "def": "Stitched booklet",
+   "ur": "اشتہاری تحریر - کتابچہ - رسالہ -",
+   "ex": []
+  },
+  {
+   "w": "Brock",
+   "pron": "brock",
+   "pos": "n.",
+   "def": "Badger",
+   "ur": "وہ جس کے بدن سے بو آئے - گندہ آدمی -",
+   "ex": []
+  },
+  {
+   "w": "Brocket",
+   "pron": "brok-it",
+   "pos": "n.",
+   "def": "Two-years old stage",
+   "ur": "دو سال کا میدے سینگوں والا بارہ سنگھا -",
+   "ex": []
+  },
+  {
+   "w": "Brogue",
+   "pron": "brog",
+   "pos": "n.",
+   "def": "Rude shoe of untanned leather",
+   "ur": "بے کاٹے ہوئے چمڑے کا جوتا - آئر لینڈ اور اسکاٹ لینڈ کا بھدا گنوارو جوتا - گلف کھیلنے کا موزہ -",
+   "ex": []
+  },
+  {
+   "w": "Broil",
+   "pron": "broil",
+   "pos": "n.",
+   "def": "Quarrel",
+   "ur": "جھگڑا - لڑائی - دنگ - ہنگامہ -",
+   "ex": []
+  },
+  {
+   "w": "Broil",
+   "pron": "broil",
+   "pos": "v.t. & i.",
+   "def": "Cook or be cooked on fire",
+   "ur": "بھوننا - بھننا - کباب کرنا - سینکنا - دھوپ سے تپنا -",
+   "ex": []
+  },
+  {
+   "w": "Broke",
+   "pron": "brok",
+   "pos": "p.p.",
+   "def": "Ruined",
+   "ur": "قلاش - دیوالیہ - تباہ حال -",
+   "ex": []
+  },
+  {
+   "w": "Broken",
+   "pron": "brok-en",
+   "pos": "adj.",
+   "def": "Beaten",
+   "ur": "ٹوٹا ہوا - شکستہ - دیوالیہ -",
+   "ex": []
+  },
+  {
+   "w": "Broken English",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ٹوٹی پھوٹی انگریزی - غلط ساط انگریزی -",
+   "ex": []
+  },
+  {
+   "w": "Broken ground",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ناہموار زمین -",
+   "ex": []
+  },
+  {
+   "w": "Broken man",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "نامراد - مردہ سا - دیوالیہ -",
+   "ex": []
+  },
+  {
+   "w": "Broken meat",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بچا کھچا کھانا یا گوشت -",
+   "ex": []
+  },
+  {
+   "w": "Broken money",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "خردہ - ریز کاری -",
+   "ex": []
+  },
+  {
+   "w": "Broken tea",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "چائے کا چورا -",
+   "ex": []
+  },
+  {
+   "w": "Broken weather",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "گھڑی گھڑی بدلنے والا موسم یا مطلع -",
+   "ex": []
+  },
+  {
+   "w": "Broken down with misfortune",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "شکستہ حالی - خراب - خستہ -",
+   "ex": []
+  },
+  {
+   "w": "Broker",
+   "pron": "brok-ər",
+   "pos": "",
+   "def": "Middle man, dealer in second-hand goods",
+   "ur": "دلال - کبازی - فرق شدہ مال کو بیچنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Brokerage",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "دلالی کی فیس - دلالی - دستوری -",
+   "ex": []
+  },
+  {
+   "w": "Broking",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "دلالی -",
+   "ex": []
+  },
+  {
+   "w": "Bronchial",
+   "pron": "bronk-ial",
+   "pos": "adj.",
+   "def": "Pertaining to lungs and throat",
+   "ur": "پھیپھڑے یا گلے کے متعلق -",
+   "ex": []
+  },
+  {
+   "w": "Bronchitis",
+   "pron": "bronk-itis",
+   "pos": "n.",
+   "def": "Inflammation of bronchial mucus membrane",
+   "ur": "حلق کی سوجن - نرخرے کی نالیوں کا ورم -",
+   "ex": []
+  },
+  {
+   "w": "Bronze",
+   "pron": "bronz",
+   "pos": "n. & adj.",
+   "def": "Alloy of copper and tin",
+   "ur": "کانسی - کانسی کے مجسمے - کانسی کا رنگ -",
+   "ex": []
+  },
+  {
+   "w": "Bronzy",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کانسی کے رنگ کا - کانسی کا بنا ہوا -",
+   "ex": []
+  },
+  {
+   "w": "Bronze",
+   "pron": "bronz",
+   "pos": "v.i. & t.",
+   "def": "Become brown tan",
+   "ur": "دھوپ سے کالا ہو جانا - کانسی کے رنگ کا ہو جانا -",
+   "ex": []
+  },
+  {
+   "w": "Brooch",
+   "pron": "Brooch",
+   "pos": "n.",
+   "def": "Jewelled safety pin for female dress",
+   "ur": "جڑاؤ پن - جگنو - دگدگی - طرہ امتیاز -",
+   "ex": []
+  },
+  {
+   "w": "Brood",
+   "pron": "brood",
+   "pos": "n.",
+   "def": "Human family, hatch of birds",
+   "ur": "بچے - جھول - بیانت -",
+   "ex": []
+  },
+  {
+   "w": "Brood",
+   "pron": "brood",
+   "pos": "v.i.",
+   "def": "Sit as hen on eggs",
+   "ur": "اندیشہ کرنا - انڈوں پر بیٹھنا - خیال میں غرق رہنا - منصوبے باندھنا -",
+   "ex": []
+  },
+  {
+   "w": "Broody",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "مغموم - اندیشے میں غرق - کڑک -",
+   "ex": []
+  },
+  {
+   "w": "Brook",
+   "pron": "Brook",
+   "pos": "n.",
+   "def": "Small stream",
+   "ur": "چشمہ - ندی - نالہ -",
+   "ex": []
+  },
+  {
+   "w": "Brooklet",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "چشمہ - چھوٹا نالہ -",
+   "ex": []
+  },
+  {
+   "w": "Brook",
+   "pron": "brook",
+   "pos": "v.t.",
+   "def": "Tolerate",
+   "ur": "تکلیف برداشت کرنا - جھیلنا - برداشت کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Broom",
+   "pron": "broom",
+   "pos": "v.t. & n.",
+   "def": "Sweeping implement of long handle",
+   "ur": "لمبی جھاڑو - جھاڑو دینا - صفائی کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Marry over the broomstick",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "جھوٹ موٹ کی شادی کرنا -",
+   "ex": []
+  },
+  {
+   "w": "New broom",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "نیا نوکر جو مستعدی دکھائے -",
+   "ex": []
+  },
+  {
+   "w": "Brose",
+   "pron": "broz",
+   "pos": "n.",
+   "def": "Dish of oatmeal",
+   "ur": "جو کی روٹی جو دودھ کے ساتھ پکائی جائے -",
+   "ex": []
+  },
+  {
+   "w": "Broth",
+   "pron": "broth",
+   "pos": "n.",
+   "def": "Water in which meat has been boiled",
+   "ur": "یخنی - شوربا -",
+   "ex": []
+  },
+  {
+   "w": "Brothel",
+   "pron": "Broth-l",
+   "pos": "n.",
+   "def": "House of ill fame",
+   "ur": "طوائف کا گھر - رنڈی کا مکان - چکلا -",
+   "ex": []
+  },
+  {
+   "w": "Brother",
+   "pron": "bra-dhar",
+   "pos": "n.",
+   "def": "Son of same parents",
+   "ur": "ساتھی - سگا بھائی - برادر حقیقی - ہم پیشہ - ہم مذہب - ہم وطن - یار غار -",
+   "ex": []
+  },
+  {
+   "w": "Brotherless",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "جس کا کوئی بھائی نہ ہو -",
+   "ex": []
+  },
+  {
+   "w": "Brotherliness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "مواخات - بھائی پنا - بھائی چارہ -",
+   "ex": []
+  },
+  {
+   "w": "Brotherly",
+   "pron": "",
+   "pos": "adj. & adv.",
+   "def": "",
+   "ur": "بھائی چارے سے - برادرانہ طریقہ سے - برادرانہ -",
+   "ex": []
+  },
+  {
+   "w": "Brotherhood",
+   "pron": "Brodhar-hud",
+   "pos": "",
+   "def": "Fraternal tie",
+   "ur": "بھائی بندی - بھائی چارہ - برادری - ہم خیال - ہم عقیدگی -",
+   "ex": []
+  },
+  {
+   "w": "Brougham",
+   "pron": "Broo-am",
+   "pos": "n.",
+   "def": "One-horse carriage",
+   "ur": "ایک گھوڑے کی بند گاڑی -",
+   "ex": []
+  },
+  {
+   "w": "Brow",
+   "pron": "brow",
+   "pos": "n.",
+   "def": "Arch of hairs over eye",
+   "ur": "ابرو - پیشانی - بھوں - جبین - کنارا - چھجا -",
+   "ex": []
+  },
+  {
+   "w": "Browbeat",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "گوڑ کنا - ڈانٹنا - دھمکانا - ڈراتا -",
+   "ex": []
+  },
+  {
+   "w": "Brown",
+   "pron": "brown",
+   "pos": "adj.",
+   "def": "Of the colour given by mixing orange with black",
+   "ur": "بھورا - بادامی - خاکی - سانولا - ملیح -",
+   "ex": []
+  },
+  {
+   "w": "Brown bread",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بے چھنے آٹے کی روٹی -",
+   "ex": []
+  },
+  {
+   "w": "Brown sugar",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کچّی شکر - لال شکر - دیسی کھانڈ -",
+   "ex": []
+  },
+  {
+   "w": "Brownish",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "سانولے رنگ کا - بھورا سا -",
+   "ex": []
+  },
+  {
+   "w": "Brown",
+   "pron": "brown",
+   "pos": "n.",
+   "def": "Brown colour",
+   "ur": "بھورا رنگ یا روغن - بھورے رنگ کے یا خاکی کپڑے - تانبے کا سکہ -",
+   "ex": []
+  },
+  {
+   "w": "Brown",
+   "pron": "brown",
+   "pos": "v.t. & i.",
+   "def": "Make or become brown",
+   "ur": "دھوپ یا آگ میں رکھ کر بھورا کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Browse",
+   "pron": "browz",
+   "pos": "n., v.t. & i.",
+   "def": "Twigs, young shoots, feed on them",
+   "ur": "چارا - گھاس - ساگ پات - چرنا - چارا کھلانا -",
+   "ex": []
+  },
+  {
+   "w": "Bruin",
+   "pron": "broo-in",
+   "pos": "n.",
+   "def": "Bear",
+   "ur": "بھالو - ریچھ - ریچھ کا نام -",
+   "ex": []
+  },
+  {
+   "w": "Bruise",
+   "pron": "brooz",
+   "pos": "n.",
+   "def": "Injury to body",
+   "ur": "داغ - ہلکا زخم - چوٹ - خراش -",
+   "ex": []
+  },
+  {
+   "w": "Bruised",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "خراشوں والا - رگڑ کھایا ہوا - کچلا ہوا -",
+   "ex": []
+  },
+  {
+   "w": "Bruiser",
+   "pron": "brooz-er",
+   "pos": "n.",
+   "def": "A prize-fighter",
+   "ur": "ڈاکو - مارنے والا - مکہ باز -",
+   "ex": []
+  },
+  {
+   "w": "Bruit",
+   "pron": "broot",
+   "pos": "n.",
+   "def": "Rumour, report",
+   "ur": "شہرت - چرچا - خبر - افواہ -",
+   "ex": []
+  },
+  {
+   "w": "Bruit",
+   "pron": "broot",
+   "pos": "v.t.",
+   "def": "Spread rumour",
+   "ur": "مشہور کرنا - شہرت دینا - افواہ اڑانا -",
+   "ex": []
+  },
+  {
+   "w": "Brunette",
+   "pron": "broon-et",
+   "pos": "n. & adj.",
+   "def": "Dark-skinned and black-haired woman",
+   "ur": "عورت جس کا رنگ گندمی اور بال سیاہ ہوں -",
+   "ex": []
+  },
+  {
+   "w": "Brunt",
+   "pron": "brunt",
+   "pos": "n.",
+   "def": "Chief stress of the attack",
+   "ur": "صدمہ - ضرب - چوٹ - شدید حملہ -",
+   "ex": []
+  },
+  {
+   "w": "Brush",
+   "pron": "brush",
+   "pos": "n.",
+   "def": "Implement of bristles, shrub",
+   "ur": "بالوں کا قلم - موقلم - برش - مڈ بھیڑ - جھڑپ - جھاڑ - جھنکار -",
+   "ex": []
+  },
+  {
+   "w": "The brush",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "فن مصوری -",
+   "ex": []
+  },
+  {
+   "w": "Brushy",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کھردرا - جھاڑیلا - کچے دار - گھنا -",
+   "ex": []
+  },
+  {
+   "w": "Brush",
+   "pron": "brush",
+   "pos": "v.t. & i.",
+   "def": "Move quickly, sweep",
+   "ur": "پھرتی سے چلنا - صاف کرنا - جھاڑنا - رگڑنا -",
+   "ex": []
+  },
+  {
+   "w": "Brusque",
+   "pron": "broosk",
+   "pos": "adj.",
+   "def": "Blunt",
+   "ur": "خشک کلام - صاف گو - منہ پھٹ - اکھڑ - اجڈ -",
+   "ex": []
+  },
+  {
+   "w": "Brusquely",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "اجڈ پنے سے - اکھڑ پن سے -",
+   "ex": []
+  },
+  {
+   "w": "Brusqueness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "خشک کلامی - اجڈ پن - اکھڑ پن -",
+   "ex": []
+  },
+  {
+   "w": "Brutal",
+   "pron": "brootal",
+   "pos": "adj.",
+   "def": "Rude, coarse",
+   "ur": "ہوس پرست - بے رحم - جانور - جنگلی - وحشی -",
+   "ex": []
+  },
+  {
+   "w": "Brutalism, Brutality",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "ہوس پرستی - بے دردی - وحشیانہ پن -",
+   "ex": []
+  },
+  {
+   "w": "Brutally",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "حیوانوں کی طرح - بے رحمی سے -",
+   "ex": []
+  },
+  {
+   "w": "Brutalize",
+   "pron": "brootal-iz",
+   "pos": "v.t. & i.",
+   "def": "Make brutal",
+   "ur": "ظالم اور ہوس پرست بنانا - حیوان بنانا - بے رحم بنانا -",
+   "ex": []
+  },
+  {
+   "w": "Brute",
+   "pron": "broot",
+   "pos": "n. & adj.",
+   "def": "Beast-like, sexual",
+   "ur": "وحشی - بے رحم - سنگدل - ہوس پرست - شہوت پرست - کند ذہن - غبی - احمق -",
+   "ex": []
+  },
+  {
+   "w": "Brutehood",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "حیوانیت - جانور پن -",
+   "ex": []
+  },
+  {
+   "w": "Brutification",
+   "pron": "broot-ifi-kashon",
+   "pos": "n.",
+   "def": "",
+   "ur": "حیوان بن جانا یا بنانا - حیوان بنانے کا عمل -",
+   "ex": []
+  },
+  {
+   "w": "Brutify",
+   "pron": "brootifi",
+   "pos": "v.t.",
+   "def": "Turn into a beast",
+   "ur": "سنگدل یا شہوت پرست بنانا - حیوان بنا دینا -",
+   "ex": []
+  },
+  {
+   "w": "Brutishly",
+   "pron": "brootishli",
+   "pos": "adv.",
+   "def": "In a beastlike manner",
+   "ur": "حیوانوں کی طرح -",
+   "ex": []
+  },
+  {
+   "w": "Brutishness",
+   "pron": "brootish-nes",
+   "pos": "n.",
+   "def": "",
+   "ur": "حیوانیت - سنگدلی -",
+   "ex": []
+  },
+  {
+   "w": "Bubble",
+   "pron": "bub-l",
+   "pos": "n.",
+   "def": "Envelope of liquid closing air",
+   "ur": "بلبلا - حباب - نقش بر آب - پانی کا بلبلا - بے حقیقت چیز - دھوکے کی ٹٹی - شیخ چلی کے منصوبے - خیالی منصوبہ - ابلنے کی آواز -",
+   "ex": []
+  },
+  {
+   "w": "Bubble and squeak",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ڈھنڈا ترکاری دار گوشت -",
+   "ex": []
+  },
+  {
+   "w": "Prick the bubble",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "پردہ فاش کرنا - بھانڈا پھوڑنا -",
+   "ex": []
+  },
+  {
+   "w": "Bubbly",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "حباب آور - بلبلے دار -",
+   "ex": []
+  },
+  {
+   "w": "Bubble",
+   "pron": "bub-l",
+   "pos": "v.t. & i.",
+   "def": "Send up bubbles",
+   "ur": "فریب دینا - بلبلے کی آواز پیدا کرنا - بلبلے اٹھانا -",
+   "ex": []
+  },
+  {
+   "w": "Bubble over or bubble with laughter",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کھلکھلا کر ہنسنا -",
+   "ex": []
+  },
+  {
+   "w": "Bubble with wrath",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "غصے میں آپے سے باہر ہو جانا -",
+   "ex": []
+  },
+  {
+   "w": "Bubbling",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بلبلے اٹھتے ہوئے - آپے سے باہر -",
+   "ex": []
+  },
+  {
+   "w": "Bubby",
+   "pron": "bub-i",
+   "pos": "n.",
+   "def": "Breast",
+   "ur": "پستان -",
+   "ex": []
+  },
+  {
+   "w": "Bubo",
+   "pron": "bu-bo",
+   "pos": "n.",
+   "def": "An inflamed swelling in glandular part of the body",
+   "ur": "گلٹی - گلٹی والا -",
+   "ex": []
+  },
+  {
+   "w": "Bubonic",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "گلٹی والا -",
+   "ex": []
+  },
+  {
+   "w": "Bucaneer",
+   "pron": "Bukan-er",
+   "pos": "n. & v.i.",
+   "def": "Sea-pirate",
+   "ur": "بحری قزاق - سمندری چور - بحری ڈاکو -",
+   "ex": []
+  },
+  {
+   "w": "Bucaneering",
+   "pron": "",
+   "pos": "n. & v.i.",
+   "def": "",
+   "ur": "بحری ڈاکو کا پیشہ - سمندر میں ڈاکہ ڈالنا -",
+   "ex": []
+  },
+  {
+   "w": "Bucaneerish",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "بحری ڈاکو کی طرح - قزاق صفت -",
+   "ex": []
+  },
+  {
+   "w": "Buck",
+   "pron": "buk",
+   "pos": "n.",
+   "def": "Male deer",
+   "ur": "بانکا چھیلا - خرگوش - کالا مرگ - نر ہرن -",
+   "ex": []
+  },
+  {
+   "w": "Buck-shot",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بطاخے - موٹے چھرے -",
+   "ex": []
+  },
+  {
+   "w": "Buck-shot rule",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "مسلح پولیس کی حکومت -",
+   "ex": []
+  },
+  {
+   "w": "Buck-tooth",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "آگے کو نکلا ہوا دانت -",
+   "ex": []
+  },
+  {
+   "w": "Buckish",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "جوان - چھیل چھبیلا - بانکا چھیلا -",
+   "ex": []
+  },
+  {
+   "w": "Buckishly",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "عاشقانہ انداز سے - بانکپن سے -",
+   "ex": []
+  },
+  {
+   "w": "Buck",
+   "pron": "buk",
+   "pos": "v.i. & t.",
+   "def": "Jump like a buck",
+   "ur": "گھوڑے کا کودنا - چھلانگ مارنا -",
+   "ex": []
+  },
+  {
+   "w": "Buck jump",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "گھوڑے کا دولتیاں جھاڑنا - چھلانگ -",
+   "ex": []
+  },
+  {
+   "w": "Buck off",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "گھوڑے کا الف ہو کر سوار کو گرا دینا -",
+   "ex": []
+  },
+  {
+   "w": "Buck, Buck up",
+   "pron": "buk",
+   "pos": "v.i. & t.",
+   "def": "Make haste, be cheerful",
+   "ur": "بشاش ہونا - چاق و چوبند ہونا - جلدی کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Bucket",
+   "pron": "buk-it",
+   "pos": "n.",
+   "def": "A wooden or other vessel for drawing water",
+   "ur": "بالٹی - ڈولچی - ڈول - چمڑے کا ڈول -",
+   "ex": []
+  },
+  {
+   "w": "Kick the bucket",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "فوت ہو جانا - مر جانا -",
+   "ex": []
+  },
+  {
+   "w": "Buckle",
+   "pron": "buk-l",
+   "pos": "n.",
+   "def": "Metal rim for securing strap",
+   "ur": "بکسوا - بکس - بکلوس -",
+   "ex": []
+  },
+  {
+   "w": "Buckle",
+   "pron": "bukl",
+   "pos": "v.t. & i.",
+   "def": "Fasten with buckle",
+   "ur": "بکسوا لگانا - جوڑنا - بکل لگانا -",
+   "ex": []
+  },
+  {
+   "w": "Buckler",
+   "pron": "buk-ler",
+   "pos": "n. & v.t.",
+   "def": "Small round shield",
+   "ur": "ڈھال - سپر - بچاؤ - روک - پناہ دینا - حفاظت کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Buckram",
+   "pron": "bukram",
+   "pos": "n.",
+   "def": "Coarse linen or cloth stiffened with paste",
+   "ur": "موٹی قسم کا کپڑا جس کو کلف لگا کر سخت کیا جائے - بکرم -",
+   "ex": []
+  },
+  {
+   "w": "Bud",
+   "pron": "bud",
+   "pos": "n.",
+   "def": "Leaf cluster or flower",
+   "ur": "کلی - غنچہ - شکوفہ - کونپل -",
+   "ex": []
+  },
+  {
+   "w": "Nip in the bud",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ترقی نہ کرنے دینا - ابھرنے نہ دینا - ابتدا ہی میں کام خراب ہو جانا -",
+   "ex": []
+  },
+  {
+   "w": "Budless",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "بے کلی دار - بے شکوفہ -",
+   "ex": []
+  },
+  {
+   "w": "Budlet",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "چھوٹی کلی -",
+   "ex": []
+  },
+  {
+   "w": "Bud",
+   "pron": "bud",
+   "pos": "v.t. & i.",
+   "def": "Begin to grow",
+   "ur": "پھوٹنا - نکلنا - بڑھنا - نشو و نما پانا - کلیوں کا نکلنا -",
+   "ex": []
+  },
+  {
+   "w": "Budded",
+   "pron": "",
+   "pos": "p.p.",
+   "def": "",
+   "ur": "کونپل دار - کلی دار - غنچہ دار -",
+   "ex": []
+  },
+  {
+   "w": "Budding lawyer",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "نیا وکیل - ابھرتا ہوا وکیل -",
+   "ex": []
+  },
+  {
+   "w": "Buddha",
+   "pron": "bood-a",
+   "pos": "n.",
+   "def": "The Enlightened",
+   "ur": "گوتم بدھ - بدھ -",
+   "ex": []
+  },
+  {
+   "w": "Buddhism",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "بدھ مت -",
+   "ex": []
+  },
+  {
+   "w": "Buddhist",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "گوتم بدھ کو ماننے والا - بدھ مت کا پیرو -",
+   "ex": []
+  },
+  {
+   "w": "Buddhistical",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "بدھ مت سے متعلق -",
+   "ex": []
+  },
+  {
+   "w": "Buddhistically",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "بدھ مت کے طریقے پر -",
+   "ex": []
+  },
+  {
+   "w": "Budge",
+   "pron": "buj",
+   "pos": "v.t. & i.",
+   "def": "Make the slightest movement",
+   "ur": "ہٹنا - سرکنا - ٹلنا - سرکانا -",
+   "ex": []
+  },
+  {
+   "w": "Budget",
+   "pron": "buj-it",
+   "pos": "n. & v. i.",
+   "def": "Annual estimate of revenue and expenditure",
+   "ur": "تھیلی - کیسہ زر - آمدنی کا تخمینہ - آمدنی اور خرچ کا تخمینہ کرنا - میزانیہ - بجٹ -",
+   "ex": []
+  },
+  {
+   "w": "Budgetary",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "میزانیہ سے متعلق -",
+   "ex": []
+  },
+  {
+   "w": "Buff",
+   "pron": "buf",
+   "pos": "n. & adj.",
+   "def": "Stout velvety dull yellow leather of buffalo",
+   "ur": "پیلے رنگ کا بھینس کا چمڑا - ادھوڑی -",
+   "ex": []
+  },
+  {
+   "w": "Buff",
+   "pron": "buf",
+   "pos": "v.t.",
+   "def": "Polish with buff, make leather soft",
+   "ur": "چمڑے کو کما کر نرم کرنا - چمڑے سے دھات پر صیقل کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Buffalo",
+   "pron": "buf-e-lo",
+   "pos": "n.",
+   "def": "A kind of animal",
+   "ur": "بھینس - بھینسا -",
+   "ex": []
+  },
+  {
+   "w": "Buffer",
+   "pron": "buf-er",
+   "pos": "n.",
+   "def": "Old-fashioned incompetent fellow; Apparatus for deadening by spring or padding",
+   "ur": "پرانی وضع کا آدمی - دقیانوسی - نکما - ریل گاڑی کے ڈبوں کا ٹکراؤ روکنے کا پرزہ - ٹکر زوک -",
+   "ex": []
+  },
+  {
+   "w": "Buffer state",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "دو بڑی سلطنتوں کے بیچ کی ریاست -",
+   "ex": []
+  },
+  {
+   "w": "Buffet",
+   "pron": "bufi-et",
+   "pos": "n. v.t. i.",
+   "def": "Strike with hands, knock, hurt",
+   "ur": "گھونسا - مکا - طمانچہ - موجوں کا تھپیڑا - برتنوں کی الماری - مکا مارنا - مقابلہ کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Buffoon",
+   "pron": "buf-oon",
+   "pos": "n. & v. i.",
+   "def": "Jester, play-mocker",
+   "ur": "مسخرہ - دل لگی کرنے والا - مسخرہ پن کرنا - دل لگی کرنا - نقل کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Buffoonery",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "مسخرہ پن - دل لگی -",
+   "ex": []
+  },
+  {
+   "w": "Bug",
+   "pron": "bug",
+   "pos": "n.",
+   "def": "Ill smelling blood-sucking insect",
+   "ur": "کھٹمل - کھاٹ کیڑا - چھوٹے کیڑے -",
+   "ex": []
+  },
+  {
+   "w": "Big bug",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "(بول چال) - بڑا آدمی -",
+   "ex": []
+  },
+  {
+   "w": "Buggy",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کھٹملوں سے اٹا ہوا -",
+   "ex": []
+  },
+  {
+   "w": "Bug-bear",
+   "pron": "bug-ber",
+   "pos": "n.",
+   "def": "Fancied object of fear",
+   "ur": "ہوا - پیچھا - لو لو -",
+   "ex": []
+  },
+  {
+   "w": "Bugger",
+   "pron": "bug-ər",
+   "pos": "n.",
+   "def": "Sodomite",
+   "ur": "لونڈے باز - اغلامی - (بول چال) شیطان - بد معاش -",
+   "ex": []
+  },
+  {
+   "w": "Buggery",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "لواطت - لونڈے بازی - خلاف وضع فطری حرکت - اغلام -",
+   "ex": []
+  },
+  {
+   "w": "Buggy",
+   "pron": "bugi",
+   "pos": "n.",
+   "def": "Carriage",
+   "ur": "بگھی -",
+   "ex": []
+  },
+  {
+   "w": "Bugle",
+   "pron": "bu-gl",
+   "pos": "n., & v.t. i.",
+   "def": "Brass instrument used for sound signals",
+   "ur": "بگل - بگل بجانا -",
+   "ex": []
+  },
+  {
+   "w": "Bugler",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "بگل یا فوج کا تر سنگا بجانے والا - بگچی -",
+   "ex": []
+  },
+  {
+   "w": "Build",
+   "pron": "Bild",
+   "pos": "v.t. & i.",
+   "def": "Construct",
+   "ur": "چننا - بنانا - مکان یا عمارت بنانا -",
+   "ex": []
+  },
+  {
+   "w": "Build upon",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "امید لگا بیٹھنا - آس لگانا - بھروسا کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Build",
+   "pron": "bild",
+   "pos": "n.",
+   "def": "Make",
+   "ur": "وضع - بناوٹ - ساخت - انسان کی کاٹھی -",
+   "ex": []
+  },
+  {
+   "w": "Builder",
+   "pron": "bilder",
+   "pos": "n.",
+   "def": "",
+   "ur": "معمار - مستری - عمارت بنانے والا -",
+   "ex": []
+  },
+  {
+   "w": "Building",
+   "pron": "bild-ing",
+   "pos": "n.",
+   "def": "House, edifice",
+   "ur": "چال - عمارت - مکان - حویلی -",
+   "ex": []
+  },
+  {
+   "w": "Bulb",
+   "pron": "bulb",
+   "pos": "n.",
+   "def": "Nearly spherical underground stem",
+   "ur": "گٹھی - گانٹھ - کسی عضو کی پھولی ہوئی چیز - بصلہ -",
+   "ex": []
+  },
+  {
+   "w": "Bulbed, bulbiferous",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "بصلہ دار - گٹھی دار -",
+   "ex": []
+  },
+  {
+   "w": "Bulbiform",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "بصلہ نما - پیاز نما -",
+   "ex": []
+  },
+  {
+   "w": "Bulbous",
+   "pron": "bulbəs",
+   "pos": "adj.",
+   "def": "",
+   "ur": "بصلے والا - گڈے والا - گانٹھ والا -",
+   "ex": []
+  },
+  {
+   "w": "Bulbul",
+   "pron": "bool-bool",
+   "pos": "n.",
+   "def": "A singing bird",
+   "ur": "شاعر - مغنی - گانے والا پرند - بلبل -",
+   "ex": []
+  },
+  {
+   "w": "Bulge",
+   "pron": "bulj",
+   "pos": "n.",
+   "def": "Irregular swelling",
+   "ur": "ابھار - نکلا ہوا -",
+   "ex": []
+  },
+  {
+   "w": "Bulgy",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "نکلا ہوا - ابھرا ہوا -",
+   "ex": []
+  },
+  {
+   "w": "Bulginess",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "ابھار - ابھار پن -",
    "ex": []
   }
  ],
