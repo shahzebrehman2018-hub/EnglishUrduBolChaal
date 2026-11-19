@@ -80897,8 +80897,8 @@
    "w": "Bound",
    "pron": "bownd",
    "pos": "n.",
-   "def": "Limit",
-   "ur": "روک - بندش - حد - سرحد -",
+   "def": "Limit; Springy movement upward or forward",
+   "ur": "روک - بندش - حد - سرحد - پھلانگ - چھلانگ - زندق - طرارہ - چوکڑی -",
    "ex": []
   },
   {
@@ -80907,6 +80907,1542 @@
    "pos": "v.t. & i.",
    "def": "Set bounds to, bounce",
    "ur": "حد باندھنا - حد بندی کرنا - محدود کرنا - گھیرا ڈالنا - قید لگانا - سرحد ہونا - چھلانگ لگانا - اچھلنا - ٹکرا کر واپس آنا - سبک رفتاری سے چلنا -",
+   "ex": []
+  },
+  {
+   "w": "Advance by leaps and bounds",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "تیزی سے آگے بڑھنا -",
+   "ex": []
+  },
+  {
+   "w": "On the first bound",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "پہلی جست میں - پہلی ہی پھلانگ میں -",
+   "ex": []
+  },
+  {
+   "w": "Bound",
+   "pron": "Bownd",
+   "pos": "p.p.",
+   "def": "Closely connected",
+   "ur": "بندھا ہوا - پابند - پابستہ - مقید - مجبور -",
+   "ex": []
+  },
+  {
+   "w": "Bound",
+   "pron": "Bownd",
+   "pos": "adj.",
+   "def": "Ready to start, having started",
+   "ur": "عازم سفر - روانہ ہونے والا - جانے والا -",
+   "ex": []
+  },
+  {
+   "w": "Bound to win",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "یقینی طور پر جیتنے کا - ضرور جیتنے کا -",
+   "ex": []
+  },
+  {
+   "w": "Boundary",
+   "pron": "bowndəri",
+   "pos": "n.",
+   "def": "Limit line",
+   "ur": "حد بندی کرنے والی چیز - حدیں - حدود - حد بندی - حد بندی کرنے والا خط -",
+   "ex": []
+  },
+  {
+   "w": "Bounder",
+   "pron": "bound-ər",
+   "pos": "n.",
+   "def": "Ill-bred",
+   "ur": "اچھلنے والا - شہدا - بدمعاش - غنڈا -",
+   "ex": []
+  },
+  {
+   "w": "Boundless",
+   "pron": "bownd-les",
+   "pos": "adj.",
+   "def": "Unlimited",
+   "ur": "بے حد - بے انت - بے انتہا - بے پایاں - بے شمار -",
+   "ex": []
+  },
+  {
+   "w": "Bounteous",
+   "pron": "Bowntiəs",
+   "pos": "adj.",
+   "def": "Beneficent",
+   "ur": "سخی - کریم - فیاض - داتا - خیر - کریمانہ - فیاضانہ -",
+   "ex": []
+  },
+  {
+   "w": "Bounteously",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "کریمانہ طور پر - حاتمانہ انداز سے - فیاضانہ طریقہ پر -",
+   "ex": []
+  },
+  {
+   "w": "Bounteousness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "فیاضی - سخاوت - کریمی -",
+   "ex": []
+  },
+  {
+   "w": "Bountiful",
+   "pron": "bownti-fl",
+   "pos": "adj.",
+   "def": "",
+   "ur": "کثرت سے - افراط سے - فیاض - سخی - کریم -",
+   "ex": []
+  },
+  {
+   "w": "Bountifully",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "کریمانہ انداز سے - فیاضانہ طور پر -",
+   "ex": []
+  },
+  {
+   "w": "Bountifulness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "فیاضی - بخشش -",
+   "ex": []
+  },
+  {
+   "w": "Bounty",
+   "pron": "Bownti",
+   "pos": "n.",
+   "def": "Munificence",
+   "ur": "سخاوت - فیاضی - عطیہ - سرکاری امداد جو تاجروں ، کارخانہ داروں کو فروغ تجارت کی غرض سے دی جاتی ہے -",
+   "ex": []
+  },
+  {
+   "w": "Bouquet",
+   "pron": "Book-a",
+   "pos": "n.",
+   "def": "Bunch of flowers",
+   "ur": "شراب کی خوشبو - پھولوں کا گلدستہ -",
+   "ex": []
+  },
+  {
+   "w": "Bourgeois",
+   "pron": "Boorzh-wa",
+   "pos": "n. & adj.",
+   "def": "Of middle class",
+   "ur": "شہری متوسط طبقہ - ادنیٰ درجہ کے خیالات والا انسان -",
+   "ex": []
+  },
+  {
+   "w": "Bourgeois",
+   "pron": "bur-jois",
+   "pos": "n.",
+   "def": "A kind of printing type",
+   "ur": "ایک قسم کے چھاپے کا ٹائپ -",
+   "ex": []
+  },
+  {
+   "w": "Bourn",
+   "pron": "boorn",
+   "pos": "n.",
+   "def": "Small stream",
+   "ur": "نالہ - چھوٹی ندی -",
+   "ex": []
+  },
+  {
+   "w": "Bourn-e",
+   "pron": "boorn",
+   "pos": "n.",
+   "def": "Limit, goal",
+   "ur": "حد - مقصد - منزل - منزل مقصود -",
+   "ex": []
+  },
+  {
+   "w": "Bout",
+   "pron": "bowt",
+   "pos": "n.",
+   "def": "Spell of exercise",
+   "ur": "باری - چکر - آزمائش - مقابلہ - ورزش اور کام کا بدلہ - بے نوشی کا دور - مرض کا حملہ -",
+   "ex": []
+  },
+  {
+   "w": "Bovine",
+   "pron": "bo-vin",
+   "pos": "adj.",
+   "def": "Like an ox",
+   "ur": "احمق - بیل کی طرح - ڈنگر جیسا -",
+   "ex": []
+  },
+  {
+   "w": "Bovril",
+   "pron": "bov-ril",
+   "pos": "n.",
+   "def": "Meat extract",
+   "ur": "ماءاللحم جو یخنی کی طرح استعمال کیا جاتا ہے - ایک قسم کی گائے کے گوشت کی یخنی کا تجارتی نام -",
+   "ex": []
+  },
+  {
+   "w": "Bow",
+   "pron": "bow",
+   "pos": "n.",
+   "def": "Weapon for shooting arrows; Bending in salutation; Front part of a boat or ship",
+   "ur": "کمان - غلیل - قوس قزح - سارنگی کا گز - فیتہ کا پھول - فیتہ کا پھندا - نیاز مندی - سلام - بندگی - تسلیمات - جہاز کی پیشانی - جہاز کا سامنے کا حصہ -",
+   "ex": []
+  },
+  {
+   "w": "Draw the long bow",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "مبالغہ کرنا - لمبی چوڑی ہانکنا - دون کی لینا -",
+   "ex": []
+  },
+  {
+   "w": "Two strings to one's bow",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "آمدنی کا ایک سے زیادہ ذریعہ -",
+   "ex": []
+  },
+  {
+   "w": "Bow",
+   "pron": "bow",
+   "pos": "v.t.",
+   "def": "Use the bow on",
+   "ur": "سارنگی کے تاروں پر گز کو حرکت دینا - سارنگی پر گز پھیرنا -",
+   "ex": []
+  },
+  {
+   "w": "Bow",
+   "pron": "bow",
+   "pos": "v.t. & i.",
+   "def": "Submit",
+   "ur": "شکریہ ادا کرنا - جھکنا - سر تسلیم خم کرنا - آداب بجا لانا -",
+   "ex": []
+  },
+  {
+   "w": "Make one's bow",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "رخصتی سلام کرنا - رخصت ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Bowdlerize",
+   "pron": "bowdlər-iz",
+   "pos": "v.t.",
+   "def": "Expurgate a book",
+   "ur": "کسی کتاب سے فحش باتوں کو خارج کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Bowdlerism",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "کتابوں سے فحش باتوں کے خارج کرنے کا اصول -",
+   "ex": []
+  },
+  {
+   "w": "Bowdlerisation",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "کتابوں سے فحش باتوں کا اخراج -",
+   "ex": []
+  },
+  {
+   "w": "Bowel",
+   "pron": "bowel",
+   "pos": "n.",
+   "def": "Division of alimentary canal below stomach",
+   "ur": "انتڑیاں - آنت - کسی شے کا اندرونی حصہ - ترس - رحم - ہمدردی -",
+   "ex": []
+  },
+  {
+   "w": "Bower",
+   "pron": "bower",
+   "pos": "n.",
+   "def": "Dwelling",
+   "ur": "خلوت خانہ - گوشہ - گچھا - پینھک جو بیلوں اور پھولوں سے ڈھکی ہو - کنج -",
+   "ex": []
+  },
+  {
+   "w": "Bowery",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "پینھک جیسا - ہرا بھرا - خلوت گاہی -",
+   "ex": []
+  },
+  {
+   "w": "Bowie-knife",
+   "pron": "boi-nif",
+   "pos": "n.",
+   "def": "A long knife with a double-edged blade",
+   "ur": "بڑا چاقو جس کے دونوں طرف دھار ہو - ایک طرف پوری دھار دوسری طرف آدھی -",
+   "ex": []
+  },
+  {
+   "w": "Bowl",
+   "pron": "bol",
+   "pos": "n.",
+   "def": "Drinking vessel; Wooden ball made slightly out of spherical shape",
+   "ur": "کشکول - پیانہ - کاسہ - پیالہ - ساغر - جام - بیضوی شکل کی گیند - سکیٹلز - کھیل کی گیند - سکیٹلز کا کھیل -",
+   "ex": []
+  },
+  {
+   "w": "Bowlful",
+   "pron": "bol-ful",
+   "pos": "n. & adj.",
+   "def": "So much that it fills the bowl",
+   "ur": "کشکول بھر - پیالہ بھر -",
+   "ex": []
+  },
+  {
+   "w": "Bowl",
+   "pron": "bol",
+   "pos": "v.t. & i.",
+   "def": "Play bowl, throw a cricket ball",
+   "ur": "گیند لڑھکانا - گیند پھینکنا - گیند پھینک کر کھلاڑی کو آؤٹ کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Bowler",
+   "pron": "bolər",
+   "pos": "n.",
+   "def": "One who bowls",
+   "ur": "گیند پھینکنے والا - کھلاڑی -",
+   "ex": []
+  },
+  {
+   "w": "Bowling",
+   "pron": "bol-ing",
+   "pos": "n.",
+   "def": "",
+   "ur": "(کرکٹ) گیند پھینکنا -",
+   "ex": []
+  },
+  {
+   "w": "Bowling green",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "گیند کھیلنے کا سبزہ زار -",
+   "ex": []
+  },
+  {
+   "w": "Bowman",
+   "pron": "bowmən",
+   "pos": "n.",
+   "def": "Archer",
+   "ur": "کشتی کا آخری ملاح - تیر انداز -",
+   "ex": []
+  },
+  {
+   "w": "Bowsprit",
+   "pron": "bow-sprit",
+   "pos": "n.",
+   "def": "Spar to which forestays are fastened",
+   "ur": "شہتیر جو کشتی میں بادبانوں کو تھامنے کے لیے لگایا جاتا ہے -",
+   "ex": []
+  },
+  {
+   "w": "Bow-street",
+   "pron": "bow-stret",
+   "pos": "n.",
+   "def": "",
+   "ur": "لندن کی کوتوالی -",
+   "ex": []
+  },
+  {
+   "w": "Bow wow",
+   "pron": "bo-wo",
+   "pos": "n. & Interj.",
+   "def": "Barking sound of dogs",
+   "ur": "کتے کی آواز کی نقل - بھوں بھوں -",
+   "ex": []
+  },
+  {
+   "w": "Box",
+   "pron": "boks",
+   "pos": "n.",
+   "def": "A kind of ever-green shrub; Receptacle",
+   "ur": "ایک ہری جھاڑی جو کثرت سے باغات کے کنارے لگائی جاتی ہے - اس جھاڑی کی لکڑی - صندوق - صندوقچہ - ڈبا - پیٹی - تھیٹر میں علیحدہ نشست - سنتری یا سگنل والے کی کاٹھ کوٹھری -",
+   "ex": []
+  },
+  {
+   "w": "Box-office",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ناچ گھر یا ناٹک کا ٹکٹ خریدنے کی جگہ -",
+   "ex": []
+  },
+  {
+   "w": "In the same or wrong box",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ایک ہی کشتی میں - یکساں مصیبت میں -",
+   "ex": []
+  },
+  {
+   "w": "Box",
+   "pron": "boks",
+   "pos": "v.t.",
+   "def": "Put into a box",
+   "ur": "صندوق میں بند کرنا - پٹاری میں رکھنا - کوئی دستاویز عدالت میں داخل کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Box",
+   "pron": "boks",
+   "pos": "v.t. & i.",
+   "def": "Slap a person's ears",
+   "ur": "مکے مارنا - گھونسے مارنا - مکے بازی کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Box on the ear",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کان پر تھپڑ مارنا -",
+   "ex": []
+  },
+  {
+   "w": "Boxer",
+   "pron": "bokser",
+   "pos": "n.",
+   "def": "Pugilist",
+   "ur": "گھونسہ باز - مکہ باز - مکہ بازی کرنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Boy",
+   "pron": "boi",
+   "pos": "n.",
+   "def": "Male child",
+   "ur": "لڑکا - طفل - لڑکوں جیسی طبیعت رکھنے والا - نوکر - غلام -",
+   "ex": []
+  },
+  {
+   "w": "Old boy, my boy",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ارے میاں - ارے یار -",
+   "ex": []
+  },
+  {
+   "w": "Boycott",
+   "pron": "boi-kot",
+   "pos": "v.t. & n.",
+   "def": "Cut off social and commercial relations",
+   "ur": "ملنا جلنا ترک کرنا - مقاطعہ کرنا - کاروبار چھوڑ دینا - لین دین ترک کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Boyhood",
+   "pron": "boi-hud",
+   "pos": "n.",
+   "def": "Boyish age, boys",
+   "ur": "لڑکپن - طفلی - بال پن - بچپن - بچے -",
+   "ex": []
+  },
+  {
+   "w": "Boyish",
+   "pron": "boi-sh",
+   "pos": "adj.",
+   "def": "Pertaining to boys",
+   "ur": "بچے کا - بچپن کا - جوشیلا - طفلانہ -",
+   "ex": []
+  },
+  {
+   "w": "Boyishly",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "جوشیلے طور پر - بچوں کی طرح - طفلانہ طریقے سے -",
+   "ex": []
+  },
+  {
+   "w": "Boyishness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "جوشیلا پن - طفلی - لڑکپن -",
+   "ex": []
+  },
+  {
+   "w": "Brace",
+   "pron": "bras",
+   "pos": "n.",
+   "def": "A thing that unites, tightens",
+   "ur": "ہج برما - کسنے والی چیز - پتلون کے لچکدار فیتے - طبلے یا ڈھول کی ڈوری - جوڑا - چھوٹی بڑی بریکٹ -",
+   "ex": []
+  },
+  {
+   "w": "Brace",
+   "pron": "bras",
+   "pos": "v.t. & i.",
+   "def": "Fasten tightly",
+   "ur": "جکڑنا - کس کر باندھنا - مضبوط کرنا - سنبھالنا -",
+   "ex": []
+  },
+  {
+   "w": "Brace oneself up",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "تیار ہونا - مستعد ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Bracing air",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "جانفزا ہوا - فرحت بخش ہوا -",
+   "ex": []
+  },
+  {
+   "w": "Bracer",
+   "pron": "bras-er",
+   "pos": "n.",
+   "def": "Wrist guard",
+   "ur": "مفرح - شراب یا دیگر مشروبات - کسنے والی چیز - تیر اندازی یا شمشیر زنی کے لیے کلائی کا قصدہ -",
+   "ex": []
+  },
+  {
+   "w": "Bracelet",
+   "pron": "bras-lit",
+   "pos": "n.",
+   "def": "Ornamental band",
+   "ur": "کڑا - کنگن - جوشن - بازو بند - چوڑی - پینچھی -",
+   "ex": []
+  },
+  {
+   "w": "Bracket",
+   "pron": "Brak-it",
+   "pos": "n.",
+   "def": "Projection from wall",
+   "ur": "دیوار کی ٹیڑھا کیل - دیوار گیری - دیوار میں لگانے کی چھوٹی الماری - خطوط وحدانی - قوس -",
+   "ex": []
+  },
+  {
+   "w": "Bracket",
+   "pron": "Brak-it",
+   "pos": "v.t.",
+   "def": "Enclose in brackets",
+   "ur": "خطوط وحدانی لگانا - قوسین میں بند کرنا - گولہ کی د۔ بلوم کرنے کے لیے ایک گولہ نشانہ کے آگے اور ایک پیچھے مارنا -",
+   "ex": []
+  },
+  {
+   "w": "Brackish",
+   "pron": "brak-ish",
+   "pos": "adj.",
+   "def": "Somewhat salty",
+   "ur": "کھاری - نمکین - شور -",
+   "ex": []
+  },
+  {
+   "w": "Brackishness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "نمکین - شوریت -",
+   "ex": []
+  },
+  {
+   "w": "Brag",
+   "pron": "brag",
+   "pos": "n.v. & i.",
+   "def": "Boast, boastful talk",
+   "ur": "شیخی - ڈھینگ - لاف - شیخی مارنا - ڈینگ مارنا - لاف زنی کرنا - تاش کا ایک کھیل -",
+   "ex": []
+  },
+  {
+   "w": "Braggadocio",
+   "pron": "Brag-ə-doshio",
+   "pos": "n.",
+   "def": "Empty talk",
+   "ur": "ڈھینگ - لاف - شیخی -",
+   "ex": []
+  },
+  {
+   "w": "Bragger, Braggart",
+   "pron": "Brager",
+   "pos": "n.",
+   "def": "A person given to bragging",
+   "ur": "ڈینگا - لاف زن - پاچا - شیخی باز -",
+   "ex": []
+  },
+  {
+   "w": "Braid",
+   "pron": "brad",
+   "pos": "n.",
+   "def": "Entwined hair",
+   "ur": "بالوں کا جوڑا - گندھے ہوئے بال - مینڈھی - بانکڑی -",
+   "ex": []
+  },
+  {
+   "w": "Braid",
+   "pron": "brad",
+   "pos": "v.t.",
+   "def": "Interweave hair",
+   "ur": "جوڑا باندھنا - چوٹی ڈالنا - بال گوندھنا -",
+   "ex": []
+  },
+  {
+   "w": "Brail",
+   "pron": "bral",
+   "pos": "n. & v.t.",
+   "def": "Small ropes on sail edges",
+   "ur": "رسیوں سے بادبان سمیٹنا - بادبان کی رسی -",
+   "ex": []
+  },
+  {
+   "w": "Braille",
+   "pron": "bral",
+   "pos": "n.",
+   "def": "Writing and printing for the blind",
+   "ur": "اندھوں کو پڑھنا لکھنا سکھانے کا طریقہ - ابھرے ہوئے حروف -",
+   "ex": []
+  },
+  {
+   "w": "Brain",
+   "pron": "bran",
+   "pos": "n. & v.t.",
+   "def": "Convoluted nervous system in the skull",
+   "ur": "مغز - بھیجا - دماغ - مرکز شعور - عقل -",
+   "ex": []
+  },
+  {
+   "w": "Brain-fag",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "اعصابی تھکن - دماغی تھکن -",
+   "ex": []
+  },
+  {
+   "w": "Brain-fever",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "سرسام -",
+   "ex": []
+  },
+  {
+   "w": "Brain-sick",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "پاگل - خبطی -",
+   "ex": []
+  },
+  {
+   "w": "Blow out one's brains",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "سر میں گولی مار کر بھیجا نکال دینا -",
+   "ex": []
+  },
+  {
+   "w": "Cudgel one's brain",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "دماغ سوزی کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Have something on the brain",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کسی چیز کا خبط ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Brainless",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بے وقوف - کوڑھ مغز - بے مغز -",
+   "ex": []
+  },
+  {
+   "w": "Brainy",
+   "pron": "bran-i",
+   "pos": "adj.",
+   "def": "Clever",
+   "ur": "تیز فہم - ذہین - ہوشیار -",
+   "ex": []
+  },
+  {
+   "w": "Brake",
+   "pron": "brak",
+   "pos": "n.",
+   "def": "Apparatus for checking wheel's motion; Thicket, brushwood",
+   "ur": "موٹر یا موٹر گاڑی کی روک کا آلہ - پہیے روک - بریک کا ڈبہ - جھاڑی کانٹے - خار دار جھاڑی - اون یا سن صاف کرنے کا آلہ - گھوڑے سدھانے کی کھڑکھڑیا - سن کوننے کی موگری - بید کی چھال اتارنے کی چھری -",
+   "ex": []
+  },
+  {
+   "w": "Brake",
+   "pron": "brak",
+   "pos": "v.t.",
+   "def": "",
+   "ur": "پہیا روکنا - بریک لگانا - موگری سے سن کوٹنا -",
+   "ex": []
+  },
+  {
+   "w": "Bramble",
+   "pron": "bram-bl",
+   "pos": "n.",
+   "def": "Rough prickly shrubs",
+   "ur": "جھاڑ بیری - کٹیلے پودے - خار دار جھاڑی -",
+   "ex": []
+  },
+  {
+   "w": "Bran",
+   "pron": "bran",
+   "pos": "n.",
+   "def": "Husk separated from flour",
+   "ur": "بھوسی - بورا - چوکر - بھوسا -",
+   "ex": []
+  },
+  {
+   "w": "Branch",
+   "pron": "bransh",
+   "pos": "n.",
+   "def": "A limb springing from tree",
+   "ur": "ڈالی - شاخ - ٹہنی - سینگ - حصہ اولاد - نسل -",
+   "ex": []
+  },
+  {
+   "w": "Branchless",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "بے ڈال کا - بے شاخ - بے شاخہ -",
+   "ex": []
+  },
+  {
+   "w": "Branchlet",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "کونپلی ڈالی - چھوٹی شاخ -",
+   "ex": []
+  },
+  {
+   "w": "Branch",
+   "pron": "Bransh",
+   "pos": "v.t.",
+   "def": "Put branches out",
+   "ur": "بہیکنا - شاخیں نکالنا - پھوٹنا -",
+   "ex": []
+  },
+  {
+   "w": "Branchy",
+   "pron": "Bransh-i",
+   "pos": "adj.",
+   "def": "With many branches",
+   "ur": "شاخ در شاخ - پھیلا ہوا - شاخیلا -",
+   "ex": []
+  },
+  {
+   "w": "Brand",
+   "pron": "brand",
+   "pos": "n.",
+   "def": "Burning or charred stick",
+   "ur": "جلتی ہوئی لکڑی - جلتی ہوئی لکڑی کا داغ - داغنے کا لوہا - سوداگروں کا نشان - تلوار - کرچ - کانٹک کا ٹیکا -",
+   "ex": []
+  },
+  {
+   "w": "Brand",
+   "pron": "brand",
+   "pos": "v.t.",
+   "def": "Burn a sign with hot iron, burn",
+   "ur": "داغنا - داغ کر نشان بنانا - حروف بنانا - کلنک کا ٹیکا لگانا - بدنام کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Brandish",
+   "pron": "",
+   "pos": "v.t.",
+   "def": "Wave about",
+   "ur": "ہلانا - چمکانا - گھمانا - پھرانا - پھینکنا (تلوار) - چکر دینا -",
+   "ex": []
+  },
+  {
+   "w": "Brand-new",
+   "pron": "brand-new",
+   "pos": "adj.",
+   "def": "Quite new",
+   "ur": "بالکل نیا -",
+   "ex": []
+  },
+  {
+   "w": "Brandreth",
+   "pron": "brand-reth",
+   "pos": "n.",
+   "def": "Wooden stand for a cask",
+   "ur": "چوکوٹا - پیپا رکھنے کی گھڑونچی -",
+   "ex": []
+  },
+  {
+   "w": "Brandy",
+   "pron": "brand-i",
+   "pos": "n.",
+   "def": "Strong spirit distilled from wine",
+   "ur": "برانڈی - شراب -",
+   "ex": []
+  },
+  {
+   "w": "Brass",
+   "pron": "bras",
+   "pos": "n. & adj.",
+   "def": "Alloy of copper with tin",
+   "ur": "روپیہ - پیسا - پیتل - شوخی - بے باکی - بے شرمی - مزار پر پیتل کا کتبہ -",
+   "ex": []
+  },
+  {
+   "w": "Brass band",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "پیتل کا ساز بجانے والوں کا طائفہ -",
+   "ex": []
+  },
+  {
+   "w": "Brass farthing",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "چالمکیری - پائی - چھوٹا پیسہ - پھوٹی کوڑی -",
+   "ex": []
+  },
+  {
+   "w": "Brass tacks",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "سچی سچی بات - اصل معاملہ - حقیقی تفصیل -",
+   "ex": []
+  },
+  {
+   "w": "Brassy",
+   "pron": "bras-i",
+   "pos": "adj.",
+   "def": "Like brass",
+   "ur": "بے حیا - گستاخ - جھوٹے دعوے کرنے والا - پیتل کے مانند - پیتل کا سا -",
+   "ex": []
+  },
+  {
+   "w": "Brassily",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "گستاخی سے - ڈھٹائی سے - بے حیائی سے -",
+   "ex": []
+  },
+  {
+   "w": "Brassiness",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ڈھٹائی -",
+   "ex": []
+  },
+  {
+   "w": "Brassiere",
+   "pron": "bras-i-er",
+   "pos": "n.",
+   "def": "Women's breast garment",
+   "ur": "چولی - سینہ بند -",
+   "ex": []
+  },
+  {
+   "w": "Brat",
+   "pron": "brat",
+   "pos": "n.",
+   "def": "Child",
+   "ur": "پھونسڑا - چتھڑا - لونڈا - چھوکرا -",
+   "ex": []
+  },
+  {
+   "w": "Bravado",
+   "pron": "brav-a-do",
+   "pos": "n.",
+   "def": "Show of courage",
+   "ur": "ڈینگ - دھمکی - بھبکی - دکھاوے کی بہادری -",
+   "ex": []
+  },
+  {
+   "w": "Brave",
+   "pron": "brav",
+   "pos": "adj. & n.",
+   "def": "Courageous",
+   "ur": "بہادر - دلیر - جواں مرد - سورما - دلاور - جانباز - شجاع - خوشپوش - چھیلا - بھلا آدمی - معقول آدمی -",
+   "ex": []
+  },
+  {
+   "w": "Brave",
+   "pron": "brave",
+   "pos": "v.t.",
+   "def": "Defy",
+   "ur": "سامنا یا مقابلہ کرنا - شجاعت - مردانگی دکھانا - خاطر میں نہ لانا -",
+   "ex": []
+  },
+  {
+   "w": "Brave it out",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بدگمانی یا الزام کا بے باکی سے مقابلہ کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Bravery",
+   "pron": "braveri",
+   "pos": "n.",
+   "def": "Daring",
+   "ur": "جرأت - بہادری - دلیری - جوانمردی - بے خوف - شان - خود نمائی -",
+   "ex": []
+  },
+  {
+   "w": "Bravo",
+   "pron": "bra-vo",
+   "pos": "n.",
+   "def": "Hired assassin",
+   "ur": "نڈر - بے خوف آدمی - پیشہ ور قاتل -",
+   "ex": []
+  },
+  {
+   "w": "Bravo",
+   "pron": "bra-vo",
+   "pos": "n. & Interj.",
+   "def": "Well done",
+   "ur": "واہ وا - شاباش - بہت اچھے - مرحبا -",
+   "ex": []
+  },
+  {
+   "w": "Brawl",
+   "pron": "brawl",
+   "pos": "n. & v. i.",
+   "def": "Noisy quarrel",
+   "ur": "جھگڑا - جھگڑا کرنا - غل غپاڑا مچانا - شور و غل - ندی کے بہاؤ کی آواز -",
+   "ex": []
+  },
+  {
+   "w": "Brawler",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "شور و غل مچانے والا - جھگڑالو - دنگا فساد کرنے والا - دنگئی -",
+   "ex": []
+  },
+  {
+   "w": "Brawn",
+   "pron": "brawn",
+   "pos": "n.",
+   "def": "Muscle, pickled flesh",
+   "ur": "پٹھے - پٹھوں کا زور - شہ زور - قوی - نمک لگایا ہوا سور کا گوشت -",
+   "ex": []
+  },
+  {
+   "w": "Brawny",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "پٹھا کٹا - سنڈا - مستنڈا - کسرتی - مضبوط -",
+   "ex": []
+  },
+  {
+   "w": "Brawniness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "کسرتی پن - قوی جسم - مضبوطی -",
+   "ex": []
+  },
+  {
+   "w": "Bray",
+   "pron": "bra",
+   "pos": "n., v.t. & i.",
+   "def": "Sound of an ass",
+   "ur": "ڈھینچوں - ڈھینچوں کرنا - گدھے یا ترم کی آواز -",
+   "ex": []
+  },
+  {
+   "w": "Bray out",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "دلخراش آواز نکالنا - ناگوار آواز پیدا کرنا - کریہہ آواز نکالنا -",
+   "ex": []
+  },
+  {
+   "w": "Bray",
+   "pron": "bra",
+   "pos": "v.t.",
+   "def": "Pound",
+   "ur": "کوٹنا - پیٹنا - مارنا - ہاون دستے سے کوٹنا -",
+   "ex": []
+  },
+  {
+   "w": "Braze",
+   "pron": "braz",
+   "pos": "v.t.",
+   "def": "Colour like brass",
+   "ur": "پیتل کا سا رنگ دینا - پیتل کی جھال لگانا - بے حیا بنانا -",
+   "ex": []
+  },
+  {
+   "w": "Brazen",
+   "pron": "brazen",
+   "pos": "adj.",
+   "def": "Made of brass",
+   "ur": "بے حیا - بے عزت - مضبوط - پیتل کا بنا ہوا - پیتل کا -",
+   "ex": []
+  },
+  {
+   "w": "Brazen-faced",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بے شرم - بے حیا - بے غیرت -",
+   "ex": []
+  },
+  {
+   "w": "Brazenly",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "بے عزتی سے - بے حیائی سے -",
+   "ex": []
+  },
+  {
+   "w": "Brazen (out)",
+   "pron": "brazen",
+   "pos": "v.t.",
+   "def": "Carry off impudently",
+   "ur": "بے شرم بنانا - ڈھٹائی سے کام نکالنا -",
+   "ex": []
+  },
+  {
+   "w": "Brazier",
+   "pron": "brazyer",
+   "pos": "n.",
+   "def": "Worker in brass",
+   "ur": "دسبرا - ٹھٹھیرا - پیتل کا کام کرنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Braziery",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "ٹھٹھیرے کا کام اور اس کی دکان -",
+   "ex": []
+  },
+  {
+   "w": "Breach",
+   "pron": "brech",
+   "pos": "n.",
+   "def": "Gap",
+   "ur": "شگاف - رخنہ - دراز - سوراخ - پھوٹ - پکڑ - ان بن - قطع تعلق - موجوں کا جہاز سے ٹکرانا - ویل مچھلی کا پانی کے اوپر اچھلنا -",
+   "ex": []
+  },
+  {
+   "w": "Breach of peace",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "نقض امن -",
+   "ex": []
+  },
+  {
+   "w": "Stand in the breach",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "میدان جنگ میں خطرے کی جگہ پر ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Criminal breach of trust",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "خیانت مجرمانہ -",
+   "ex": []
+  },
+  {
+   "w": "Breach",
+   "pron": "brech",
+   "pos": "v.t. & i.",
+   "def": "Break through",
+   "ur": "توڑ کر نکل جانا - رخنہ ڈالنا - ویل مچھلی کا اچھلنا -",
+   "ex": []
+  },
+  {
+   "w": "Bread",
+   "pron": "brad",
+   "pos": "n.",
+   "def": "Baked flour cake",
+   "ur": "روٹی - چپاتی - نان - پھلکا - دال روٹی - کھانا - روزی -",
+   "ex": []
+  },
+  {
+   "w": "Bread and butter",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "روزی - روٹی مکھن -",
+   "ex": []
+  },
+  {
+   "w": "Bread and butter miss",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "اسکول کی لڑکی -",
+   "ex": []
+  },
+  {
+   "w": "Bread buttered on both sides",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "آسودہ حالی -",
+   "ex": []
+  },
+  {
+   "w": "Bread winner",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کنبہ پروری کرنے والا - روزی کمانے والا -",
+   "ex": []
+  },
+  {
+   "w": "Break bread",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کسی کے ساتھ کھانا کھانا -",
+   "ex": []
+  },
+  {
+   "w": "Know which side one's bread is buttered",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "اپنے نفع نقصان کو سمجھنا -",
+   "ex": []
+  },
+  {
+   "w": "Plain bread",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "روکھی روٹی -",
+   "ex": []
+  },
+  {
+   "w": "Fight with one's bread and butter",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "رزق سے لڑنا -",
+   "ex": []
+  },
+  {
+   "w": "Breadth",
+   "pron": "bredth",
+   "pos": "n.",
+   "def": "Broadness",
+   "ur": "چوڑائی - عرض - پاٹ - گنجائش - جگہ - فاصلہ - نیاضی - رواداری - وسعت نظر -",
+   "ex": []
+  },
+  {
+   "w": "Breadth of mind or view",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "فراخدلی - وسیع النظری -",
+   "ex": []
+  },
+  {
+   "w": "Break",
+   "pron": "brak",
+   "pos": "v.t. & i.",
+   "def": "Divide into parts; Break through obstacles; Clouds break; Voice breaks",
+   "ur": "توڑنا - پھوڑنا - ٹکڑے ٹکڑے کرنا - برباد کرنا - زور گھٹانا - قوت توڑنا - روکنا - حائل ہونا - بھانڈا پھوڑنا - سدھانا - سد راہ کو توڑ کر نکل جانا - راستہ کی رکاوٹ دور کرنا - ابر کا بکھر جانا - بادلوں کا پھوٹنا - آواز کا پختہ ہونا - سن بلوغت میں آواز کا بھر جانا - آواز کا بھرا جانا -",
+   "ex": []
+  },
+  {
+   "w": "Break bread with",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کسی کے ہاں کھانا کھانا -",
+   "ex": []
+  },
+  {
+   "w": "Break down",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ہار کر بیٹھ جانا - ہارنا - کمر ٹوٹ جانا -",
+   "ex": []
+  },
+  {
+   "w": "Break ground",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کام شروع کرنا - ڈولی ڈالنا - زمین جوتنا - ہل چلانا -",
+   "ex": []
+  },
+  {
+   "w": "Break off",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "چھوڑنا - ختم کرنا - ترک کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Break the ice",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "جھجھک دور کرنا - حجاب اٹھانا - سب سے پہلے گفتگو کا آغاز کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Break the neck or back of",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "سخت حد تک پہنچانا - کمر ٹوڑ دینا -",
+   "ex": []
+  },
+  {
+   "w": "Breakable",
+   "pron": "brak-able",
+   "pos": "adj.",
+   "def": "Anything which can be reduced to pieces",
+   "ur": "ٹوٹنے والا - ٹوٹنے والی چیز -",
+   "ex": []
+  },
+  {
+   "w": "Breakage",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "شکست و ریخت - ٹوٹ پھوٹ -",
+   "ex": []
+  },
+  {
+   "w": "Break",
+   "pron": "brak",
+   "pos": "n.",
+   "def": "Deviation",
+   "ur": "ٹوٹ پھوٹ - شگاف - رخنہ - خالی جگہ - فاصلہ - وقفہ - کرکٹ میں گیند کا مڑنا - بلیرڈ میں ایک وقت میں مجموعی نشانات -",
+   "ex": []
+  },
+  {
+   "w": "Break down",
+   "pron": "brak-down",
+   "pos": "n.",
+   "def": "Collapse",
+   "ur": "ڈوب جانا - بیٹھ جانا - رک جانا - ٹوٹ جانا - حبشیوں کا ایک ناچ -",
+   "ex": []
+  },
+  {
+   "w": "Breaker",
+   "pron": "brak-ər",
+   "pos": "n.",
+   "def": "Heavy ocean wave breaking on reefs or coast",
+   "ur": "سمندر کی لہر جو چٹان سے ٹکرا کر بکھر جائے - توڑنے پھوڑنے والا - گھوڑے سدھانے والا -",
+   "ex": []
+  },
+  {
+   "w": "Breakfast",
+   "pron": "brek-fest",
+   "pos": "v.t., i. & n.",
+   "def": "First meal of the day",
+   "ur": "ناشتا کرانا - ناشتا کرنا - حاضری - ناشتا -",
+   "ex": []
+  },
+  {
+   "w": "Breakwater",
+   "pron": "brek-water",
+   "pos": "n.",
+   "def": "Object breaking force of waves",
+   "ur": "سہر توڑ - بند - پشتہ (لہروں کو روکنے اور ان کا زور توڑنے کے لیے) -",
+   "ex": []
+  },
+  {
+   "w": "Breakneck",
+   "pron": "brek-nek",
+   "pos": "adj.",
+   "def": "Dangerous",
+   "ur": "گردن توڑ - خطرناک - مدہوش -",
+   "ex": []
+  },
+  {
+   "w": "Breast",
+   "pron": "brest",
+   "pos": "n.",
+   "def": "Milk secreting organ in woman",
+   "ur": "چھاتی - سینہ - چھاتیاں - پستان - وہ شے جس سے جسمانی یا روحانی غذا ملے - جذبات - خیالات -",
+   "ex": []
+  },
+  {
+   "w": "Breastbone",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "سینے کی ہڈی -",
+   "ex": []
+  },
+  {
+   "w": "Make clean breast of",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "صاف صاف ہر بات کہہ دینا - اقبال کر لینا - صاف صاف اقرار کر لینا -",
+   "ex": []
+  },
+  {
+   "w": "Breast",
+   "pron": "brest",
+   "pos": "v.t.",
+   "def": "Face",
+   "ur": "سامنا کرنا - مقابلہ کرنا - جدوجہد کرنا - سینہ سپر ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Breath",
+   "pron": "brəth",
+   "pos": "n.",
+   "def": "Exhalation",
+   "ur": "سانس - دم - نفس - ہوا - خوشبو کی لہر - خوشبو کی لپٹ -",
+   "ex": []
+  },
+  {
+   "w": "Out of breath",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "سانس پھول جانا -",
+   "ex": []
+  },
+  {
+   "w": "Take away person's breath",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "دنگ کردینا - حیرت میں ڈالنا - دم بخود ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Breathe",
+   "pron": "bredh",
+   "pos": "v.t. & i.",
+   "def": "Take breath, live",
+   "ur": "سانس لینا - بقید حیات ہونا - چپکے سے کہنا - دم لینے دینا -",
+   "ex": []
+  },
+  {
+   "w": "Breather",
+   "pron": "brether",
+   "pos": "n.",
+   "def": "Short spell, brief pause",
+   "ur": "قلیل عرصے کا آرام - سانس لینے والا - گھوڑی بھر کی ورزش - تھوڑی دیر سستانا -",
+   "ex": []
+  },
+  {
+   "w": "Breathing",
+   "pron": "brath-ing",
+   "pos": "adj.",
+   "def": "Alive",
+   "ur": "سانس لیتا ہوا - جیتا جاگتا -",
+   "ex": []
+  },
+  {
+   "w": "Breathing",
+   "pron": "brathing",
+   "pos": "n.",
+   "def": "Taking breath",
+   "ur": "خواہش - چاہ - دل کی آواز - تنفس - دم کشی -",
+   "ex": []
+  },
+  {
+   "w": "Breathing-space",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "دم لینے کی فرصت - دم بھر کی مہلت -",
+   "ex": []
+  },
+  {
+   "w": "Breathless",
+   "pron": "breth les",
+   "pos": "adj.",
+   "def": "Lifeless, panting",
+   "ur": "دم چڑھا ہوا - سانس پھولی ہوئی -",
+   "ex": []
+  },
+  {
+   "w": "Breathlessly",
+   "pron": "breth les-li",
+   "pos": "adv.",
+   "def": "Pantingly",
+   "ur": "ہانپتے ہوئے -",
+   "ex": []
+  },
+  {
+   "w": "Breech",
+   "pron": "brech",
+   "pos": "n. & v.t.",
+   "def": "Short trousers fastened below",
+   "ur": "سرین - بندوق یا توپ کا گڈا جہاں کارتوس ڈالا جاتا ہے - برجس - شگاف - سوراخ -",
+   "ex": []
+  },
+  {
+   "w": "Breech-loader",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کارتوس بندوق - توڑے دار بندوق -",
+   "ex": []
+  },
+  {
+   "w": "Wear the breeches",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "عورت کے متعلق جو خاوند کو دبا کر رکھے -",
+   "ex": []
+  },
+  {
+   "w": "Breed",
+   "pron": "bred",
+   "pos": "v.t. & i.",
+   "def": "Bear, generate",
+   "ur": "جنتا - بچے پیدا کرنا - نسل بڑھانا - پیدا کرنا - سدھانا - تیار کرنا - ترتیب دینا - پرورش کرنا - پھیلانا -",
+   "ex": []
+  },
+  {
+   "w": "Breed in and in",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "اپنے ہی لوگوں میں شادی کرنا - گٹک میں شادی کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Breeder",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "نسل کو پھیلانے والا - نسل بڑھانے والا - پالنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Breed",
+   "pron": "bred",
+   "pos": "n.",
+   "def": "Race, strain",
+   "ur": "نسلی صفات قائم رکھنے والا خاندان - ذات - نسل - جھول -",
+   "ex": []
+  },
+  {
+   "w": "Breeding",
+   "pron": "bred-ing",
+   "pos": "n.",
+   "def": "Good manners",
+   "ur": "تعلیم - اچھی نسل - اچھی پرورش - نسل - تربیت -",
+   "ex": []
+  },
+  {
+   "w": "Breeze",
+   "pron": "brez",
+   "pos": "n.",
+   "def": "Gentle wind",
+   "ur": "(بول چال) جھگڑا - تکرار - بری بحری ہوا - باد سحر - نسیم -",
+   "ex": []
+  },
+  {
+   "w": "Breezeless",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "وہ جگہ جہاں ہوا بالکل بند ہو -",
+   "ex": []
+  },
+  {
+   "w": "Breezy",
+   "pron": "brezi",
+   "pos": "adj.",
+   "def": "Jovial",
+   "ur": "ہوا دار - لہلہاتی ہوئی - تر و تازہ - خوش طبع - زندہ دل -",
+   "ex": []
+  },
+  {
+   "w": "Breezily",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "خوش طبعی سے - زندہ دلی سے -",
+   "ex": []
+  },
+  {
+   "w": "Breeziness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "تر و تازگی - خوش طبعی - زندہ دلی -",
+   "ex": []
+  },
+  {
+   "w": "Brethren",
+   "pron": "bredh-rən",
+   "pos": "n. & p.",
+   "def": "Brothers",
+   "ur": "ہم ذات - ہم پیشہ - برادری - بھائی بند - بھائی -",
+   "ex": []
+  },
+  {
+   "w": "Brevity",
+   "pron": "brev-i-ti",
+   "pos": "n.",
+   "def": "Conciseness",
+   "ur": "لفظ کم معنی بہت - بلاغت - اختصار - ایجاز - عمر دو روزہ -",
    "ex": []
   }
  ],
