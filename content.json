@@ -97941,6 +97941,1566 @@
    "def": "",
    "ur": "آخری حصہ - موٹا حصہ -",
    "ex": []
+  },
+  {
+   "w": "Butter",
+   "pron": "butər",
+   "pos": "n.",
+   "def": "Fatty substance made from cream",
+   "ur": "مکھن - مسکا - گھی - روغن زرد - چکنی - چپڑی باتیں - چاپلوسی - خوشامد -",
+   "ex": []
+  },
+  {
+   "w": "Butteriness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "چکنا پن - چکنائی - چکناہٹ -",
+   "ex": []
+  },
+  {
+   "w": "Buttery",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "چکنا چپڑا -",
+   "ex": []
+  },
+  {
+   "w": "Butter",
+   "pron": "but-ər",
+   "pos": "v.t.",
+   "def": "Spread, cook with butter",
+   "ur": "چاپلوسی کرنا - گھی میں پکانا - مکھن لگانا -",
+   "ex": []
+  },
+  {
+   "w": "Butter up",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "چکنی چپڑی باتیں کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Fine words butter no parsnips",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "خالی باتوں سے کام نہیں چلتا -",
+   "ex": []
+  },
+  {
+   "w": "Butterfly",
+   "pron": "butər-flī",
+   "pos": "n. & adj.",
+   "def": "An insect, showy",
+   "ur": "تتلی - چھچھورا - تماشائی -",
+   "ex": []
+  },
+  {
+   "w": "Butterine",
+   "pron": "butər-in",
+   "pos": "n.",
+   "def": "Imitation butter",
+   "ur": "مصنوعی مکھن -",
+   "ex": []
+  },
+  {
+   "w": "Buttery",
+   "pron": "butər-i",
+   "pos": "n.",
+   "def": "Provision room in colleges",
+   "ur": "کالجوں کا بھنڈار - مودی خانہ - توشہ خانہ -",
+   "ex": []
+  },
+  {
+   "w": "Buttock",
+   "pron": "but-ək",
+   "pos": "n.",
+   "def": "Rump",
+   "ur": "چوتڑ - سرین - پٹھا - پٹھے کا گوشت -",
+   "ex": []
+  },
+  {
+   "w": "Buttock",
+   "pron": "but-ək",
+   "pos": "v.t.",
+   "def": "Throw by using buttock",
+   "ur": "کولھے پر لاد کر نیچے گرانا -",
+   "ex": []
+  },
+  {
+   "w": "Button",
+   "pron": "but-n",
+   "pos": "n.",
+   "def": "Knob or disc sewn to garments",
+   "ur": "بوتام - تکمہ - گھنڈی - گولا - کلی - غنچہ - کوئی چھوٹی سی گول چیز -",
+   "ex": []
+  },
+  {
+   "w": "Button boots",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بٹن کے جوتے - بوتام دار جوتے -",
+   "ex": []
+  },
+  {
+   "w": "Button hole",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "پھول جو کاج میں لگاتے ہیں - کاج -",
+   "ex": []
+  },
+  {
+   "w": "Buttoned",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بٹن لگے ہوئے -",
+   "ex": []
+  },
+  {
+   "w": "Buttonless",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بے بوتام کا -",
+   "ex": []
+  },
+  {
+   "w": "Button",
+   "pron": "but-n",
+   "pos": "v.t. & i.",
+   "def": "Furnish with buttons",
+   "ur": "لباس میں بوتام لگانا - لباس کے اندر یا جیب میں کوئی چیز رکھ کر بٹن لگانا - بٹن بند کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Buttons",
+   "pron": "but-nz",
+   "pos": "n.",
+   "def": "Servants in uniform",
+   "ur": "وردی پوش - کم عمر خادم -",
+   "ex": []
+  },
+  {
+   "w": "Buttress",
+   "pron": "but-ris",
+   "pos": "n. & v.t.",
+   "def": "Support built against wall",
+   "ur": "پشتہ - پشتہ بندی کرنا - پشتہ بنانا -",
+   "ex": []
+  },
+  {
+   "w": "Buxom",
+   "pron": "Buk-sum",
+   "pos": "adj.",
+   "def": "Plump, comely,",
+   "ur": "قبول صورت - شکیل - گداز جسم کی - خوش طبع -",
+   "ex": []
+  },
+  {
+   "w": "Buy",
+   "pron": "bi",
+   "pos": "v.t. & i.",
+   "def": "Obtain by paying a price",
+   "ur": "خریدنا - مول لینا - لین دین - خرید فروخت کرنا - معاملہ کرنا - سودا کرنا - کسی کو رشوت دے کر کام نکالنا - کچھ کھو کر حاصل کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Buyable",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "خرید کے قابل -",
+   "ex": []
+  },
+  {
+   "w": "Buyer",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "مشتری - گاہک - خریدار -",
+   "ex": []
+  },
+  {
+   "w": "Buzz",
+   "pron": "buz",
+   "pos": "v.t. & i.",
+   "def": "Make humming sound",
+   "ur": "کانا پھوسی کرنا - بھنبھنانا - سر ہونا - کسی مقام سے ایسی آوازوں کا آنا جو سمجھ میں نہ آئیں - ایک ساتھ بولنا -",
+   "ex": []
+  },
+  {
+   "w": "Buzz",
+   "pron": "buz",
+   "pos": "n.",
+   "def": "Humming sound; Fishing fly",
+   "ur": "ہل چل - بھنبھاہٹ - روئی دار بھونرہ - مچھلی کا چارہ -",
+   "ex": []
+  },
+  {
+   "w": "Buzz",
+   "pron": "buz",
+   "pos": "v.t.",
+   "def": "Finish a bottle",
+   "ur": "شراب کی پوری بوتل چڑھا جانا -",
+   "ex": []
+  },
+  {
+   "w": "Buzzer",
+   "pron": "buzer",
+   "pos": "n.",
+   "def": "Steam whistle",
+   "ur": "(فوج) سگنل دینے والی مشین - بھنبھنانے والا - ریل کی بھاپ سیٹی -",
+   "ex": []
+  },
+  {
+   "w": "By",
+   "pron": "bi",
+   "pos": "adv. & prep.",
+   "def": "Near, at, to side of,",
+   "ur": "پاس - قریب - سامنے - طرف - ساتھ - میں سے - پاس سے - وساطت سے - ذریعے سے - یوں - جونہی - تک - بقدر - علیحدہ -",
+   "ex": []
+  },
+  {
+   "w": "By the by",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "گزر کے طور پر دوسری بات شروع کرنا -",
+   "ex": []
+  },
+  {
+   "w": "By way of",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بطور -",
+   "ex": []
+  },
+  {
+   "w": "By the way",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بوسپیل تذکرہ - اس ضمن میں - اس سلسلہ میں -",
+   "ex": []
+  },
+  {
+   "w": "Lead by the hand",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ہاتھ پکڑ کر رہنمائی کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Set by the ears",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کان بھرنا - بھڑکانا - لڑا دینا - شدہ دینا -",
+   "ex": []
+  },
+  {
+   "w": "Stand by",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "مدد دینا - ساتھ دینا -",
+   "ex": []
+  },
+  {
+   "w": "By hook or by crook",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کھینچ تان کے - جوں توں - کسی نہ کسی طرح -",
+   "ex": []
+  },
+  {
+   "w": "By reason of",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "اس سبب سے - بدیں وجہ -",
+   "ex": []
+  },
+  {
+   "w": "By your bounty",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "آپ کی مہربانی سے -",
+   "ex": []
+  },
+  {
+   "w": "By and by",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "تھوڑے عرصے میں - عنقریب -",
+   "ex": []
+  },
+  {
+   "w": "Bye",
+   "pron": "bi",
+   "pos": "n.",
+   "def": "Extra runs (cricket)",
+   "ur": "ضمنی چیز - زائد -",
+   "ex": []
+  },
+  {
+   "w": "Bye bye",
+   "pron": "bi-bi",
+   "pos": "Interj.",
+   "def": "Good bye",
+   "ur": "فی امان اللہ - خدا حافظ -",
+   "ex": []
+  },
+  {
+   "w": "By gone",
+   "pron": "bi-gon",
+   "pos": "adj. & n.",
+   "def": "Past, departed",
+   "ur": "رفت گزشت - کیا گزرا -",
+   "ex": []
+  },
+  {
+   "w": "Let by gones be by gones",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "گزشتہ را صلوات -",
+   "ex": []
+  },
+  {
+   "w": "By-lane",
+   "pron": "bi-lən",
+   "pos": "n.",
+   "def": "Side street",
+   "ur": "چھوٹی گلی جو بڑی گلی سے جا ملے -",
+   "ex": []
+  },
+  {
+   "w": "By pass",
+   "pron": "bi-pas",
+   "pos": "n.",
+   "def": "Road passing round,",
+   "ur": "بھاپ کے نکلنے کا ضمنی راستہ - گیس لیمپ کی چھوٹی نلکی - ایسی سڑک جس پر شاہراہ کو چھوڑ کر آگے جا سکیں -",
+   "ex": []
+  },
+  {
+   "w": "By path",
+   "pron": "bi-path",
+   "pos": "n.",
+   "def": "Retired path",
+   "ur": "پگڈنڈی - غیر معروف راستہ -",
+   "ex": []
+  },
+  {
+   "w": "By play",
+   "pron": "bi-pla",
+   "pos": "n.",
+   "def": "Minor show on stage",
+   "ur": "ڈرامے میں ضمنی حصہ -",
+   "ex": []
+  },
+  {
+   "w": "By-product",
+   "pron": "bi-produkt",
+   "pos": "n.",
+   "def": "",
+   "ur": "ضمنی پیداوار -",
+   "ex": []
+  },
+  {
+   "w": "Byre",
+   "pron": "bir",
+   "pos": "n.",
+   "def": "Cow house",
+   "ur": "گائے استھان - گو شالہ -",
+   "ex": []
+  },
+  {
+   "w": "By-road",
+   "pron": "bi-rod",
+   "pos": "n.",
+   "def": "Little frequented road",
+   "ur": "چور سڑک - سونی سڑک -",
+   "ex": []
+  },
+  {
+   "w": "By stander",
+   "pron": "bi-stander",
+   "pos": "n.",
+   "def": "Spectator",
+   "ur": "پاس کھڑا ہونے والا - تماشائی - دیکھنے والا -",
+   "ex": []
+  },
+  {
+   "w": "By word",
+   "pron": "bi-wurd",
+   "pos": "n.",
+   "def": "Proverb",
+   "ur": "ضرب المثل - زبان زد -",
+   "ex": []
+  },
+  {
+   "w": "By-work",
+   "pron": "bi-wark",
+   "pos": "n.",
+   "def": "Work done by the way",
+   "ur": "ضمنی کام -",
+   "ex": []
+  },
+  {
+   "w": "Byzantine",
+   "pron": "bi-zan-tin",
+   "pos": "adj. & n.",
+   "def": "Inhabitant of Byzantium",
+   "ur": "بازنطینی باشندہ - بازنطینی طرز تعمیر -",
+   "ex": []
+  },
+  {
+   "w": "Byzantinize",
+   "pron": "biz-an-tin-iz",
+   "pos": "v.t.",
+   "def": "Make in the style of Byzantine",
+   "ur": "بازنطینی وضع میں ڈھالنا - بازنطینی طرز کی عمارت بنانا -",
+   "ex": []
+  },
+  {
+   "w": "C",
+   "pron": "se",
+   "pos": "",
+   "def": "Third letter of the English alphabet",
+   "ur": "انگریزی حروف تہجی کا تیسرا حرف - طبعی میجر اسکیل کا پہلا سر - منطق میں مفروضہ شخص یا شے - الجبرا میں تیسری مقدار معلومہ -",
+   "ex": []
+  },
+  {
+   "w": "Caaba",
+   "pron": "ka-ba",
+   "pos": "n.",
+   "def": "Sacred building at Mecca",
+   "ur": "بیت اللہ - خانہ کعبہ - بلدالامین - مکہ معظمہ -",
+   "ex": []
+  },
+  {
+   "w": "Cab",
+   "pron": "kab",
+   "pos": "n. & v.i.",
+   "def": "Hackney carriage",
+   "ur": "ایک گھوڑے کی گاڑی - یکہ گاڑی - گاڑی میں جانا -",
+   "ex": []
+  },
+  {
+   "w": "Cab-runner",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "گاڑی سے سامان اتارنے اور گاڑی میں رکھنے والے مزدور قلی -",
+   "ex": []
+  },
+  {
+   "w": "Cab-stand",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "گاڑی کا اڈا -",
+   "ex": []
+  },
+  {
+   "w": "Cabal",
+   "pron": "ka-bal",
+   "pos": "n. & v.i.",
+   "def": "Intrigue, faction",
+   "ur": "سازش - بندش - ساز باز کرنا - خفیہ طور پر چھپہ بندی کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Cabaret",
+   "pron": "kab-a-rra",
+   "pos": "n.",
+   "def": "French tavern : English entertainment in restaurant",
+   "ur": "شراب خانہ - طعام خانوں کا تفریحی رقص و سرود -",
+   "ex": []
+  },
+  {
+   "w": "Cabbage",
+   "pron": "kab-ij",
+   "pos": "n.",
+   "def": "Kinds of cultivated vegetable",
+   "ur": "کتر بیونت - چھانٹن - کترن - کرم کلہ - گوبھی -",
+   "ex": []
+  },
+  {
+   "w": "Cabby",
+   "pron": "ka-bi",
+   "pos": "n.",
+   "def": "Cab driver",
+   "ur": "کوچوان - گاڑی چلانے والا - بگھی چلانے والا -",
+   "ex": []
+  },
+  {
+   "w": "Cabin",
+   "pron": "kab-in",
+   "pos": "n.",
+   "def": "Small building, room in a ship",
+   "ur": "جھونپڑی - کٹی - کٹیا - کوٹھری - حجرہ - جہاز کا کمرہ -",
+   "ex": []
+  },
+  {
+   "w": "Cabin-boy",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "جہاز کا خادم -",
+   "ex": []
+  },
+  {
+   "w": "Cabinet",
+   "pron": "kab-i-net",
+   "pos": "n. & adj.",
+   "def": "Small private room",
+   "ur": "چھوٹا کمرہ - کوٹھری - حجرہ - باب حکومت - کابینہ - جماعت وزرا -",
+   "ex": []
+  },
+  {
+   "w": "Cable",
+   "pron": "ka-bl",
+   "pos": "n.",
+   "def": "Strong thick rope or chain",
+   "ur": "جہاز کا رسہ یا زنجیر - مہاس - سمندر کا برق تار - بحری تار - لنگر کی زنجیر - تیں بٹے کی رسی -",
+   "ex": []
+  },
+  {
+   "w": "Cable",
+   "pron": "ka-bl",
+   "pos": "v.t. & i.",
+   "def": "Fasten with cable",
+   "ur": "مہاس سے باندھنا - لنگر کی رسی سے باندھنا - مہاس ڈھیل کرنا - رسی چھوڑنا - بحری تار دینا -",
+   "ex": []
+  },
+  {
+   "w": "Cable gram",
+   "pron": "ka-bl-gram",
+   "pos": "n.",
+   "def": "Message by submarine cable",
+   "ur": "بحری تار - بحری تار کے ذریعے پیغام کی ترسیل -",
+   "ex": []
+  },
+  {
+   "w": "Caboose",
+   "pron": "ka-boos",
+   "pos": "n.",
+   "def": "Kitchen of ship",
+   "ur": "جہاز کا باورچی خانہ -",
+   "ex": []
+  },
+  {
+   "w": "Cabotage",
+   "pron": "ka-bo-tig",
+   "pos": "n.",
+   "def": "Coasting trade",
+   "ur": "ساحلی تجارت -",
+   "ex": []
+  },
+  {
+   "w": "Cacao-Cocoa",
+   "pron": "ka-ka-o",
+   "pos": "n. & adj.",
+   "def": "Seed of American tropical tree giving cocoa",
+   "ur": "منطقہ حارہ کا ایک درخت جسکے بیج سے کوکو تیار ہوتا ہے - کوکو - کوکو کا درخت -",
+   "ex": []
+  },
+  {
+   "w": "Cachinnate",
+   "pron": "kaki-na-at",
+   "pos": "v.i.",
+   "def": "Laugh loudly",
+   "ur": "زور سے ہنسنا - قہقہے لگانا -",
+   "ex": []
+  },
+  {
+   "w": "Cachinnation",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "زور کی ہنسی - کھلکھلاہٹ - قہقہہ -",
+   "ex": []
+  },
+  {
+   "w": "Cackle",
+   "pron": "kakl",
+   "pos": "n., v.t. & i.",
+   "def": "Indulge in boast, chuckle",
+   "ur": "مرغی یا بط کی طرح بولنا - بیہودہ بک بک کرنا - بکواس کرنا - مرغی یا بط کی آواز - کڑ کڑ - کٹ کٹ -",
+   "ex": []
+  },
+  {
+   "w": "Cackler",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "بکواسی - کٹ کٹ کرنے والا - بک بک کرنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Cacography",
+   "pron": "kak-og-rafi",
+   "pos": "n.",
+   "def": "Bad hand writing or spelling",
+   "ur": "غلط املا - بد خطی -",
+   "ex": []
+  },
+  {
+   "w": "Cacographer",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "بگڑی ہوئی بری تحریر - غلط املا لکھنے والا - بد خطی کا مرتکب -",
+   "ex": []
+  },
+  {
+   "w": "Cacology",
+   "pron": "kak-ol-ogi",
+   "pos": "n.",
+   "def": "Bad choice of words and pronunciation",
+   "ur": "الفاظ کا غلط انتخاب - غلط تلفظ -",
+   "ex": []
+  },
+  {
+   "w": "Cacophonous",
+   "pron": "kako-fo-nəs",
+   "pos": "adj.",
+   "def": "Ill sounding",
+   "ur": "بری آواز والا - کریہ الصوت -",
+   "ex": []
+  },
+  {
+   "w": "Cacophony",
+   "pron": "kako-foni",
+   "pos": "n.",
+   "def": "Ill sound",
+   "ur": "بے سراپن - بے آہنگی - کریہ الصوتی - بری آواز -",
+   "ex": []
+  },
+  {
+   "w": "Cactus",
+   "pron": "kak-tus",
+   "pos": "n.",
+   "def": "Kinds of plant with fleshy stem and no leaves",
+   "ur": "ایک قسم کا خار دار پودا - ناک پھنی - تھوہر -",
+   "ex": []
+  },
+  {
+   "w": "Cactaceous",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "کٹیلا - تھوہر کے مانند - ناک پھنی کی طرح -",
+   "ex": []
+  },
+  {
+   "w": "Cactal",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "ناک پھنی کے متعلق -",
+   "ex": []
+  },
+  {
+   "w": "Cactoid",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "ناک پھنی کے مانند - تھوہر جیسا -",
+   "ex": []
+  },
+  {
+   "w": "Cad",
+   "pron": "kad",
+   "pos": "n.",
+   "def": "Person of low manners,",
+   "ur": "کاڑیاں - اوبنی - بس چلانے والا - کمینہ - پاجی - سفلہ - ادنیٰ درجے کا انسان -",
+   "ex": []
+  },
+  {
+   "w": "Caddish",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "پاجی - رذیلانہ - کمینہ سا - سفلانہ -",
+   "ex": []
+  },
+  {
+   "w": "Cadastral",
+   "pron": "ka-das-tral",
+   "pos": "adj.",
+   "def": "Of land for taxation",
+   "ur": "جائداد غیر منقولہ کے متعلق - زمین کی پیمائش - مالیت اور منافع کے تعین کے متعلق - مالگزاری کا -",
+   "ex": []
+  },
+  {
+   "w": "Cadaverous",
+   "pron": "ka-da-və-rəs",
+   "pos": "adj.",
+   "def": "Corpse like",
+   "ur": "مردار سا - زرد - پیلا - مردوں جیسا -",
+   "ex": []
+  },
+  {
+   "w": "Caddie",
+   "pron": "Kad-i",
+   "pos": "n.",
+   "def": "Golf players attendant carrying clubs",
+   "ur": "گلف کھیلنے والوں کا ملازم جو ڈنڈے وغیرہ لیکر ساتھ چلتا ہے - گلف خادم -",
+   "ex": []
+  },
+  {
+   "w": "Caddy",
+   "pron": "ka-di",
+   "pos": "n.",
+   "def": "Small box of tea",
+   "ur": "چائے رکھنے کا چھوٹا صندوق - چائے کا صندوقچہ -",
+   "ex": []
+  },
+  {
+   "w": "Cadence",
+   "pron": "ka-dəns",
+   "pos": "n.",
+   "def": "Rhythm",
+   "ur": "سر - لہجہ - آواز کا اتار چڑھاؤ - آواز کا زیر و بم - چچی تلی آواز - لحن - خوش نوائی -",
+   "ex": []
+  },
+  {
+   "w": "Cadency",
+   "pron": "ka-densi",
+   "pos": "n.",
+   "def": "Rhythm. Relative status of younger sons",
+   "ur": "آواز کا اتار چڑھاؤ - الحان - چھوٹے لڑکوں کی حیثیت کا تعین -",
+   "ex": []
+  },
+  {
+   "w": "Cadent",
+   "pron": "ka-dent",
+   "pos": "adj.",
+   "def": "Slow descent",
+   "ur": "آسانی سے گرتا ہوا - دھیرے دھیرے گرتا ہوا - آواز کا آہستہ اتار -",
+   "ex": []
+  },
+  {
+   "w": "Cadet",
+   "pron": "ke-dit",
+   "pos": "n.",
+   "def": "Younger son, student of military school",
+   "ur": "چھوٹا بیٹا - چھوٹا بھائی - فوجی مدرسے کا طالب علم - وظیفہ یاب طالب علم -",
+   "ex": []
+  },
+  {
+   "w": "Cadge",
+   "pron": "kaj",
+   "pos": "v.t. & i.",
+   "def": "Go about peddling or begging",
+   "ur": "گداگری کرتے پھرنا - پھیری لگانا - گھر گھر بیچتے پھرنا -",
+   "ex": []
+  },
+  {
+   "w": "Cadger",
+   "pron": "ka-jer",
+   "pos": "n.",
+   "def": "Street hawker",
+   "ur": "دور دور سے انڈے مکھن وغیرہ لا کر بیچنے والا - پھیری والا - بھیک منگا -",
+   "ex": []
+  },
+  {
+   "w": "Cadi",
+   "pron": "kadi",
+   "pos": "n.",
+   "def": "Civil judge in Muslim rule",
+   "ur": "منصف - قاضی -",
+   "ex": []
+  },
+  {
+   "w": "Cadre",
+   "pron": "kad-r",
+   "pos": "n.",
+   "def": "Framework",
+   "ur": "ڈھانچہ - لائحہ - کسی محکمہ کا مستقل عملہ -",
+   "ex": []
+  },
+  {
+   "w": "Caducity",
+   "pron": "ka-du-siti",
+   "pos": "n.",
+   "def": "Perishableness",
+   "ur": "تلون - اعضا کا جھڑ جانا - پھرتیلی طبیعت - ناپائیداری -",
+   "ex": []
+  },
+  {
+   "w": "Caesar",
+   "pron": "se-zer",
+   "pos": "n.",
+   "def": "Roman emperor",
+   "ur": "روم کے بادشاہوں کا خطاب - قیصر روم - قیصر -",
+   "ex": []
+  },
+  {
+   "w": "Caesarizm",
+   "pron": "se-zer-izm",
+   "pos": "n.",
+   "def": "Autocracy",
+   "ur": "شخصی حکومت - قیصریت -",
+   "ex": []
+  },
+  {
+   "w": "Cafe",
+   "pron": "kafa",
+   "pos": "n.",
+   "def": "Coffee house, restaurant",
+   "ur": "قہوہ خانہ - چائے خانہ - طعام خانہ -",
+   "ex": []
+  },
+  {
+   "w": "Caftan",
+   "pron": "kaftan",
+   "pos": "n.",
+   "def": "Long undertunic",
+   "ur": "کفتان - ایرانی جامہ - خفتان -",
+   "ex": []
+  },
+  {
+   "w": "Cage",
+   "pron": "kaj",
+   "pos": "n. & v.t.",
+   "def": "Fixed or portable prison of wire",
+   "ur": "قفس - پنجرا - قید خانہ - پنجرے میں بند کرنا - قید میں ڈالنا -",
+   "ex": []
+  },
+  {
+   "w": "Cain",
+   "pron": "kan",
+   "pos": "n.",
+   "def": "Murderer",
+   "ur": "بھائی کا قاتل - قاتل - برادر کش - قابیل جس نے اپنے بھائی ہابیل کو مار ڈالا -",
+   "ex": []
+  },
+  {
+   "w": "Cairn",
+   "pron": "kar-n",
+   "pos": "n.",
+   "def": "Memorial",
+   "ur": "قبر پر پتھروں کا لمبا ڈھیر - مزار - سنگی قبر -",
+   "ex": []
+  },
+  {
+   "w": "Caitiff",
+   "pron": "ka-tif",
+   "pos": "n. & adj.",
+   "def": "Despicable",
+   "ur": "حرامزادہ - اوباش - پاجی - کمینہ - بزدل -",
+   "ex": []
+  },
+  {
+   "w": "Cajole",
+   "pron": "kajol",
+   "pos": "v.t.",
+   "def": "Persuade by flattery",
+   "ur": "چاپلوسی کرنا - خوشامد کرنا - پھسلانا - دھوکا دینا - جھانسا دینا - میٹھی میٹھی باتوں سے مطلب براری کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Cajolement",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "کلمہ لیسی - مدح برائے کار براری - خوشامد - چاپلوسی -",
+   "ex": []
+  },
+  {
+   "w": "Cajoler",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "چاپلوس - خوشامدی -",
+   "ex": []
+  },
+  {
+   "w": "Cajolery",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "دغا - فریب - چرب زبانی - دم بازی - چاپلوسی - خوشامد -",
+   "ex": []
+  },
+  {
+   "w": "Cajolingly",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "چاپلوسی سے - خوشامد سے - چرب زبانی سے -",
+   "ex": []
+  },
+  {
+   "w": "Cake",
+   "pron": "kak",
+   "pos": "n. & v.t.",
+   "def": "Small flattish loaf of bread",
+   "ur": "نان کما مٹھائی - میٹھی نان - میوہ دار نان یا کلچہ - کیک - کسی چیز کی ٹکیہ جیسے صابن کی - ٹکیہ بنانا - پپڑی جمانا -",
+   "ex": []
+  },
+  {
+   "w": "Cake and wine / Cake and ale",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "رنگ رلیاں منانا - مجلس عیش و طرب - شراب و گزک - شراب و کباب -",
+   "ex": []
+  },
+  {
+   "w": "A cake of soap",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "صابن کی بٹی - صابن کی ٹکیہ -",
+   "ex": []
+  },
+  {
+   "w": "Calabash",
+   "pron": "kala-bash",
+   "pos": "n.",
+   "def": "Kinds of gourds",
+   "ur": "کچکول - تونبا - سوکھا کدو - خشک کدو جس میں شراب بھر کر رکھتے تھے - کدو کا برتن -",
+   "ex": []
+  },
+  {
+   "w": "Calamander",
+   "pron": "kal-a-mander",
+   "pos": "n.",
+   "def": "Hard wood",
+   "ur": "جنوب ہند اور لنکا کی ایک سخت لکڑی جس سے میز کرسی وغیرہ بناتے ہیں -",
+   "ex": []
+  },
+  {
+   "w": "Calamitous",
+   "pron": "ka-lamites",
+   "pos": "adj.",
+   "def": "Causing calamity",
+   "ur": "آفت زدہ - مصیبت کا مارا - قہر آلود - بلا خیز - پر آفت -",
+   "ex": []
+  },
+  {
+   "w": "Calamity",
+   "pron": "kalam-i-ti",
+   "pos": "n.",
+   "def": "Adversity",
+   "ur": "قہر - مصیبت - آفت بلا - بد بختی - آسمانی مصیبت - مصیبت ناگہانی -",
+   "ex": []
+  },
+  {
+   "w": "Calash",
+   "pron": "ka-lash",
+   "pos": "n.",
+   "def": "Light low wheeled carriage",
+   "ur": "چھوٹے پہیوں کی تپال دار گاڑی - ہلکی ٹپ دار گاڑی - ایک قسم کی چھجے دار ریشمی زنانی ٹوپی -",
+   "ex": []
+  },
+  {
+   "w": "Calcareous",
+   "pron": "kal-kare-us",
+   "pos": "adj.",
+   "def": "Containing carbonate of lime",
+   "ur": "چونا صفت - کلھریا کا - چونے کا آہک صفت - آہکی -",
+   "ex": []
+  },
+  {
+   "w": "Calceated",
+   "pron": "kal-sia-ted",
+   "pos": "adj.",
+   "def": "",
+   "ur": "نعل جڑا ہوا -",
+   "ex": []
+  },
+  {
+   "w": "Calcify",
+   "pron": "kal-si-fi",
+   "pos": "v.t. & i.",
+   "def": "Convert into lime",
+   "ur": "چونے کی تہہ جم کر پتھر بنا دینا - چونا بنانا - چونا بن جانا -",
+   "ex": []
+  },
+  {
+   "w": "Calcification",
+   "pron": "kalsi-fi-kashun",
+   "pos": "n.",
+   "def": "Conversion into lime",
+   "ur": "آہک سنگ - چونے میں تبدیلی - تکلیس -",
+   "ex": []
+  },
+  {
+   "w": "Calcine",
+   "pron": "kal-sin",
+   "pos": "v.t. & i.",
+   "def": "Reduce to quick lime",
+   "ur": "جلا کر چونا بنانا - کشتہ کرنا - راکھ کرنا - جلا کر ناک کر دینا - پھونک دینا -",
+   "ex": []
+  },
+  {
+   "w": "Calcination",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "راکھ بنانے - کشتہ کرنے کا عمل - تکلیس -",
+   "ex": []
+  },
+  {
+   "w": "Calciner",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "خاکستر کرنے والا - کشتہ بنانے والا -",
+   "ex": []
+  },
+  {
+   "w": "Calcium",
+   "pron": "kal-si-am",
+   "pos": "n.",
+   "def": "Basis of lime",
+   "ur": "کیلشیم - چونے کا بنیادی عنصر - چونا -",
+   "ex": []
+  },
+  {
+   "w": "Calculable",
+   "pron": "kal-ku-la-bl",
+   "pos": "adj.",
+   "def": "That may be reckoned",
+   "ur": "جو گنتی اور شمار میں آسکے - گنتی کے قابل - قابل شمار -",
+   "ex": []
+  },
+  {
+   "w": "Calculate",
+   "pron": "kal-ku-lat",
+   "pos": "v.t. & i.",
+   "def": "Compute",
+   "ur": "گننا - حساب کرنا - شمار کرنا - گنتی کرنا - اندازہ کرنا - آنکنا - چانچنا - ترتیب دینا - جاننا - لگانا -",
+   "ex": []
+  },
+  {
+   "w": "Calculated",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "واجب - صحیح - موزوں - مناسب -",
+   "ex": []
+  },
+  {
+   "w": "Calculative",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "حساب کے متعلق - آنکنے والا - درست اندازہ کرنے والا - حسابی -",
+   "ex": []
+  },
+  {
+   "w": "Calculation",
+   "pron": "kal-ku-la-shun",
+   "pos": "n.",
+   "def": "Reckoning",
+   "ur": "قیاس - حساب - شمار - گنتی - کسی چیز کا قبل از وقت اندازہ -",
+   "ex": []
+  },
+  {
+   "w": "Calculator",
+   "pron": "kal-kul-ə-tor",
+   "pos": "n.",
+   "def": "One who reckons, or a machine",
+   "ur": "محاسب - حساب لگانے والا - حساب لگانے والی کتاب یا مشین - حساب کن مشین -",
+   "ex": []
+  },
+  {
+   "w": "Calculus",
+   "pron": "kal-kul-us",
+   "pos": "n.",
+   "def": "Stone formation",
+   "ur": "پتھری - سنگ گردہ - سنگ مثانہ - سنگریزہ -",
+   "ex": []
+  },
+  {
+   "w": "Caldron-cauldron",
+   "pron": "kol-drun",
+   "pos": "n.",
+   "def": "Large boiling vessel",
+   "ur": "ابالنے کا بڑا برتن - پتیلا - کڑھاؤ - دیگ -",
+   "ex": []
+  },
+  {
+   "w": "Calefacient",
+   "pron": "kale-fa-shent",
+   "pos": "adj. & n.",
+   "def": "Producing warmth",
+   "ur": "حار - گرم - گرمی پہنچانے والی چیز -",
+   "ex": []
+  },
+  {
+   "w": "Calefaction",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "جوش - حرارت - گرمی - تپش -",
+   "ex": []
+  },
+  {
+   "w": "Calefactive",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "گرم - گرمی پیدا کرنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Calefactory",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "خانقاہ کا گرم کمرہ - گرمی پہنچانے والی -",
+   "ex": []
+  },
+  {
+   "w": "Calendar",
+   "pron": "kalan-dar",
+   "pos": "n.",
+   "def": "System of fixing seasons, months and dates",
+   "ur": "جنتری - پترا - تقویم - فہرست - نظام تقویم -",
+   "ex": []
+  },
+  {
+   "w": "Calendar",
+   "pron": "kalan-dar",
+   "pos": "v.t.",
+   "def": "Register, arrange",
+   "ur": "ترتیب دینا - فہرست بنانا -",
+   "ex": []
+  },
+  {
+   "w": "Calender",
+   "pron": "kalen-der",
+   "pos": "v.t. & i.",
+   "def": "Press",
+   "ur": "استری کرنا - مشین میں دبا کر شکن وغیرہ درست کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Calendry",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "استری کرنے کی جگہ - استری خانہ -",
+   "ex": []
+  },
+  {
+   "w": "Calends",
+   "pron": "kal-ənds",
+   "pos": "n.",
+   "def": "First of month in Roman calendar",
+   "ur": "رومیوں کے ہر مہینے کا پہلا دن - پہلی تاریخ -",
+   "ex": []
+  },
+  {
+   "w": "Calf",
+   "pron": "kaf",
+   "pos": "n.",
+   "def": "Young of bovine animal; Hinder part of leg shank",
+   "ur": "گائے کا بچہ - بچھڑا - گئو سالہ - کاؤڈی - احمق - بے وقوف - ہاتھی ہرن وغیرہ کا بچہ - برف کا بہتا ہوا ٹکڑا - پنڈلی - ساق -",
+   "ex": []
+  },
+  {
+   "w": "Calf love",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بڑی عمر کی عورت کا نو عمر سے محبت کرنا - یا نو عمر کا بڑی عمر والی سے طفلانہ محبت -",
+   "ex": []
+  },
+  {
+   "w": "Calf teeth",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "دودھ کے دانت -",
+   "ex": []
+  },
+  {
+   "w": "Golden calf",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "زر طلبی - زرپرستی -",
+   "ex": []
+  },
+  {
+   "w": "Calf hood",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "بچھڑا پن -",
+   "ex": []
+  },
+  {
+   "w": "Calfish",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "بے وقوف - سادہ لوح - بچھڑے کی طرح -",
+   "ex": []
+  },
+  {
+   "w": "Caliban",
+   "pron": "kali-ban",
+   "pos": "n.",
+   "def": "Man of bestial nature",
+   "ur": "حیوان صفت انسان -",
+   "ex": []
+  },
+  {
+   "w": "Calibre",
+   "pron": "kali-bər",
+   "pos": "n.",
+   "def": "Internal diameter of gun",
+   "ur": "بندوق یا توپ کی اندرونی گولائی کا نمبر - بندوق کا قطر - رسائی - ادراک - ذہانت - قابلیت - لیاقت -",
+   "ex": []
+  },
+  {
+   "w": "Calibred",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "ذہین - لائق - ذی وقعت - ذی اثر -",
+   "ex": []
+  },
+  {
+   "w": "Calico",
+   "pron": "kal-i-ko",
+   "pos": "n.",
+   "def": "Plain white cotton cloth",
+   "ur": "چھپا ہوا - چھینٹ - سفید سوتی کپڑا -",
+   "ex": []
+  },
+  {
+   "w": "Calico printer",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "چھپیرا - چھینٹ بنانے والا - کپڑا چھاپنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Calico printing",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "چھینٹ بنانا - رنگائی - کپڑا چھاپنا -",
+   "ex": []
+  },
+  {
+   "w": "Calipers",
+   "pron": "kali-pers",
+   "pos": "n.",
+   "def": "Compasses for measuring inside diameters",
+   "ur": "خمدار یا دونوں کی پرکار - اندرونی گولائی یا قطر ناپنے کی پرکار -",
+   "ex": []
+  },
+  {
+   "w": "Caliph",
+   "pron": "ka-lif",
+   "pos": "n.",
+   "def": "Chief civil and religious ruler",
+   "ur": "خلیفہ -",
+   "ex": []
+  },
+  {
+   "w": "Caliphate",
+   "pron": "ka-li-fat",
+   "pos": "n.",
+   "def": "Office of caliph",
+   "ur": "خلافت -",
+   "ex": []
+  },
+  {
+   "w": "Calisthenics",
+   "pron": "kalis-theniks",
+   "pos": "n.",
+   "def": "Science of body development",
+   "ur": "جسم کی طاقت اور خوبصورتی بڑھانے کے لیے ورزش - زنانی کسرت -",
+   "ex": []
+  },
+  {
+   "w": "Call",
+   "pron": "kal",
+   "pos": "v.t. & i.",
+   "def": "Shout, speak loudly",
+   "ur": "نام رکھنا - بولنا - کہنا - بلانا - بھیجنا - طلب کرنا - یاد کرنا - پکارنا - پکار کر کہنا - زور سے بولنا - چیخنا - چلانا - مخصوص آوازی نکالنا - گھنٹی بجانا - تاش میں بولی بولنا - ترتیب بنانا - ملاقات کو جانا - دعوت دینا -",
+   "ex": []
+  },
+  {
+   "w": "Call a spade a spade",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بلا رو رعایت حق بات کہنا - برے کو برا کہنا -",
+   "ex": []
+  },
+  {
+   "w": "Call attention to",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "توجہ دلانا -",
+   "ex": []
+  },
+  {
+   "w": "Call cousins with",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "قرابت داری بنانا - رشتہ جوڑنا -",
+   "ex": []
+  },
+  {
+   "w": "Call in question",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "شک و شبہ کرنا - اعتراض کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Call into being",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "پیدا کرنا - معرض وجود میں لانا -",
+   "ex": []
+  },
+  {
+   "w": "Call into play",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "مختلف ذرائع سے کام لینا - اظہار کا موقع دینا - اپنی استعداد سے کام لینا -",
+   "ex": []
+  },
+  {
+   "w": "Call names",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "برا بھلا کہنا - نام رکھنا - گالی دینا -",
+   "ex": []
+  },
+  {
+   "w": "Calls things one's own",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "مالک ہونا - چیزوں کو اپنی ملکیت میں لینا -",
+   "ex": []
+  },
+  {
+   "w": "Call over the coals",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ملامت کرنا - زجر و توبیخ کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Call to mind",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "یاد کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Call",
+   "pron": "kal",
+   "pos": "n.",
+   "def": "Shout, cry",
+   "ur": "حاجت - سیٹی - بگل - چیخ پکار - بانک - ضرورت - حکم - ارشاد - بلاوا - دعوت - آواز - حکم قضا و قدر -",
+   "ex": []
+  },
+  {
+   "w": "Call boys",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "وہ لڑکے جو تھیٹروں میں اداکاروں کو بلاتے ہیں -",
+   "ex": []
+  },
+  {
+   "w": "Within call",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "حاضر - نزدیک - پاس -",
+   "ex": []
+  },
+  {
+   "w": "House of call",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "خاص کر وہ جگہ جہاں گھر کے ملازمین خالی اوقات میں بیٹھتے ہیں - کمرہ ملازمین - خادم خانہ -",
+   "ex": []
+  },
+  {
+   "w": "Caller",
+   "pron": "kal-er",
+   "pos": "n.",
+   "def": "Visitor",
+   "ur": "بلانے والا - وہ شخص جو ملنے کے لیے کسی کے گھر جائے - ملاقاتی -",
+   "ex": []
+  },
+  {
+   "w": "Calligraphy",
+   "pron": "kə-ligrafi",
+   "pos": "n.",
+   "def": "Beautiful hand writing",
+   "ur": "خطاطی - خوش خطی - خوش نویسی -",
+   "ex": []
+  },
+  {
+   "w": "Calligrapher",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "خوش نویس -",
+   "ex": []
+  },
+  {
+   "w": "Calligraphic",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "خوش نویسانہ -",
+   "ex": []
+  },
+  {
+   "w": "Calligraphist",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "خوش خطی کا استاد - فن خطاطی کا ماہر -",
+   "ex": []
+  },
+  {
+   "w": "Calling",
+   "pron": "kal-ing",
+   "pos": "n.",
+   "def": "Profession",
+   "ur": "بیوہار - کسب - حرفہ - پیشہ - کام - دھندا - کوئی خاص کاروبار کرنے والے لوگ - پیشہ ور -",
+   "ex": []
+  },
+  {
+   "w": "Callosity",
+   "pron": "kalos-iti",
+   "pos": "n.",
+   "def": "Thickness of skin",
+   "ur": "گٹھی - ابھار - جلد کی سختی موٹاپا -",
+   "ex": []
+  },
+  {
+   "w": "Callous",
+   "pron": "kaləs",
+   "pos": "adj.",
+   "def": "Heartless",
+   "ur": "بیدرد - بے حس - کٹھور - بے رحم - سنگدل - کڑا - سخت -",
+   "ex": []
+  },
+  {
+   "w": "Callousness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "سختی - بے رحمی - کساوٹ - سنگ دلی -",
+   "ex": []
+  },
+  {
+   "w": "Callow",
+   "pron": "kal-o",
+   "pos": "adj.",
+   "def": "Inexperienced, unfledged",
+   "ur": "بے بال و پر - نرم - روئی دار - منڈا ہوا - ناتجربہ کار - خام کار -",
+   "ex": []
+  },
+  {
+   "w": "Calm",
+   "pron": "kam",
+   "pos": "n.",
+   "def": "Serenity",
+   "ur": "اطمینان - خاطر جمعی - سکون - قرار -",
+   "ex": []
+  },
+  {
+   "w": "Calm",
+   "pron": "kam",
+   "pos": "adj. v.t. & i.",
+   "def": "Quiet, pacify",
+   "ur": "مطمئن - پرسکون - خاموش - سنسان - امن کا موسم - تسکین دینا - تسلی دینا -",
+   "ex": []
+  },
+  {
+   "w": "Calmly",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "ٹھنڈے دل سے - اطمینان سے - سکون سے -",
+   "ex": []
+  },
+  {
+   "w": "Calmness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "قرار - اطمینان - سکون - خاموشی -",
+   "ex": []
+  },
+  {
+   "w": "Calomel",
+   "pron": "kal-o-mel",
+   "pos": "n.",
+   "def": "Purgative medicine",
+   "ur": "جلاب کی دوا - مرکیوریل کلورائیڈ -",
+   "ex": []
+  },
+  {
+   "w": "Caloric",
+   "pron": "ka-lor-ik",
+   "pos": "n.",
+   "def": "Heat",
+   "ur": "حرارت - گرمی -",
+   "ex": []
+  },
+  {
+   "w": "Calorific",
+   "pron": "ka-lori-fik",
+   "pos": "adj.",
+   "def": "Heat producing",
+   "ur": "حرارت یا گرمی پیدا کرنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Calorification",
+   "pron": "ka-lori-fikəshən",
+   "pos": "n.",
+   "def": "Heat generation",
+   "ur": "حرارت انگیزی -",
+   "ex": []
   }
  ],
  "urdu_english": [
