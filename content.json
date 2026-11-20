@@ -95533,6 +95533,1198 @@
    "def": "",
    "ur": "ابھار - ابھار پن -",
    "ex": []
+  },
+  {
+   "w": "Bulge",
+   "pron": "bulj",
+   "pos": "v.t. & i.",
+   "def": "Swell outward",
+   "ur": "ابھرنا - پھولنا - پھیلانا - باہر کو نکلنا -",
+   "ex": []
+  },
+  {
+   "w": "Bulk",
+   "pron": "bulk",
+   "pos": "n.",
+   "def": "Cargo,",
+   "ur": "کثیر تعداد - بڑی تعداد - ڈھیر - ڈول - حجم - جہاز کا بار -",
+   "ex": []
+  },
+  {
+   "w": "Bulk",
+   "pron": "bulk",
+   "pos": "v.t. & i.",
+   "def": "Seem big in respect of size and importance",
+   "ur": "بڑا نظر آنا - ڈھیر لگنا - انبار کرنا - اہم نظر آنا -",
+   "ex": []
+  },
+  {
+   "w": "Bulkhead",
+   "pron": "bulk-had",
+   "pos": "n.",
+   "def": "Upright partition dividing ship's cabins",
+   "ur": "تختوں کی دیوار - خانہ - ڈبا - جہاز کے کمروں کی درمیانی دیوار -",
+   "ex": []
+  },
+  {
+   "w": "Bulky",
+   "pron": "bulki",
+   "pos": "adj.",
+   "def": "Big-looking",
+   "ur": "قد آور - جسیم - بڑا - بھاری -",
+   "ex": []
+  },
+  {
+   "w": "Bulkiness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "بھاری پن - جسامت -",
+   "ex": []
+  },
+  {
+   "w": "Bull",
+   "pron": "bool",
+   "pos": "n. & adj.",
+   "def": "Male ox, reckless destroyer",
+   "ur": "سانڈ - نر گاؤ - بیل - تباہی مچانے والا - وہ شخص جو منڈی میں قیمت چڑھاتا ہے -",
+   "ex": []
+  },
+  {
+   "w": "Bullfrog",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "امریکہ کا بڑا مینڈک -",
+   "ex": []
+  },
+  {
+   "w": "Bullheaded",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "سر پھرا - ضدی -",
+   "ex": []
+  },
+  {
+   "w": "Bull in china shop",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "وہ شخص جو بدتمیزی سے چیزوں کو توڑ پھوڑ کر رکھ دے -",
+   "ex": []
+  },
+  {
+   "w": "Bull-puncher",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "(آسٹریلیا) بیلوں کا گاہ بان -",
+   "ex": []
+  },
+  {
+   "w": "Bull-roarer",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ایک کھلونا جس میں سے بلند آواز نکلتی ہے -",
+   "ex": []
+  },
+  {
+   "w": "Bull's eye",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "چاند ماری کا نشانہ - جہاز میں موٹے شیشے کا تابدان -",
+   "ex": []
+  },
+  {
+   "w": "Take bull by the horns",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "مشکلات کا مستعدی سے مقابلہ کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Bull",
+   "pron": "bool",
+   "pos": "v.t. & i.",
+   "def": "Raise the price of stocks etc.",
+   "ur": "اسٹاک کا نرخ بڑھانے کی کوشش کرنا - نرخ بڑھانا -",
+   "ex": []
+  },
+  {
+   "w": "Bull",
+   "pron": "bool",
+   "pos": "n.",
+   "def": "An intelligent statement made absurd by compression",
+   "ur": "کسی بیان یا عبارت کا ایسا اختصار کرنا کہ وہ مبہم ہو جائے -",
+   "ex": []
+  },
+  {
+   "w": "Bullet",
+   "pron": "bool-it",
+   "pos": "n.",
+   "def": "Missile of lead",
+   "ur": "گولی - بندوق کی گولی - رائفل کی گولی -",
+   "ex": []
+  },
+  {
+   "w": "Bulletin",
+   "pron": "bool-ə-tin",
+   "pos": "n.",
+   "def": "Short official statement",
+   "ur": "سرکاری اعلان - اہم واقعات کی اطلاع -",
+   "ex": []
+  },
+  {
+   "w": "Bullion",
+   "pron": "bool-yen",
+   "pos": "n. & adj.",
+   "def": "Gold or silver, made of gold or silver",
+   "ur": "چاندی سونے کی سلاخیں یا اینٹیں - ڈلے - چاندی سونے کے سکے -",
+   "ex": []
+  },
+  {
+   "w": "Bullionist",
+   "pron": "bool yen-ist",
+   "pos": "n.",
+   "def": "One who supports the currency of gold and silver",
+   "ur": "سونے چاندی کے سکوں کے اجرا کا حامی -",
+   "ex": []
+  },
+  {
+   "w": "Bullock",
+   "pron": "boolək",
+   "pos": "n.",
+   "def": "Castrated bull",
+   "ur": "آختہ کیا ہوا بیل - بدھیا بیل -",
+   "ex": []
+  },
+  {
+   "w": "Bully",
+   "pron": "bool-i",
+   "pos": "n.",
+   "def": "Tyrant; Concerted attack of players; Corned-beef",
+   "ur": "دھکا کرنے والا - رعب گانٹھنے والا - لڑاکا - اکڑ باز - اینٹھے خان - غنڈا - بھڑوا - فٹ بال میں کھلاڑیوں کا نرغہ - گائے کا گوشت جو ڈبوں میں بکتا ہے -",
+   "ex": []
+  },
+  {
+   "w": "Bully",
+   "pron": "bool-i",
+   "pos": "v. t.",
+   "def": "Oppress,",
+   "ur": "ستانا - دھمکانا - دباؤ ڈالنا - دق کرنا - ظلم کرنا - ہاکی میں بُلی کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Bulrush",
+   "pron": "bool-ruch",
+   "pos": "n.",
+   "def": "A kind of tall rush",
+   "ur": "ایک قسم کی لمبی گھاس جو پانی یا دلدل میں اگتی ہے - ناگر موتھا -",
+   "ex": []
+  },
+  {
+   "w": "Bulwark",
+   "pron": "bool-wərk",
+   "pos": "n.",
+   "def": "Rampart,",
+   "ur": "قلعہ - چار دیواری - شہر پناہ - فصیل -",
+   "ex": []
+  },
+  {
+   "w": "Bum",
+   "pron": "bum",
+   "pos": "n.",
+   "def": "Backside",
+   "ur": "چوتڑ - سرین - پشت -",
+   "ex": []
+  },
+  {
+   "w": "Bumble-bee",
+   "pron": "bum-bl-bi",
+   "pos": "n.",
+   "def": "Large kind of bee",
+   "ur": "سارنگ - شہد کی بڑی مکھی -",
+   "ex": []
+  },
+  {
+   "w": "Bump",
+   "pron": "bump",
+   "pos": "v.t., i & adv.",
+   "def": "Push, throw down, rise abruptly",
+   "ur": "ٹکرانا - دھکا دینا - دھکیلنا - دے مارنا - کرکٹ میں گیند کو پھینک کر اچھالنا - گیند کا اچھلنا -",
+   "ex": []
+  },
+  {
+   "w": "Bump",
+   "pron": "bump",
+   "pos": "n. & v. i.",
+   "def": "Bittern's cry, collision",
+   "ur": "ٹکر - دھکا - صدمہ - چوٹ - پچھلی کشتی کا اگلی کو چھولینا - بگلے کی آواز نکلنا -",
+   "ex": []
+  },
+  {
+   "w": "Bumper",
+   "pron": "bump-er",
+   "pos": "n.",
+   "def": "Rising ball",
+   "ur": "(بول چال) لبال - لبریز - (کرکٹ) سر کے برابر اچھلی ہوئی گیند - وافر - کثیر فصل - غیر معمولی پیداوار - موٹر کی ٹکر روک -",
+   "ex": []
+  },
+  {
+   "w": "Bumpkin",
+   "pron": "bump-kin",
+   "pos": "n.",
+   "def": "Awkward bashful fellow",
+   "ur": "گنوار - کندہ نا تراش - گھامڑ - گنوار کا لٹھ - جھینپو - گدھا -",
+   "ex": []
+  },
+  {
+   "w": "Bumptious",
+   "pron": "bump-shəs",
+   "pos": "adj.",
+   "def": "Self-assertive",
+   "ur": "خود دماغ - خود پسند - خود بیں -",
+   "ex": []
+  },
+  {
+   "w": "Bumptiously",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "خود پسندی سے - خود دماغی سے -",
+   "ex": []
+  },
+  {
+   "w": "Bumptiousness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "خود پسندی - خود بینی -",
+   "ex": []
+  },
+  {
+   "w": "Bumpy",
+   "pron": "bump-i",
+   "pos": "adj.",
+   "def": "Rough",
+   "ur": "اچھالنے والی - روڑے دار - ناہموار -",
+   "ex": []
+  },
+  {
+   "w": "Bumpiness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "روڑے دار ہونا - خرابی - ناہمواری -",
+   "ex": []
+  },
+  {
+   "w": "Bun",
+   "pron": "bun",
+   "pos": "n.",
+   "def": "Sweet cake; Squirrel, Rabbit",
+   "ur": "میٹھی روٹی - میٹھا کچہو - میٹھا (سموسہ) خرگوش - گلہری -",
+   "ex": []
+  },
+  {
+   "w": "Bunch",
+   "pron": "bunch",
+   "pos": "n.",
+   "def": "Cluster, group",
+   "ur": "ڈار - جھنڈ - خوشہ - گچھا - گچھا -",
+   "ex": []
+  },
+  {
+   "w": "Bunchy",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "خوشے دار - گچھے دار -",
+   "ex": []
+  },
+  {
+   "w": "Bunch",
+   "pron": "bunch",
+   "pos": "v.t. & i.",
+   "def": "Cling together, gather in a bunch",
+   "ur": "گچھے یا خوشے بننا یا بنانا - جمع کرنا - اکٹھا کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Bund",
+   "pron": "bund",
+   "pos": "n.",
+   "def": "Dam",
+   "ur": "بند - پشتہ -",
+   "ex": []
+  },
+  {
+   "w": "Bundle",
+   "pron": "bun-dl",
+   "pos": "n.",
+   "def": "Things fastened together",
+   "ur": "گٹھری - پوٹلی - بقچہ - بستہ - پلندہ - گٹھا - سوت کے لچھوں کا گچھا -",
+   "ex": []
+  },
+  {
+   "w": "Bundle",
+   "pron": "bun-dl",
+   "pos": "v. t. & i.",
+   "def": "Fasten together",
+   "ur": "گٹھری باندھنا - عجلت میں چیزیں باندھنا بے قاعدگی سے باندھنا -",
+   "ex": []
+  },
+  {
+   "w": "Bung",
+   "pron": "bung",
+   "pos": "n.",
+   "def": "Stopper",
+   "ur": "جھوٹ - گٹھا - ڈاٹ -",
+   "ex": []
+  },
+  {
+   "w": "Bung",
+   "pron": "bung",
+   "pos": "v.t.",
+   "def": "Stop with bung",
+   "ur": "پیپے میں ڈاٹ لگانا - ڈاٹ لگا کر بند کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Bungalow",
+   "pron": "bung-gə-lo",
+   "pos": "n.",
+   "def": "One-storeyed house",
+   "ur": "بنگلہ - کوٹھی - مکان -",
+   "ex": []
+  },
+  {
+   "w": "Bungle",
+   "pron": "bung-gl",
+   "pos": "v.t. & i. n.",
+   "def": "Confusion, clumsy work",
+   "ur": "اناڑی پن سے کام خراب کرنا - کام بگاڑ دینا - خراب - بگڑا ہوا کام -",
+   "ex": []
+  },
+  {
+   "w": "Bungler",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "اناڑی - پھوہڑ - نا اہل - کام بگاڑو -",
+   "ex": []
+  },
+  {
+   "w": "Bunion",
+   "pron": "bun-yen",
+   "pos": "n.",
+   "def": "Inflamed swelling on foot",
+   "ur": "پاؤں کے انگوٹھے کی سوجن -",
+   "ex": []
+  },
+  {
+   "w": "Bunk",
+   "pron": "bungk",
+   "pos": "n.",
+   "def": "Sleeping berth",
+   "ur": "مہمل - بکواس - دیوار سے لگا ہوا سونے کا تختہ -",
+   "ex": []
+  },
+  {
+   "w": "Bunk, Do a bunk",
+   "pron": "bungk",
+   "pos": "v. i.",
+   "def": "",
+   "ur": "(بول چال) - رفو چکر ہو جانا -",
+   "ex": []
+  },
+  {
+   "w": "Bunker",
+   "pron": "bungker",
+   "pos": "n. & v.t.",
+   "def": "Ship's coal-bin",
+   "ur": "جہاز کی کوئلہ کوٹھری - کوئلہ خانہ - گف کے میدان میں ریت بھرے گڑھے - گیند کا گڑھے میں ڈالنا - مشکل میں پھنسا دینا -",
+   "ex": []
+  },
+  {
+   "w": "Bunkum",
+   "pron": "bung kəm",
+   "pos": "n.",
+   "def": "Humbug",
+   "ur": "ڈھکوسلا - فضول بکواس - ابلہ فریبی -",
+   "ex": []
+  },
+  {
+   "w": "Bunt",
+   "pron": "bunt",
+   "pos": "n.",
+   "def": "Baggy part of sail and net",
+   "ur": "بادبان کا جھولدار حصہ - گیہوں کا ایک روگ -",
+   "ex": []
+  },
+  {
+   "w": "Bunting",
+   "pron": "bunt-ing",
+   "pos": "n.",
+   "def": "Worsted stuff used for flags",
+   "ur": "جھنڈے - جھنڈیاں - باریک اونی کپڑا جس کے جھنڈے اور پھریرے جہاز کے لئے بنتے ہیں - چڑیوں کی ایک جنس - جھینکے کی قسم کی ایک مچھلی یا جانور -",
+   "ex": []
+  },
+  {
+   "w": "Buoy",
+   "pron": "boi",
+   "pos": "n.",
+   "def": "Anchored float showing navigable course",
+   "ur": "پانی پر تیرنے والے نشان جو جہازوں کو راستہ بتاتے ہیں - پیپے جو چٹانوں سے خبر دار کرنے کے لئے تیرتے رہتے ہیں -",
+   "ex": []
+  },
+  {
+   "w": "Life-buoy",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "وہ چیز جس کی مدد سے آدمی تیرتا رہے اور ڈوبنے سے بچے -",
+   "ex": []
+  },
+  {
+   "w": "Buoyage",
+   "pron": "boiyəg",
+   "pos": "n.",
+   "def": "Series of buoys",
+   "ur": "تیرتے ہوئے پیپوں کا سلسلہ - پیپوں کی فراہمی -",
+   "ex": []
+  },
+  {
+   "w": "Buoyancy",
+   "pron": "boi-yənci",
+   "pos": "n.",
+   "def": "Floating power",
+   "ur": "اچھال - ہلکا پن - زندہ دلی - خوش طبعی - لوج - لچک - ابھرنے کی صلاحیت -",
+   "ex": []
+  },
+  {
+   "w": "Buoyant",
+   "pron": "boiyənti",
+   "pos": "adj.",
+   "def": "Apt to float",
+   "ur": "خوش طبع - زندہ دل - تیرنے والا - سبک - ہلکا - لچکدار - لوجدار -",
+   "ex": []
+  },
+  {
+   "w": "Buoyantly",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "خوش دلی سے - آزادی سے - آسانی سے -",
+   "ex": []
+  },
+  {
+   "w": "Burden",
+   "pron": "bur-dn",
+   "pos": "n.",
+   "def": "Load",
+   "ur": "بوجھ - وزن - بار - مصارف کا بار - وعید - عذاب کی خبر - ٹیپ کا بند - موضوع -",
+   "ex": []
+  },
+  {
+   "w": "Burden",
+   "pron": "bur-dn",
+   "pos": "v.t.",
+   "def": "Load, encumber",
+   "ur": "بوجھ ڈالنا - عذاب کی خبر سنانا -",
+   "ex": []
+  },
+  {
+   "w": "Burdensome",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "اجیرن - بوجھل - بھاری - تکلیف دہ -",
+   "ex": []
+  },
+  {
+   "w": "Burdensomeness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "بار ہونا - سختی - بار - گرانی -",
+   "ex": []
+  },
+  {
+   "w": "Bureau",
+   "pron": "Bu-ro",
+   "pos": "n.",
+   "def": "Office",
+   "ur": "سرکاری دفتر - سرکاری محکمہ - دفتر - محافظ خانہ -",
+   "ex": []
+  },
+  {
+   "w": "Bureaucracy",
+   "pron": "bu-rok-rasi",
+   "pos": "n.",
+   "def": "Officialism, centralisation",
+   "ur": "دفتر والوں کی حکومت - اہلکاروں کا راج - دفتری حکومت - ضرورت سے زیادہ ضابطہ کی پابندی - ضابطہ پرستی -",
+   "ex": []
+  },
+  {
+   "w": "Bureaucrat",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "ہر بات میں ضابطہ کی پابندی کرنے والا - ضابطہ پرست حاکم -",
+   "ex": []
+  },
+  {
+   "w": "Bureaucratic",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "دفتری - ضابطہ پرست -",
+   "ex": []
+  },
+  {
+   "w": "Bureaucratically",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "دفتری طریقے سے - ضابطہ پرستی کے طور پر -",
+   "ex": []
+  },
+  {
+   "w": "Bureaucratism",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "دفتری نظام حکومت - ضابطہ پرستی -",
+   "ex": []
+  },
+  {
+   "w": "Bureaucratist",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "دفتری حکومت کا حامی - ضابطہ پرستی کا حامی -",
+   "ex": []
+  },
+  {
+   "w": "Burgess",
+   "pron": "bur-gis",
+   "pos": "n.",
+   "def": "Member of parliament from a borough",
+   "ur": "کسی حلقہ یا جامعہ کی طرف سے پارلیمنٹ کا نمائندہ -",
+   "ex": []
+  },
+  {
+   "w": "Burglar",
+   "pron": "burglər",
+   "pos": "n.",
+   "def": "One who breaks into house to commit felony",
+   "ur": "نقب لگانے والا - سیندھ پھوڑنے والا - نقب زن - چور -",
+   "ex": []
+  },
+  {
+   "w": "Burglarious",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "نقب لگانے والا -",
+   "ex": []
+  },
+  {
+   "w": "Burglariously",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "نقب لگانے والوں کی طرح -",
+   "ex": []
+  },
+  {
+   "w": "Burglary",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "نقب زنی -",
+   "ex": []
+  },
+  {
+   "w": "Burgle",
+   "pron": "burgl",
+   "pos": "",
+   "def": "commit burglary",
+   "ur": "نقب لگانے والا - چور -",
+   "ex": []
+  },
+  {
+   "w": "Burgomaster",
+   "pron": "burgo-mastər",
+   "pos": "n.",
+   "def": "Mayor of a town",
+   "ur": "سر پنچ - قصبہ کا مجسٹریٹ - ولندیزی شہروں میں صدر بلدیہ -",
+   "ex": []
+  },
+  {
+   "w": "Burgundy",
+   "pron": "bur-gən-di",
+   "pos": "n.",
+   "def": "Wine of burgundy",
+   "ur": "برگنڈی کی ارغوانی شراب -",
+   "ex": []
+  },
+  {
+   "w": "Burial",
+   "pron": "ber-i-əl",
+   "pos": "n.",
+   "def": "Depositing under earth",
+   "ur": "کفن دفن - تجہیز و تکفین - جنازہ - قبر میں اتارنا -",
+   "ex": []
+  },
+  {
+   "w": "Burial-Service",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "نماز جنازہ -",
+   "ex": []
+  },
+  {
+   "w": "Christian burial",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "عیسائی طریقے سے کفن دفن کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Burk (e)",
+   "pron": "burk",
+   "pos": "v.t.",
+   "def": "Smother",
+   "ur": "اشاعت روک دینا - دبانا - چھپانا - گلا گھونٹ کر مارنا -",
+   "ex": []
+  },
+  {
+   "w": "Burlesque",
+   "pron": "bur-lesk",
+   "pos": "n., adj. & v.t.",
+   "def": "Imitation",
+   "ur": "ہنسی اڑانے یا مزاح کے طور پر نقل کرنا - ہنسی کی نقل - تمسخر آمیز - مضحکہ خیز - مزاح کے طور پر -",
+   "ex": []
+  },
+  {
+   "w": "Burly",
+   "pron": "Bur-li",
+   "pos": "adj.",
+   "def": "Sturdy",
+   "ur": "ہٹا کٹا - موٹا تازہ - جسیم - طاقتور -",
+   "ex": []
+  },
+  {
+   "w": "Burliness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "تنو مندی -",
+   "ex": []
+  },
+  {
+   "w": "Burn",
+   "pron": "burn",
+   "pos": "v.t. & i.",
+   "def": "Consume by fire,",
+   "ur": "جلا دینا - پھونکنا - جلنا - آگ لگانا - بھڑکنا - پکانے میں جل جانا یا جلا دینا - جھلسنا - جلن یا سوزش ہونا - غصے سے آگ بگولا ہونا - کسی خواہش کے پورا کرنے کے لئے تڑپنا -",
+   "ex": []
+  },
+  {
+   "w": "Burn candle at both ends",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "(روپیہ یا جوانی) - ہاتھوں ہاتھ لٹانا -",
+   "ex": []
+  },
+  {
+   "w": "Burn one's boats",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کسی کام کا ذمہ لینا جس سے علیحدہ ہونے کی گنجائش نہ رہے -",
+   "ex": []
+  },
+  {
+   "w": "Burn one's fingers",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "اپنی حماقت سے خواہ مخواہ نقصان اٹھانا -",
+   "ex": []
+  },
+  {
+   "w": "Burnt child dreads fire",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "دودھ کا جلا چھاچھ پھونک پھونک کر پیتا ہے -",
+   "ex": []
+  },
+  {
+   "w": "Ears burn",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "یاد سے اچانک آنا - یہ وہم کہ کسی کے یاد کرنے سے کان جلتے ہیں -",
+   "ex": []
+  },
+  {
+   "w": "Money burns hole in pocket",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "روپیہ خرچ کرنے کے لئے بے تاب ہے -",
+   "ex": []
+  },
+  {
+   "w": "Burn",
+   "pron": "burn",
+   "pos": "n.",
+   "def": "Sore, mark of burning",
+   "ur": "چھالہ - گل - جلنے کا داغ -",
+   "ex": []
+  },
+  {
+   "w": "Burner",
+   "pron": "burner",
+   "pos": "n.",
+   "def": "Part of the lamp or stove",
+   "ur": "چراغ - دیپک - دیا - چراغ کی بتی - لیمپ کی بتی - لیمپ کا گلا - تیل کے چولھے کا آگ روک پرزہ جلانے والا -",
+   "ex": []
+  },
+  {
+   "w": "Burning",
+   "pron": "burn-ing",
+   "pos": "adj. & n.",
+   "def": "Ardent, hotly discussed",
+   "ur": "جلن - جلتا ہوا - جوش انگیز -",
+   "ex": []
+  },
+  {
+   "w": "Burnish",
+   "pron": "barn-ish",
+   "pos": "v. t. & i.",
+   "def": "Polish",
+   "ur": "اجلا کرنا - جلا کرنا - چمکانا - صیقل ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Burnisher",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "چمکانے والا - قلمی گر - صیقل گر - جلا کرنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Burrow",
+   "pron": "bur-o",
+   "pos": "n., v.t. & i.",
+   "def": "Make, line in, a hole",
+   "ur": "بل میں گھس جانا - بل کھودنا - کھوج لگانا - بھٹ - بل -",
+   "ex": []
+  },
+  {
+   "w": "Burrower",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "کرید کرنے والا - بل بنانے والا - کھودنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Bursar",
+   "pron": "bursar",
+   "pos": "n.",
+   "def": "College treasurer",
+   "ur": "مدرسہ کا خزانچی - وظیفہ خوار طالب علم -",
+   "ex": []
+  },
+  {
+   "w": "Burst",
+   "pron": "burst",
+   "pos": "v. t. & i.",
+   "def": "Split, express feeling forcibly",
+   "ur": "ٹوٹنا - پھٹنا - پھوٹنا - شق ہونا - پھوٹ کر اڑ جانا - اڑا دینا - جذبات کا اظہار شدید طور پر کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Burst in",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "غل ہونا - زبردستی داخل ہونا - گھس آنا -",
+   "ex": []
+  },
+  {
+   "w": "Burst into flame",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "شعلوں کا بھڑک اٹھنا - شعلہ افشاں ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Burst out",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "زور سے بول اٹھنا - پھوٹ پڑنا - یکایک ظاہر ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Burst sides with laughing",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ہنستے ہنستے پیٹ میں بل پڑ جانا -",
+   "ex": []
+  },
+  {
+   "w": "Burst with envy",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "حسد سے جل بھن جانا -",
+   "ex": []
+  },
+  {
+   "w": "Burst with joy",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "خوشی سے پھولے نہ سمانا -",
+   "ex": []
+  },
+  {
+   "w": "Burst",
+   "pron": "burst",
+   "pos": "n.",
+   "def": "Spurt, out break",
+   "ur": "نعرہ تعریف - سرپٹ دوڑ - اشتعال - شعلہ افشانی - غیر متوقع وقوع -",
+   "ex": []
+  },
+  {
+   "w": "Bury",
+   "pron": "ber-i",
+   "pos": "v.t.",
+   "def": "Deposit in earth",
+   "ur": "دفن کرنا - دفنانا - تجہیز و تدفین کرنا - بہلا دینا - دور کر دینا -",
+   "ex": []
+  },
+  {
+   "w": "Bury the hatchet",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "مخالفت دور کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Buried",
+   "pron": "",
+   "pos": "p.p.",
+   "def": "",
+   "ur": "غرق شدہ - ڈوبا ہوا - بھولا ہوا - مرحوم - دفن شدہ -",
+   "ex": []
+  },
+  {
+   "w": "Bush",
+   "pron": "boosh",
+   "pos": "n.",
+   "def": "Clumps of shrubs",
+   "ur": "جھاڑی - جھاڑ - جھاڑیوں کے جھنڈ - گھنے بال - گھنی مونچھیں -",
+   "ex": []
+  },
+  {
+   "w": "Bush fighter",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "چھپ کر وار کرنے والا - کمین گاہ میں بیٹھ کر حملہ کرنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Bush fighting",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "چور لڑائی -",
+   "ex": []
+  },
+  {
+   "w": "Good wine needs no bush",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "اچھی چیز خود سے بول اٹھتی ہے -",
+   "ex": []
+  },
+  {
+   "w": "Bushel",
+   "pron": "boosh-el",
+   "pos": "n.",
+   "def": "Measure of corn",
+   "ur": "غلہ کا پیمانہ - بتیس سیر کا ناپ - پائلی -",
+   "ex": []
+  },
+  {
+   "w": "Measure others corn",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "اپنے نفس پر دوسروں کا قیاس کرنا -",
+   "ex": []
+  },
+  {
+   "w": "By one's own bushel",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "اپنے معیار سے دوسروں کا اندازہ کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Bushy",
+   "pron": "boosh-i",
+   "pos": "adj.",
+   "def": "Growing thickly",
+   "ur": "جھاڑی دار - جھاڑ دار - گھنا -",
+   "ex": []
+  },
+  {
+   "w": "Bushiness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "جھاڑیلا پن - گھنا پن -",
+   "ex": []
+  },
+  {
+   "w": "Business",
+   "pron": "biz-nes",
+   "pos": "n.",
+   "def": "Occupation",
+   "ur": "کام کاج - شغل - کاروبار - بیوپار - پیشہ - سروکار - فرض منصبی - دائرہ عمل - مشکل کام - نظام العمل -",
+   "ex": []
+  },
+  {
+   "w": "Go about your business",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "چلو - اپنا کام کرو -",
+   "ex": []
+  },
+  {
+   "w": "Means business",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "مذاق نہیں - دل لگی نہیں - کام کا معاملہ ہے -",
+   "ex": []
+  },
+  {
+   "w": "Mind your own business",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "دخل درمعقولات نہ کرو - اپنے کام سے کام رکھو -",
+   "ex": []
+  },
+  {
+   "w": "Business like",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "خاصہ اچھا - خوب - منظم طور پر - کام کی طرح - معاملے کے ڈھنگ سے -",
+   "ex": []
+  },
+  {
+   "w": "Buskin",
+   "pron": "bus-kin",
+   "pos": "n.",
+   "def": "Boots reaching to knee",
+   "ur": "موزے تلے کا جوتا - گرگابی - گھٹنوں تک کا جوتا -",
+   "ex": []
+  },
+  {
+   "w": "Buss",
+   "pron": "bus",
+   "pos": "n. & v.t.",
+   "def": "Kiss",
+   "ur": "بوسہ - بوسہ لینا -",
+   "ex": []
+  },
+  {
+   "w": "Bust",
+   "pron": "bust",
+   "pos": "n.",
+   "def": "Sculpture of upper part of body",
+   "ur": "اوپر کا دھڑ - عورت کی چھاتی - نیم مجسمہ -",
+   "ex": []
+  },
+  {
+   "w": "Bustard",
+   "pron": "bus-tard",
+   "pos": "n.",
+   "def": "a Kind of large swift running bird",
+   "ur": "شتر مرغ کے قسم کا ایک پرند - تقدار - کلدوگ -",
+   "ex": []
+  },
+  {
+   "w": "Bustle",
+   "pron": "bus-l",
+   "pos": "n.",
+   "def": "Excited activity",
+   "ur": "ہل چل - سرگرمی - تک و دو - دوڑ دھوپ -",
+   "ex": []
+  },
+  {
+   "w": "Bustle",
+   "pron": "bus-l",
+   "pos": "v. t. & i.",
+   "def": "Hurry, bestir oneself",
+   "ur": "دوڑ دھوپ کرنا - سرگرمی دکھانا - کھلبلی پڑنا -",
+   "ex": []
+  },
+  {
+   "w": "Busy",
+   "pron": "buz-i",
+   "pos": "adj. & n.",
+   "def": "Occupied",
+   "ur": "سرگرم - محنتی - منہمک - مصروف - مشغول - دخل درمعقولات کرنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Busy body",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "مفلس - فسادی - خدائی فوجدار - ہر کام میں دینے والا -",
+   "ex": []
+  },
+  {
+   "w": "Busy idle (ness)",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "فضول کاموں میں مصروفیت -",
+   "ex": []
+  },
+  {
+   "w": "Busily",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "گرمی سے - مصروفیت سے -",
+   "ex": []
+  },
+  {
+   "w": "Busy",
+   "pron": "biz-i",
+   "pos": "v.t.",
+   "def": "Occupy",
+   "ur": "مشغول رکھنا - مصروف رکھنا - کام میں لگائے رکھنا -",
+   "ex": []
+  },
+  {
+   "w": "Busyness",
+   "pron": "bizi-nes",
+   "pos": "n.",
+   "def": "Quality of being busy",
+   "ur": "مصروفیت - مشغولیت - انہماک کی حالت -",
+   "ex": []
+  },
+  {
+   "w": "But",
+   "pron": "but",
+   "pos": "adv., prep., conj., & re-pro.",
+   "def": "Outside, without",
+   "ur": "لیکن - بجز - پر - مگر - صرف - فقط - سوا - چھوڑ کر - بلکہ - علاوہ بریں - بہ ایں ہمہ -",
+   "ex": []
+  },
+  {
+   "w": "But me no buts",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "But کا استعمال بحیثیت فعل - صاف صاف کہو - اگر مگر نہ کرو -",
+   "ex": []
+  },
+  {
+   "w": "But for this",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "یہ نہ ہوتا تو - اگر ایسا نہ ہوتا -",
+   "ex": []
+  },
+  {
+   "w": "But then",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "مگر اس کے مقابلے میں - مگر یہ بھی تو ہے -",
+   "ex": []
+  },
+  {
+   "w": "Butcher",
+   "pron": "booch-er",
+   "pos": "n.",
+   "def": "Dealer in meat",
+   "ur": "گوشت فروش - قصائی - قصاب - وہ جابر حاکم جس نے بہت سی جانیں لی ہوں - ظالم سنگدل انسان -",
+   "ex": []
+  },
+  {
+   "w": "Butcherly",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "جلادانہ - ظالمانہ - قصائیوں کی طرح -",
+   "ex": []
+  },
+  {
+   "w": "Butchery",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "خون خرابہ - قتل و غارت - قصائی پنا - خونریزی -",
+   "ex": []
+  },
+  {
+   "w": "Butler",
+   "pron": "but-lar",
+   "pos": "n.",
+   "def": "Principal man servant",
+   "ur": "داروغہ توشہ خانہ - خانسامہ - بھنڈاری - جمدار -",
+   "ex": []
+  },
+  {
+   "w": "Butt",
+   "pron": "but",
+   "pos": "n.",
+   "def": "Cask of wine; Trunk of tree, stock of gun",
+   "ur": "گونگے محفل - نقل محفل - نشانہ - مسخرہ - شراب کا پیپا - بندوق کا کندا - تنے کا موٹا حصہ - دباغت کیا ہوا چمڑا - سب سے موٹا چمڑا - وہ جگہ جہاں دو تختے جڑے ہوں -",
+   "ex": []
+  },
+  {
+   "w": "Butt end",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "آخری حصہ - موٹا حصہ -",
+   "ex": []
   }
  ],
  "urdu_english": [
