@@ -99227,7 +99227,7 @@
    "pron": "",
    "pos": "",
    "def": "",
-   "ur": "(روپیہ یا جوانی) - ہاتھوں ہاتھ لٹانا -",
+   "ur": "(روپیہ یا جوانی) - ہاتھوں ہاتھ لٹانا - دن دیوالی کرنا - دونوں ہاتھوں سے روپیہ اڑانا -",
    "ex": []
   },
   {
@@ -101268,6 +101268,1486 @@
    "pos": "n.",
    "def": "Heat generation",
    "ur": "حرارت انگیزی -",
+   "ex": []
+  },
+  {
+   "w": "Calorify",
+   "pron": "Kal-or-ifi",
+   "pos": "v.t.",
+   "def": "Heat",
+   "ur": "گرمانا - حرارت پہنچانا -",
+   "ex": []
+  },
+  {
+   "w": "Calorimeter",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "گرمی ناپنے کا آلہ - حرارت پیما -",
+   "ex": []
+  },
+  {
+   "w": "Calorimetric",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "حرارت پیمائی کے متعلق -",
+   "ex": []
+  },
+  {
+   "w": "Calorimetry",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "حرارت پیمائی -",
+   "ex": []
+  },
+  {
+   "w": "Caltrop",
+   "pron": "kal-trop",
+   "pos": "n.",
+   "def": "",
+   "ur": "ہاتھی چنگھاڑ - گوکھرو - لوہے کی خاردار نکیلی گیند - لوہے کی خاردار گیند جو گھوڑوں کو زخمی کرنے کے لیے ان کے آگے پھینکی جاتی تھی -",
+   "ex": []
+  },
+  {
+   "w": "Calumet",
+   "pron": "kal-u-met",
+   "pos": "",
+   "def": "Tobacco pipe with reeds, symbol of peace",
+   "ur": "فرشی حقہ - پیچوان - نیچے والی چلم - صلح کی علامت -",
+   "ex": []
+  },
+  {
+   "w": "Calumniate",
+   "pron": "kalum-ni-at",
+   "pos": "v.t.",
+   "def": "slander",
+   "ur": "افترا پردازی کرنا - بہتان باندھنا - تہمت لگانا - بدنام کرنا - بدگوئی کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Calumniation",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "بدگوئی - افترا - تہمت - بہتان -",
+   "ex": []
+  },
+  {
+   "w": "Calumniator",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "بدگو - مفترى - طوفان اٹھانا - الزام لگانے والا -",
+   "ex": []
+  },
+  {
+   "w": "Calumniatory",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "پرافترا - تہمت آمیز -",
+   "ex": []
+  },
+  {
+   "w": "Calumnious",
+   "pron": "kalum-ni-əs",
+   "pos": "adj.",
+   "def": "",
+   "ur": "افترا پرداز - مفسد -",
+   "ex": []
+  },
+  {
+   "w": "Calumny",
+   "pron": "kal-um-ni",
+   "pos": "n.",
+   "def": "Slanderous report",
+   "ur": "افترا - بہتان - تہمت - بدگوئی -",
+   "ex": []
+  },
+  {
+   "w": "Calve",
+   "pron": "kav",
+   "pos": "v.t. & i.",
+   "def": "Give birth to a calf",
+   "ur": "جانوروں کا بچہ دینا - بیانہ -",
+   "ex": []
+  },
+  {
+   "w": "Calx",
+   "pron": "kalks",
+   "pos": "n.",
+   "def": "Metal reduced to dust",
+   "ur": "پھونکی ہوئی دھات - دھات کا کشتہ -",
+   "ex": []
+  },
+  {
+   "w": "Calyx",
+   "pron": "kal-iks",
+   "pos": "n.",
+   "def": "Flower cup with stamens and petals",
+   "ur": "پھول کا کٹورا - مسند گل -",
+   "ex": []
+  },
+  {
+   "w": "Cambric",
+   "pron": "kam-brik",
+   "pos": "n.",
+   "def": "Fine white linen",
+   "ur": "مہین سفید سوتی کپڑا - سفید سوتی رومال -",
+   "ex": []
+  },
+  {
+   "w": "Camel",
+   "pron": "kam-əl",
+   "pos": "n.",
+   "def": "Long necked cushion footed animal",
+   "ur": "اونٹ - شتر - ناقہ - سانڈنی - اونٹنی - ناقابل یقین بات - ناقابل برداشت بات -",
+   "ex": []
+  },
+  {
+   "w": "Cameleer",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "شتر سوار - شتربان -",
+   "ex": []
+  },
+  {
+   "w": "Camellia",
+   "pron": "ka-mel-ia",
+   "pos": "n.",
+   "def": "Flowering evergreen from Japan and China",
+   "ur": "چین اور جاپان کی پھول دینے والی سدا بہار جھاڑی -",
+   "ex": []
+  },
+  {
+   "w": "Camelry",
+   "pron": "kamel-ri",
+   "pos": "n.",
+   "def": "Troops of camels",
+   "ur": "اونٹوں کا رسالہ - شتر سوار فوج -",
+   "ex": []
+  },
+  {
+   "w": "Camelion",
+   "pron": "kāmē-liən",
+   "pos": "n.",
+   "def": "Chamelion",
+   "ur": "دیکھو -",
+   "ex": []
+  },
+  {
+   "w": "Camelopard",
+   "pron": "kamelo-pard",
+   "pos": "n.",
+   "def": "Giraffe",
+   "ur": "شترگاؤ - افریقہ کا ایک جانور جس کی اگلی ٹانگیں پچھلی سے بڑی ہوتی ہیں - زرافہ -",
+   "ex": []
+  },
+  {
+   "w": "Cameo",
+   "pron": "kam-i-o",
+   "pos": "n.",
+   "def": "Relief work on stone",
+   "ur": "ابھرواں نقش - پتھر یا جواہر پر ابھرواں نقش - منبت کاری -",
+   "ex": []
+  },
+  {
+   "w": "Camera",
+   "pron": "kam-ər-a",
+   "pos": "n.",
+   "def": "Photographing apparatus",
+   "ur": "تصویر کھینچنے کا آلہ - جج کا علیحدہ کمرہ -",
+   "ex": []
+  },
+  {
+   "w": "In camera",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "جج کا پوشیدہ اجلاس - کسی جماعت کا پوشیدہ جلسہ -",
+   "ex": []
+  },
+  {
+   "w": "Cameronian",
+   "pron": "kam-ə-ron-i-ən",
+   "pos": "adj.",
+   "def": "Follower of Richard Cameron or his doctrine",
+   "ur": "رچرڈ کیمرن کے نظریات کے متعلق - اس کے نظریات کا حامی اور پیرو -",
+   "ex": []
+  },
+  {
+   "w": "Camlet",
+   "pron": "kam-let",
+   "pos": "n.",
+   "def": "Light cloths for cloaks",
+   "ur": "اونی ریشمی کپڑا - اونٹ کی اون اور ریشم کا بنا ہوا کپڑا جس سے جبے بنائے جاتے ہیں -",
+   "ex": []
+  },
+  {
+   "w": "Camomile",
+   "pron": "kamo-mil",
+   "pos": "n.",
+   "def": "Aromatic creeping plant",
+   "ur": "بابونہ کے قسم کے پودے - بابونہ -",
+   "ex": []
+  },
+  {
+   "w": "Camp",
+   "pron": "kamp",
+   "pos": "n.",
+   "def": "Lodging in tents",
+   "ur": "خیمہ خرگاہ - فوجی ڈیرہ - فوجی پڑاؤ - لشکر گاہ - فوج - لشکر - عسکر - سپاہ (پڑاؤ میں) -",
+   "ex": []
+  },
+  {
+   "w": "Camp",
+   "pron": "kamp",
+   "pos": "v.t. & i.",
+   "def": "Lodge in camp",
+   "ur": "چھاؤنی ڈالنا - خیمہ زن ہونا - خیمے کھڑے کرنا - پڑاؤ ڈالنا -",
+   "ex": []
+  },
+  {
+   "w": "Campaign",
+   "pron": "kam-pan",
+   "pos": "n. & v.i.",
+   "def": "Series of military operations",
+   "ur": "میدان کارزار - رزم - جنگ کرنا - باقاعدہ لڑائی - مہم میں شریک ہونا - آویزشوں میں حصہ لینا -",
+   "ex": []
+  },
+  {
+   "w": "Camphor",
+   "pron": "kam-fər",
+   "pos": "n.",
+   "def": "White substance with aromatic smell",
+   "ur": "رس کپور - کافور -",
+   "ex": []
+  },
+  {
+   "w": "Camphoric",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "کافور کے متعلق - کافوری -",
+   "ex": []
+  },
+  {
+   "w": "Camphorate",
+   "pron": "",
+   "pos": "v.t.",
+   "def": "",
+   "ur": "کافور سے بھرنا یا بسانا - کافور گھولنا -",
+   "ex": []
+  },
+  {
+   "w": "Campus",
+   "pron": "kam-pus",
+   "pos": "n.",
+   "def": "Grounds of a college or university",
+   "ur": "کسی کالج یا جامعہ کا علاقہ -",
+   "ex": []
+  },
+  {
+   "w": "Can",
+   "pron": "kan",
+   "pos": "n. & v.t.",
+   "def": "Vessel for liquids",
+   "ur": "لوٹا - ڈبا - بالٹی - ڈونگا - پیپا - کپا - ڈبے میں بھرنا - ڈبے میں رکھنا -",
+   "ex": []
+  },
+  {
+   "w": "Canful",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "پیپا بھر - بالٹی بھر - ڈبے بھر -",
+   "ex": []
+  },
+  {
+   "w": "Canner",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "ڈبوں میں بند کرنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Can",
+   "pron": "kan",
+   "pos": "v. & aux",
+   "def": "",
+   "ur": "ہو سکنا - ممکن ہونا - قابل یا لائق ہونا - سکنا -",
+   "ex": []
+  },
+  {
+   "w": "Canaan",
+   "pron": "kan-an",
+   "pos": "n.",
+   "def": "Promised land",
+   "ur": "وہ سر زمین جس کا وعدہ یہودیوں سے کیا گیا تھا - کنعان -",
+   "ex": []
+  },
+  {
+   "w": "Canaille",
+   "pron": "ka-na-e",
+   "pos": "n.",
+   "def": "The rabble",
+   "ur": "بدتمیز - نیچ ذات والے - سفلی - رذیل - کمینے -",
+   "ex": []
+  },
+  {
+   "w": "Canal",
+   "pron": "kə-nal",
+   "pos": "n. & v.t.",
+   "def": "Artificial water course",
+   "ur": "نہر - آب گذار - نہر کھودنا - نالی بنانا - جسم کے اندر ہوا اور غذا کی نالی - نہر بنانا - نہر جاری کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Canalize",
+   "pron": "kanaliz",
+   "pos": "v.t.",
+   "def": "Make canals",
+   "ur": "نہریں جاری کرنا - دریا سے نہریں نکالنا - کسی راہ پر لگانا -",
+   "ex": []
+  },
+  {
+   "w": "Canalization",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "کسی علاقہ میں نہریں نکالنا - نہری جاری کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Canard",
+   "pron": "ka-nard",
+   "pos": "n.",
+   "def": "Hoax, false report",
+   "ur": "بے پر کی بات - جھوٹی بات - بے بنیاد افواہ -",
+   "ex": []
+  },
+  {
+   "w": "Canary",
+   "pron": "ka-na-ri",
+   "pos": "adj. & n.",
+   "def": "Song bird",
+   "ur": "زرد رنگ کی گانے والی چڑیا - گانے والا پرند - جزیرہ کناری کا پرند - زرد رنگ کی مچھلی جو مچھلی پکڑنے میں چارہ کا کام دیتی ہے -",
+   "ex": []
+  },
+  {
+   "w": "Canary bird",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "گانے والی چڑیا -",
+   "ex": []
+  },
+  {
+   "w": "Canary creeper",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "زرد پھولوں کی بیل -",
+   "ex": []
+  },
+  {
+   "w": "Canary seed",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کنگنی",
+   "ex": []
+  },
+  {
+   "w": "Canaster",
+   "pron": "ke-nas-ter",
+   "pos": "n.",
+   "def": "Broken leaves of tobacco",
+   "ur": "تمباکو کا چورا -",
+   "ex": []
+  },
+  {
+   "w": "Cancan",
+   "pron": "kan-kan",
+   "pos": "n.",
+   "def": "High kicking French dance",
+   "ur": "ایک فرانسیسی فحش ناشائستہ ناچ -",
+   "ex": []
+  },
+  {
+   "w": "Cancel",
+   "pron": "kan-sl",
+   "pos": "n.",
+   "def": "Crossing out,",
+   "ur": "قلم زدہ یا دوبارہ چھاپا ہوا ورق - قلم زدگی - تنسیخ - رد -",
+   "ex": []
+  },
+  {
+   "w": "Cancer",
+   "pron": "kan-ser",
+   "pos": "",
+   "def": "Malignant tumour, fourth sign of zodiac",
+   "ur": "کیکڑا - برج سرطان - خط سرطان - راج پھوڑا - بھگندر - سرطان کی بیماری - خراب عادت جو ناسور بن گئی ہو -",
+   "ex": []
+  },
+  {
+   "w": "Cancered",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "ناسور صفت - سرطانی -",
+   "ex": []
+  },
+  {
+   "w": "Cancerous",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "سرطان کی طرح بڑھنے پھیلنے والی - سرطان صفت -",
+   "ex": []
+  },
+  {
+   "w": "Candelabrum",
+   "pron": "kande-la-brəm",
+   "pos": "n.",
+   "def": "Branched candlestick",
+   "ur": "روشنی کا - فرشی جھاڑ -",
+   "ex": []
+  },
+  {
+   "w": "Candescent",
+   "pron": "kan-des-ənt",
+   "pos": "adj.",
+   "def": "Glowing white",
+   "ur": "سفید روشنی دینے والا - اس قدر گرم کہ سفید روشنی دے -",
+   "ex": []
+  },
+  {
+   "w": "Candescence",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "گرم تابانی - گرم سفید روشنی -",
+   "ex": []
+  },
+  {
+   "w": "Candid",
+   "pron": "kan-did",
+   "pos": "adj.",
+   "def": "Frank",
+   "ur": "صادق - راست باز - صاف گو - مخلص - بے تعصب - صاف دل - کھلا -",
+   "ex": []
+  },
+  {
+   "w": "Candidly",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "راست بازی سے - صاف صاف - کھلم کھلا -",
+   "ex": []
+  },
+  {
+   "w": "Candidness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "راست گوئی - صاف دلی -",
+   "ex": []
+  },
+  {
+   "w": "Candidate",
+   "pron": "kan-di-dat",
+   "pos": "n.",
+   "def": "One who puts himself for appointment",
+   "ur": "امیدوار (کسی جگہ یا عہدے کے لیے) طالب - خواستگار -",
+   "ex": []
+  },
+  {
+   "w": "Candidature",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "خواستگاری - امیدواری -",
+   "ex": []
+  },
+  {
+   "w": "Candle",
+   "pron": "Can-dl",
+   "pos": "n.",
+   "def": "Cylinder of wax with a wick",
+   "ur": "روشنی - شمع - موم بتی -",
+   "ex": []
+  },
+  {
+   "w": "Candle ends",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "موم بتی کے بچے کھچے ٹکڑے -",
+   "ex": []
+  },
+  {
+   "w": "Candlestick",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "شمعدان - موم بتی -",
+   "ex": []
+  },
+  {
+   "w": "Bell, book, and candle",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ناقوس انجیل اور شمع - گرجے کے لوازمات ثلاثہ -",
+   "ex": []
+  },
+  {
+   "w": "Cannot, is not, fit to hold a candle on",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "مقابل کے آگے پانی بھرنا - مقابلے کی طاقت نہ رکھنا - کہاں وہ کہاں یہ - کوئی مقابلہ ہی نہیں - کچھ نسبت ہی نہیں -",
+   "ex": []
+  },
+  {
+   "w": "Hide candle under bushel",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "اپنے گن چھپانا -",
+   "ex": []
+  },
+  {
+   "w": "Candour",
+   "pron": "kan-dər",
+   "pos": "n.",
+   "def": "Freedom from malice",
+   "ur": "کھرا پن - صاف دلی - صفائی - غیر جانب داری - اخلاص مندی - راست بازی -",
+   "ex": []
+  },
+  {
+   "w": "Candy",
+   "pron": "kandi",
+   "pos": "n. & v.t.",
+   "def": "Crystallised sugar made by repeated boiling",
+   "ur": "قند - مصری - قند کے قوام میں پکانا - مربہ پکانا -",
+   "ex": []
+  },
+  {
+   "w": "Cane",
+   "pron": "kan",
+   "pos": "n.",
+   "def": "Stick",
+   "ur": "لاٹھی - عصا - جریب - چھڑی - بید -",
+   "ex": []
+  },
+  {
+   "w": "Canine",
+   "pron": "kan-in",
+   "pos": "adj. & n.",
+   "def": "Of a dog",
+   "ur": "کتے کے بارے میں - کتے کے متعلق - کلبی -",
+   "ex": []
+  },
+  {
+   "w": "Caning",
+   "pron": "kan-ing",
+   "pos": "n.",
+   "def": "Beating with a cane",
+   "ur": "بید مارنا - بید سے سزا دینا -",
+   "ex": []
+  },
+  {
+   "w": "Canister",
+   "pron": "kan-is-tər",
+   "pos": "n.",
+   "def": "Small box for tea",
+   "ur": "کنسٹر - چائے کی پتی کا ڈبہ - گرجا کا نیاز دان -",
+   "ex": []
+  },
+  {
+   "w": "Canker",
+   "pron": "kang-kər",
+   "pos": "n. & v.t.",
+   "def": "Ulcerous disease of mouth",
+   "ur": "انسانی منہ کے آبلے - ناسور - سڑنے والے گھاؤ - گھوڑے کے پیر کا زخم - درختوں کی بیماری جس سے پتے گل سڑ جاتے ہیں -",
+   "ex": []
+  },
+  {
+   "w": "Cankerous",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "سڑا دینے والا - گھن لگا دینے والا",
+   "ex": []
+  },
+  {
+   "w": "Cannibal",
+   "pron": "kan-i-bl",
+   "pos": "n. & adj.",
+   "def": "Man who eats human flesh",
+   "ur": "آدم خور انسان - ہم جنس خور - آدم خوری کے متعلق -",
+   "ex": []
+  },
+  {
+   "w": "Cannibalism",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "ہم جنس خوری - مردم خوری - آدم خوری -",
+   "ex": []
+  },
+  {
+   "w": "Cannon",
+   "pron": "kan-en",
+   "pos": "n.",
+   "def": "Mounted big gun",
+   "ur": "کنجی کا سوراخ - دھلہ - توپ - (بلیرڈس) اپنی گیند سے سفید اور سرخ گولوں کو ٹکرانا - دو گیندی ضرب -",
+   "ex": []
+  },
+  {
+   "w": "Cannonade",
+   "pron": "kan-an-əd",
+   "pos": "n., v.t. & i.",
+   "def": "Continuous gunfire",
+   "ur": "مسلسل گولہ باری - مسلسل توپ چلانا - گولہ اندازی کرنا - توپوں سے گولہ باری کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Canny",
+   "pron": "kan-i",
+   "pos": "adj.",
+   "def": "Shrewd",
+   "ur": "کفایت شعار - کائیاں - چالاک - چوکس - ہوشیار - سیانا -",
+   "ex": []
+  },
+  {
+   "w": "Canniness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "کفایت شعاری - عیاری - ہوشیاری - چوکسی -",
+   "ex": []
+  },
+  {
+   "w": "Canoe",
+   "pron": "ka-no",
+   "pos": "n. & v.i.",
+   "def": "Small boat",
+   "ur": "ڈونگے میں سوار ہونا - چھوٹی کشتی - ڈونگا -",
+   "ex": []
+  },
+  {
+   "w": "Canon",
+   "pron": "kan-ən",
+   "pos": "n.",
+   "def": "Church decree",
+   "ur": "شرع - آئین - قانون - مذہبی فتویٰ - مذہبی حکم - عیسائیوں کی نماز کا مقدس حصہ - سب سے بڑا ثانپ - پادریوں کی مجلس کا رکن -",
+   "ex": []
+  },
+  {
+   "w": "Canonical",
+   "pron": "ka-noni-kal",
+   "pos": "adj. & n.",
+   "def": "Appointed by canon law",
+   "ur": "شرعی - قانونی - مذہبی - مذہبی قانون کا مقرر کردہ - پادریوں کی مجلس یا اس کے ممبر کے متعلق -",
+   "ex": []
+  },
+  {
+   "w": "Canonize",
+   "pron": "ka-non-iz",
+   "pos": "v.t.",
+   "def": "Admit formally to calendar of saints",
+   "ur": "فہرست اولیا میں داخل کرنا - بزرگان دین کی فہرست میں شامل کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Canonization",
+   "pron": "ka-noni-za-shun",
+   "pos": "n.",
+   "def": "Appointment by canon law",
+   "ur": "سند ولایت - کسی کو فہرست ولایت میں شریک کرنا - صحت کتاب - کسی کتاب کو مذہبی تسلیم کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Canopy",
+   "pron": "kan-opi",
+   "pos": "v.t. & n.",
+   "def": "Covering suspended overhead",
+   "ur": "سائبان - شامیانہ - چھتر - سہر گیر - طاق کا چھجا - شامیانہ بنانا - لگانا -",
+   "ex": []
+  },
+  {
+   "w": "Canorus",
+   "pron": "kan-o-rūs",
+   "pos": "adj.",
+   "def": "Melodious",
+   "ur": "سریلی آواز والا - خوش الحان -",
+   "ex": []
+  },
+  {
+   "w": "Cant",
+   "pron": "kant",
+   "pos": "n.",
+   "def": "Oblique face of crystal",
+   "ur": "زاویہ - ترچھا رخ - دھکا جس سے کوئی چیز الٹ جائے - پہلو - ضلع -",
+   "ex": []
+  },
+  {
+   "w": "Cant",
+   "pron": "kant",
+   "pos": "v.t. & i.",
+   "def": "Tilt, turn over",
+   "ur": "الٹ دینا - زاویہ بنانا - ڈھلوان کرنا - ٹیڑھا کرنا - جھکا دینا - مائل ہونا - جھک جانا - ترچھا ہو جانا -",
+   "ex": []
+  },
+  {
+   "w": "Cant",
+   "pron": "kant",
+   "pos": "n. & v.i.",
+   "def": "Peculiar language of a sect",
+   "ur": "کسی فرقہ یا جماعت کی مخصوص بولی - بازاری زبان - اوپری باتیں - دکھاوا - ظاہر داری - ریا کاری - منافقت - ریا کاری کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Cant phrase",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "دکھاوے کی باتیں - ظاہر داری - ریا کاری -",
+   "ex": []
+  },
+  {
+   "w": "Cantab",
+   "pron": "kantab",
+   "pos": "n.",
+   "def": "A member of Cambridge University",
+   "ur": "جامعہ کیمبرج کا رکن -",
+   "ex": []
+  },
+  {
+   "w": "Cantankerous",
+   "pron": "kən-tang-kərəs",
+   "pos": "adj.",
+   "def": "Quarrelsome",
+   "ur": "حجتی - تکرار کرنے والا - جھگڑالو -",
+   "ex": []
+  },
+  {
+   "w": "Cantankerousness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "حجت بازی - جھگڑالو پن -",
+   "ex": []
+  },
+  {
+   "w": "Canteen",
+   "pron": "kan-tin",
+   "pos": "n.",
+   "def": "Provision and liquor shop in a camp",
+   "ur": "خانہ دار صندوق یا ٹین - لکڑی کا پانی پینے کا برتن - پلٹن کا شراب خانہ اور دار طعام خانہ -",
+   "ex": []
+  },
+  {
+   "w": "Canter",
+   "pron": "kan-ter",
+   "pos": "v.t. & i. n.",
+   "def": "Easy gallop",
+   "ur": "مکار - ریاکار - پوپے - گھوڑے کا پوپہ چلنا یا چلانا -",
+   "ex": []
+  },
+  {
+   "w": "Cantharides",
+   "pron": "kan-thəri-ds",
+   "pos": "n.",
+   "def": "Dried Spanishfly",
+   "ur": "سکھائی ہوئی ہسپانوی مکھی جس کا لیپ بنتا ہے -",
+   "ex": []
+  },
+  {
+   "w": "Canticle",
+   "pron": "kan-ți-kl",
+   "pos": "n.",
+   "def": "Little song or hymn",
+   "ur": "بھجن - چھوٹی چھوٹی دعائیہ نظمیں مختصر گیت - مثلاً حضرت سلیمان کا گیت -",
+   "ex": []
+  },
+  {
+   "w": "Canto",
+   "pron": "kanto",
+   "pos": "n.",
+   "def": "Division of long poem into parts",
+   "ur": "کسی طویل نظم کا ایک بند یا حصہ - کھنڈ -",
+   "ex": []
+  },
+  {
+   "w": "Canton",
+   "pron": "kan-tən",
+   "pos": "n.",
+   "def": "Subdivision of country",
+   "ur": "ذات - فرقہ - قوم - پرگنہ - ضلع - صوبہ -",
+   "ex": []
+  },
+  {
+   "w": "Canton",
+   "pron": "kan-tən",
+   "pos": "v.t.",
+   "def": "Divide into districts",
+   "ur": "چھاؤنی ڈالنا - ضلعوں میں تقسیم کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Cantonment",
+   "pron": "kan-tən-ment",
+   "pos": "n.",
+   "def": "Lodging assigned to troops",
+   "ur": "اردو بازار - لشکر - چھاؤنی - صدر -",
+   "ex": []
+  },
+  {
+   "w": "Canty",
+   "pron": "kanti",
+   "pos": "adj.",
+   "def": "Happy",
+   "ur": "خوش و خرم - خوش -",
+   "ex": []
+  },
+  {
+   "w": "Canvas",
+   "pron": "kan-vəs",
+   "pos": "n.",
+   "def": "Strong cloth of hemp or flax",
+   "ur": "کرمچ - ولایتی ٹاٹ - بادبان - دوڑ کی کشتی کا چھت دار کنارہ -",
+   "ex": []
+  },
+  {
+   "w": "Under canvas",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بادبان کھولے ہوئے - خیمہ میں - خیمے تلے -",
+   "ex": []
+  },
+  {
+   "w": "Canvass",
+   "pron": "kanvəs",
+   "pos": "v.t., i. & n.",
+   "def": "Solicit votes",
+   "ur": "جانچنا - امتحان لینا - آزمائش کرنا - کلام کرنا - بحث کرنا - ووٹ حاصل کرنے کی کوشش کرنا - حصول رائے - رائے طلبی -",
+   "ex": []
+  },
+  {
+   "w": "Canvasser",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "ووٹ کے حصول کے لیے کوشش کرنے والا - خریدار رائے - طالب رائے -",
+   "ex": []
+  },
+  {
+   "w": "Canyon",
+   "pron": "kan-yən",
+   "pos": "n.",
+   "def": "Deep gorge with a stream",
+   "ur": "گہری وادی یا کھڈ جس میں نالہ بہتا ہو - درہ جس میں چشمہ بہتا ہو - آبی درہ -",
+   "ex": []
+  },
+  {
+   "w": "Cap",
+   "pron": "kap",
+   "pos": "n.",
+   "def": "Head-dress",
+   "ur": "مکھیا - سردار - کن ٹوپ - ٹوپ - کلاہ - ٹوپی -",
+   "ex": []
+  },
+  {
+   "w": "The cap fits",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کسی پر کسی بات کا صادق آنا -",
+   "ex": []
+  },
+  {
+   "w": "Cap in hand",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "عاجزانہ طور پر - انکسار کے ساتھ -",
+   "ex": []
+  },
+  {
+   "w": "Knee cap",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "گھٹنے کی ہڈی - چپنی -",
+   "ex": []
+  },
+  {
+   "w": "Cap",
+   "pron": "kap",
+   "pos": "v.t. & i.",
+   "def": "Put cap upon",
+   "ur": "ٹوپی پہنانا - سر پر کلاہ رکھنا - ٹوپی یا ٹوپ پہننا - دستار باندھنا - تعلیمی سند عطا کرنا - بندوق پر پھول چڑھانا - چھڑی پر شام لگوانا - سلام کے لیے ٹوپی کو چھونا -",
+   "ex": []
+  },
+  {
+   "w": "Capability",
+   "pron": "kapə-biliti",
+   "pos": "n.",
+   "def": "Undeveloped faculty",
+   "ur": "طاقت - بل - زور - استعداد - قابلیت -",
+   "ex": []
+  },
+  {
+   "w": "Capable",
+   "pron": "kapəble",
+   "pos": "adj.",
+   "def": "Having the power or fitness for",
+   "ur": "قابل - لائق - تیز فہم - بڑا کام کرنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Capacious",
+   "pron": "kapə-shəs",
+   "pos": "adj.",
+   "def": "Roomy",
+   "ur": "چوڑا چکلا - لمبا چوڑا - فراخ - کشادہ -",
+   "ex": []
+  },
+  {
+   "w": "Capaciousness",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کشادگی - وسعت - پھیلاؤ -",
+   "ex": []
+  },
+  {
+   "w": "Capacitate",
+   "pron": "kapə-sitat",
+   "pos": "v.t.",
+   "def": "Render capable",
+   "ur": "لائق بنانا - لائق کرنا - قابل کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Capacity",
+   "pron": "kapə-siti",
+   "pos": "n.",
+   "def": "Holding-power",
+   "ur": "استعداد - قابلیت - وسعت - جگہ - گنجائش - پہنچ - لیاقت - حیثیت -",
+   "ex": []
+  },
+  {
+   "w": "Caparison",
+   "pron": "kəpari-sn",
+   "pos": "n. & v.t.",
+   "def": "Horses outfit",
+   "ur": "گھوڑے کو سجانا - گھوڑے کا ساز - زین پوش - جھول -",
+   "ex": []
+  },
+  {
+   "w": "Cape",
+   "pron": "kap",
+   "pos": "n.",
+   "def": "short sleeveless cloak",
+   "ur": "بے آستین کی قبا - گریبان - یعنی کرہ - راس جیسے راس امید -",
+   "ex": []
+  },
+  {
+   "w": "Caper",
+   "pron": "keper",
+   "pos": "n.",
+   "def": "Bramble like S. European shrub",
+   "ur": "جنوبی یورپ کی خاردار جھاڑی - جس کی کلیوں کا اچار ڈالا جاتا ہے -",
+   "ex": []
+  },
+  {
+   "w": "Caper",
+   "pron": "kepər",
+   "pos": "n. & v.i.",
+   "def": "Frisky movement",
+   "ur": "کھیل کرنا - کدکڑی مارنا - کود پھاند - اچھل کود -",
+   "ex": []
+  },
+  {
+   "w": "Cut a caper",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "پھاندنا - اچھلنا - کودنا -",
+   "ex": []
+  },
+  {
+   "w": "Caperer",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ایک قسم کی تیتری - اچھلنے کودنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Capillaments",
+   "pron": "kəpi-la-mənts",
+   "pos": "n.",
+   "def": "Hair in flowers",
+   "ur": "پھول کے روئیں -",
+   "ex": []
+  },
+  {
+   "w": "Capillaceous",
+   "pron": "kəpi-lə-shəs",
+   "pos": "adj.",
+   "def": "Thin like hair",
+   "ur": "بال کی طرح مہین -",
+   "ex": []
+  },
+  {
+   "w": "Capillary",
+   "pron": "kapi-lari",
+   "pos": "adj. & n.",
+   "def": "Of hair",
+   "ur": "بال کی طرح مہین - باریک - روئیں - بال کی طرح -",
+   "ex": []
+  },
+  {
+   "w": "Capital",
+   "pron": "kap-it-l",
+   "pos": "n.",
+   "def": "Head of pillar",
+   "ur": "پونجی - سرمایہ - راجدھانی - دارالسلطنت - ستون کی چوٹی -",
+   "ex": []
+  },
+  {
+   "w": "Capital",
+   "pron": "kap-it-l",
+   "pos": "adj. & n.",
+   "def": "involving loss of life",
+   "ur": "کبیر - بڑا - سنگین - سخت - گردن زدنی - واجب الفعل - مہبر - نقصان رساں - خاص - اہم - عمدہ - اعلیٰ - اصل - سرمایہ -",
+   "ex": []
+  },
+  {
+   "w": "Capital error",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "مہلک غلطی - فاش غلطی -",
+   "ex": []
+  },
+  {
+   "w": "Capital offence",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "قتل - سنگین جرم -",
+   "ex": []
+  },
+  {
+   "w": "Capital sentence",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "پھانسی - سزائے موت - سب سے بڑی سزا -",
+   "ex": []
+  },
+  {
+   "w": "Make capital out of",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "فائدہ کا پہلو نکالنا - کسی چیز سے فائدہ حاصل کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Capitally",
+   "pron": "kapi-təli",
+   "pos": "adv.",
+   "def": "In the best manner",
+   "ur": "نہایت اچھی طرح سے - بطریق احسن -",
+   "ex": []
+  },
+  {
+   "w": "Capitalism",
+   "pron": "kapi-təlism",
+   "pos": "n.",
+   "def": "Possession of capital",
+   "ur": "سرمایہ داری کے اصول - سرمایہ داری -",
+   "ex": []
+  },
+  {
+   "w": "Capitalist",
+   "pron": "kapi-təl-ist",
+   "pos": "n.",
+   "def": "Possessor of capital",
+   "ur": "پونجی والا - دھنی - ساہوکار - سرمایہ دار -",
+   "ex": []
+  },
+  {
+   "w": "Capitalistic",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "ساہوکارانہ - سرمایہ دارانہ -",
+   "ex": []
+  },
+  {
+   "w": "Capitalize",
+   "pron": "kapi-təliz",
+   "pos": "v.t.",
+   "def": "Convert into capital",
+   "ur": "مال وغیرہ بیچ کر روپیہ رکھنا - بطور اصل کے استعمال کرنا - قیمت تشخیص کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Capitalization",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "قیمت کی تشخیص کرنا - اصل بتانا -",
+   "ex": []
+  },
+  {
+   "w": "Capitate",
+   "pron": "kap-it-at",
+   "pos": "adj.",
+   "def": "Having distinct head",
+   "ur": "گچھے دار - سر والا -",
+   "ex": []
+  },
+  {
+   "w": "Capitation",
+   "pron": "kapi-tə-shən",
+   "pos": "n.",
+   "def": "Levying of tax per head",
+   "ur": "آدمیوں کی گنتی - فی کس محصول - سر گنتی - امداد فی کس کے حساب سے -",
+   "ex": []
+  },
+  {
+   "w": "Capitation grant",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "قلمرہ",
+   "ex": []
+  },
+  {
+   "w": "Capitulate",
+   "pron": "kə-pitu-lat",
+   "pos": "v.i.",
+   "def": "Surrender",
+   "ur": "حوالے کر دینا - شرط کے ساتھ اطاعت قبول کرنا - ہتھیار ڈال دینا -",
+   "ex": []
+  },
+  {
+   "w": "Capitulation",
+   "pron": "kapi-tu-la-shən",
+   "pos": "n.",
+   "def": "Surrender on terms",
+   "ur": "معاہدہ - مشروط اطاعت -",
+   "ex": []
+  },
+  {
+   "w": "Capon",
+   "pron": "ka-pn",
+   "pos": "n.",
+   "def": "Castrated cock",
+   "ur": "خصی مرغا - آختہ مرغ -",
+   "ex": []
+  },
+  {
+   "w": "Capote",
+   "pron": "kəpot",
+   "pos": "n.",
+   "def": "Soldiers cloak with head",
+   "ur": "سپاہیوں یا مسافروں کا کلاہ دار لبادہ -",
+   "ex": []
+  },
+  {
+   "w": "Caprice",
+   "pron": "kəpris",
+   "pos": "n.",
+   "def": "Change of mind and conduct",
+   "ur": "وشواس - گمان - وہم - ترنگ - امنگ - من کی موج - تلون مزاجی - مت - وہمی پن - تخیل کی جولانی -",
+   "ex": []
+  },
+  {
+   "w": "Capricious",
+   "pron": "kəprishəs",
+   "pos": "adj.",
+   "def": "Guided by whim",
+   "ur": "موجی - لہری - متلون مزاج - وہمی -",
+   "ex": []
+  },
+  {
+   "w": "Capriciously",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "تلون مزاجی سے -",
+   "ex": []
+  },
+  {
+   "w": "Capriciousness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "موج - اوندھی مت - وہم -",
+   "ex": []
+  },
+  {
+   "w": "Capricorn",
+   "pron": "kapri-korn",
+   "pos": "n.",
+   "def": "Tenth sign of zodiac",
+   "ur": "مکر راس - برج جدی - دسواں برج -",
+   "ex": []
+  },
+  {
+   "w": "Caprine",
+   "pron": "kap-rin",
+   "pos": "adj.",
+   "def": "Of, or, like a goat",
+   "ur": "بکرا یا بکری کے مانند - مانند گو سفند -",
+   "ex": []
+  },
+  {
+   "w": "Capsicum",
+   "pron": "kap-si-kəm",
+   "pos": "n.",
+   "def": "Plant with hot capsules",
+   "ur": "ایسے ہی پودے - پسی ہوئی لال مرچ - سرخ مرچ -",
+   "ex": []
+  },
+  {
+   "w": "Capsize",
+   "pron": "kap-siz",
+   "pos": "n., v.t. & i.",
+   "def": "Overturn, upset",
+   "ur": "اوندھا ہونا - الٹنا - کشتی یا جہاز کا الٹ جانا -",
+   "ex": []
+  },
+  {
+   "w": "Capsizal",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "الٹاؤ - کسی چیز کا الٹ جانا -",
+   "ex": []
+  },
+  {
+   "w": "Capstan",
+   "pron": "kap-stən",
+   "pos": "n.",
+   "def": "Revolving barrel",
+   "ur": "لنگر کی چرخی - جہاز میں چیزیں اٹھانے کی چرخ یا کل -",
+   "ex": []
+  },
+  {
+   "w": "Capsule",
+   "pron": "kap-sul",
+   "pos": "n.",
+   "def": "Membranous envelope",
+   "ur": "جھلی دار لفافہ - ڈوڈا - خانہ - گھر - غلاف - بیج کا خانہ جو پکنے کے بعد کھل جاتا ہے - گولیاں یا دوا رکھنے کی جھلی دار تھیلی -",
+   "ex": []
+  },
+  {
+   "w": "Capsular",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "غلاف - ڈوڈیا - جھلی دار -",
+   "ex": []
+  },
+  {
+   "w": "Captain",
+   "pron": "kap-tin",
+   "pos": "",
+   "def": "Chief leader, commander",
+   "ur": "کپتان - لیڈر - مکھیا - سردار - جنگی جہاز کا کپتان - جہاز کا کپتان - کھیلوں میں ٹیم کا کپتان - فوج میں میجر کے نیچے اور لفٹیننٹ کے اوپر کا عہدہ دار -",
+   "ex": []
+  },
+  {
+   "w": "Captaincy, captainship",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "قائد - کپتان کا عہدہ - کپتانی -",
+   "ex": []
+  },
+  {
+   "w": "Captain",
+   "pron": "kap-tin",
+   "pos": "v.t.",
+   "def": "Lead",
+   "ur": "کپتان بننا - سرداری کرنا - قیادت کرنا - رہنمائی کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Captation",
+   "pron": "kap-tə-shən",
+   "pos": "n.",
+   "def": "Use of misleading arguments",
+   "ur": "عوام فریبی - ادلہ فریب - دلائل کا استعمال -",
+   "ex": []
+  },
+  {
+   "w": "Caption",
+   "pron": "kap-shun",
+   "pos": "n.",
+   "def": "Legal arrest",
+   "ur": "کسی مضمون یا کتاب کا عنوان - قانونی گرفتاری -",
+   "ex": []
+  },
+  {
+   "w": "Captious",
+   "pron": "kap-shəs",
+   "pos": "adj.",
+   "def": "Fond of taking exception",
+   "ur": "حجتی - تکراری - چڑ چڑا - حرف گیر - عادتاً معترض - دھوکہ دینے والا - خوردہ گیر -",
+   "ex": []
+  },
+  {
+   "w": "Captiously",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "نکتہ چینی سے - حرف گیرانہ -",
+   "ex": []
+  },
+  {
+   "w": "Captiousness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "نکتہ چینی - عیب جوئی - خوردہ گیری -",
+   "ex": []
+  },
+  {
+   "w": "Captivate",
+   "pron": "kap-tiv-at",
+   "pos": "v.t.",
+   "def": "Fascinate",
+   "ur": "دل لے لینا - عاشق بنا لینا - فریفتہ کرنا - دل موہ لینا -",
+   "ex": []
+  },
+  {
+   "w": "Captivation",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "دل فریبی - دلبری - دلربائی -",
+   "ex": []
+  },
+  {
+   "w": "Captive",
+   "pron": "kap-tiv",
+   "pos": "adj. & n.",
+   "def": "one who is taken prisoner",
+   "ur": "اسیر - قیدی - گرفتار - مفتون - شیدا - قیدی کا - قیدی کی طرح - اسیرانہ -",
+   "ex": []
+  },
+  {
+   "w": "Captivity",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "نظر بندی - گرفتاری - قید - اسیری -",
+   "ex": []
+  },
+  {
+   "w": "Captor",
+   "pron": "kap-tər",
+   "pos": "n.",
+   "def": "One who takes a captive or prize",
+   "ur": "پکڑنے والا - گرفتار کرنے والا - انعام جیتنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Capture",
+   "pron": "kap-chur",
+   "pos": "n. & v.t.",
+   "def": "Taking a prisoner, thing or person seized",
+   "ur": "گرفتاری - قبضہ - تسخیر - مال غنیمت - پکڑنا - گرفتار کرنا - فتح کرنا - سر کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Capuchin",
+   "pron": "kap-u-chin",
+   "pos": "n. & adj.",
+   "def": "Woman's cloak or hood",
+   "ur": "لبادہ - چوغہ - زنانہ لبادہ - زاہد - درویش - عابد - فرانسسکی پادری -",
+   "ex": []
+  },
+  {
+   "w": "Caput mortum",
+   "pron": "kaput mortum",
+   "pos": "",
+   "def": "Worthless residue",
+   "ur": "فضلہ - پھوک - تلچھٹ -",
+   "ex": []
+  },
+  {
+   "w": "Car",
+   "pron": "kar",
+   "pos": "n.",
+   "def": "Wheeled vehicle",
+   "ur": "ریل کا ڈبہ - چھکڑا - اکہ - گاڑی - غبارے کا جھولا - موٹر گاڑی - موٹر کار -",
+   "ex": []
+  },
+  {
+   "w": "Carabine",
+   "pron": "kar-bin",
+   "pos": "n.",
+   "def": "A kind of gun",
+   "ur": "ایک قسم کی بندوق - قرابین -",
+   "ex": []
+  },
+  {
+   "w": "Carabineer",
+   "pron": "kar-biner",
+   "pos": "n.",
+   "def": "Soldier with carabine",
+   "ur": "قرابین سے مسلح سپاہی -",
+   "ex": []
+  },
+  {
+   "w": "Caracole",
+   "pron": "kar-ə-kol",
+   "pos": "n. & v.t.",
+   "def": "Execute half turns",
+   "ur": "(گھوڑی یا آدمی کا) کادہ کاٹنا - کادہ -",
+   "ex": []
+  },
+  {
+   "w": "Carafe",
+   "pron": "karaf",
+   "pos": "n.",
+   "def": "Glass water bottle",
+   "ur": "مینا - قرابہ - شیشے کی صراحی -",
+   "ex": []
+  },
+  {
+   "w": "Carat",
+   "pron": "karət",
+   "pos": "n.",
+   "def": "Measure of weight for precious stones and gold",
+   "ur": "سونا اور جواہرات کا وزن - قراط (پانچ رتی کے قریب) -",
+   "ex": []
+  },
+  {
+   "w": "Caravan",
+   "pron": "karə-van",
+   "pos": "n.",
+   "def": "Company of travellers",
+   "ur": "بند گاڑی - قافلہ - کارواں - جانوروں کو ایک جگہ سے دوسری جگہ لے جانے والی بند گاڑی -",
    "ex": []
   }
  ],
