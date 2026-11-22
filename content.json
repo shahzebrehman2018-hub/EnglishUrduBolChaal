@@ -105333,6 +105333,2926 @@
    "def": "Company of travellers",
    "ur": "بند گاڑی - قافلہ - کارواں - جانوروں کو ایک جگہ سے دوسری جگہ لے جانے والی بند گاڑی -",
    "ex": []
+  },
+  {
+   "w": "Caravan serai",
+   "pron": "karə-van-seri",
+   "pos": "n.",
+   "def": "Building for housing travellers",
+   "ur": "کارواں سرائے - مسافروں - یاتریوں کے ٹھہرنے کی عمارت -",
+   "ex": []
+  },
+  {
+   "w": "Caraway",
+   "pron": "kara-wa",
+   "pos": "n.",
+   "def": "A plant with fruits used in cakes",
+   "ur": "زیرہ - زیرہ رومی -",
+   "ex": []
+  },
+  {
+   "w": "Carbine",
+   "pron": "kar-bin",
+   "pos": "n.",
+   "def": "Short gun for cavalry",
+   "ur": "قرابین - سوار کی چھوٹی بندوق -",
+   "ex": []
+  },
+  {
+   "w": "Carbon",
+   "pron": "kar-bən",
+   "pos": "n.",
+   "def": "Non-metallic element",
+   "ur": "ایک عنصر جو کوئلے ، ہیرے کی - کوئلے کی اصل - کوئلہ - شکل میں پایا جاتا ہے - برق لمپوں میں کاربن کی قلم -",
+   "ex": []
+  },
+  {
+   "w": "Carbonic",
+   "pron": "kar-bon-ik",
+   "pos": "adj.",
+   "def": "",
+   "ur": "کاربن کا - کاربنی -",
+   "ex": []
+  },
+  {
+   "w": "Carboniferous",
+   "pron": "kar-bən-ifer-əs",
+   "pos": "adj.",
+   "def": "Producing carbon",
+   "ur": "کاربن زا - کوئلہ پیدا کرنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Carbonize",
+   "pron": "kar-boniz",
+   "pos": "v.t.",
+   "def": "Convert into carbon",
+   "ur": "جلا کر کوئلہ بنانا - کوئلہ کر دینا - کاربن بنانا -",
+   "ex": []
+  },
+  {
+   "w": "Carbonization",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "کوئلہ بنانے کا عمل - کاربن سازی -",
+   "ex": []
+  },
+  {
+   "w": "Carbuncle",
+   "pron": "kar-bung-kl",
+   "pos": "n.",
+   "def": "Red precious stone",
+   "ur": "ایک مہلک پھوڑا - لال - چکتا - راج پھوڑا - ایک خوش رنگ پتھر -",
+   "ex": []
+  },
+  {
+   "w": "Carcass",
+   "pron": "kar-kəs",
+   "pos": "n.",
+   "def": "Dead body",
+   "ur": "جانوروں کی بے سری لاش - لاش - لاش - مردہ یا زندہ جسم - عمارتوں میں آگ لگانے کے لیے آتشیں گولے -",
+   "ex": []
+  },
+  {
+   "w": "Card",
+   "pron": "kard",
+   "pos": "v.t.",
+   "def": "Cleanse, comb wool and hemp etc.",
+   "ur": "دھننا - دھنکنا - تومنا - بننا - اون صاف کرنا - فولادی کنگھی سے چھیلنا - تکلیف دینا -",
+   "ex": []
+  },
+  {
+   "w": "Card",
+   "pron": "kard",
+   "pos": "n.",
+   "def": "Game of cards",
+   "ur": "موئے کاغذ کا ٹکڑا - گتے - تاش کے پتے - تاش - گھڑ دوڑ یا کریکٹ کا مطبوعہ پروگرام -",
+   "ex": []
+  },
+  {
+   "w": "House of cards",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کاغذ کی ناؤ - نقش برآب - بے بنیاد منصوبہ -",
+   "ex": []
+  },
+  {
+   "w": "Knowing card",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "راز دان - واقف حال -",
+   "ex": []
+  },
+  {
+   "w": "Queer card",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "عجیب آدمی -",
+   "ex": []
+  },
+  {
+   "w": "Cardamom",
+   "pron": "kar-di-mam",
+   "pos": "n.",
+   "def": "Spice from seed capsules",
+   "ur": "الائچی -",
+   "ex": []
+  },
+  {
+   "w": "Carder",
+   "pron": "kar-der",
+   "pos": "n.",
+   "def": "One who cards wool and cotton",
+   "ur": "روئی دھننے والا - دھنیا -",
+   "ex": []
+  },
+  {
+   "w": "Cardiac",
+   "pron": "kar-di-ek",
+   "pos": "adj. & n.",
+   "def": "Of the heart",
+   "ur": "مفرح - طاقت بخش - مقوی - فم معدہ کے متعلق - کلی - دل کے متعلق -",
+   "ex": []
+  },
+  {
+   "w": "Cardinal",
+   "pron": "kar-di-nl",
+   "pos": "adj. & n.",
+   "def": "Fundamental",
+   "ur": "بڑا - عظیم - اصلی - بنیادی - گہرے سرخ رنگ کا - عورتوں کی قبا - چھوٹی سرخ رنگ کی چڑیا -",
+   "ex": []
+  },
+  {
+   "w": "Cardinal numbers",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "جیسے 1 - 2 - 3 اعداد ذاتی -",
+   "ex": []
+  },
+  {
+   "w": "Cardinal virtues",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "خلق عظیم - اخلاق حمیدہ -",
+   "ex": []
+  },
+  {
+   "w": "Care",
+   "pron": "kar",
+   "pos": "n.",
+   "def": "Serious attention",
+   "ur": "پروا - اندیشہ - چنتا - تردد - فکر - توجہ - غور و خوض - خبرداری - ہوشیاری - احتیاط - فرض - ذمہ داری - محافظت - معرفت -",
+   "ex": []
+  },
+  {
+   "w": "Cares of state",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "حکومت کی ذمہ داریاں - حکومت کے فرائض -",
+   "ex": []
+  },
+  {
+   "w": "Care",
+   "pron": "kar",
+   "pos": "v.i.",
+   "def": "Feel concern for",
+   "ur": "پریشان ہونا - متفکر ہونا - سوچ میں ہونا - پروا کرنا - تیمار داری کرنا - پیار کرنا - عزت کرنا - لحاظ کرنا - خیال کرنا - التفات کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Career",
+   "pron": "kərer",
+   "pos": "n. & v.t.",
+   "def": "Swift course",
+   "ur": "رفتار - طرز زندگی - دوڑ دھوپ - رفتار حیات - چال - روش - معاش - اندھا دھند چلنا -",
+   "ex": []
+  },
+  {
+   "w": "Careful",
+   "pron": "kar-fl",
+   "pos": "adj.",
+   "def": "Watchful",
+   "ur": "فکرمند - محتاط - چوکس - خبر دار - ہوشیار -",
+   "ex": []
+  },
+  {
+   "w": "Carefully",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "چوکسی سے - ہوشیاری سے -",
+   "ex": []
+  },
+  {
+   "w": "Carefulness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "ہوشیاری - فکرمندی - احتیاط -",
+   "ex": []
+  },
+  {
+   "w": "Careless",
+   "pron": "kar-les",
+   "pos": "adj.",
+   "def": "Unconcerned",
+   "ur": "انکل چپو - بے پروا - لاپروا - بے فکر - غافل - سہل انگار -",
+   "ex": []
+  },
+  {
+   "w": "Carelessly",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "بے احتیاطی سے - بے پروائی سے -",
+   "ex": []
+  },
+  {
+   "w": "Carelessness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "بے فکری - بے احتیاطی - بے پروائی -",
+   "ex": []
+  },
+  {
+   "w": "Caress",
+   "pron": "ka-res",
+   "pos": "v.t. & n.",
+   "def": "Fondling touch, kiss",
+   "ur": "پچکارنا - پیار کرنا - ہاتھ پھیرنا - سینے سے لگانا - بوسہ لینا - ناز برداری کرنا - پیار - ناز و ادا - ملاطفت - چوما چاٹی - بوسہ بازی -",
+   "ex": []
+  },
+  {
+   "w": "Caressingly",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "اختلاط سے - ناز برداری سے - ملاطفت سے - پیار سے -",
+   "ex": []
+  },
+  {
+   "w": "Caret",
+   "pron": "kar-et",
+   "pos": "n.",
+   "def": "Mark placed below line (۸) نشان",
+   "ur": "جو سطر کے نیچے - چوک نشان - لگاتے ہیں یہ ظاہر کرنے کے لیے کہ یہاں کوئی لفظ رہ گیا ہے -",
+   "ex": []
+  },
+  {
+   "w": "Cargo",
+   "pron": "kar-go",
+   "pos": "n.",
+   "def": "Freight of ship",
+   "ur": "بار جہاز - جہاز کا سامان - جہاز پر لادنے کا مال اسباب -",
+   "ex": []
+  },
+  {
+   "w": "Caricature",
+   "pron": "kar-i-katur",
+   "pos": "v.t. & n.",
+   "def": "Grotesque representation of a person",
+   "ur": "کسی شخص کی ایسی تصویر بنانا کہ اس کے عیوب نمایاں ہوں - بگاڑی ہوئی تصویر - تحریر یا بیان کے ذریعے مذاق اڑانا - ہجویہ تصویر -",
+   "ex": []
+  },
+  {
+   "w": "Caricaturable",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "خاکہ اڑانے کے قابل - ہجویہ تصویر بنانے کے قابل -",
+   "ex": []
+  },
+  {
+   "w": "Caricaturist",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "ہزلیہ تصویر بنانے والا - خاکہ اڑانے والا -",
+   "ex": []
+  },
+  {
+   "w": "Carious",
+   "pron": "kariəs",
+   "pos": "adj.",
+   "def": "Decayed",
+   "ur": "بوسیدہ - سڑا ہوا -",
+   "ex": []
+  },
+  {
+   "w": "Cark",
+   "pron": "kark",
+   "pos": "n.",
+   "def": "Concern",
+   "ur": "فکر - خدشہ - کھٹکا - دغدغہ -",
+   "ex": []
+  },
+  {
+   "w": "Carking",
+   "pron": "kar-king",
+   "pos": "adj.",
+   "def": "Burdensome",
+   "ur": "جانکداز - روح فرسا -",
+   "ex": []
+  },
+  {
+   "w": "Carman",
+   "pron": "kar-man",
+   "pos": "n.",
+   "def": "Driver",
+   "ur": "گاڑی والا - گاڑی بان -",
+   "ex": []
+  },
+  {
+   "w": "Carminative",
+   "pron": "kar-mi-nativ",
+   "pos": "adj. & n.",
+   "def": "Curing flatulence",
+   "ur": "ریح کم کرنے والی باؤ ہرن - دافع ریاح -",
+   "ex": []
+  },
+  {
+   "w": "Carmine",
+   "pron": "kar-min",
+   "pos": "n. & adj.",
+   "def": "Crimson pigment",
+   "ur": "قرمزی یا لال رنگ - گہرے سرخ رنگ کا -",
+   "ex": []
+  },
+  {
+   "w": "Carnage",
+   "pron": "kar-nij",
+   "pos": "n.",
+   "def": "Great slaughter",
+   "ur": "کشت و خون - قتل و غارت - خونریزی -",
+   "ex": []
+  },
+  {
+   "w": "Carnal",
+   "pron": "kar-nl",
+   "pos": "adj.",
+   "def": "Sensual",
+   "ur": "بدنی - جسمانی - حیوانی - نفسانی - دنیاوی - مادی - ناپاک - شہوانی - شہوت پرست -",
+   "ex": []
+  },
+  {
+   "w": "Carnalism, carnality",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "مستی - شہوت - نفسانیت - شہوت پرستی -",
+   "ex": []
+  },
+  {
+   "w": "Carnalize",
+   "pron": "",
+   "pos": "v.t.",
+   "def": "",
+   "ur": "شہوانی لذات میں محو کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Carnally",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "نفسانی نقطہ نظر سے - شہوت پرستی سے -",
+   "ex": []
+  },
+  {
+   "w": "Carnation",
+   "pron": "kar-na-shən",
+   "pos": "n. & adj.",
+   "def": "Of rosy pink colour",
+   "ur": "کناری - گوشت کے رنگ کا - گلابن - پیازی رنگ - گلابی رنگ کا - ہنک قسم کا پھول - گنار -",
+   "ex": []
+  },
+  {
+   "w": "Carnival",
+   "pron": "kar-ni-vl",
+   "pos": "n.",
+   "def": "Riotous revelry",
+   "ur": "رنگ رلیاں - جشن - عیش و عشرت - کیتھولک عیسائیوں کی ہولی -",
+   "ex": []
+  },
+  {
+   "w": "Carnival of bloodshed",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "خونریزی میں دل کھول کر حصہ لینا - خون کی ہولی - جشن خونریزی -",
+   "ex": []
+  },
+  {
+   "w": "Carnivore",
+   "pron": "kar-ni-vor",
+   "pos": "n.",
+   "def": "Flesh eating animals or plants",
+   "ur": "گوشت خور جانور یا پودے -",
+   "ex": []
+  },
+  {
+   "w": "Carnivorous",
+   "pron": "kar-niv-o-rəs",
+   "pos": "adj.",
+   "def": "",
+   "ur": "درندہ - گوشت خور -",
+   "ex": []
+  },
+  {
+   "w": "Carol",
+   "pron": "karol",
+   "pos": "v.t., i. & n.",
+   "def": "Joyous song",
+   "ur": "ولادت حضرت عیسیٰ کے گیت - خوشی کا گیت - نغمہ - عیسائیوں کے بڑے دن کے گیت - خوشی کے گیت گانا - نغمہ سرائی کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Caroline",
+   "pron": "kar-o-lin",
+   "pos": "adj.",
+   "def": "Of Charlemagne",
+   "ur": "شارل مان کے متعلق - شاہ چارلس اول و دوم کے زمانے کا -",
+   "ex": []
+  },
+  {
+   "w": "Carouse",
+   "pron": "ka-rowz",
+   "pos": "n. & v.i.",
+   "def": "Drink deep",
+   "ur": "بلانوشی - بد مستی - لٹ کر شراب پینا -",
+   "ex": []
+  },
+  {
+   "w": "Carousal",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "بد مستی - بلا نوشی - بے نوشی -",
+   "ex": []
+  },
+  {
+   "w": "Carp",
+   "pron": "karp",
+   "pos": "n.",
+   "def": "A fresh water fish",
+   "ur": "ایک مچھلی جو عام طور پر تالابوں میں پائی جاتی ہے - سیم ماہی -",
+   "ex": []
+  },
+  {
+   "w": "Carp",
+   "pron": "karp",
+   "pos": "v.i.",
+   "def": "Find fault",
+   "ur": "حرف گیری کرنا - خوردہ گیری کرنا - عیب جوئی کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Carper",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "نکتہ چیں - عیب جو -",
+   "ex": []
+  },
+  {
+   "w": "Carping criticism",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "نکتہ چینی - عیب جوئی کی طرح تنقید -",
+   "ex": []
+  },
+  {
+   "w": "Carping tongue",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "حرف گیر - کالی زبان والا - عیب جو -",
+   "ex": []
+  },
+  {
+   "w": "Carpenter",
+   "pron": "kar-pən-tər",
+   "pos": "n., v.t. & i.",
+   "def": "Artificer in wood work",
+   "ur": "بڑھئی - نجار - لکڑی کا کام کرنا - بڑھئی کا کام کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Carpet",
+   "pron": "kar-pit",
+   "pos": "v.t. & n.",
+   "def": "Felted fabric for covering floor",
+   "ur": "فرش - قالین - غالیچہ - پھولوں کا تختہ - فرش بچھانا - قالین بچھانا - ٹوکر کو کمرے کے اندر بلا کر جھڑکنا -",
+   "ex": []
+  },
+  {
+   "w": "Carpet dance",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "وہ ناچ جس کے لیے پہلے سے کوئی تیار ہی نہ ہو - سادہ ناچ - معمولی ناچ -",
+   "ex": []
+  },
+  {
+   "w": "Carpet knight",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "وہ سپاہی جو کبھی میدان جنگ میں نہ گیا ہو - گھر بیٹھے کا سورما - شیر قالین -",
+   "ex": []
+  },
+  {
+   "w": "On the carpet",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "زیر غور چیز - زیر بحث مسئلہ -",
+   "ex": []
+  },
+  {
+   "w": "Carpetting",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "فرش کا کپڑا -",
+   "ex": []
+  },
+  {
+   "w": "Carpetless",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "بے قالین - بے فرش -",
+   "ex": []
+  },
+  {
+   "w": "Carriage",
+   "pron": "kar-ij",
+   "pos": "n.",
+   "def": "Conveying, transport",
+   "ur": "بار برداری کا خرچ - بھاڑا - بار برداری - کسی میم کا بندوبست - پارلیمنٹ میں کسی تحریک کا پاس ہونا - چال - ڈھنگ - وضع قطع - روش - طریق - انداز - سواری گاڑی -",
+   "ex": []
+  },
+  {
+   "w": "Carriagable",
+   "pron": "kar-ij-əbl",
+   "pos": "adj.",
+   "def": "(Road) available for carriages",
+   "ur": "گاڑیوں کی آمد و رفت کے قابل سڑک -",
+   "ex": []
+  },
+  {
+   "w": "Carrier",
+   "pron": "kar-ier",
+   "pos": "n.",
+   "def": "Person that carries luggage",
+   "ur": "بوجھ لے جانے والا - باربردار - بارکش - کرایہ لے کر اسباب ڈھونے والا - حمال - مزدور - بائیسکل کا پچھلا حصہ جس پر اسباب باندھتے ہیں - بیماری کے جراثیم پھیلانے والا -",
+   "ex": []
+  },
+  {
+   "w": "Carrier nation",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "تاجر قوم - تجارت پیشہ قوم جو دوسری قوموں تک لیے بحری تجارت کرے -",
+   "ex": []
+  },
+  {
+   "w": "Carrion",
+   "pron": "kari-ən",
+   "pos": "n. & adj.",
+   "def": "Dead flesh, garbage",
+   "ur": "مردہ یا سڑا ہوا گوشت - مرا ہوا جانور - گلی سڑی لاش - مردار - سڑا ہوا - متعفن - گھناؤنا - مکروہ -",
+   "ex": []
+  },
+  {
+   "w": "Carrot",
+   "pron": "kar-ut",
+   "pos": "n.",
+   "def": "Plant with edible root",
+   "ur": "گدر - گاجر -",
+   "ex": []
+  },
+  {
+   "w": "Carry",
+   "pron": "kar-i",
+   "pos": "v.t. & i.",
+   "def": "Convey things and persons",
+   "ur": "لے جانا - لے چلنا - اٹھانا - ڈھونا - پہنچانا - حساب جمع کو آگے بڑھانا - حاصل کرنا - اپنا خیال دوسروں کے دلوں میں بٹھانا - کام دینا - کافی ہونا - جیتنا - سر کرنا - تسلیم کرانا - پہننا - پاس رکھنا - تھامنا -",
+   "ex": []
+  },
+  {
+   "w": "Carry all before one",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بازی لے جانا -",
+   "ex": []
+  },
+  {
+   "w": "Carry conviction",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "منوا لینا - اپنا خیال دوسروں کے ذہن نشین کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Carry into effect",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "عمل میں لانا - پورا کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Principles carry consequences",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "اصولی آدمیوں کو انجام بھی برداشت کرنا پڑتا ہے - عواقب - اصولوں کے نتائج بھی ہوتے ہیں -",
+   "ex": []
+  },
+  {
+   "w": "Cart",
+   "pron": "kart",
+   "pos": "n., v.t. & i.",
+   "def": "Two-wheeled vehicle",
+   "ur": "چھکڑے پر لاد کے لے جانا - چھکڑا - گاڑی - چھکڑے پر کام کرنا (بول چال) کسی کھیل وغیرہ میں بہ آسانی ہرا دینا -",
+   "ex": []
+  },
+  {
+   "w": "Cart wright",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "چھکڑا بنانے والا -",
+   "ex": []
+  },
+  {
+   "w": "Put cart before horse",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "الٹی گنگا بہانا - الٹی بات کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Cartage",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "باربرداری کا خرچ - باربرداری - گاڑی لادوا کر بھیجنا -",
+   "ex": []
+  },
+  {
+   "w": "Carter",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "گاڑی والا - چھکڑے والا - گاڑی بان -",
+   "ex": []
+  },
+  {
+   "w": "Cartful",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "جتنا گاڑی میں آ سکے - چھکڑا بھر -",
+   "ex": []
+  },
+  {
+   "w": "Carte",
+   "pron": "kart",
+   "pos": "n.",
+   "def": "Fencing position",
+   "ur": "پول پیدا کرنے والا پینترا - تیغ بازی کا پینترا -",
+   "ex": []
+  },
+  {
+   "w": "Carte blanche",
+   "pron": "kart-blansh",
+   "pos": "n.",
+   "def": "Full power",
+   "ur": "سیاہ و سفید کا اختیار - کلی اختیار دینا - کورا چک دینا -",
+   "ex": []
+  },
+  {
+   "w": "Cartel",
+   "pron": "kar-tel",
+   "pos": "n.",
+   "def": "Written challenge to duel",
+   "ur": "تحریری دعوت مبارزت - قیدیوں کے تبادلے کا معاہدہ -",
+   "ex": []
+  },
+  {
+   "w": "Cartomancy",
+   "pron": "kar-to-man-si",
+   "pos": "n.",
+   "def": "Fortune telling by playing cards",
+   "ur": "تاش کے پتوں سے فال نکالنا - تاش جوتش -",
+   "ex": []
+  },
+  {
+   "w": "Cartoon",
+   "pron": "kar-toon",
+   "pos": "n., v.t. & i.",
+   "def": "Design for painting, draw a picture",
+   "ur": "کسی کی ہجویہ تصویر - خاکہ - خاکہ اڑانا - تصویر کے ذریعے مذاق اڑانا - کارٹون بنانا -",
+   "ex": []
+  },
+  {
+   "w": "Cartoonist",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "مزاحیہ چہرے اتارنے والا - ہجویہ تصویریں بنانے والا - کارٹون بنانے والا -",
+   "ex": []
+  },
+  {
+   "w": "Cartouch",
+   "pron": "kar-toosh",
+   "pos": "n.",
+   "def": "Scroll ornament",
+   "ur": "ستون کے کارنس پر بیل تختی - توشہ دان - کار توس کی پٹی -",
+   "ex": []
+  },
+  {
+   "w": "Cartridge",
+   "pron": "kar-trij",
+   "pos": "n.",
+   "def": "Charge of explosive for fire arms",
+   "ur": "کارتوس -",
+   "ex": []
+  },
+  {
+   "w": "Carve",
+   "pron": "karv",
+   "pos": "v.t. & i.",
+   "def": "Produce by cutting",
+   "ur": "کاٹ کر نقش بنانا - تراشنا - مورت بنانا - نقش و نگار کھودنا - بنبت کاری کرنا - کھانے وقت گوشت کے چھوٹے چھوٹے ٹکڑے کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Carve ones way",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "اپنے بل بوتے پر ترقی کرنا - اپنی طاقت سے بڑھنا -",
+   "ex": []
+  },
+  {
+   "w": "Carving",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "منبت کاری - مجسمہ سازی - بت سازی - سنگ تراشی -",
+   "ex": []
+  },
+  {
+   "w": "Carver",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "سنگ تراش - بت تراش - مجسمہ ساز -",
+   "ex": []
+  },
+  {
+   "w": "Cascade",
+   "pron": "kas-kad",
+   "pos": "n. & v.i.",
+   "def": "Waterfall",
+   "ur": "ندی یا چشمے کا اونچی جگہ سے نیچے کرنا - دریا - آبشار - پانی کی چادر -",
+   "ex": []
+  },
+  {
+   "w": "Case",
+   "pron": "kas",
+   "pos": "n.",
+   "def": "Enclosure of something",
+   "ur": "ماجرا - معاملہ - وقوعہ - حالات - کیفیت - مقدمہ - دعویٰ - نالش - عرضی دعویٰ - مریض جو ڈاکٹر کے زیر علاج ہو - کسی مریض کے حالات کی تفصیل -",
+   "ex": []
+  },
+  {
+   "w": "Case of conscience",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "وہ معاملہ جس میں ضمیر کو دو باتوں میں فیصلہ کرنا ہو ضمیر کا معاملہ -",
+   "ex": []
+  },
+  {
+   "w": "In any case",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بہ ہر صورت - بہر کیف - بہر حال -",
+   "ex": []
+  },
+  {
+   "w": "Leading case",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "وہ مقدمہ جو دوسرے مقدموں میں نظیر بنے - نظیری مقدمہ -",
+   "ex": []
+  },
+  {
+   "w": "Make out one's case",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "اپنا دعویٰ ثابت کرنا -",
+   "ex": []
+  },
+  {
+   "w": "That is our case",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ہمارا یہ دعویٰ ہے -",
+   "ex": []
+  },
+  {
+   "w": "Case",
+   "pron": "kas",
+   "pos": "n. & v.t.",
+   "def": "Enclosure of something",
+   "ur": "غلاف - خول - میان - خانہ - پیٹی - صندوق - ڈبہ - گملا - چیزوں کی نمائش کی الماری - صندوق میں رکھنا - صندوق میں بند کرنا - غلاف چڑھانا - میان میں رکھنا -",
+   "ex": []
+  },
+  {
+   "w": "Casing",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "صندوق - غلاف -",
+   "ex": []
+  },
+  {
+   "w": "Casemate",
+   "pron": "kas-mət",
+   "pos": "n.",
+   "def": "Vaulted chambers in the wall of fortress",
+   "ur": "قلعے کا قبہ جس میں بیٹھ کر دشمن پر گولیاں برساتے ہیں - گڑہ گچ -",
+   "ex": []
+  },
+  {
+   "w": "Casement",
+   "pron": "kas-mənt",
+   "pos": "n.",
+   "def": "Glass window",
+   "ur": "دریچہ - آئینہ دار کھڑکی - جھروکہ - کھڑکی -",
+   "ex": []
+  },
+  {
+   "w": "Caseous",
+   "pron": "ka-se-əs",
+   "pos": "adj.",
+   "def": "Of, like cheese",
+   "ur": "پنیر صفت - پنیر کی مانند -",
+   "ex": []
+  },
+  {
+   "w": "Cash",
+   "pron": "kash",
+   "pos": "n. & v.t.",
+   "def": "Ready money",
+   "ur": "ٹھپہ دار سکہ - روپیہ پیسہ وغیرہ - زرنقد - نوٹ یا روپیہ بھنانا - نقدی کرنا - نقد قیمت ادا کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Cash down",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "نقد قیمت ادا کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Cashew, Cashew nut",
+   "pron": "kashoo",
+   "pos": "n.",
+   "def": "Tree with kidney shaped nuts",
+   "ur": "کاجو کا درخت - کاجو -",
+   "ex": []
+  },
+  {
+   "w": "Cashier",
+   "pron": "kash-er",
+   "pos": "n.",
+   "def": "Person in charge of cash",
+   "ur": "منیم - خزانچی - صراف -",
+   "ex": []
+  },
+  {
+   "w": "Cashier",
+   "pron": "kash-er",
+   "pos": "v. t.",
+   "def": "Dismiss from service",
+   "ur": "نکال دینا - موقوف کرنا - معزول کرنا - برطرف کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Cask",
+   "pron": "kask",
+   "pos": "n.",
+   "def": "Wooden barrel",
+   "ur": "لکڑی کا پیپا -",
+   "ex": []
+  },
+  {
+   "w": "Casket",
+   "pron": "kas-kit",
+   "pos": "n.",
+   "def": "Ornamented small box",
+   "ur": "زیور کا ڈبہ - چاندی سونے کی ڈبیا - صندوقچہ -",
+   "ex": []
+  },
+  {
+   "w": "Casque",
+   "pron": "kask",
+   "pos": "n.",
+   "def": "Helmet",
+   "ur": "فوجی ٹوپ - مغفر - خود -",
+   "ex": []
+  },
+  {
+   "w": "Cassation",
+   "pron": "ka-sa-shən",
+   "pos": "n.",
+   "def": "Annulment",
+   "ur": "ابطال - قلم زد ہونا - تنسیخ - منسوخی -",
+   "ex": []
+  },
+  {
+   "w": "Cassia",
+   "pron": "kash-i",
+   "pos": "n.",
+   "def": "Kinds of plants yielding Senna leaves",
+   "ur": "تیج پات - املتاس - دار چینی -",
+   "ex": []
+  },
+  {
+   "w": "Cast",
+   "pron": "kast",
+   "pos": "v.t. & i.",
+   "def": "Throw",
+   "ur": "مقدمہ میں ہرا دینا - بہانا - دے مارنا - پھینکنا (پانسہ) - کھو دینا - ہار دینا - شمار کرنا - حساب لگانا - ترتیب دینا - سانچے میں ڈھالنا - کچا حمل گرانا -",
+   "ex": []
+  },
+  {
+   "w": "Cast a blame upon",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کسی کو ملزم گرداننا - الزام لگانا -",
+   "ex": []
+  },
+  {
+   "w": "Cast down",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "اداس یا دلگیر ہونا - افسردہ خاطر ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Cast in one's lot with",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کام میں شریک ہونا - نفع نقصان میں شریک ہونا - کسی کے ساتھ شریک ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Cast lots",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "نام نکالنا - قرعہ اندازی کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Cast off",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ترک کرنا - برطرف کرنا - نکال دینا -",
+   "ex": []
+  },
+  {
+   "w": "Cast one's cares upon",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "اپنی بلا دوسرے کے سر ڈالنا -",
+   "ex": []
+  },
+  {
+   "w": "Horse has cast its shoe",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "گھس جانا - نال کا گر جانا - گھوڑے کی نال نکل گئی ہے -",
+   "ex": []
+  },
+  {
+   "w": "Tree cast fruits",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "پک کر گرنا - درخت کے پھل ٹپک گئے -",
+   "ex": []
+  },
+  {
+   "w": "Casting",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "قالب - سانچہ - سانچے میں ڈھالی ہوئی شے -",
+   "ex": []
+  },
+  {
+   "w": "Cast",
+   "pron": "kast",
+   "pos": "n.",
+   "def": "Throw of missile",
+   "ur": "پھینک - پلا - مار - دوری - فاصلہ - پانسے کی پھینک - قرعہ اندازی - پھینکا ہوا جال - گرایا ہوا لنگر - ادا کاروں میں تمثیل کا تعین - سانچہ - قالب - ہیئت - صورت - شکل - ڈھنگ - طور طریقہ - پھینکا پن - آنکھ میں پھینکا پن -",
+   "ex": []
+  },
+  {
+   "w": "Cast in eye",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "آنکھ میں پھینکا پن -",
+   "ex": []
+  },
+  {
+   "w": "Cast of features",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "چہرے کی ساخت - ناک نقشہ -",
+   "ex": []
+  },
+  {
+   "w": "Cast of mind",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "مزاج کی ساخت - طبیعت کی افتاد - مزاج کی افتاد -",
+   "ex": []
+  },
+  {
+   "w": "Castanet",
+   "pron": "kasta-net",
+   "pos": "n.",
+   "def": "Hardwood or ivory instrument",
+   "ur": "لکڑی کے عیرے - جھانجھ - کھر تال - یہ آلات ناچ کے ساتھ بجائے جاتے ہیں -",
+   "ex": []
+  },
+  {
+   "w": "Cast away",
+   "pron": "kast-əwa",
+   "pos": "n. & adj.",
+   "def": "Reprobate",
+   "ur": "مردود - نکالا ہوا - نالائق - ناکارہ - نکما - گیا گزرا -",
+   "ex": []
+  },
+  {
+   "w": "Caste",
+   "pron": "kast",
+   "pos": "n.",
+   "def": "Hindu hereditary class",
+   "ur": "ہندوؤں میں ذات پات کا نظام - جماعت - فرقہ - ذات پات -",
+   "ex": []
+  },
+  {
+   "w": "Lose caste",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ذات برادری کا قصور وار ہونا - ذات کا جاتے رہنا - برادری باہر - ذات باہر -",
+   "ex": []
+  },
+  {
+   "w": "Renounce caste",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ذات پات کے بندھنوں سے آزاد ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Castellan",
+   "pron": "kastə-lan",
+   "pos": "n.",
+   "def": "Governor of castle",
+   "ur": "قلعہ کا حاکم - قلعہ دار -",
+   "ex": []
+  },
+  {
+   "w": "Castellated",
+   "pron": "kastə-lated",
+   "pos": "adj.",
+   "def": "Castle-like",
+   "ur": "حصن حصین - برجوں سے گھرا ہوا - قلعے کی طرح - قلعے کے مانند -",
+   "ex": []
+  },
+  {
+   "w": "Castigate",
+   "pron": "kasti-gat",
+   "pos": "v.t.",
+   "def": "Chastise",
+   "ur": "تنبیہ کرنا - گوشمالی کرنا - سزا دینا - سرزنش کرنا - کوڑے مارنا - کتاب وغیرہ کی تصحیح و ترمیم کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Cast iron",
+   "pron": "kast-irən",
+   "pos": "adj. & n.",
+   "def": "Iron put in moulds",
+   "ur": "انتھک - ڈھلے ہوئے لوہے کا - سخت - ڈھلا ہوا لوہا -",
+   "ex": []
+  },
+  {
+   "w": "Castle",
+   "pron": "kas-l",
+   "pos": "n.",
+   "def": "Fortified building",
+   "ur": "شطرنج کا رخ - کڑھی - بالا حصار - قلعہ -",
+   "ex": []
+  },
+  {
+   "w": "Castle builder",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "خیالی پلاؤ پکانے والا -",
+   "ex": []
+  },
+  {
+   "w": "Castle in the air",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "خام خیالی - ہوائی قلعے باندھنا -",
+   "ex": []
+  },
+  {
+   "w": "Englishman's house is his castle",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "انگریز کا گھر ہی اس کا قلعہ ہے - انگریز کے گھر میں کوئی آ نہیں سکتا -",
+   "ex": []
+  },
+  {
+   "w": "Castle",
+   "pron": "kas-l",
+   "pos": "v.t. & i.",
+   "def": "Move castle next to king",
+   "ur": "شطرنج میں بادشاہ اور رخ سے حریف کے بادشاہ کو گھیرنا - مقابل کے بادشاہ کو رخ بند کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Castle the king",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "رخ کی کشت دے کر مات کرنا - رخ سے کشت دینا -",
+   "ex": []
+  },
+  {
+   "w": "Castor",
+   "pron": "kas-tor",
+   "pos": "n.",
+   "def": "Substance obtained from beaver",
+   "ur": "جند بید ستر - اود بلاؤ - ایک لیسدار مادہ جو اود بلاؤ سے حاصل کیا جاتا ہے اور دوا کے طور پر استعمال ہوتا ہے -",
+   "ex": []
+  },
+  {
+   "w": "Castor-er",
+   "pron": "kas-tor",
+   "pos": "n.",
+   "def": "Condiment bottle for table",
+   "ur": "دسترخوان کی مصالحہ دانی - اچار دانی - سرکہ دان - یہ دار کرسی یا میز جس کو بہ آسانی دوسری جگہ لے جایا جا سکے -",
+   "ex": []
+  },
+  {
+   "w": "Castor oil",
+   "pron": "kaster-əl",
+   "pos": "n.",
+   "def": "Nauseous vegetable oil",
+   "ur": "روغن بید انجیر - ارنڈی کا تیل -",
+   "ex": []
+  },
+  {
+   "w": "Castrate",
+   "pron": "kas-trat",
+   "pos": "v.t.",
+   "def": "Remove testicles",
+   "ur": "آختہ کرنا - ہیجڑا بنانا - نامرد بنانا - خصی کرنا - کتاب کے فاحش دور کرنا - کتاب کی اصلاح کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Castration",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "کتاب کی اصلاح - نامرد بنانا - آختہ کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Casual",
+   "pron": "kazhu-əl",
+   "pos": "adj. & n.",
+   "def": "Accidental",
+   "ur": "عارضی - اتفاق - بے ڈھنگا - بے اصول - لاپروا -",
+   "ex": []
+  },
+  {
+   "w": "Casual labourer",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کبھی کبھی کام کرنے والا - بے قاعدہ مزدور - ہنگامی مزدور -",
+   "ex": []
+  },
+  {
+   "w": "Casual poor",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ہنگامی امداد خواہ - وہ غریب جس کو کبھی کبھی امداد کی ضرورت ہو -",
+   "ex": []
+  },
+  {
+   "w": "Casually",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "بلا ارادہ - اتفاقاً - ناگہان - اچانک -",
+   "ex": []
+  },
+  {
+   "w": "Casualty",
+   "pron": "kazhu-alti",
+   "pos": "n.",
+   "def": "Mishap",
+   "ur": "سانحہ - مصیبت - موت - حادثہ -",
+   "ex": []
+  },
+  {
+   "w": "Casuist",
+   "pron": "kazhu-ist",
+   "pos": "n.",
+   "def": "Theologian",
+   "ur": "مذہبی مفکر - مرشد - مجتہد - فقیہ - وہ فقیہ جو مذہبی احکام کا اطلاق خاص خاص صورتوں میں کرتا اور مستثنیات پر غور کرتا ہے -",
+   "ex": []
+  },
+  {
+   "w": "Casuistically",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "سخن سازی کے طور پر - بات بنا کر - مجتہدانہ - فقیہانہ -",
+   "ex": []
+  },
+  {
+   "w": "Casuistry",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "سخن سازی - غلط اجتہاد - فقیہانہ فکر - اجتہاد -",
+   "ex": []
+  },
+  {
+   "w": "Cat",
+   "pron": "kat",
+   "pos": "n.",
+   "def": "Small domesticated carnivorous quadruped",
+   "ur": "بلی - بلا - گر بہ - جھلانے والی ترش مزاج عورت - نوچنے کھسوٹنے والا بچہ - گر بہ خاندان کے جانور شیر چیتا - مشک بلاؤ - تیندوا - لکڑ بگھا وغیرہ -",
+   "ex": []
+  },
+  {
+   "w": "Cat and mouse act",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "1914ء کا قانون جس کی رو سے انگلستان کے معتمد دانش کو اختیار دیا گیا تھا کہ جب چاہیں مقاطعہ اور ہڑتال کرنے والوں کو گرفتار کر لیں -",
+   "ex": []
+  },
+  {
+   "w": "Cat call",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "سیٹیاں بجا کر تھیٹر میں اظہار ناراضگی کرنا - سٹی -",
+   "ex": []
+  },
+  {
+   "w": "Cat eyed",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کیرا - کنجا - گر بہ چشم -",
+   "ex": []
+  },
+  {
+   "w": "Cat may look at king",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ایک گدا بھی بادشاہ کو جھڑک سکتا ہے -",
+   "ex": []
+  },
+  {
+   "w": "Cat nap",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کرسی پر بیٹھے بیٹھے سو جانا - تھوڑی دیر سونا -",
+   "ex": []
+  },
+  {
+   "w": "Cat's meat",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بلی کا راتب - گھوڑے کا گوشت جو بلیوں کو کھلایا جاتا ہے -",
+   "ex": []
+  },
+  {
+   "w": "Cat's paw",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ایسا شخص جس سے دوسرے اپنا مطلب نکال لیں - آلہ کار -",
+   "ex": []
+  },
+  {
+   "w": "Bell the cat",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "جان جوکھوں کا کام کرنا - بلی کی گردن میں گھنٹی باندھنا -",
+   "ex": []
+  },
+  {
+   "w": "Care killed the cat",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "فکر سے ہاتھی بھی گھل گیا -",
+   "ex": []
+  },
+  {
+   "w": "Fight like Kilkenny cats",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "جان کی پروا نہ کرنا - بے وقوفی میں لڑنا - لڑتے لڑتے کٹ مرنا -",
+   "ex": []
+  },
+  {
+   "w": "Not room to swing a cat",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "تل دھرنے کی جگہ نہیں -",
+   "ex": []
+  },
+  {
+   "w": "Rain cats and dogs",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "زور کی بارش ہونا - موسلادھار مینہ برسنا -",
+   "ex": []
+  },
+  {
+   "w": "Turn cat in pan",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "منافقت کرنا - زمانہ سازی کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Wait for the cat to jump",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "دیکھو اونٹ کس کروٹ بیٹھتا ہے -",
+   "ex": []
+  },
+  {
+   "w": "Cult of the jumping cat",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "حالات کا انتظار کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Wild cat",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "جنگلی بلی -",
+   "ex": []
+  },
+  {
+   "w": "Cat-like",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بلی کی طرح - دبے پاؤں -",
+   "ex": []
+  },
+  {
+   "w": "Catachresis",
+   "pron": "katə-kre-sis",
+   "pos": "",
+   "def": "Perversion",
+   "ur": "تحریف لفظی - لفظوں کے معنی میں رد و بدل -",
+   "ex": []
+  },
+  {
+   "w": "Cataclasm",
+   "pron": "katə-klazm",
+   "pos": "n.",
+   "def": "Deluge, political or social upheaval, disruption",
+   "ur": "ہیجان - زبردست سامجی یا سیاسی انقلاب - زور سے پھٹ پڑنا - زبردست دھماکا -",
+   "ex": []
+  },
+  {
+   "w": "Cataclysm",
+   "pron": "katə-klizm",
+   "pos": "n.",
+   "def": "Destruction of life",
+   "ur": "یہ عقیدہ کہ دنیا میں بار بار طوفان آئے - پرانی زندگی تباہ ہو گئی اور پھر نئی زندگی وجود میں آئی - سیاسی یا سماجی انقلاب -",
+   "ex": []
+  },
+  {
+   "w": "Cataclysmic",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "ارتقائے زندگی کے بارے میں - انقلاب حیات کے متعلق -",
+   "ex": []
+  },
+  {
+   "w": "Cataclysmist",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "انقلاب پسند -",
+   "ex": []
+  },
+  {
+   "w": "Catacomb",
+   "pron": "katə-kom",
+   "pos": "n.",
+   "def": "Subterranean cemetery",
+   "ur": "تہ خانہ کی قبریں - زمین دوز قبرستان - تہ خانہ - شراب رکھنے کا تہ خانہ -",
+   "ex": []
+  },
+  {
+   "w": "Catadromus",
+   "pron": "katə-droməs",
+   "pos": "adj.",
+   "def": "Descending to lower depth to spawn",
+   "ur": "مچھلیوں کی قسم جو انڈے دینے کے لیے دریا کی تہہ میں اتر جاتی ہیں -",
+   "ex": []
+  },
+  {
+   "w": "Catalepsy",
+   "pron": "katə-lep-si",
+   "pos": "n.",
+   "def": "Suspension of consciousness",
+   "ur": "سکتہ - بے ہوشی - بے ہوشی کا دورہ جس میں ہاتھ پاؤں اکڑ جاتے ہیں - بے ادراک -",
+   "ex": []
+  },
+  {
+   "w": "Cataleptic",
+   "pron": "katə-lep-tik",
+   "pos": "adj.",
+   "def": "",
+   "ur": "ہسٹیریا یا اختناق الرحم کی مریضہ - بے ہوشی کے دورے کا مریض - سکتے کا مریض -",
+   "ex": []
+  },
+  {
+   "w": "Catalogue",
+   "pron": "kat-ə-log",
+   "pos": "v.t. & n.",
+   "def": "Classified list of books or other things",
+   "ur": "الفہرست - فرد - فہرست - فہرست تیار کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Catamite",
+   "pron": "kat-a-mit",
+   "pos": "n.",
+   "def": "Sodomites minion",
+   "ur": "لونڈا - مفعول - مایون - علتی -",
+   "ex": []
+  },
+  {
+   "w": "Catapult",
+   "pron": "kat-ə-pult",
+   "pos": "n., v.t. & i.",
+   "def": "Ancient engine worked by lever and ropes",
+   "ur": "پتھر پھینکنے کا آلہ - گوپھن - فلاخن سے پتھر پھینکنا - منجنیق -",
+   "ex": []
+  },
+  {
+   "w": "Cataract",
+   "pron": "kat-ə-rakt",
+   "pos": "n.",
+   "def": "Waterfall",
+   "ur": "آنکھ میں پانی اترنا - موتیا بند - پانی کی چادر - جھرنا - آبشار -",
+   "ex": []
+  },
+  {
+   "w": "Catarrh",
+   "pron": "ka-tər",
+   "pos": "n.",
+   "def": "Cold",
+   "ur": "نزلہ - زکام -",
+   "ex": []
+  },
+  {
+   "w": "Catastrophe",
+   "pron": "kat-as-trəfi",
+   "pos": "n.",
+   "def": "Disastrous end",
+   "ur": "آفت - مصیبت - انقلاب عظیم - ہلاکت - عظیم تباہی -",
+   "ex": []
+  },
+  {
+   "w": "Catastrophic-al",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "سانحہ عظیم کے متعلق - برباد کن - تباہ کن -",
+   "ex": []
+  },
+  {
+   "w": "Catch",
+   "pron": "kach",
+   "pos": "v.t. & i.",
+   "def": "overtake, capture",
+   "ur": "گرفتار کرنا - پھانسنا - تھامنا - پکڑ لینا - پکڑنا - باندھ لینا - بے خبری میں پکڑنا - لپکنا - جھپٹنا - اچک لینا - کسی چیز کو سمجھ لینا - اپنی طرف کھینچ لینا - مفتوں بنانا - گرویدہ کر لینا -",
+   "ex": []
+  },
+  {
+   "w": "Catch at a tartar",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "اپنے سے زبردست سے مقابلہ کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Catch one's breath",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "سانس روک لینا - حیرت زدہ ہونا - دم سادھ لینا -",
+   "ex": []
+  },
+  {
+   "w": "Catchpenny",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "سادہ لوح آدمیوں سے روپیہ وصول کرنے کے لیے بنائی گئی چیزیں -",
+   "ex": []
+  },
+  {
+   "w": "Catch up a habit",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "عادت ڈالنا - عادی ہو جانا -",
+   "ex": []
+  },
+  {
+   "w": "Catch up speaker",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "مقرر کی تقریر کے دوران میں بول اٹھنا -",
+   "ex": []
+  },
+  {
+   "w": "Bolt catches",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "چٹخنی نہیں لگتی -",
+   "ex": []
+  },
+  {
+   "w": "Catch",
+   "pron": "kach",
+   "pos": "n.",
+   "def": "Act of catching",
+   "ur": "پکڑ - گرفت - قبضہ - شکار - کریکٹ میں ہوائی گیند روکنا - مغالطہ دینے والا سوال - دروازے کی بلی - پھانسنے کے قابل شخص - میٹھا شکار - سونے کی چڑیا - اچھا مال -",
+   "ex": []
+  },
+  {
+   "w": "Catching",
+   "pron": "kach-ing",
+   "pos": "adj.",
+   "def": "Attractive",
+   "ur": "متعدی - دلکش -",
+   "ex": []
+  },
+  {
+   "w": "Catchy",
+   "pron": "kach-i",
+   "pos": "adj.",
+   "def": "Easily caught up",
+   "ur": "آسانی سے پکڑ لینے کے لائق -",
+   "ex": []
+  },
+  {
+   "w": "Catechism",
+   "pron": "kat-i-kizm",
+   "pos": "n.",
+   "def": "Instruction by questions and answers",
+   "ur": "سوالیہ طریقہ تعلیم - سوال و جواب کے ذریعے سے تعلیم - سقراطی طریقہ -",
+   "ex": []
+  },
+  {
+   "w": "Catechise",
+   "pron": "kati-kiz",
+   "pos": "v.t.",
+   "def": "Teach by questions and answers, follow Socratic method",
+   "ur": "سوال و جواب کے ذریعے تعلیم دینا - سوال و جواب کرنا - امتحان لینا -",
+   "ex": []
+  },
+  {
+   "w": "Catechu",
+   "pron": "kat-ichoo",
+   "pos": "n.",
+   "def": "Tannin from bark and wood",
+   "ur": "کتھہ -",
+   "ex": []
+  },
+  {
+   "w": "Categorical",
+   "pron": "kate-gə-rikəl",
+   "pos": "adj.",
+   "def": "Unconditional, absolute",
+   "ur": "صاف - سیدھا - قطعی - بالتفصیل - مطلق -",
+   "ex": []
+  },
+  {
+   "w": "Categorical imperative",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ضمیر کا آخری فیصلہ - قطعی حکم -",
+   "ex": []
+  },
+  {
+   "w": "Categorically",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "صاف صاف - غیر مشروط طور پر -",
+   "ex": []
+  },
+  {
+   "w": "Category",
+   "pron": "kat-i-gə-ri",
+   "pos": "n.",
+   "def": "Exhaustive set in which things may be placed",
+   "ur": "قسم - زمرہ - درجہ - سلسلہ - نوع و جنس کا سلسلہ - خیالات - مقولہ -",
+   "ex": []
+  },
+  {
+   "w": "Categorize",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "جنس وار تیار کرنا - جنسوں میں تقسیم کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Cater",
+   "pron": "kater",
+   "pos": "v. i.",
+   "def": "Provide",
+   "ur": "تعلیم کا انتظام کرنا - تفریح کا سامان کرنا - کھانے کا بندوبست کرنا - کھانا دینا -",
+   "ex": []
+  },
+  {
+   "w": "Caterer",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "تعلیم - کھانے - اور تفریح کا انتظام کرنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Caterpillar",
+   "pron": "kater-pilər",
+   "pos": "n.",
+   "def": "Larva, butterfly",
+   "ur": "کیڑا - جھانجھا - تتلی یا پتنگے کا پہلا روپ - غارت گر - لٹیرا -",
+   "ex": []
+  },
+  {
+   "w": "Cates",
+   "pron": "kats",
+   "pos": "n. & p.",
+   "def": "Good things",
+   "ur": "نعمت - نقد مال -",
+   "ex": []
+  },
+  {
+   "w": "Catgut",
+   "pron": "kat-gut",
+   "pos": "n.",
+   "def": "guts made of twisted intestines",
+   "ur": "تانت - رودہ - تانت والے آلات موسیقی -",
+   "ex": []
+  },
+  {
+   "w": "Cathartic",
+   "pron": "kath-a-r-tik",
+   "pos": "adj. & n.",
+   "def": "Purgative",
+   "ur": "تلین - ملین - مسہل - دست آور -",
+   "ex": []
+  },
+  {
+   "w": "Catherine wheel",
+   "pron": "kathə-rin-whel",
+   "pos": "",
+   "def": "circular spoked wheel, or window",
+   "ur": "آتشبازی کی چرخی - سورج مکھی - کھڑکی -",
+   "ex": []
+  },
+  {
+   "w": "Catholic",
+   "pron": "katho-lik",
+   "pos": "adj. & n.",
+   "def": "Universal",
+   "ur": "کشادہ - دل سب انسانوں کے لیے - عالمگیر - آفاق - بے تعصب - روادار - راسخ الاعتقاد عیسائی - رومن کیتھولک مذہب کا پیرو -",
+   "ex": []
+  },
+  {
+   "w": "Catholicism",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "رومن کلیسا کے اصول - عدم عصبیت - بے تعصبی - کٹر عیسائی پن -",
+   "ex": []
+  },
+  {
+   "w": "Catholicity",
+   "pron": "katholisi-ti",
+   "pos": "n.",
+   "def": "Freedom from prejudice",
+   "ur": "آفاقیت - بہم گیری - وسیع المشرب - روا داری - رومن کیتھولک مذہب پر اعتقاد -",
+   "ex": []
+  },
+  {
+   "w": "Catkin",
+   "pron": "kat-kin",
+   "pos": "n.",
+   "def": "Downy hanging inflorescence of willow and hazel",
+   "ur": "آویزہ - بید مجنوں اور صنوبر کے غنچے اور پھول بالیاں - جھمکے -",
+   "ex": []
+  },
+  {
+   "w": "Cattle",
+   "pron": "kat-l",
+   "pos": "n.",
+   "def": "Livestock",
+   "ur": "پالتو جانور - گائے بیل - ڈھور ڈنگر - مویشی -",
+   "ex": []
+  },
+  {
+   "w": "Caucasian",
+   "pron": "kaw-kez (h)i-ən",
+   "pos": "n. & adj.",
+   "def": "Inhabitant of Caucasus, of white race",
+   "ur": "کاکیشیا کا باشندہ - سفید نسل کا -",
+   "ex": []
+  },
+  {
+   "w": "Caucus",
+   "pron": "ko-kəs",
+   "pos": "n., v.t. & i.",
+   "def": "Local political party for fighting elections",
+   "ur": "انتخابی جماعت کی کمیٹی جو انتخابی جد و جہد کرے - انتخاب لڑنا - جماعتی نظام سے کام لینا - اپنی شرائط منوانا -",
+   "ex": []
+  },
+  {
+   "w": "Caudle",
+   "pron": "kə-dl",
+   "pos": "adj. & n.",
+   "def": "Warm gruel with spice, sugar and wine",
+   "ur": "دم کی مانند - جانوروں کی دم کی طرح - نچہ کو پلانے کی اچھوتی - مسالے - شکر اور شراب کا حریرہ -",
+   "ex": []
+  },
+  {
+   "w": "Caul",
+   "pron": "kawl",
+   "pos": "n.",
+   "def": "Membrane enclosing foetus",
+   "ur": "رحم کی جھلی - پیٹ کا پردہ - بال جھلی - وہ جھلی جس میں بچہ لپٹا ہوا پیدا ہوتا ہے - اس جالی کا وہ حصہ جو بچے کے سر پر ہوتا ہے -",
+   "ex": []
+  },
+  {
+   "w": "Cauldron",
+   "pron": "kawl-drən",
+   "pos": "n.",
+   "def": "Large boiling vessel",
+   "ur": "پتیلا - ہنڈا - کڑھاؤ - دیگ -",
+   "ex": []
+  },
+  {
+   "w": "Cauliflower",
+   "pron": "kawli-flower",
+   "pos": "n.",
+   "def": "Cabbage with large flower and head",
+   "ur": "گوبھی - پھول گوبھی -",
+   "ex": []
+  },
+  {
+   "w": "Causal",
+   "pron": "kaw-zl",
+   "pos": "adj.",
+   "def": "Due to a cause",
+   "ur": "موجب - سبب کا - علت کے متعلق - علت و معلول کے تعلق کے متعلق - سببی - علتی -",
+   "ex": []
+  },
+  {
+   "w": "Causality",
+   "pron": "kaw-zli-ti",
+   "pos": "n.",
+   "def": "Relation of cause and effect",
+   "ur": "علیت - سببیت - سبب جاننے کی قوت - علت و معلول کا تعلق -",
+   "ex": []
+  },
+  {
+   "w": "Causation",
+   "pron": "kaw-za-shən",
+   "pos": "n.",
+   "def": "Producing an effect",
+   "ur": "سبب بننا - مسبب ہونا - سببیت - یہ نظریہ کہ ہر شے کی علت ہوتی ہے -",
+   "ex": []
+  },
+  {
+   "w": "Causative",
+   "pron": "kaw-zə-tiv",
+   "pos": "adj.",
+   "def": "Acting as cause",
+   "ur": "کسی معلول کی علت ہونا - سبب -",
+   "ex": []
+  },
+  {
+   "w": "Cause",
+   "pron": "kawz",
+   "pos": "n.",
+   "def": "What produces an effect",
+   "ur": "ظہور میں لانا - پیدا کرنا - موجب ہونا - سبب ہونا - باعث ہونا - ترغیب دینا - پروانے کار لانا - برپا کرنا - سبب - وجہ - علت -",
+   "ex": []
+  },
+  {
+   "w": "Causeless",
+   "pron": "kawz-les",
+   "pos": "adj.",
+   "def": "Groundless",
+   "ur": "ناحق - بلا واسطے - بے وجہ - بے سبب -",
+   "ex": []
+  },
+  {
+   "w": "Causelessly",
+   "pron": "kawz-les-li",
+   "pos": "adv.",
+   "def": "Unjustifiably",
+   "ur": "نامعقول طریقہ سے - ناحق - یوں ہی - بلاوجہ -",
+   "ex": []
+  },
+  {
+   "w": "Causeway",
+   "pron": "koz-wa",
+   "pos": "n. & v.t.",
+   "def": "Raised foot way by road",
+   "ur": "سڑک کے کنارے پیدل چلنے والوں کے لیے راستہ -",
+   "ex": []
+  },
+  {
+   "w": "Causey",
+   "pron": "kawz-i",
+   "pos": "n. & v.t.",
+   "def": "",
+   "ur": "سنگ بستہ رستہ - سنگ بستہ راستہ بنانا -",
+   "ex": []
+  },
+  {
+   "w": "Caustic",
+   "pron": "kaws-tik",
+   "pos": "n. & adj.",
+   "def": "Substance that burns",
+   "ur": "جلانے والی چیز - تیزاب - چبھتی ہوئی - طعن آمیز - جلی کٹی باتیں -",
+   "ex": []
+  },
+  {
+   "w": "Caustically",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "جل بھن کر - طعنہ آمیز طریقے سے - طعناً -",
+   "ex": []
+  },
+  {
+   "w": "Causticity",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "سوزش - تیزابیت - جلانے کی قوت - حدت -",
+   "ex": []
+  },
+  {
+   "w": "Cauterize",
+   "pron": "",
+   "pos": "v.t.",
+   "def": "",
+   "ur": "داغ یا چرکہ دینا - گرم لوہے سے داغنا -",
+   "ex": []
+  },
+  {
+   "w": "Caution",
+   "pron": "kaw-shən",
+   "pos": "n. & v.t.",
+   "def": "Prudence",
+   "ur": "چوکسی - خبرداری - ہوشیاری - احتیاط - تاکید - ہدایت - حکم - تنبیہ - عبرت - ہدایت کرنا - خبردار کرنا - ہوشیار کرنا - منع کرنا - آگاہ کرنا - متنبہ کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Caution money",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "زر ضمانت نیک چلنی جو درسگاہ میں داخل کی جائے -",
+   "ex": []
+  },
+  {
+   "w": "Cautionary",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "نصیحت آمیز - خبردار کرنے والا - آگاہ کرنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Cautious",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "دور اندیش - محتاط - ہوشیار - خبردار -",
+   "ex": []
+  },
+  {
+   "w": "Cautiously",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "خبرداری سے - احتیاط سے - ہوشیاری سے -",
+   "ex": []
+  },
+  {
+   "w": "Cavalcade",
+   "pron": "kavəl-kad",
+   "pos": "n.",
+   "def": "Company of riders",
+   "ur": "سواروں کا جلوس - سواروں کا دستہ -",
+   "ex": []
+  },
+  {
+   "w": "Cavalier",
+   "pron": "kavə-ler",
+   "pos": "n. & adj.",
+   "def": "Horseman",
+   "ur": "بہادر - حسن پرست - بانکا گھڑ چڑھا - جنگی سوار - سوار -",
+   "ex": []
+  },
+  {
+   "w": "Cavalry",
+   "pron": "kavəl-ri",
+   "pos": "n.",
+   "def": "Horse soldiers",
+   "ur": "گھوڑے سوار فوج - سواروں کا رسالہ - رسالہ -",
+   "ex": []
+  },
+  {
+   "w": "Cave",
+   "pron": "kav",
+   "pos": "",
+   "def": "Den",
+   "ur": "(پولینڈ) کسی مسئلے پر ایک جماعت کا علیحدہ ہونا - کھوہ - گپھا -",
+   "ex": []
+  },
+  {
+   "w": "Idols of the cave",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "مغالطے - غلط تصورات -",
+   "ex": []
+  },
+  {
+   "w": "Cavelet",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "چھوٹا غار -",
+   "ex": []
+  },
+  {
+   "w": "Cave",
+   "pron": "kav",
+   "pos": "v.t. & i.",
+   "def": "Make into a cave",
+   "ur": "غار میں رہنا - غار بنانا - غار کھودنا - ہار ماننا - گردن جھکا دینا - اطاعت قبول کرنا - لاچاری سے قبول کرنا - توڑ پھوڑ ڈالنا - شکل بگاڑ دینا -",
+   "ex": []
+  },
+  {
+   "w": "Caveat",
+   "pron": "kave-iat",
+   "pos": "n.",
+   "def": "Process to suspend proceedings",
+   "ur": "عدالت کا حکم امتناعی - مقدمہ کی کاروائی اور تجویز کی ممانعت - اعتراض - امتناع - تنبیہ -",
+   "ex": []
+  },
+  {
+   "w": "Cavendish",
+   "pron": "kavan-dish",
+   "pos": "n.",
+   "def": "sweetened tobacco",
+   "ur": "دورسا - گڑاکو - خمیرہ تمباکو -",
+   "ex": []
+  },
+  {
+   "w": "Cavern",
+   "pron": "kav-ərn",
+   "pos": "n.",
+   "def": "Underground hollow",
+   "ur": "کھف - کھوہ - غار -",
+   "ex": []
+  },
+  {
+   "w": "Cavernous",
+   "pron": "kav-ər-nəs",
+   "pos": "adj.",
+   "def": "Underground",
+   "ur": "بہت گہرا - غاروں سے بھرا ہوا - کھا دار - زمین دوز -",
+   "ex": []
+  },
+  {
+   "w": "Cavernous darkness",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "گھٹا ٹوپ - غار کا اندھیرا - گھپ اندھیرا -",
+   "ex": []
+  },
+  {
+   "w": "Cavernous eyes",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "اندر کو دھنسی ہوئی آنکھیں -",
+   "ex": []
+  },
+  {
+   "w": "Cavil-cavill",
+   "pron": "kav-il",
+   "pos": "v.i. & n.",
+   "def": "Raise captious objection",
+   "ur": "خواہ مخواہ کا اعتراض - بے وجہ عیب گیری کرنا - بے جا حجت - بے معنی عیب جوئی - فضول نکتہ چینی -",
+   "ex": []
+  },
+  {
+   "w": "Caviller",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "حجتی - کھوٹ نکالنے والا - نکتہ چیں - عیب جو -",
+   "ex": []
+  },
+  {
+   "w": "Cavity",
+   "pron": "kavi-ti",
+   "pos": "n.",
+   "def": "A hollow place",
+   "ur": "ٹھوس جسم میں خالی جگہ - سوراخ - خلا - غار - گڑھا -",
+   "ex": []
+  },
+  {
+   "w": "Cease",
+   "pron": "ses",
+   "pos": "v.t. & i.",
+   "def": "Stop doing",
+   "ur": "باز رہنا - ترک کرنا - ہاتھ اٹھانا - چھوڑ دینا - دست بردار ہونا - نیست و نابود ہونا - ہو چکنا - آخر ہونا - ختم ہونا - ختم کرنا - انجام پذیر ہونا - تمام کرنا - چکانا -",
+   "ex": []
+  },
+  {
+   "w": "Ceaseless",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "بے در پے - دوامی - مسلسل - لگا دار -",
+   "ex": []
+  },
+  {
+   "w": "Ceaselessness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "دوام - تواتر -",
+   "ex": []
+  },
+  {
+   "w": "Ceaselessly",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "بغیر رکے ہوئے - متواتر - لگا تار -",
+   "ex": []
+  },
+  {
+   "w": "Cedar",
+   "pron": "se-dər",
+   "pos": "n.",
+   "def": "A cone bearing tree",
+   "ur": "دیودار کی لکڑ - دیودار کا درخت -",
+   "ex": []
+  },
+  {
+   "w": "Cede",
+   "pron": "sed",
+   "pos": "v.t.",
+   "def": "Give up",
+   "ur": "ملک حوالے کرنا - تفویض کرنا - دے ڈالنا - سونپنا - دے دینا -",
+   "ex": []
+  },
+  {
+   "w": "Ceil",
+   "pron": "sel",
+   "pos": "v.t.",
+   "def": "Line roof of",
+   "ur": "چھت گیری لگانا - چھت کے نیچے لکڑی لگانا - چھت ڈالنا -",
+   "ex": []
+  },
+  {
+   "w": "Ceiling",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "سقف - چادر کی چھت - چھت -",
+   "ex": []
+  },
+  {
+   "w": "Celebrate",
+   "pron": "sele-brat",
+   "pos": "v.t. & i.",
+   "def": "Perform publicly",
+   "ur": "جشن منانا - مجمع میں مذہبی رسومات ادا کرنا - رنگ رلیاں رچانا - تہوار منانا - شہرت دینا - مشہور کرنا - تعریف کے پل باندھنا -",
+   "ex": []
+  },
+  {
+   "w": "Celebrated",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "مشہور - نامی - نامی گرامی -",
+   "ex": []
+  },
+  {
+   "w": "Celebration",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ستائش - سپاس - تعریف - شہرت - ذکر - یادگار -",
+   "ex": []
+  },
+  {
+   "w": "Celebrity",
+   "pron": "seleb-ri-ti",
+   "pos": "n.",
+   "def": "Being famous, well known",
+   "ur": "ناموری - مشہور معروف -",
+   "ex": []
+  },
+  {
+   "w": "Celerity",
+   "pron": "se-ləri-ti",
+   "pos": "n.",
+   "def": "Swiftness",
+   "ur": "سبک روی - تیز روی - عجلت - سرعت - شتابی - تیزی - جلدی -",
+   "ex": []
+  },
+  {
+   "w": "Celery",
+   "pron": "sela-ri",
+   "pos": "n.",
+   "def": "Plant of which blanched stem is used as salad",
+   "ur": "اجوائن خراسانی -",
+   "ex": []
+  },
+  {
+   "w": "Celestial",
+   "pron": "se-les-yəl",
+   "pos": "adj. & n.",
+   "def": "Divine",
+   "ur": "پاک - مقدس - جنتی - بہشتی - سماوی - آسمانی -",
+   "ex": []
+  },
+  {
+   "w": "Celestial",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "چینی - چین کا باشندہ -",
+   "ex": []
+  },
+  {
+   "w": "Celestial empire",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "آسمانی بادشاہت یعنی مملکت چین -",
+   "ex": []
+  },
+  {
+   "w": "Celestially",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "متبرکانہ - مقدسانہ -",
+   "ex": []
+  },
+  {
+   "w": "Celibate",
+   "pron": "seli-bət",
+   "pos": "adj. & n.",
+   "def": "Not married",
+   "ur": "غیر متاہل - مجرد - وہ جس نے کنوارا رہنے کا عہد کیا ہو - کنوارا -",
+   "ex": []
+  },
+  {
+   "w": "Celibacy",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "کنوارا پن - تجرد -",
+   "ex": []
+  },
+  {
+   "w": "Cell",
+   "pron": "sel",
+   "pos": "n.",
+   "def": "Small room in a monastery",
+   "ur": "خانقاہ - حجرہ - کوٹھڑی - گھر - پرانے زمانہ میں راہبہ عورتوں کی خانقاہ - تارک الدنیا کا حجرہ - قبر - لحد - کسی قید خانہ کا حجرہ - شہد کی مکھیوں کے چھتے کا خانہ -",
+   "ex": []
+  },
+  {
+   "w": "Cellar",
+   "pron": "sel-ər",
+   "pos": "n. & v.t.",
+   "def": "Underground room",
+   "ur": "گودام - سرداب - تہ خانہ -",
+   "ex": []
+  },
+  {
+   "w": "Cellar flap",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "تہ خانہ کا چور دروازہ -",
+   "ex": []
+  },
+  {
+   "w": "Keeps a good cellar",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "شراب کا اچھا ذخیرہ رکھتا ہے -",
+   "ex": []
+  },
+  {
+   "w": "Cellarer",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "شراب خانہ کا نگران - تہ خانہ کا محافظ -",
+   "ex": []
+  },
+  {
+   "w": "Cellaret",
+   "pron": "sel-ə-ret",
+   "pos": "n.",
+   "def": "Case or side board for wine in dining room",
+   "ur": "کھانے کے کمرے میں شراب رکھنے کی الماری یا صندوق -",
+   "ex": []
+  },
+  {
+   "w": "Cellular",
+   "pron": "sel-i-ler",
+   "pos": "adj.",
+   "def": "Of small rooms or cavities",
+   "ur": "جالی نما - خرف دار - خانہ دار -",
+   "ex": []
+  },
+  {
+   "w": "Cellular shirt",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "جالی دار قمیض -",
+   "ex": []
+  },
+  {
+   "w": "Celluloid",
+   "pron": "sel-i-laid",
+   "pos": "n.",
+   "def": "Plastic made from camphor",
+   "ur": "خانہ دار مسالہ جو ہاتھی دانت کی طرح کا ہوتا ہے اور مختلف چیزیں بنانے کے کام آتا ہے -",
+   "ex": []
+  },
+  {
+   "w": "Cellulose",
+   "pron": "sel-i-ləs",
+   "pos": "n.",
+   "def": "Made of cells",
+   "ur": "خانوں سے بنا ہوا - خانہ دار -",
+   "ex": []
+  },
+  {
+   "w": "Celt",
+   "pron": "selt",
+   "pos": "n.",
+   "def": "A branch of Gauls",
+   "ur": "کلٹی - قدیم گال قوم کی ایک شاخ -",
+   "ex": []
+  },
+  {
+   "w": "Celtic",
+   "pron": "sel-tik",
+   "pos": "adj. & n.",
+   "def": "Language of Celts",
+   "ur": "کلٹی قوم کی - کلٹی زبان -",
+   "ex": []
+  },
+  {
+   "w": "Cement",
+   "pron": "si-ment",
+   "pos": "n. & v.t.",
+   "def": "Substance applied as paste and hardening into stony consistence",
+   "ur": "گچ - چونا - مریش - سیمنٹ - ایک مسالہ جس سے جوڑنے کا کام لیا جاتا ہے - کوئی چیز جو دو چیزوں کو جوڑ دے - سیمنٹ سے جوڑنا - رشتہ مضبوط کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Hydraulic cement",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "وہ سیمنٹ جو پانی میں سخت ہو جائے -",
+   "ex": []
+  },
+  {
+   "w": "Cemetery",
+   "pron": "seme-tr-i",
+   "pos": "n.",
+   "def": "Place for burial",
+   "ur": "وہ قبرستان جو گرجا کے حدود میں ہو - قبرستان - گورستان -",
+   "ex": []
+  },
+  {
+   "w": "Cenotaph",
+   "pron": "seno-taf",
+   "pos": "n.",
+   "def": "Monument to person whose body is elsewhere",
+   "ur": "مقبرہ بلا قبر جو محض یادگار کے لیے بنایا جائے - خالی قبر جس میں کوئی مدفون نہ ہو - یادگار گنبد -",
+   "ex": []
+  },
+  {
+   "w": "Cense",
+   "pron": "sens",
+   "pos": "v.t.",
+   "def": "Perfume, worship with burning incense",
+   "ur": "اگربتیاں جلانا - عبادت کے وقت خوشبو کا انتظام کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Censer",
+   "pron": "sen-ser",
+   "pos": "n.",
+   "def": "Vessel in which incense is burned",
+   "ur": "عود سوز - عود دان - اگردان -",
+   "ex": []
+  },
+  {
+   "w": "Censor",
+   "pron": "sen-sər",
+   "pos": "n. & v.t.",
+   "def": "Official licensing or suppressing",
+   "ur": "ملامت کرنے والا - الزام لگانے والا - نکتہ چین - عیب گیر - سرکاری طور پر کتابوں یا اخبار سے نامناسب اور باغیانہ حصہ کو حذف کرنا - جامعات میں مختلف شعبوں کے ناظر -",
+   "ex": []
+  },
+  {
+   "w": "Censorial",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "احتسابی -",
+   "ex": []
+  },
+  {
+   "w": "Censorship",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "نظارت - محتسب ہونا - احتساب -",
+   "ex": []
+  },
+  {
+   "w": "Censorious",
+   "pron": "sen-sə-ri-əs",
+   "pos": "adj.",
+   "def": "Over critical",
+   "ur": "عیب جو - ناقدانہ - محتسبانہ -",
+   "ex": []
+  },
+  {
+   "w": "Censoriously",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "نکتہ گیری سے - عیب جویانہ -",
+   "ex": []
+  },
+  {
+   "w": "Censoriousness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "حرف گیری - نکتہ چینی - عیب جوئی -",
+   "ex": []
+  },
+  {
+   "w": "Censure",
+   "pron": "sen-sər",
+   "pos": "n. & v.t.",
+   "def": "Expression of disapproval",
+   "ur": "ڈانٹ - اظہار ناراضگی - الزام لگانا - ملامت کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Census",
+   "pron": "sen-sus",
+   "pos": "n.",
+   "def": "Numbering of population with various statistics",
+   "ur": "مردم شماری - عورت ، مرد ، تعلیم ، پیشہ وغیرہ کی فہرست کی تیاری -",
+   "ex": []
+  },
+  {
+   "w": "Cent",
+   "pron": "sent",
+   "pos": "",
+   "def": "Hundredth of a dollar",
+   "ur": "(سکہ) امریکہ میں سنٹ ڈالر کا سوواں حصہ ہوتا ہے - سو - سیکڑہ - فی صد -",
+   "ex": []
+  },
+  {
+   "w": "Centaur",
+   "pron": "sen-tawr",
+   "pos": "n.",
+   "def": "Horse with human head and arms",
+   "ur": "یونانی ادب میں ایک خیالی مخلوق جس کا جسم گھوڑے کا اور اوپر کا دھڑ آدمی کا ہوتا تھا - ستاروں کا ایک جھرمٹ - شہسوار -",
+   "ex": []
+  },
+  {
+   "w": "Centenarian",
+   "pron": "sen-ti-nari-ən",
+   "pos": "adj. & n.",
+   "def": "A hundred years old",
+   "ur": "صد سالہ - سو برس کا -",
+   "ex": []
+  },
+  {
+   "w": "Centenary",
+   "pron": "sen-ti-nari",
+   "pos": "adj. & n.",
+   "def": "Of hundred years",
+   "ur": "صد سالہ برسی یا سالگرہ - صد سالہ تقریب - سو سال کا جلسہ یادگار -",
+   "ex": []
+  },
+  {
+   "w": "Centennial",
+   "pron": "sen-tin-ial",
+   "pos": "adj. n.",
+   "def": "Having lived a hundred years",
+   "ur": "سو برس کا - سو سال کے بعد ہونے والا - سو برسی کے متعلق -",
+   "ex": []
+  },
+  {
+   "w": "Centesimal",
+   "pron": "sen-tesi-mal",
+   "pos": "adj.",
+   "def": "Reckoning by hundredth",
+   "ur": "سوواں حصہ کے حساب سے - سوواں -",
+   "ex": []
+  },
+  {
+   "w": "Centesimally",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "صدی کے سوویں حصے کے متعلق - ایک صدی کی -",
+   "ex": []
+  },
+  {
+   "w": "Centigrade",
+   "pron": "sen-ti-grad",
+   "pos": "adj.",
+   "def": "Having a hundred degrees",
+   "ur": "سو درجے کا -",
+   "ex": []
+  },
+  {
+   "w": "Centipede",
+   "pron": "sen-ti-ped",
+   "pos": "n.",
+   "def": "Many footed crawling animal",
+   "ur": "ہزارپا - کنکھجورا -",
+   "ex": []
+  },
+  {
+   "w": "Central",
+   "pron": "sen-trəl",
+   "pos": "adj.",
+   "def": "Of, in, at the centre",
+   "ur": "مرکز کا - مرکزی - مرکز کے متعلق - جس میں مرکز واقع یا شامل ہو - نمایاں - ممتاز - خاص -",
+   "ex": []
+  },
+  {
+   "w": "Centrally",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "مرکز کے اختیار سے - مرکزی حیثیت سے -",
+   "ex": []
+  },
+  {
+   "w": "Centralness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "بالا اور اعلیٰ اختیار - مرکز میں ہونے کی حالت - مرکزیت -",
+   "ex": []
+  },
+  {
+   "w": "Centralism",
+   "pron": "sen-trə-lism",
+   "pos": "n.",
+   "def": "Centralized system",
+   "ur": "مرکزیت - مرکزی نظام -",
+   "ex": []
+  },
+  {
+   "w": "Centralist",
+   "pron": "sen-trə-list",
+   "pos": "n.",
+   "def": "Upholder of centralized system",
+   "ur": "مرکزی نظام کا حامی -",
+   "ex": []
+  },
+  {
+   "w": "Centralize",
+   "pron": "sen-trə-liz",
+   "pos": "v.t. & i.",
+   "def": "Concentrate at a single centre",
+   "ur": "مرکز میں لانا - مرکز میں جمع کرنا - اختیار مرکز کے سپرد کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Centralization",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "مرکزی نظام حکومت - مرکزیت - حکومتی اختیارات مرکز میں رکھنا -",
+   "ex": []
+  },
+  {
+   "w": "Centre, center",
+   "pron": "sen-tər",
+   "pos": "n. & adj.",
+   "def": "Middle point",
+   "ur": "گردش کا نقطہ - وسطی نقطہ - مرکز - وہ جس کے گرد اور چیزیں جمع ہوں - چاند ماری کا ہدف - قلب فوج -",
+   "ex": []
+  },
+  {
+   "w": "Centre of attraction",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "جاذب توجہ - مرکز توجہ -",
+   "ex": []
+  },
+  {
+   "w": "Centreless",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "بے مرکز - کسی مرکز کا نہ ہونا - لا مرکز -",
+   "ex": []
+  },
+  {
+   "w": "Centre most",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "مرکز سے قریب ترین -",
+   "ex": []
+  },
+  {
+   "w": "Centrically",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "بیچوں بیچ - وسط میں - مرکز میں -",
+   "ex": []
+  },
+  {
+   "w": "Centricity",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "مرکز پر ہونا - مرکز میں ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Centre",
+   "pron": "sen-tər",
+   "pos": "v.t.",
+   "def": "Concentrate in centre",
+   "ur": "مرکز میں ہونا - مرکز کے گرد جمع ہونا - مرکز میں رکھنا - مرکز معلوم کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Centrifugal",
+   "pron": "sen-tri-fu-gəl",
+   "pos": "adj.",
+   "def": "Flying from centre",
+   "ur": "بعید از مرکز - مرکز گریز - دافع المرکز - مرکز سے دور - مرکزیت کے خلاف -",
+   "ex": []
+  },
+  {
+   "w": "Centrifugally",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "مرکز گریزانہ - مرکز سے گریز کرتے ہوئے - لامرکزی طور پر -",
+   "ex": []
+  },
+  {
+   "w": "Centripetal",
+   "pron": "sen-tri-petal",
+   "pos": "adj.",
+   "def": "Tending towards centre",
+   "ur": "مائل بہ مرکز - مرکز جو -",
+   "ex": []
+  },
+  {
+   "w": "Centuple",
+   "pron": "sen-tu-pl",
+   "pos": "adj., n. & v.t.",
+   "def": "Multiply by hundred",
+   "ur": "سو گنا - سو گنا کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Centuplicate",
+   "pron": "sen-tu-pli-kət",
+   "pos": "adj., n. & v.t.",
+   "def": "Of things of which a hundred copies are produced",
+   "ur": "جس کی سو نقلین کی جائیں - سو نقلیں کرنا - سو نقلیں -",
+   "ex": []
+  },
+  {
+   "w": "Centurion",
+   "pron": "sen-tu-rian",
+   "pos": "n.",
+   "def": "Commander of century in Roman army",
+   "ur": "وہ افسر جس کے تحت سو سپاہی ہوتے تھے - چندار -",
+   "ex": []
+  },
+  {
+   "w": "Century",
+   "pron": "sen-turi",
+   "pos": "n.",
+   "def": "Hundred of something",
+   "ur": "صدی - سو برس - سو سال - کوئی سو - کرکٹ میں کسی کھلاڑی کی سو دوڑیں - مسلسل سو سال -",
+   "ex": []
+  },
+  {
+   "w": "Cephalalgic",
+   "pron": "se-fal-al-gik",
+   "pos": "adj.",
+   "def": "Of head",
+   "ur": "درد سر کی (دوا) - درد سر کی -",
+   "ex": []
+  },
+  {
+   "w": "Cephalic",
+   "pron": "se-fə-lik",
+   "pos": "adj.",
+   "def": "Pertaining to head",
+   "ur": "سر کے متعلق -",
+   "ex": []
+  },
+  {
+   "w": "Ceraceous",
+   "pron": "se-rə-shəs",
+   "pos": "adj.",
+   "def": "Waxlike",
+   "ur": "موم کی طرح - موم جیسا -",
+   "ex": []
+  },
+  {
+   "w": "Cerate",
+   "pron": "se-rət",
+   "pos": "n.",
+   "def": "Wax ointment",
+   "ur": "موم کا مرہم - موم روغن -",
+   "ex": []
+  },
+  {
+   "w": "Cerberus",
+   "pron": "ser-bər-əs",
+   "pos": "n.",
+   "def": "Hell dog",
+   "ur": "دوزخ کا کتا -",
+   "ex": []
+  },
+  {
+   "w": "Cereal",
+   "pron": "seri-əl",
+   "pos": "n. & adj.",
+   "def": "Of corn",
+   "ur": "غلہ - اناج - اناج کے متعلق - غلہ یا اناج کا -",
+   "ex": []
+  },
+  {
+   "w": "Cerebral",
+   "pron": "sere-brəl",
+   "pos": "adj.",
+   "def": "Of the brain",
+   "ur": "دماغ کا - مغز کے متعلق - دماغ کا - دماغی -",
+   "ex": []
+  },
+  {
+   "w": "Cerebrum",
+   "pron": "sere-brəm",
+   "pos": "n.",
+   "def": "Brain proper in front of cerebellum",
+   "ur": "دماغ کا اگلا حصہ - اصل دماغ - دماغ جو دماغ کے اوپر ہوتا ہے - بڑا دماغ -",
+   "ex": []
+  },
+  {
+   "w": "Ceremonial",
+   "pron": "seri-mo-nial",
+   "pos": "n. & adj.",
+   "def": "formal, with rituals",
+   "ur": "رسومات کے ساتھ - رسم کا - ریت کا - ظاہر داری - رسمی آداب کی پابندی - آداب کی کتاب - رسم - ریت - دستور - چال -",
+   "ex": []
+  },
+  {
+   "w": "Ceremonialism",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "تکلف - رسمیت - آداب - رسم و رواج کی پابندی -",
+   "ex": []
+  },
+  {
+   "w": "Ceremonialist",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "پابند رسوم و رواج - رسم پرست -",
+   "ex": []
+  },
+  {
+   "w": "Ceremonially",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "رسمی پابندیوں کے ساتھ - رسمی طور پر - ظاہر دارانہ -",
+   "ex": []
+  },
+  {
+   "w": "Ceremonious",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "پابند رسوم - رسم پرست - پر تکلف -",
+   "ex": []
+  },
+  {
+   "w": "Ceremoniously",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "پورے آداب کے ساتھ - تکلف سے -",
+   "ex": []
+  },
+  {
+   "w": "Ceremoniousness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "آداب کی نگہداشت - رسم پرستی - تکلف -",
+   "ex": []
+  },
+  {
+   "w": "Ceremony",
+   "pron": "sere-məni",
+   "pos": "n.",
+   "def": "Polite observance",
+   "ur": "مذہبی رسم - رسم - ریت - ظاہر داری - ظاہری اخلاق - رسوم کی پابندی - آداب مجلس کی پابندی - رسوم پرستی -",
+   "ex": []
+  },
+  {
+   "w": "Master of the ceremonies",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "وہ افسر جو آداب و رسوم بجالانے کی نگرانی کرتا ہے -",
+   "ex": []
+  },
+  {
+   "w": "Stand upon ceremony",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "حفظ مراتب میں مبالغہ کرنا - تکلفات برتنا - تکلف کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Without ceremony",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "سادگی سے - بے تکلفی سے -",
+   "ex": []
+  },
+  {
+   "w": "Ceroplastic",
+   "pron": "sero-plas-tik",
+   "pos": "adj.",
+   "def": "Modelled in wax",
+   "ur": "مومی ڈھالائی کے متعلق - موم کی بنی ہوئی -",
+   "ex": []
+  },
+  {
+   "w": "Certain",
+   "pron": "sər-tin",
+   "pos": "adj.",
+   "def": "Settled",
+   "ur": "موثق - صحیح - طے شدہ - لازمی - پکا یقینی - قابل اعتبار - کوئی - کچھ - کسی قدر - ایک -",
+   "ex": []
+  },
+  {
+   "w": "For certain",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "قطعی طور پر - بلا شبہ - یقیناً -",
+   "ex": []
   }
  ],
  "urdu_english": [
