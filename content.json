@@ -124749,6 +124749,1486 @@
    "def": "String; Notes sounded together",
    "ur": "کمان کا چلہ - وتر - ہم آہنگی - دھن - سر - تار - تانت - رنگوں کا موزوں امتزاج - تین یا زیادہ سروں کا ملاپ -",
    "ex": []
+  },
+  {
+   "w": "Chorister",
+   "pron": "kor-is-tər",
+   "pos": "n.",
+   "def": "Member of choir",
+   "ur": "گویا - کلاونت - قوال - نغمہ سرا - کلیسائی سرود خواں جماعت کا بچہ -",
+   "ex": []
+  },
+  {
+   "w": "Chorus",
+   "pron": "ko-rəs",
+   "pos": "n., v.t. & i.",
+   "def": "Band of singers and dancers",
+   "ur": "گیت کا وہ حصہ جس کو سب مل کر گاتے ہیں - ہم آہنگی - ہم نوائی - قوالوں کی چوکی - مل کر گانا - ہم آواز ہو کر گانا - قدیم یونانی ناٹک میں ناچنے گانے والوں کا طائفہ - بلکہ الزبتھ کے زمانے میں ناٹک کا پیش خوان - گانے والوں کی جماعت -",
+   "ex": []
+  },
+  {
+   "w": "Chow",
+   "pron": "chow",
+   "pos": "adj. & n.",
+   "def": "Of China",
+   "ur": "(آسٹریلیا) چینی - چین کا - چینی نسل کا کتا -",
+   "ex": []
+  },
+  {
+   "w": "Chrism",
+   "pron": "krizm",
+   "pos": "",
+   "def": "Consecrated oil",
+   "ur": "وہ روغن جو مذہبی رسموں میں ملا جاتا ہے - متبرک تیل - پاک کیا ہوا تیل -",
+   "ex": []
+  },
+  {
+   "w": "Christ",
+   "pron": "krist",
+   "pos": "n.",
+   "def": "Messiah",
+   "ur": "آسمانی روحانی بادشاہ - حضرت عیسیٰ - مسیحا - حضرت مسیح - نجات دلانے والا -",
+   "ex": []
+  },
+  {
+   "w": "Christhood",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "مسیحیت -",
+   "ex": []
+  },
+  {
+   "w": "Christless",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بے دین - بے نجات دہندہ -",
+   "ex": []
+  },
+  {
+   "w": "Christlike",
+   "pron": "krist-lik",
+   "pos": "adj.",
+   "def": "",
+   "ur": "مسیح کے مانند - عیسائی صفت -",
+   "ex": []
+  },
+  {
+   "w": "Christen",
+   "pron": "kris-n",
+   "pos": "v.t. & i.",
+   "def": "Admit as christian by baptism",
+   "ur": "بپتسمہ دینا - اصطباغ دے کر عیسائی بنانا - اصطباغ کے وقت نام رکھنا - جہاز وغیرہ کا نام رکھنا - تسمیہ -",
+   "ex": []
+  },
+  {
+   "w": "Christendom",
+   "pron": "kris-ten-dəm",
+   "pos": "n.",
+   "def": "Christian countries",
+   "ur": "ممالک نصاریٰ - دنیائے مسیحیت -",
+   "ex": []
+  },
+  {
+   "w": "Christian",
+   "pron": "krist-yen",
+   "pos": "adj. & n.",
+   "def": "Believing in Christ",
+   "ur": "مسیحی - عیسائی - نصرانی - مسیحا یا ان کے مذہب کے متعلق - حضرت عیسیٰ کا سچا پیرو - عیسائی صفت - مہذب - معقول آدمی - بھلا مانس -",
+   "ex": []
+  },
+  {
+   "w": "Christianize",
+   "pron": "",
+   "pos": "v.t. & i.",
+   "def": "",
+   "ur": "عیسائی بنایا بنانا -",
+   "ex": []
+  },
+  {
+   "w": "Christianlike",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "عیسائی کی طرح - عیسائیت کے شایان شان -",
+   "ex": []
+  },
+  {
+   "w": "Christianity",
+   "pron": "kristyen-iti",
+   "pos": "",
+   "def": "Religion of Christ",
+   "ur": "عیسائیت - عیسائی مذہب -",
+   "ex": []
+  },
+  {
+   "w": "Christmas",
+   "pron": "krist-məs",
+   "pos": "n.",
+   "def": "Festival of Christ's birth",
+   "ur": "ولادت مسیح کا دن - بڑا دن -",
+   "ex": []
+  },
+  {
+   "w": "Christolatry",
+   "pron": "kris-to-la-tri",
+   "pos": "",
+   "def": "Christ worship",
+   "ur": "مسیح پرستی -",
+   "ex": []
+  },
+  {
+   "w": "Christomaniac",
+   "pron": "kristo-mə-ni-ək",
+   "pos": "n.",
+   "def": "Mad after Christ",
+   "ur": "حضرت عیسیٰ کا عاشق - حضرت مسیح کا دیوانہ -",
+   "ex": []
+  },
+  {
+   "w": "Chromatic",
+   "pron": "kro-ma-tik",
+   "pos": "adj.",
+   "def": "Full of bright colour",
+   "ur": "رنگوں سے بھرا ہوا - رنگین -",
+   "ex": []
+  },
+  {
+   "w": "Chromatics",
+   "pron": "",
+   "pos": "n.",
+   "def": "Art of colour printing",
+   "ur": "رنگوں کا علم - علم الالوان -",
+   "ex": []
+  },
+  {
+   "w": "Chromatically",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "رنگینی کے لحاظ سے - رنگوں کے لحاظ سے -",
+   "ex": []
+  },
+  {
+   "w": "Chrome",
+   "pron": "krom",
+   "pos": "n.",
+   "def": "Yellow pigment got from chromate of lead",
+   "ur": "زرد رنگ جو لیڈ کرومیٹ سے حاصل ہوتا ہے -",
+   "ex": []
+  },
+  {
+   "w": "Chromium",
+   "pron": "kro-mi-əm",
+   "pos": "n.",
+   "def": "A metallic element",
+   "ur": "ایک دھاتی عنصر -",
+   "ex": []
+  },
+  {
+   "w": "Chromolithograph",
+   "pron": "kromo-lith-ə-graf",
+   "pos": "n.",
+   "def": "Picture printed in colours from stone",
+   "ur": "سنگی طبع کی چھپی ہوئی رنگین تصویر - رنگین سنگی چھپائی -",
+   "ex": []
+  },
+  {
+   "w": "Chronic",
+   "pron": "kron-ik",
+   "pos": "adj.",
+   "def": "Lingering",
+   "ur": "عیبی - سخت - شدید - کہنہ - پرانا - مزمن -",
+   "ex": []
+  },
+  {
+   "w": "Chronically",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "مزمن طور پر - پرانا - دیرینہ -",
+   "ex": []
+  },
+  {
+   "w": "Chronicle",
+   "pron": "kron-ik-l",
+   "pos": "n. & v.t.",
+   "def": "Register of events in the order of time",
+   "ur": "سرگزشت - واقعات کا روزنامچہ - تاریخ - سرگزشت لکھنا - تاریخی واقعات لکھنا -",
+   "ex": []
+  },
+  {
+   "w": "Chronicler",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "روزنامچہ لکھنے والا - مورخ - واقعہ نگار -",
+   "ex": []
+  },
+  {
+   "w": "Chronograph",
+   "pron": "kro-no-graf; kro-..o-graf",
+   "pos": "n.",
+   "def": "History of ancient period; Instrument recording time with extreme accuracy",
+   "ur": "زمانہ قدیم کی تاریخ - تاریخی مواد - ٹھیک ٹھیک وقت بتانے والا آلہ - وقت نگار -",
+   "ex": []
+  },
+  {
+   "w": "Chronographic",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "وقت نگاری کے متعلق -",
+   "ex": []
+  },
+  {
+   "w": "Chronology",
+   "pron": "kro-no-lə-gi",
+   "pos": "n.",
+   "def": "Science of computing dates",
+   "ur": "تاریخ وار - واقعہ نگاری - علم تواریخ - تاریخوں کا حساب -",
+   "ex": []
+  },
+  {
+   "w": "Chronological",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "فن تاریخ کے متعلق - تاریخ وار -",
+   "ex": []
+  },
+  {
+   "w": "Chronologically",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "واقعہ نگاری کے متعلق - تواریخ کے لحاظ سے -",
+   "ex": []
+  },
+  {
+   "w": "Chronologist",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "فن تاریخ کا ماہر - تواریخ دان -",
+   "ex": []
+  },
+  {
+   "w": "Chronologize",
+   "pron": "",
+   "pos": "v.t.",
+   "def": "",
+   "ur": "واقعات کو تاریخ وار لکھنا -",
+   "ex": []
+  },
+  {
+   "w": "Chronometer",
+   "pron": "kro-no-mé-ter",
+   "pos": "n.",
+   "def": "Time measuring instrument",
+   "ur": "وقت بتانے والا آلہ - وقت پیما - صحیح وقت دینے والی جہازی گھڑی -",
+   "ex": []
+  },
+  {
+   "w": "Chronometry",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "عملی طور پر وقت کی پیمائش - فنی لحاظ سے وقت کی صحت -",
+   "ex": []
+  },
+  {
+   "w": "Chrysalis",
+   "pron": "kri-ə-lis",
+   "pos": "n.",
+   "def": "Transition state",
+   "ur": "ارتقائی حالت - تتلی یا پتنگے کی ہر تکتلے سے پہلے کی حالت -",
+   "ex": []
+  },
+  {
+   "w": "Chrysanthemum",
+   "pron": "kris-an-thi-mum",
+   "pos": "n.",
+   "def": "Marigold",
+   "ur": "گل داؤدی -",
+   "ex": []
+  },
+  {
+   "w": "Chrysolite",
+   "pron": "kris-e-lit",
+   "pos": "n.",
+   "def": "Green gems",
+   "ur": "زبرجد - لہسنیا - ہشب سبز -",
+   "ex": []
+  },
+  {
+   "w": "Chub",
+   "pron": "chub",
+   "pos": "n.",
+   "def": "River fish of carp family",
+   "ur": "ایک قسم کا تالا - ایک دریائی مچھلی - چوب ماہی -",
+   "ex": []
+  },
+  {
+   "w": "Chubby",
+   "pron": "chub-i",
+   "pos": "adj.",
+   "def": "Round faced",
+   "ur": "گداز - گدگدا - گول مول چہرے والا - گھجوری سے گال والا - پھولا ہوا -",
+   "ex": []
+  },
+  {
+   "w": "Chubbiness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "موٹاپا - گدازی - گدگدا پن -",
+   "ex": []
+  },
+  {
+   "w": "Chuck",
+   "pron": "chuk",
+   "pos": "interj., n. & v.i.",
+   "def": "Call of endearment",
+   "ur": "کھٹ کھٹ کی آواز - کھٹ کھٹ - مرغیوں کو بلانے والا - آ آ کرنے والا - گھوڑے کو چمکارنا - چخ چخ کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Chuck",
+   "pron": "chuk",
+   "pos": "n.",
+   "def": "Grub",
+   "ur": "عزیز - یار - بسکٹ - کھانا - دانہ -",
+   "ex": []
+  },
+  {
+   "w": "Chuck",
+   "pron": "chuk",
+   "pos": "v.t. & n.",
+   "def": "Fix wood in lathe",
+   "ur": "خرادنا - خرادنے کے لیے لکڑی رکھنا - خراد کی اوٹ - پہاڑ سے پلانا - پھینکنا - ڈالنا -",
+   "ex": []
+  },
+  {
+   "w": "Chuckle",
+   "pron": "chuk-l",
+   "pos": "v.t. & n.",
+   "def": "Laugh with closed mouth",
+   "ur": "خوش ہوتا - ہنسنا - منھ بند رکھ کر ہنسنا - حقیر آواز نکالے ہنسنا - قلقذر کی ہنسی - کسی کو برا کر خوش ہونا - مرغیوں کی طرح کٹ کٹ کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Chuckle head, Chuckle headed",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کودن - الو - گاڑی - احمق - بیوقوف -",
+   "ex": []
+  },
+  {
+   "w": "Chum",
+   "pron": "chum",
+   "pos": "n. & v.i.",
+   "def": "Occupy rooms together",
+   "ur": "ایک کمرے میں رہنا - ساتھ رہنا - ہم نواں ہم پیالہ - یار غار - بے تکلف دوست -",
+   "ex": []
+  },
+  {
+   "w": "Chum up",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "میل جول بڑھانا - بے تکلفی پیدا کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Chump",
+   "pron": "chump",
+   "pos": "n.",
+   "def": "Short thick lump of wood",
+   "ur": "بکری کی پٹھ - سر - دماغ - پوری - لکڑی کا کندہ -",
+   "ex": []
+  },
+  {
+   "w": "Off one's chump",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "جوش میں پاگل ہونا - آپے سے باہر ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Chunk",
+   "pron": "chungk",
+   "pos": "n.",
+   "def": "Thick lump cut off",
+   "ur": "قاش - پھانک - موٹا ٹکڑا -",
+   "ex": []
+  },
+  {
+   "w": "Church",
+   "pron": "church",
+   "pos": "n.",
+   "def": "Building for public Christian worship",
+   "ur": "کلیسا - کرجا - گرجا گھر - دیر - کنیسہ - نظام عیسائیت - نصارتی - پادریوں کی انجمن - پادریوں کا پیشہ - عبادت یا جماعت -",
+   "ex": []
+  },
+  {
+   "w": "Poor as a church mouse",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "نہایت غریب - مفلس -",
+   "ex": []
+  },
+  {
+   "w": "Church",
+   "pron": "church",
+   "pos": "v.t.",
+   "def": "Bring woman to church",
+   "ur": "وضع حمل کے بعد عورت کو نماز شکرانہ ادا کرنے کے لیے گرجا میں لانا -",
+   "ex": []
+  },
+  {
+   "w": "Churchy",
+   "pron": "church-i",
+   "pos": "adj.",
+   "def": "Intolerantly devoted to church",
+   "ur": "پابند کلیسا - کٹر عیسائی -",
+   "ex": []
+  },
+  {
+   "w": "Churl",
+   "pron": "churl",
+   "pos": "n.",
+   "def": "Person of low birth",
+   "ur": "کنوار - دیہاتی - رذیل - کم ذات - نیچ - بے مہر - غیر مہذب - ناشائستہ - کنجوس - بخیل -",
+   "ex": []
+  },
+  {
+   "w": "Churlish",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "احمق - بے چنگم - کنوار - اجڈ - اکھڑ -",
+   "ex": []
+  },
+  {
+   "w": "Churlishly",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "بخیلانہ - بد تمیزی سے - اجڈ پن سے - کنوار کی طرح - اکھڑ پن سے -",
+   "ex": []
+  },
+  {
+   "w": "Churlishness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "کنجوسی - بد تمیزی - کنوار پن -",
+   "ex": []
+  },
+  {
+   "w": "Churn",
+   "pron": "churn",
+   "pos": "n., v.t. & i.",
+   "def": "Butter making machine",
+   "ur": "مکھن نکالنا - مکھن نکالنے کی مشین - متھانی - رگ - مکی - چانی - دہی بلوٹا - مکھن الگ کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Chutney",
+   "pron": "chut-ni",
+   "pos": "n.",
+   "def": "Hot condiment of chillies",
+   "ur": "اچار - چٹنی -",
+   "ex": []
+  },
+  {
+   "w": "Chyle",
+   "pron": "kil",
+   "pos": "n.",
+   "def": "White milky fluid",
+   "ur": "کیلوس -",
+   "ex": []
+  },
+  {
+   "w": "Chylifaction",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "کیلوس بن جانا -",
+   "ex": []
+  },
+  {
+   "w": "Chyliferous",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "کیلوس پیدا کرنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Chyme",
+   "pron": "kim",
+   "pos": "n.",
+   "def": "Food converted into acid pulp",
+   "ur": "کیموس - رس -",
+   "ex": []
+  },
+  {
+   "w": "Cicada",
+   "pron": "si-ka-da",
+   "pos": "n.",
+   "def": "Shrill chirping insect",
+   "ur": "ٹڈا - جھینگر -",
+   "ex": []
+  },
+  {
+   "w": "Cicatrice",
+   "pron": "sika-tris",
+   "pos": "n.",
+   "def": "Scar of healed wound",
+   "ur": "زخم کا داغ -",
+   "ex": []
+  },
+  {
+   "w": "Cicatrix",
+   "pron": "sika-triks",
+   "pos": "n.",
+   "def": "",
+   "ur": "پتے کے جھڑنے کے بعد شاخ پر جو نشان رہ جاتا ہے - زخم کا نشان -",
+   "ex": []
+  },
+  {
+   "w": "Cicatrisation",
+   "pron": "sika-tri-za-shan",
+   "pos": "n.",
+   "def": "Healing of wound",
+   "ur": "انکود ہونا - اندمال - زخم کا بھراؤ -",
+   "ex": []
+  },
+  {
+   "w": "Cicatrise",
+   "pron": "sika-triz",
+   "pos": "v.t. & i.",
+   "def": "Heal",
+   "ur": "انکور آنا - زخم اچھا ہونا - زخم مندمل کرنا - زخم مندمل ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Cider",
+   "pron": "sider",
+   "pos": "n.",
+   "def": "Fermented drink from apple juice",
+   "ur": "سیب کی شراب -",
+   "ex": []
+  },
+  {
+   "w": "Cigar",
+   "pron": "sigar",
+   "pos": "n.",
+   "def": "Roll of tobacco leaf",
+   "ur": "چٹا - چرٹ - سگار -",
+   "ex": []
+  },
+  {
+   "w": "Cigarette",
+   "pron": "sig-ə-ret",
+   "pos": "n.",
+   "def": "Tobacco rolled in paper",
+   "ur": "چھوٹا چرٹ - سگریٹ -",
+   "ex": []
+  },
+  {
+   "w": "Cimmerian",
+   "pron": "si-meri-an",
+   "pos": "adj.",
+   "def": "Thick, gloomy",
+   "ur": "تاریک - اندھیرا گھپ -",
+   "ex": []
+  },
+  {
+   "w": "Cinchona",
+   "pron": "sin-kona",
+   "pos": "n.",
+   "def": "Tree yielding Peruvian bark",
+   "ur": "سنکونا کا درخت یا چھال - سنکونا کا سنوف - کونین -",
+   "ex": []
+  },
+  {
+   "w": "Cincture",
+   "pron": "singk-tyər",
+   "pos": "v.t. & n.",
+   "def": "Surround with a girdle",
+   "ur": "کمربند - پٹی - پٹکا - باندھنا - گھیرنا - پٹکا باندھنا - کمر بند باندھنا -",
+   "ex": []
+  },
+  {
+   "w": "Cinder",
+   "pron": "sind-ər",
+   "pos": "n.",
+   "def": "Residue of coal",
+   "ur": "کوئلہ کی راکھ - کجلا ہوا کوئلہ - آدھ جلا کوئلہ -",
+   "ex": []
+  },
+  {
+   "w": "Cinder path",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "راستہ جس پر کوئلے کی راکھ بچھائی ہو -",
+   "ex": []
+  },
+  {
+   "w": "Cindery",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "آدھ جلے کوئلے کا سا - خاکستری - بھونلی سا -",
+   "ex": []
+  },
+  {
+   "w": "Cinderella",
+   "pron": "sin-dər-ela",
+   "pos": "n.",
+   "def": "Person of unrecognised merit or beauty",
+   "ur": "وہ شخص جس کے کمال یا حسن کی قدر نہ ہوتی ہو -",
+   "ex": []
+  },
+  {
+   "w": "Cinderella dance",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "وہ رقص جو رات کے بارہ بجے تک ہو - رقص نیم شبی -",
+   "ex": []
+  },
+  {
+   "w": "Cinema",
+   "pron": "sin-ə-ma",
+   "pos": "n.",
+   "def": "Picture house",
+   "ur": "سنیما - متحرک اور بولتی تصویروں کی تماشا گاہ -",
+   "ex": []
+  },
+  {
+   "w": "Cinematograph",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "kinematograph دیکھو",
+   "ex": []
+  },
+  {
+   "w": "Cinerary",
+   "pron": "sinə-rə-ri",
+   "pos": "adj.",
+   "def": "Of ashes",
+   "ur": "راکھ کا - خاک جیسا - خاک کا - خاکستری -",
+   "ex": []
+  },
+  {
+   "w": "Cinerary urn",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "خاک دان - مردوں کی جلی ہوئی راکھ رکھنے کی جگہ -",
+   "ex": []
+  },
+  {
+   "w": "Cinereous",
+   "pron": "sinə-əs",
+   "pos": "adj.",
+   "def": "Ashen-grey",
+   "ur": "خاکی - بھورا خاکستری - خاکستری -",
+   "ex": []
+  },
+  {
+   "w": "Cingalese",
+   "pron": "sin-gə-lis",
+   "pos": "adj.",
+   "def": "Sinhalese",
+   "ur": "لنکا کا رہنے والا - سنہالی -",
+   "ex": []
+  },
+  {
+   "w": "Cinnabar",
+   "pron": "sinə-bar",
+   "pos": "n. & adj.",
+   "def": "Red mercuric sulphide",
+   "ur": "شنگرف جیسا - شنگرف کا سا - شنگرف -",
+   "ex": []
+  },
+  {
+   "w": "Cinnamon",
+   "pron": "sina-man",
+   "pos": "n. & adj.",
+   "def": "Aromatic bark used as spice",
+   "ur": "دار چینی - دار چینی کے رنگ کا - نسواری -",
+   "ex": []
+  },
+  {
+   "w": "Cinque",
+   "pron": "singk",
+   "pos": "n.",
+   "def": "The five of cards",
+   "ur": "پنجی - تاش کا پنجہ -",
+   "ex": []
+  },
+  {
+   "w": "Cipher",
+   "pron": "sifer",
+   "pos": "n.",
+   "def": "Of no value",
+   "ur": "لہر - ناچیز - نکما - بے حقیقت شے - صفر - خفیہ تحریر - خفیہ تحریر کا حل -",
+   "ex": []
+  },
+  {
+   "w": "Cipher",
+   "pron": "sifer",
+   "pos": "v.t. & i.",
+   "def": "Calculate",
+   "ur": "حساب لگانا - ریاضی کے قاعدے سے سوال نکالنا - حساب کرنا - خفیہ رسم الخط میں لکھنا - خفیہ تحریر پڑھنا -",
+   "ex": []
+  },
+  {
+   "w": "Circe",
+   "pron": "sarse",
+   "pos": "n.",
+   "def": "Enchantress",
+   "ur": "فریب دینے والی - جادو گرنی - ساحرہ -",
+   "ex": []
+  },
+  {
+   "w": "Circean",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "جادو گرنی کا - ساحرہ کا -",
+   "ex": []
+  },
+  {
+   "w": "Circle",
+   "pron": "sur-kl",
+   "pos": "n.",
+   "def": "Perfectly round line",
+   "ur": "گول گھیرا - چکر - کنڈل - دائرہ - پورا چکر - حلقہ - ہم مذاق لوگوں کا حلقہ - جماعت - احاطہ اقتدار - حلقہ اثر -",
+   "ex": []
+  },
+  {
+   "w": "Dress circle",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "تھیٹر میں نشستوں کی پہلی قطار -",
+   "ex": []
+  },
+  {
+   "w": "Square the circle",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ناممکن کو ممکن بنانے کی کوشش کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Vicious circle",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ایک بات کے ثبوت میں دوسری بات پیش کرنا جس کا ثبوت پہلی بات پر منحصر ہو - برائی کا چکر - ایک برائی سے دوسری برائی اور پھر دوسری سے پہلی -",
+   "ex": []
+  },
+  {
+   "w": "Circle",
+   "pron": "sar-kl",
+   "pos": "v.t. & i.",
+   "def": "Encompass",
+   "ur": "گول گول پھرنا - گھیر لینا - چکر لگانا - حلقہ میں لینا - احاطہ کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Circlet",
+   "pron": "sar-klet",
+   "pos": "n.",
+   "def": "Small circle",
+   "ur": "کمر بند - پٹی - چھوٹا حلقہ - چھوٹا چکر -",
+   "ex": []
+  },
+  {
+   "w": "Circuit",
+   "pron": "sar-kit",
+   "pos": "n.",
+   "def": "Line enclosing an area",
+   "ur": "دورہ - گرداب - گھیرا - چکر - چکر کے اندر کا رقبہ - دورہ کا علاقہ - برق رو کا راستہ - برقی دور - کسی حلقہ کا پھیرا -",
+   "ex": []
+  },
+  {
+   "w": "Short circuit",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "برق رو کا ناقص دور - برقی دور کا چھوٹا ہونا - برق رو کا چھوٹا ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Circuitous",
+   "pron": "sur-kui-tas",
+   "pos": "adj.",
+   "def": "Round about",
+   "ur": "ادھر ادھر سے - پھیر دار - چکر دار -",
+   "ex": []
+  },
+  {
+   "w": "Circuitously",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "چکر سے - پھیر سے -",
+   "ex": []
+  },
+  {
+   "w": "Circuitousness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "دور - گردش - چکر -",
+   "ex": []
+  },
+  {
+   "w": "Circular",
+   "pron": "sar-k-lər",
+   "pos": "adj. & n.",
+   "def": "Moving in a circle",
+   "ur": "گشتی چٹھی - مدور - چکر دار - گول دائرہ کی طرح - دائرہ نما - دائرہ کی شکل میں -",
+   "ex": []
+  },
+  {
+   "w": "Circularize",
+   "pron": "sər-k-lər-iz",
+   "pos": "v.i.",
+   "def": "Send circulars to",
+   "ur": "گشتی اعلان جاری کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Circulate",
+   "pron": "sər-ku-lat",
+   "pos": "v.t. & i.",
+   "def": "Go round",
+   "ur": "پھرنا - گشت کرنا - چکر کھانا - گردش کرنا - جاری ہونا - گھومتا - رواں ہونا - رائج ہونا - مشہور کرنا - مشہور کرنا - رائج کرنا - عام کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Circulating library",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "گشتی کتب خانہ -",
+   "ex": []
+  },
+  {
+   "w": "Circulating medium",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "زر - روپیہ - سکہ رائج -",
+   "ex": []
+  },
+  {
+   "w": "Circulation",
+   "pron": "sər-ku-la-shən",
+   "pos": "n.",
+   "def": "Movement to and fro",
+   "ur": "گشت - چکر - دور - گردش - تقسیم - نشر و اشاعت - دوران خون - بکری - اشاعت - سکہ کی گردش -",
+   "ex": []
+  },
+  {
+   "w": "Circulative",
+   "pron": "sur-ku-la-tiv",
+   "pos": "adj.",
+   "def": "Inclined to circulation",
+   "ur": "گردش میں لانے والی - گردش دینے والی -",
+   "ex": []
+  },
+  {
+   "w": "Circulator",
+   "pron": "sur-ku-la-ter",
+   "pos": "n.",
+   "def": "One who circulates",
+   "ur": "رواج دینے والا - گردش کرنے والا - گردش دینے والا -",
+   "ex": []
+  },
+  {
+   "w": "Circulatory",
+   "pron": "sur-ku-la-tori",
+   "pos": "adj.",
+   "def": "Of circulation of blood",
+   "ur": "گردش کے متعلق - دوران خون کے متعلق -",
+   "ex": []
+  },
+  {
+   "w": "Circumambient",
+   "pron": "sər-kəm-am-bi-ənt",
+   "pos": "adj.",
+   "def": "Surrounding",
+   "ur": "محیط - گھیرے ہوئے - چاروں طرف کا -",
+   "ex": []
+  },
+  {
+   "w": "Circumambiency",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "چکر - احاطہ - گھیرا -",
+   "ex": []
+  },
+  {
+   "w": "Circumambulate",
+   "pron": "sur-kum-ambu-latə",
+   "pos": "v.t. & i.",
+   "def": "Walk round",
+   "ur": "آوارہ پھرنا - طواف کرنا - گھومنا - گرد پھرنا - بارے مارے پھرنا - پیر پھیر کی باتیں کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Circumambulation",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "آوارگی - طواف - چکر - گردش -",
+   "ex": []
+  },
+  {
+   "w": "Circumambulatory",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "دوری - چکر کا - گردشی -",
+   "ex": []
+  },
+  {
+   "w": "Circumcise",
+   "pron": "sər-kəm-siz",
+   "pos": "v.t.",
+   "def": "Cut off fore skin of",
+   "ur": "تزکیہ کرنا - سنت کرنا - ختنہ کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Circumcise the heart",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "تزکیہ نفس کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Passions",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "قلب پاک کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Circumcision",
+   "pron": "sər-kəm-sizh-ən",
+   "pos": "n.",
+   "def": "Cutting off fore skin",
+   "ur": "ختنہ -",
+   "ex": []
+  },
+  {
+   "w": "Circumference",
+   "pron": "sər-kum-fər-əns",
+   "pos": "n.",
+   "def": "Encompassing boundary",
+   "ur": "گھاؤ - گردا - گھیرا - دور -",
+   "ex": []
+  },
+  {
+   "w": "Circumferential",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "محیط - گول -",
+   "ex": []
+  },
+  {
+   "w": "Circumfluent",
+   "pron": "ser-kəm-flu-ent",
+   "pos": "adj.",
+   "def": "Flowing round",
+   "ur": "ہر چہار طرف بہنے والے - چاروں طرف بہنے والے -",
+   "ex": []
+  },
+  {
+   "w": "Circumfluence",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "چاروں طرف کا بہاؤ - ارسو روانی -",
+   "ex": []
+  },
+  {
+   "w": "Circumfluous",
+   "pron": "ser-kəm-flu-əs",
+   "pos": "adj.",
+   "def": "Surrounded by water",
+   "ur": "جاری - رواں - پانی سے گھرا ہوا -",
+   "ex": []
+  },
+  {
+   "w": "Circumfuse",
+   "pron": "sur-kum-fəz",
+   "pos": "v.t.",
+   "def": "Pour fluid round",
+   "ur": "منتشر کرنا - چاروں طرف بہانا - چاروں طرف پھیلانا -",
+   "ex": []
+  },
+  {
+   "w": "Circumfusion",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "پانی کا حلقہ - ہر سو انتشار - چاروں طرف پھیلاؤ -",
+   "ex": []
+  },
+  {
+   "w": "Circumjacent",
+   "pron": "ser-kəm-ja-sənt",
+   "pos": "adj.",
+   "def": "Situated around",
+   "ur": "چاروں طرف - گردا گرد -",
+   "ex": []
+  },
+  {
+   "w": "Circumlocution",
+   "pron": "sir-kəm-loku-shən",
+   "pos": "n.",
+   "def": "Evasive talk",
+   "ur": "بسیار گوئی - باتوں کا الٹ پھیر - طوالت کلام - بات ٹالنا - ادھر ادھر کی بات - پیچیدہ گفتگو -",
+   "ex": []
+  },
+  {
+   "w": "Circumlocution office",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ایسا دفتر جہاں کام بہت دیر میں اور سست ہو -",
+   "ex": []
+  },
+  {
+   "w": "Circumlocutional, Circumlocutionary, Circumlocutory",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "پیچیدہ - چکر دار - طولانی - ادھر ادھر کی باتوں کا -",
+   "ex": []
+  },
+  {
+   "w": "Circumlocutionist",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "ادھر ادھر کی باتیں کرنے والا - باتونی - بسیار گو -",
+   "ex": []
+  },
+  {
+   "w": "Circumnavigate",
+   "pron": "sər-kəm-navi-gat",
+   "pos": "v.t.",
+   "def": "Sail round",
+   "ur": "دنیا کے گرد جہاز میں سفر کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Circumnavigator",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "زمین کے گرد بحری سفر کرنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Circumpolar",
+   "pron": "sər-kəm-polar",
+   "pos": "adj.",
+   "def": "About one of the poles",
+   "ur": "قطب کے آس پاس - قطب کے گرد -",
+   "ex": []
+  },
+  {
+   "w": "Circumscribe",
+   "pron": "sər-kum-skrib",
+   "pos": "v.t.",
+   "def": "Draw line around",
+   "ur": "محدود کرنا - حد بندی کرنا - گھیرنا - ایک شکل کے گرد دوسری شکل بنانا - گرد لکھنا - چاروں طرف لکھنا -",
+   "ex": []
+  },
+  {
+   "w": "Circumscriber",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "تعریف کرنے والا - حد بندی کرنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Circumscription",
+   "pron": "sər-kəm-skrip-shən",
+   "pos": "n.",
+   "def": "Limits, boundary",
+   "ur": "حدود احاطہ - احاطہ - حد بندی - تعریف - نشانشن - سکے کی نقش کاری -",
+   "ex": []
+  },
+  {
+   "w": "Circumsolar",
+   "pron": "sər-kəm-solar",
+   "pos": "adj.",
+   "def": "Revolving round the sun",
+   "ur": "سورج کے گرد گھومنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Circumspect",
+   "pron": "sər-kəm-spekt",
+   "pos": "adj.",
+   "def": "Cautious, wary",
+   "ur": "چوکس - محتاط - چوکنا - ہوشیار -",
+   "ex": []
+  },
+  {
+   "w": "Circumspection, Circumspectness",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "نگاہ بانی - خبرداری - چوکسی - ہوشیاری احتیاط -",
+   "ex": []
+  },
+  {
+   "w": "Circumspectly",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "احتیاط سے - ہوشیاری سے -",
+   "ex": []
+  },
+  {
+   "w": "Circumstance",
+   "pron": "sər-kəm-stəns",
+   "pos": "n.",
+   "def": "Time, place, manner",
+   "ur": "حقیقت حال - حالت - حال - واقعہ - حالات - واقعات - کسی کام کا ماحول - تفصیل - شرح - تکلف - اہتمام -",
+   "ex": []
+  },
+  {
+   "w": "In good easy circumstances",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "آسودہ حال - فارغ البال - اچھے حال میں -",
+   "ex": []
+  },
+  {
+   "w": "Pomp and circumstance",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کروفر - شان و شوکت -",
+   "ex": []
+  },
+  {
+   "w": "Without circumstance",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "سادہ طور پر - بغیر کسی اہتمام کے -",
+   "ex": []
+  },
+  {
+   "w": "Circumstanced",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "صورت میں - حالت میں -",
+   "ex": []
+  },
+  {
+   "w": "Circumstantial",
+   "pron": "sər-kəm-stən-shəl",
+   "pos": "adj.",
+   "def": "Depending on details",
+   "ur": "جو جزئیات یا قرائن پر مبنی ہو - انقلابی - اچانک - تفصیل وار - مفصل -",
+   "ex": []
+  },
+  {
+   "w": "Circumstantial evidence",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "شہادت جو قرائن پر مبنی ہو - واقعاتی شہادت -",
+   "ex": []
+  },
+  {
+   "w": "Circumstantial story",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "طویل داستان - مفصل قصہ -",
+   "ex": []
+  },
+  {
+   "w": "Circumstantiality",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "قرینہ - تفصیل - اتفاق -",
+   "ex": []
+  },
+  {
+   "w": "Circumstantially",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "حالات کے تقاضے سے - اچانک - اتفاق طور پر -",
+   "ex": []
+  },
+  {
+   "w": "Circumvallate",
+   "pron": "sər-kəm-valat",
+   "pos": "v.t.",
+   "def": "Surround with rampart",
+   "ur": "چار دیواری بنانا - قلعہ بندی کرنا - دمدمے بنانا -",
+   "ex": []
+  },
+  {
+   "w": "Circumvallation",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "مورچہ بندی - شہر پناہ - فصیل -",
+   "ex": []
+  },
+  {
+   "w": "Circumvent",
+   "pron": "sər-kəm-vent",
+   "pos": "v.t.",
+   "def": "Entrap",
+   "ur": "دھوکا دینا - چھلنا - جھانسہ دینا - جل دینا - دھوکہ دینا - پھانسنا - پھندے میں لانا -",
+   "ex": []
+  },
+  {
+   "w": "Circumvention",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "جل - پھندا - جھانسہ - حکمت عملی -",
+   "ex": []
+  },
+  {
+   "w": "Circumvolution",
+   "pron": "sər-kəm-volu-shən",
+   "pos": "n.",
+   "def": "Rolling round",
+   "ur": "زمانہ - دور - ہیر پھیر - گھیرا - چکر - سانپ جلسی یا لہریا کی چال -",
+   "ex": []
+  },
+  {
+   "w": "Circus",
+   "pron": "sər-kəs",
+   "pos": "n.",
+   "def": "Oval arena lined with tiers of seats",
+   "ur": "چکر - گول میدان - دنگل - تماشا گاہ - مقابلہ کی جگہ - چوک - چوراہا - سرکس -",
+   "ex": []
+  },
+  {
+   "w": "Cis",
+   "pron": "sis",
+   "pos": "Prefix",
+   "def": "on this side",
+   "ur": "اس پار - اس طرف -",
+   "ex": []
+  },
+  {
+   "w": "Cistern",
+   "pron": "sis-tərn",
+   "pos": "n.",
+   "def": "Reservoir for storing water",
+   "ur": "چوبچہ - ٹنکی - حوض -",
+   "ex": []
+  },
+  {
+   "w": "Citadel",
+   "pron": "sitə-dəl",
+   "pos": "n.",
+   "def": "Fortress",
+   "ur": "قلعہ - جائے پناہ - کوٹلہ - کوٹ - گڑھی -",
+   "ex": []
+  },
+  {
+   "w": "Cite",
+   "pron": "sit",
+   "pos": "v.t.",
+   "def": "Quote",
+   "ur": "بلا بھیجنا - سمن بھیجنا - طلب کرنا - نظیر پیش کرنا - حوالہ دینا -",
+   "ex": []
+  },
+  {
+   "w": "Citable",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "طلب کرنے کے لائق - بلانے جانے کے قابل - حوالہ دینے کے لائق -",
+   "ex": []
+  },
+  {
+   "w": "Citation",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "طلبی - اطلاع نامہ - نظیر - مقولہ - حوالہ -",
+   "ex": []
+  },
+  {
+   "w": "Citizen",
+   "pron": "siti-zen",
+   "pos": "n.",
+   "def": "Member of the city",
+   "ur": "حقوق شہریت کا حامل - شہر کا رہنے والا - شہری رعیت - پرجا - رعایا -",
+   "ex": []
+  },
+  {
+   "w": "Citizen of the world",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "دنیا دیس کا - ہر دیس کا - آفاقی - دنیا دیسی -",
+   "ex": []
+  },
+  {
+   "w": "Citizenhood",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "شہریت -",
+   "ex": []
+  },
+  {
+   "w": "Citizenship",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "پرجا ادھیکار - رعایا کے حقوق - حق شہریت -",
+   "ex": []
+  },
+  {
+   "w": "Citrate",
+   "pron": "sit-rət",
+   "pos": "n.",
+   "def": "Lime salt",
+   "ur": "لیموں کا نمک -",
+   "ex": []
+  },
+  {
+   "w": "Citron",
+   "pron": "sit-rən",
+   "pos": "n.",
+   "def": "Tree bearing big fruits",
+   "ur": "چکوترا -",
+   "ex": []
+  },
+  {
+   "w": "City",
+   "pron": "siti",
+   "pos": "n.",
+   "def": "Important town",
+   "ur": "نگری - نگر - بلدہ - شہر - وہ آبادی جو از روئے قانون شہر گردانی گئی ہو -",
+   "ex": []
+  },
+  {
+   "w": "Civet cat",
+   "pron": "sivet",
+   "pos": "n.",
+   "def": "Carnivorous quadruped between fox and weasel",
+   "ur": "مشک بلاؤ - مشک بلاؤ سے نکلا ہوا مشک -",
+   "ex": []
+  },
+  {
+   "w": "Civic",
+   "pron": "siv-ik",
+   "pos": "adj.",
+   "def": "Proper to citizens",
+   "ur": "مونسپل کمیٹی کا - بلدیہ کا - شہری -",
+   "ex": []
+  },
+  {
+   "w": "Civic activity",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "شہری یا مدنی مشاغل -",
+   "ex": []
+  },
+  {
+   "w": "Civic virtues",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "مدنی خوبیاں -",
+   "ex": []
+  },
+  {
+   "w": "Civilly",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "شہریانہ - تمدنی لحاظ سے - شہری نقطہ نظر سے - دیوانی قانون کے رو سے - مروت سے - خلق سے -",
+   "ex": []
+  },
+  {
+   "w": "Civics",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "شہری حقوق - معاشرتی مسائل - شہریات -",
+   "ex": []
+  },
+  {
+   "w": "Civil",
+   "pron": "sivil",
+   "pos": "adj.",
+   "def": "Of a citizen community",
+   "ur": "اجتماعی - شہری - ملکی - خلیق - با مروت - خوش خلق - شائستہ - غیر فوجی - دیوانی - غیر فوجداری -",
+   "ex": []
+  },
+  {
+   "w": "Civility",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "اخلاق - خلق - شائستگی - انسانیت -",
+   "ex": []
+  },
+  {
+   "w": "Civilian",
+   "pron": "sivil-əan",
+   "pos": "n. & adj.",
+   "def": "Not in defence",
+   "ur": "غیر فوجی محکمے کے ملازم - دیوانی یا انتظامی صیغے کے -",
+   "ex": []
+  },
+  {
+   "w": "Civilization",
+   "pron": "sivi-li-zə-shən",
+   "pos": "n.",
+   "def": "Social development",
+   "ur": "تمدن - شائستگی - تہذیب - انسانیت -",
+   "ex": []
   }
  ],
  "urdu_english": [
