@@ -107083,7 +107083,7 @@
    "pron": "",
    "pos": "",
    "def": "",
-   "ur": "بڑے باپ کا زا بیٹا -",
+   "ur": "بڑے باپ کا زا بیٹا - جیسا باپ ویسا بیٹا -",
    "ex": []
   },
   {
@@ -121980,6 +121980,1454 @@
    "pos": "adj.",
    "def": "",
    "ur": "جنگجویی کی ذہنیت سے - وطن پرستانہ -",
+   "ex": []
+  },
+  {
+   "w": "Chaw",
+   "pron": "cho",
+   "pos": "v.t., i. & n.",
+   "def": "Chew, utterly defeat",
+   "ur": "چبا کر کھا جانا - چبانا - چابنا - شکست کھا جانا -",
+   "ex": []
+  },
+  {
+   "w": "Cheap",
+   "pron": "chep",
+   "pos": "adj.",
+   "def": "Inexpensive",
+   "ur": "سستا - کم قیمت - ارزان - آسانی سے حاصل ہونے والا - نکما - فرسودہ - سستے داموں کا - کم دام کا -",
+   "ex": []
+  },
+  {
+   "w": "Cheap and nasty",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "سستا اور نکما -",
+   "ex": []
+  },
+  {
+   "w": "Cheap jack",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "پھیری والا -",
+   "ex": []
+  },
+  {
+   "w": "Cheap trip",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کم کرایہ دیکھ کر تفریحی سفر کرنا - ارزان سفر -",
+   "ex": []
+  },
+  {
+   "w": "Feel cheap",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "حقیر - شرمندہ - افسردہ - پژمردہ -",
+   "ex": []
+  },
+  {
+   "w": "Hold cheap",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ادنیٰ سمجھنا - بے قدر جاننا - حقیر جاننا -",
+   "ex": []
+  },
+  {
+   "w": "Cheapish",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "نکما - ارزان - گھٹیا -",
+   "ex": []
+  },
+  {
+   "w": "Cheaply",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "سستا - کم قیمت پر -",
+   "ex": []
+  },
+  {
+   "w": "Cheapness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "ارزانی - بے قدری - سستا پن -",
+   "ex": []
+  },
+  {
+   "w": "Cheapen",
+   "pron": "chep-en",
+   "pos": "v.t. & i.",
+   "def": "Lower price",
+   "ur": "گھٹانا - سستا کرنا - قیمت کم کرنا - ارزان کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Cheat",
+   "pron": "chet",
+   "pos": "n.v., t. & i.",
+   "def": "Trick. fraud, swindle",
+   "ur": "چال - دھوکا - جھانسا - دم - دغا - عیاری - دھوکے باز - جعلساز - ٹھگ - چالباز - تاش کے کھیل میں دھوکا دینا - ٹھگنا - دغابازی کرنا - خرید و فروخت میں بے ایمانی کرنا - ڈنڈی مارنا - تکن یا وقت کو بہلاوا دینا - اس طرح مشغول ہونا کہ تکن محسوس نہ ہو -",
+   "ex": []
+  },
+  {
+   "w": "Check",
+   "pron": "chek",
+   "pos": "interj. & n.",
+   "def": "Exposure of king to attack (chess)",
+   "ur": "(شطرنج) شہ - کشت - کشت کہنا - حرکت میں رکاوٹ - ناگہانی روک - اڑچن - خفیف فوجی شکست - روک - تعرض - سدباب - مزاحمت کرنے والا - رکھنے والا - جانچ پڑتال - مقابلہ (تاش) شرط کا روپیہ رکھنے کا فقرہ -",
+   "ex": []
+  },
+  {
+   "w": "Check",
+   "pron": "chek",
+   "pos": "v. t. & i.",
+   "def": "Threaten opponent's king",
+   "ur": "(شطرنج) شہ دینا - کشت دینا - یکایک روک دینا - شکاری کتوں کا بو نہ پا کر رک جانا - روکنا - باز رکھنا - جانچنا - جائزہ لینا - مقابلہ کرنا - تنقیح کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Check",
+   "pron": "chek",
+   "pos": "n.",
+   "def": "Cross lined fabric",
+   "ur": "خانہ دار وضع کا کپڑا - چوخانہ کپڑا -",
+   "ex": []
+  },
+  {
+   "w": "Checkmate",
+   "pron": "chek-mat",
+   "pos": "interj., n. & v.",
+   "def": "check to king",
+   "ur": "(شطرنج) ایسی شہ جس سے مات ہو جائے - کشت دینا - ہرا دینا - مات دینا -",
+   "ex": []
+  },
+  {
+   "w": "Checker board",
+   "pron": "cheker-bord",
+   "pos": "n.",
+   "def": "Board for playing chess",
+   "ur": "شطرنج کا تختہ - شطرنج کی بساط -",
+   "ex": []
+  },
+  {
+   "w": "Cheddar",
+   "pron": "ched-er",
+   "pos": "n.",
+   "def": "Kind of cheese",
+   "ur": "ولایتی پنیر - ایک قسم کا پنیر -",
+   "ex": []
+  },
+  {
+   "w": "Cheek",
+   "pron": "chek",
+   "pos": "n. & v. t.",
+   "def": "Side of face below eyes",
+   "ur": "عارض - رخسار - گال - شوخ چشمی - گستاخی - گستاخانہ گفتگو - شکنجہ یا زبور کے دندنے جو ایک دوسرے میں بیٹھ جائیں -",
+   "ex": []
+  },
+  {
+   "w": "Cheekily",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "گستاخی سے - ڈھٹائی سے - شوخ چشمی سے -",
+   "ex": []
+  },
+  {
+   "w": "Cheekiness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "شوخی - گستاخی - جسارت -",
+   "ex": []
+  },
+  {
+   "w": "Cheeky",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "شوخ - گستاخ - ڈھیٹ -",
+   "ex": []
+  },
+  {
+   "w": "Cheep",
+   "pron": "chep",
+   "pos": "n. & v.i.",
+   "def": "Shrill feeble note",
+   "ur": "چیں چیں کرنا - پرندوں کے بچوں کی باریک آواز -",
+   "ex": []
+  },
+  {
+   "w": "Cheeper",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "چوزہ - تیتر کا بچہ -",
+   "ex": []
+  },
+  {
+   "w": "Cheer",
+   "pron": "cher",
+   "pos": "n.",
+   "def": "Frame of mind",
+   "ur": "دل و دماغ اور مزاج کی کیفیت - خوشی - مزاج - ضیافت - تواضع - طعام - خوراک - کھانا - نعرہ تحسین - واہ وا - شاباش -",
+   "ex": []
+  },
+  {
+   "w": "Be of good cheer",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "دل کڑا رکھنا - جی نہ ہارنا -",
+   "ex": []
+  },
+  {
+   "w": "Make good cheer",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "خوب کھاؤ پیو - مزے اڑاؤ -",
+   "ex": []
+  },
+  {
+   "w": "The fewer the better cheer",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "جتنے آدمی کم اتنا ہی کھانے کو زیادہ -",
+   "ex": []
+  },
+  {
+   "w": "Cheer",
+   "pron": "cher",
+   "pos": "v. t. & i.",
+   "def": "Comfort",
+   "ur": "دلاسا دینا - دلجمعی کرنا - تسلی دینا - جی خوش کرنا - دلداری کرنا - دل بڑھانا - ہمت بندھانا - ترغیب دینا - تحسین و آفرین کرنا - مرحبا کہنا - ہمت بندھی رکھنا -",
+   "ex": []
+  },
+  {
+   "w": "Cheerful",
+   "pron": "cher-ful",
+   "pos": "adj.",
+   "def": "In good spirits",
+   "ur": "خوش گوار - شادمان - خوش - شاد - فرحت بخش - زندہ دل - روح پرور - خوش مزاج -",
+   "ex": []
+  },
+  {
+   "w": "Cheerfully",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "خندہ پیشانی سے - زندہ دلی سے - خوش دلی سے -",
+   "ex": []
+  },
+  {
+   "w": "Cheerfulness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "شادمانی - خوش مزاجی - زندہ دلی -",
+   "ex": []
+  },
+  {
+   "w": "Cheerless",
+   "pron": "cher-les",
+   "pos": "adj.",
+   "def": "Gloomy",
+   "ur": "بے رونق - شکستہ حال - افسردہ دل - تیرہ و تار - بے نور -",
+   "ex": []
+  },
+  {
+   "w": "Cheerlessly",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "افسردہ دلی سے - مردہ دلی سے -",
+   "ex": []
+  },
+  {
+   "w": "Cheerlessness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "بے نوری - بے رونقی - افسردگی -",
+   "ex": []
+  },
+  {
+   "w": "Cheery",
+   "pron": "cher-i",
+   "pos": "adj.",
+   "def": "Lively in spirits",
+   "ur": "خندہ رو - شادمان - خوش و خرم - ہنس مکھ - زندہ دل - بشاش - بشاش -",
+   "ex": []
+  },
+  {
+   "w": "Cheerily",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "خوش مزاجی سے - زندہ دلی سے -",
+   "ex": []
+  },
+  {
+   "w": "Cheeriness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "خندہ روئی - خوش مزاجی - زندہ دلی -",
+   "ex": []
+  },
+  {
+   "w": "Cheese",
+   "pron": "chez",
+   "pos": "n.",
+   "def": "Cake or ball of pressed curd",
+   "ur": "خطمی کا پھول - پنیر -",
+   "ex": []
+  },
+  {
+   "w": "Bread and cheese",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "مادہ غذا - دال روٹی -",
+   "ex": []
+  },
+  {
+   "w": "Chalk and cheese",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "واضح اختلاف - گدھے گھوڑے کا سا فرق -",
+   "ex": []
+  },
+  {
+   "w": "Cheese, cheese it",
+   "pron": "chez",
+   "pos": "v.t.",
+   "def": "Give over",
+   "ur": "ٹھہرو - جانے دو - چھوڑ دو -",
+   "ex": []
+  },
+  {
+   "w": "Cheesy",
+   "pron": "chez-i",
+   "pos": "adj.",
+   "def": "Like cheese",
+   "ur": "بانکا - طرح دار - پنیر کی طرح پنیر سا - چھیلا - بنا ٹھنا - وضعدار -",
+   "ex": []
+  },
+  {
+   "w": "Cheetah",
+   "pron": "cheta",
+   "pos": "n.",
+   "def": "Kind of leopard",
+   "ur": "تیندوا - چیتا -",
+   "ex": []
+  },
+  {
+   "w": "Cheiropterous",
+   "pron": "ke-rop-ter-as",
+   "pos": "adj.",
+   "def": "With membraned hands serving as wings",
+   "ur": "چمگادڑوں کی قسم کا - خفاشی -",
+   "ex": []
+  },
+  {
+   "w": "Chela",
+   "pron": "chala",
+   "pos": "n.",
+   "def": "Disciple",
+   "ur": "ہندو اور بدھ مت کا پیرو - چیلا - نو آموز شاگرد -",
+   "ex": []
+  },
+  {
+   "w": "Chemical",
+   "pron": "kemi-kal",
+   "pos": "adj. & n.",
+   "def": "Of relating to chemistry",
+   "ur": "کیمیا کے متعلق - کیمیاوی اشیاء - وہ اشیاء جو کیمیاوی اعمال سے حاصل ہوں یا ان میں استعمال کی جائیں -",
+   "ex": []
+  },
+  {
+   "w": "Chemically",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "از روئے کیمیا - کیمیاوی طریقہ سے -",
+   "ex": []
+  },
+  {
+   "w": "Chemise",
+   "pron": "shi-mez",
+   "pos": "n.",
+   "def": "Woman's body under garment",
+   "ur": "عورتوں کا زیر جامہ -",
+   "ex": []
+  },
+  {
+   "w": "Chemist",
+   "pron": "kem-ist",
+   "pos": "n.",
+   "def": "Person skilled in chemistry",
+   "ur": "کیمیا دان - دوا ساز - دوا فروش -",
+   "ex": []
+  },
+  {
+   "w": "Chemistry",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "علم کیمیا - رسائن و دیا -",
+   "ex": []
+  },
+  {
+   "w": "Chenille",
+   "pron": "she-nal",
+   "pos": "n.",
+   "def": "Velvety cord",
+   "ur": "مخمل کی جھالر - مخمل کی ڈوری -",
+   "ex": []
+  },
+  {
+   "w": "Cheque",
+   "pron": "chek",
+   "pos": "n.",
+   "def": "Written order to banker to pay",
+   "ur": "چیک - ہنڈی -",
+   "ex": []
+  },
+  {
+   "w": "Chequer",
+   "pron": "chek-er",
+   "pos": "v.t.",
+   "def": "Mark with squares",
+   "ur": "چوخانہ کپڑا بنانا - بساط کی طرح بنانا - رنگ برنگ بنانا - گونا گوں کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Chequer",
+   "pron": "chek-er",
+   "pos": "n.",
+   "def": "Chessboard",
+   "ur": "چارخانہ دار کپڑا - بساط - بساط شطرنج - شطرنجی کپڑا - چوخانہ کپڑا - رنگ برنگ کا کپڑا -",
+   "ex": []
+  },
+  {
+   "w": "Chequered lot, fortune, life",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بوقلموں زندگی - رنگ برنگی زندگی -",
+   "ex": []
+  },
+  {
+   "w": "Cherish",
+   "pron": "cher-ish",
+   "pos": "v.t.",
+   "def": "Foster :",
+   "ur": "پالنا پوسنا - پرورش کرنا - عزیز جاننا - لو لگانے رکھنا -",
+   "ex": []
+  },
+  {
+   "w": "Cheroot",
+   "pron": "sha-root",
+   "pos": "n.",
+   "def": "Cigar with both ends open",
+   "ur": "چروٹ - وہ سگار جسکے دونوں سرے کھلے ہوں -",
+   "ex": []
+  },
+  {
+   "w": "Cherry",
+   "pron": "cher-i",
+   "pos": "n.",
+   "def": "Small Stone fruit",
+   "ur": "سرخی - گیلاس - آلو بالو - شاہ دانہ -",
+   "ex": []
+  },
+  {
+   "w": "Cherry lips",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "لال لب - سرخ لب -",
+   "ex": []
+  },
+  {
+   "w": "Cherry ribbon",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "سرخ فیتہ -",
+   "ex": []
+  },
+  {
+   "w": "Make two bites at a cherry",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ہس و پیش کرنا - جھجکنا -",
+   "ex": []
+  },
+  {
+   "w": "Cherub",
+   "pron": "cher-ab",
+   "pos": "n.",
+   "def": "Angelic being",
+   "ur": "خوبصورت لڑکا - معصوم بچہ - فرشتہ - جسکو علم عطا کیا گیا - فرشتہ - پردار بچہ -",
+   "ex": []
+  },
+  {
+   "w": "Chess",
+   "pron": "ches",
+   "pos": "n.",
+   "def": "Game of board with pieces",
+   "ur": "شطرنج -",
+   "ex": []
+  },
+  {
+   "w": "Chess-men",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "شطرنج کے مہرے -",
+   "ex": []
+  },
+  {
+   "w": "Chess-board",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "شطرنج کی بساط -",
+   "ex": []
+  },
+  {
+   "w": "Chest",
+   "pron": "chest",
+   "pos": "n.",
+   "def": "Strong box",
+   "ur": "لوہے کی پیٹی - پیٹی - صندوق - بڑا مضبوط صندوق -",
+   "ex": []
+  },
+  {
+   "w": "Carpenter's chest",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بڑھئی کا اوزار رکھنے کا صندوق -",
+   "ex": []
+  },
+  {
+   "w": "Medicine chest",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "دواؤں کا صندوق -",
+   "ex": []
+  },
+  {
+   "w": "Chestnut",
+   "pron": "ches-nut",
+   "pos": "n. & adj.",
+   "def": "Nut bearing tree",
+   "ur": "شاہ بلوط کا درخت - شاہ بلوط - شاہ بلوط کا پھل - سرخی مائل بھورا - کمیت گھوڑا - فرسودہ قصہ -",
+   "ex": []
+  },
+  {
+   "w": "Chevalier",
+   "pron": "she-val-er",
+   "pos": "n.",
+   "def": "Member of certain orders of knighthood",
+   "ur": "سور - ویر - بہادر طبقہ - امراء کا نوجوان سپاہی - ایک قسم کا خطاب پانے والا نائٹ -",
+   "ex": []
+  },
+  {
+   "w": "Chew",
+   "pron": "choo",
+   "pos": "v.t., i. & n.",
+   "def": "Work about between teeth",
+   "ur": "چابنا - چبانا - جگالی کرنا - متفرق رہنا - غور کرنا - سوچنا - سوچ بچار کرنا - جگالی - چبا کر کھا جانا -",
+   "ex": []
+  },
+  {
+   "w": "Chianti",
+   "pron": "ke-anti",
+   "pos": "n.",
+   "def": "An Italian wine",
+   "ur": "سرخ اطالوی شراب -",
+   "ex": []
+  },
+  {
+   "w": "Chicanery",
+   "pron": "shi-kan-eri",
+   "pos": "n.",
+   "def": "Legal trickery",
+   "ur": "ٹال مٹول - ہیر پھیر - بے معنی بحث - لفظی بحث -",
+   "ex": []
+  },
+  {
+   "w": "Chick",
+   "pron": "chik",
+   "pos": "n.",
+   "def": "Young bird",
+   "ur": "چوزہ - مرغی کا چوزا - پٹھا -",
+   "ex": []
+  },
+  {
+   "w": "The chicks",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کسی خاندان کے ننھے ننھے بچے -",
+   "ex": []
+  },
+  {
+   "w": "Chicken",
+   "pron": "chik-en",
+   "pos": "n.",
+   "def": "Young domestic fowl",
+   "ur": "مرغ - چوزہ - چوزے کا گوشت - چوزہ -",
+   "ex": []
+  },
+  {
+   "w": "No chicken, not a chicken",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کوئی بچہ نہیں ہے -",
+   "ex": []
+  },
+  {
+   "w": "Chide",
+   "pron": "chid",
+   "pos": "v t. & i.",
+   "def": "Speak scoldingly",
+   "ur": "ملامت کرنا - سرزنش - جھڑکنا - برا بھلا کہنا - جھلاتی سنانا -",
+   "ex": []
+  },
+  {
+   "w": "Chief",
+   "pron": "chef",
+   "pos": "n.",
+   "def": "Head man, leader",
+   "ur": "رہنما - قوم کا سردار - حاکم - امیر - سردار - سکھیا - چودھری - قبیلہ کا بڑا آدمی - بڑا افسر -",
+   "ex": []
+  },
+  {
+   "w": "Chief",
+   "pron": "chef",
+   "pos": "adj. & adv.",
+   "def": "Prominent",
+   "ur": "صدر - بڑا اہم - بلحاظ خطاب و اہمیت - اعلیٰ - پیش پیش - سر بر آوردہ - خاص طور سے - بالخصوص - اولاً -",
+   "ex": []
+  },
+  {
+   "w": "Chiefly",
+   "pron": "chef-li",
+   "pos": "adj.",
+   "def": "",
+   "ur": "سردارانہ - امیرانہ -",
+   "ex": []
+  },
+  {
+   "w": "Chiefly",
+   "pron": "chef-li",
+   "pos": "adv.",
+   "def": "",
+   "ur": "غالباً - خاص طور پر - بالخصوص - خصوصاً - اولاً -",
+   "ex": []
+  },
+  {
+   "w": "Chieftain",
+   "pron": "chef-tan",
+   "pos": "n.",
+   "def": "Military leader, captain of robbers",
+   "ur": "سکھیا - سالار - سردار - سرخیل - قائد - فوجی سردار - ڈاکوؤں کا سرغنہ - غیر متمدن قبائل کا سردار -",
+   "ex": []
+  },
+  {
+   "w": "Chieftaincy",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "سردار کا علاقہ - سردار کا حلقہ اثر - چودھراپٹ -",
+   "ex": []
+  },
+  {
+   "w": "Chieftainship, chieftainry",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "سرداری -",
+   "ex": []
+  },
+  {
+   "w": "Chiffonier",
+   "pron": "shifa-ner",
+   "pos": "n.",
+   "def": "Low cupboard",
+   "ur": "ششمہ - خانہ دار - چھوٹی الماری -",
+   "ex": []
+  },
+  {
+   "w": "Chilblain",
+   "pron": "chil-blan",
+   "pos": "n.",
+   "def": "Itching sore on hand, foot etc.",
+   "ur": "سردی سے ہاتھ پاؤں کا پھٹنا -",
+   "ex": []
+  },
+  {
+   "w": "Chilblained",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "سردی سے ہاتھ پاؤں پھٹے ہوئے - زخمی -",
+   "ex": []
+  },
+  {
+   "w": "Chilblainy",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "سردی سے ہاتھ پاؤں پھٹے ہوئے - زخمی -",
+   "ex": []
+  },
+  {
+   "w": "Child",
+   "pron": "child",
+   "pos": "n.",
+   "def": "New born human being",
+   "ur": "بچہ - پالک - طفل مزاج - شخص - سادہ لوح - بیٹا - بیٹی - اولاد - آل اولاد - نسل -",
+   "ex": []
+  },
+  {
+   "w": "Child's play",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "آسان کام - بچوں کا کھیل -",
+   "ex": []
+  },
+  {
+   "w": "Fancy's child",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "تخیل کا نتیجہ - نتیجہ فکر -",
+   "ex": []
+  },
+  {
+   "w": "Childless",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "بے اولاد - لاولد -",
+   "ex": []
+  },
+  {
+   "w": "Childlessness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "بے اولادی - لاولدی -",
+   "ex": []
+  },
+  {
+   "w": "Childhood",
+   "pron": "child-hood",
+   "pos": "n.",
+   "def": "Child state",
+   "ur": "بچپن کا زمانہ - بچپن - طفلی -",
+   "ex": []
+  },
+  {
+   "w": "Second childhood",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "سترا بہترا - بڑھاپا پنھوس -",
+   "ex": []
+  },
+  {
+   "w": "Childish",
+   "pron": "child-ish",
+   "pos": "adj.",
+   "def": "Proper to a child",
+   "ur": "طفل مزاج - بچوں جیسا - بچوں کی طرح -",
+   "ex": []
+  },
+  {
+   "w": "Childlike",
+   "pron": "child-lik",
+   "pos": "adj.",
+   "def": "Having innocence, frankness",
+   "ur": "صاف دل - مخلص - معصوم -",
+   "ex": []
+  },
+  {
+   "w": "Childly",
+   "pron": "child-li",
+   "pos": "adj.",
+   "def": "Like a child",
+   "ur": "بچے کی مانند - طفلانہ - طور پر بچے کی مثل -",
+   "ex": []
+  },
+  {
+   "w": "Chill",
+   "pron": "chil",
+   "pos": "n.",
+   "def": "Cold sensation",
+   "ur": "لرزہ - ٹھنڈ - ٹھٹھرابٹ - کپکپی - سردی - پانی یا ہوا کی ناگوار خنکی - افسردگی - پژمردگی - سرد مہری - رکھائی -",
+   "ex": []
+  },
+  {
+   "w": "Cast a chill over",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "اداسی چھا جانا -",
+   "ex": []
+  },
+  {
+   "w": "Take chill off water",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "پانی شیر گرم کرنا - پانی کی ٹھنڈک مارنا -",
+   "ex": []
+  },
+  {
+   "w": "Chill",
+   "pron": "chil",
+   "pos": "adj.",
+   "def": "Very cold",
+   "ur": "بے حس - برف - جاڑے کا مارا - بیخ بستہ - بہت ٹھنڈا - ٹھنڈے خون کا - سرد مزاج -",
+   "ex": []
+  },
+  {
+   "w": "Chillness",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ٹھنڈک - خنکی - ٹھہرن - بے رخی - رکھائی - سرد مہری - سرد مزاجی - سردی - خنکی -",
+   "ex": []
+  },
+  {
+   "w": "Chill",
+   "pron": "chil",
+   "pos": "v.t. & i.",
+   "def": "Make cold,",
+   "ur": "سرد ہو جانا - سرد کرنا - ٹھنڈا کرنا - سردی سے ٹھٹھر جانا - افسردہ کرنا یا ہونا - دل توڑنا - نا امید کرنا یا ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Chilli",
+   "pron": "chili",
+   "pos": "n.",
+   "def": "Dried pod of capsicum",
+   "ur": "سرخ مرچ - لال مرچ - فلفل سرخ -",
+   "ex": []
+  },
+  {
+   "w": "Chilly",
+   "pron": "chili",
+   "pos": "adj.",
+   "def": "Feeling rather cold",
+   "ur": "سرد مہر - سرد مزاج - ٹھنڈا ٹھنڈا -",
+   "ex": []
+  },
+  {
+   "w": "Chime",
+   "pron": "chim",
+   "pos": "n.",
+   "def": "Set of attuned bells",
+   "ur": "ہم توافق - موافقت - ہم آہنگی - گھنٹوں کی سریلی جھنکار -",
+   "ex": []
+  },
+  {
+   "w": "Chime",
+   "pron": "chim",
+   "pos": "v.t. & i.",
+   "def": "Make bell sounds",
+   "ur": "گھنٹیوں سے سریلی آواز نکالنا - گھنٹیوں کا بجنا یا بجانا - گھنٹہ بجا کر وقت بتانا - گجر بجانا - بے ارادہ کسی چیز کا بار بار دہرانا - رخ لگانا - ہم نوا ہونا - بات میں بات ملانا - سر میں سر ملانا -",
+   "ex": []
+  },
+  {
+   "w": "Chimera",
+   "pron": "kime-ra",
+   "pos": "n.",
+   "def": "Monster",
+   "ur": "عجیب الخلقت - خیال باطل - وہم - ہوا -",
+   "ex": []
+  },
+  {
+   "w": "Chimerical",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "بے اصل - موہوم - وہمی - بے بنیاد -",
+   "ex": []
+  },
+  {
+   "w": "Chimerically",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "خیالی طور پر - متوہمانہ -",
+   "ex": []
+  },
+  {
+   "w": "Chimney",
+   "pron": "chim-ni",
+   "pos": "n.",
+   "def": "Flue carrying off smoke, steam",
+   "ur": "آتشدان - دود کشی - لیمپ کی چمنی - مٹی کی چمنی - آتش فشاں کا دہانہ - نلوا -",
+   "ex": []
+  },
+  {
+   "w": "Chimpanzee",
+   "pron": "chim-pan-ze",
+   "pos": "n.",
+   "def": "African ape",
+   "ur": "چمپینزی - بوزنہ - بن مانس - افریقی بندر جو انسان سے مشابہ ہوتا ہے -",
+   "ex": []
+  },
+  {
+   "w": "Chin",
+   "pron": "chin",
+   "pos": "n.",
+   "def": "Front of lower jaw",
+   "ur": "ٹھوڑی - ٹھڈی -",
+   "ex": []
+  },
+  {
+   "w": "Up to the chin, chin deep",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "از سر تا پا ڈوبا ہوا - گلے تک -",
+   "ex": []
+  },
+  {
+   "w": "China",
+   "pron": "chi-na",
+   "pos": "n. & adj.",
+   "def": "From China",
+   "ur": "چینی کے برتن - چینی مٹی کا - چین کا - چینی -",
+   "ex": []
+  },
+  {
+   "w": "Chinaman",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "(کریکٹ) بائیں ہاتھ سے آف بریک گیند جو دھوکا دے - چین کا رہنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Chinamania",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "ملک چین کا خبط - چین پرستی -",
+   "ex": []
+  },
+  {
+   "w": "Chinamaniac",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "چین کا دیوانہ - چین پرستی کرنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Chine",
+   "pron": "chin",
+   "pos": "n.",
+   "def": "Backbone or part of it",
+   "ur": "ریڑھ کے دونوں طرف کا گوشت - ریڑھ کا بانس - ریڑھ کی ہڈی -",
+   "ex": []
+  },
+  {
+   "w": "Chinee",
+   "pron": "chini",
+   "pos": "n.",
+   "def": "Chinese",
+   "ur": "چین کا باشندہ -",
+   "ex": []
+  },
+  {
+   "w": "Chinese",
+   "pron": "chi-nez",
+   "pos": "n. & adj.",
+   "def": "Of China",
+   "ur": "چینی زبان - چینی - چین کے رہنے والے -",
+   "ex": []
+  },
+  {
+   "w": "Chinese Lantern",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "رنگ برنگی فانوس - چینی قندیل -",
+   "ex": []
+  },
+  {
+   "w": "Chink",
+   "pron": "chingk",
+   "pos": "n.",
+   "def": "Crevice",
+   "ur": "چھید - دراز - رخنہ - سوراخ - شکاف -",
+   "ex": []
+  },
+  {
+   "w": "Chink",
+   "pron": "chingk",
+   "pos": "n., v.t. & i.",
+   "def": "Sound as of glasses or coins",
+   "ur": "چھن چھنا کا - چھن چھن - چھنچھلاپٹ - کانچ کے برتنوں کی جھنکار - روپیہ بجانے کی آواز - نقد روپیہ",
+   "ex": []
+  },
+  {
+   "w": "Chintz",
+   "pron": "chints",
+   "pos": "n. & adj.",
+   "def": "Cotton cloth printed with patterns",
+   "ur": "چنٹ - چھپا ہوا کپڑا - چھینٹ کا -",
+   "ex": []
+  },
+  {
+   "w": "Chip",
+   "pron": "chip",
+   "pos": "n.",
+   "def": "Small piece of wood or stone",
+   "ur": "پرزہ - پتھر یا لکڑی کا ٹکڑا - قاش - قنار - لکڑی کی کھپچی - چینی کے برتن کا ٹوٹا ہوا ٹکڑا -",
+   "ex": []
+  },
+  {
+   "w": "Dry as a chip",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "غیر دلچسپ - خشک - پھیکا - بے مزا -",
+   "ex": []
+  },
+  {
+   "w": "Chip",
+   "pron": "chip",
+   "pos": "v.t. & i.",
+   "def": "Cut wood, break stone",
+   "ur": "پتھر توڑنا - کاٹنا - چھیلنا - لکڑی کا کاٹنا - لکڑی چھیلنا - چینی اتارنا - کمزور ہونا - خستہ ہونا - نقش تراشنا - انڈے پھوڑنا - جیسے چوزے انڈے پھوڑ کر نکلتے ہیں -",
+   "ex": []
+  },
+  {
+   "w": "Chippy",
+   "pron": "chip-i",
+   "pos": "adj.",
+   "def": "Dry, uninteresting",
+   "ur": "بے لطف - بے مزہ - خشک - نشے کے بعد پھسا - تھکا اور مٹلی درتا ہوا - تنک مزاج - زود رنج - چڑ چڑا -",
+   "ex": []
+  },
+  {
+   "w": "Chirognomy",
+   "pron": "kirag-na-mi",
+   "pos": "n.",
+   "def": "Palmistry",
+   "ur": "ہاتھ دیکھنا - ہر غیب کا حل بتانا - ہاتھ دیکھنا - دست شناسی -",
+   "ex": []
+  },
+  {
+   "w": "Chirograph",
+   "pron": "ki-rag-raf",
+   "pos": "n.",
+   "def": "Documents of various kinds",
+   "ur": "دستاویز - تحریر - مختلف قسم کی دستاویزیں -",
+   "ex": []
+  },
+  {
+   "w": "Chirography",
+   "pron": "ki-rag-rafi",
+   "pos": "n.",
+   "def": "Art of writings",
+   "ur": "دستاویز نویسی کا علم - علم تحریر -",
+   "ex": []
+  },
+  {
+   "w": "Chirology",
+   "pron": "ki-ro-la-gi",
+   "pos": "n.",
+   "def": "Language of gestures",
+   "ur": "اشاروں سے باتیں کرنے کا علم - اشاروں کی زبان -",
+   "ex": []
+  },
+  {
+   "w": "Chiropodist",
+   "pron": "kiro-pa-dist",
+   "pos": "n.",
+   "def": "Treater of hands and feet",
+   "ur": "ہاتھ پاؤں کے علاج کا ماہر - پاؤں - ناخن اور گھٹنوں کا معالج -",
+   "ex": []
+  },
+  {
+   "w": "Chiropody",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "ہاتھ پاؤں ناخنوں اور گھٹنوں کا علاج -",
+   "ex": []
+  },
+  {
+   "w": "Chirp",
+   "pron": "ch-arp",
+   "pos": "n., v.t. & i.",
+   "def": "Make short sharp notes",
+   "ur": "چوں چوں کرنا - چڑیوں کی چوں چوں - چہچہانا - خوشی کا اظہار کرنا - خوش ہو کر باتیں کرنا - دھیمی آواز سے بولنا -",
+   "ex": []
+  },
+  {
+   "w": "Chirpy",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "خوش و خرم - شادمان - زندہ دل -",
+   "ex": []
+  },
+  {
+   "w": "Chirpiness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "زندہ دلی - شادمانی - بشاشت -",
+   "ex": []
+  },
+  {
+   "w": "Chirr",
+   "pron": "char",
+   "pos": "n. & v.i.",
+   "def": "Make prolong trilling sound",
+   "ur": "ٹڈے کی سی آواز نکالنا - دیر تک چہچہانا - چیں چیں کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Chirrup",
+   "pron": "chir-ap",
+   "pos": "v.i. & n.",
+   "def": "Make series of chirps",
+   "ur": "چوں چوں کرنا - چرکنا - آنکھوں آغوش کرنا - ٹھیٹر میں تنخواہ لے کر تعریف کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Chisel",
+   "pron": "chiz-l",
+   "pos": "n. & v.t.",
+   "def": "Cut with tool with square bevelled end",
+   "ur": "چھینی - ٹانکی - بولف - چھینی سے لکڑی، پتھر توڑنا - دھوکا دینا - دغا دینا - ٹھگنا -",
+   "ex": []
+  },
+  {
+   "w": "Chiselled features",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "تراشے ہوئے نقوش - خوبصورت ناک نقشہ -",
+   "ex": []
+  },
+  {
+   "w": "Chit",
+   "pron": "chit",
+   "pos": "n.",
+   "def": "Young child",
+   "ur": "پست قد نازک عورت - کمسن - ننھا - ننھا بچہ -",
+   "ex": []
+  },
+  {
+   "w": "Chit-chiti",
+   "pron": "chit",
+   "pos": "n.",
+   "def": "Written paper",
+   "ur": "یاد داشت - پرچہ - رقعہ - چٹھی -",
+   "ex": []
+  },
+  {
+   "w": "Chit chat",
+   "pron": "chit-chat",
+   "pos": "n.",
+   "def": "Light conversation",
+   "ur": "باتیں - بات چیت - گپ شپ -",
+   "ex": []
+  },
+  {
+   "w": "Chivalrous",
+   "pron": "shiv-al-ras",
+   "pos": "adj.",
+   "def": "Gallant",
+   "ur": "عالی حوصلہ - اولوالعزم - نڈر - بہادر - بااخلاق - جان باز - خبطی - وہمی - شیخ چلی کا سا -",
+   "ex": []
+  },
+  {
+   "w": "Chivalrously",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "بے غرضانہ - اولوالعزمی سے - جانبازی سے -",
+   "ex": []
+  },
+  {
+   "w": "Chivalry",
+   "pron": "shiv-al-ri",
+   "pos": "n.",
+   "def": "Gallantry",
+   "ur": "بانک پن - دلاوری - بہادری - اولوالعزمی - نائٹوں کی سی خوبیاں - زیر دستوں کی حمایت - صنف نازک کے لیے جانبازی -",
+   "ex": []
+  },
+  {
+   "w": "Flower of chivalry",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کسی قوم کے جانباز سپاہی -",
+   "ex": []
+  },
+  {
+   "w": "Chloroform",
+   "pron": "klo-ro-form",
+   "pos": "n.",
+   "def": "Anaesthetic liquid",
+   "ur": "بے ہوشی کی دوا - بے ہوش کر دینے والی دوا -",
+   "ex": []
+  },
+  {
+   "w": "Chloroformist",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "دوا سونگھانے والا - دوا دے کر بے ہوش کرنے والا - کلوروفارم دینے والا -",
+   "ex": []
+  },
+  {
+   "w": "Chocolate",
+   "pron": "choka-lit",
+   "pos": "adj. & n.",
+   "def": "Cake of cacao-seed paste, dark brown",
+   "ur": "کاکڑی - لاکھ کی - ایک قسم کی انگریزی مٹھائی -",
+   "ex": []
+  },
+  {
+   "w": "Choice",
+   "pron": "chois",
+   "pos": "n.",
+   "def": "Selection",
+   "ur": "پسند کرنے کا حق - پسندیدگی - پسند - انتخاب - چیدہ - برگزیدہ - منتخب - ممتاز - چارہ - علاج - متبادل صورت -",
+   "ex": []
+  },
+  {
+   "w": "At choice",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "حسب مرضی -",
+   "ex": []
+  },
+  {
+   "w": "Have no choice",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "پسند نا پسند کی بات نہیں جو بھی مل جائے -",
+   "ex": []
+  },
+  {
+   "w": "Have one's choice",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "اپنی مرضی سے انتخاب کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Hobson's choice",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "لو تو یہ نہیں تو چھوڑ دو - یہ لو ورنہ کچھ نہیں - لو تو یہ لو - ورنہ نہیں -",
+   "ex": []
+  },
+  {
+   "w": "Choice",
+   "pron": "chois",
+   "pos": "adj.",
+   "def": "Of picked quality",
+   "ur": "پسندیدہ - منتخب - عمدہ - نہایت اعلیٰ - نہایت موزوں -",
+   "ex": []
+  },
+  {
+   "w": "Choicely",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "مناسب طریقے سے - کمال احتیاط سے -",
+   "ex": []
+  },
+  {
+   "w": "Choiceness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "خوبی - عمدگی - نفاست -",
+   "ex": []
+  },
+  {
+   "w": "Choir",
+   "pron": "kwir",
+   "pos": "n., v.t. & i.",
+   "def": "Band of singers in church service",
+   "ur": "گرجوں میں گانے والوں کا طائفہ - عبادت کے وقت گانے والوں کی منڈلی - سرودگاہ - مذہبی گیت گانا - سامع خانہ -",
+   "ex": []
+  },
+  {
+   "w": "Choke",
+   "pron": "chok",
+   "pos": "v.t., i. & n.",
+   "def": "Suffocate",
+   "ur": "ٹیڑھا دبانا - گلا گھونٹنا - گلا گھونٹنا - دم رکنا - دم گھٹنا - دم رک جانا - جذبات کو روکنا - ضبط کرنا - پھرول کی بندوق کی تنگ نال - خلیج یا کھاڑی کا ریت سے بھر جانا - اٹک جانا - کھچا کھچ بھرنا -",
+   "ex": []
+  },
+  {
+   "w": "Choker",
+   "pron": "chok-ar",
+   "pos": "n.",
+   "def": "Stand-up collar",
+   "ur": "گلا دبانے والا - گلا گھونٹنے والا - سخت کھڑا کالر - ضبط کرنے والا - باز رکھنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Choler",
+   "pron": "kol-ar",
+   "pos": "n.",
+   "def": "One of the four humours, bile",
+   "ur": "صفرا - پت - غصہ - طیش - بد مزاجی - چڑچڑا پن -",
+   "ex": []
+  },
+  {
+   "w": "Cholera",
+   "pron": "kol-ar-a",
+   "pos": "",
+   "def": "Disorder with diarrhoea and vomiting",
+   "ur": "ہیضہ - قے - قے دست کی بیماری -",
+   "ex": []
+  },
+  {
+   "w": "Choleric",
+   "pron": "kol-ar-ik",
+   "pos": "adj.",
+   "def": "Angry",
+   "ur": "چڑچڑا - تیز مزاج - غصیلا -",
+   "ex": []
+  },
+  {
+   "w": "Cholerine",
+   "pron": "kol-ar-in",
+   "pos": "n.",
+   "def": "Summer cholera",
+   "ur": "بد ہضمی - سوئے ہضم - قے -",
+   "ex": []
+  },
+  {
+   "w": "Choose",
+   "pron": "chooz",
+   "pos": "v.t. & i.",
+   "def": "Select",
+   "ur": "چھانٹنا - منتخب کرنا - پسند کرنا - چن لینا - کسی صفت کی وجہ سے چن لینا - کسی کام کرنے کا فیصلہ کرنا یا آمادہ ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Pick and choose",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ہوشیاری سے چھانٹنا -",
+   "ex": []
+  },
+  {
+   "w": "Chop",
+   "pron": "chop",
+   "pos": "v.t. & i.",
+   "def": "Cut by a blow",
+   "ur": "اڑا دینا - قلم کرنا - کاٹ ڈالنا - الگ کرنا - پارہ پارہ کرنا - قیمہ کرنا - چورا چورا کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Chop",
+   "pron": "chop",
+   "pos": "n.",
+   "def": "Slice of meat",
+   "ur": "ٹکڑا - پارہ - تکا بوٹی - ضرب - چوٹ - وار - ہاتھ - سمندر کی طوفانی موج - جھٹکے دار حرکت -",
+   "ex": []
+  },
+  {
+   "w": "Chop",
+   "pron": "chop",
+   "pos": "v.t. & i., n.",
+   "def": "Be inconstant",
+   "ur": "ادل بدل کرنا - قائم نہ رہنا - ڈگمگانا - رخ بدلنا - بحث میں گریز کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Chopper",
+   "pron": "chop-ar",
+   "pos": "n.",
+   "def": "One who chops",
+   "ur": "تیشہ - تبر - قطع کرنے والا - کاٹنے والا - قصائی کی چوڑی تبر - بغدا - چھرا -",
+   "ex": []
+  },
+  {
+   "w": "Chopsticks",
+   "pron": "chop-stiks",
+   "pos": "n.",
+   "def": "Small slips of ivory or bamboo for eating rice",
+   "ur": "دو پتلی تیلیاں جن سے چینی چاول کھاتے ہیں -",
+   "ex": []
+  },
+  {
+   "w": "Choral",
+   "pron": "ko-ral",
+   "pos": "adj.",
+   "def": "Of song by choir",
+   "ur": "سرود خوانوں کا - قوالوں کا - گیت کا - راگ کا -",
+   "ex": []
+  },
+  {
+   "w": "Chorally",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "مل کر گاتے ہوئے - ساز کے ساتھ گاتے ہوئے - ہم آہنگی کے ساتھ - آواز ملا کر -",
+   "ex": []
+  },
+  {
+   "w": "Choralist",
+   "pron": "kor-al-ist",
+   "pos": "n.",
+   "def": "Chorus singer",
+   "ur": "مل کر گانے والا - طائفے میں گانے والا - طائفے کا گویا -",
+   "ex": []
+  },
+  {
+   "w": "Chord",
+   "pron": "kord",
+   "pos": "n.",
+   "def": "String; Notes sounded together",
+   "ur": "کمان کا چلہ - وتر - ہم آہنگی - دھن - سر - تار - تانت - رنگوں کا موزوں امتزاج - تین یا زیادہ سروں کا ملاپ -",
    "ex": []
   }
  ],
