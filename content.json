@@ -128878,7 +128878,7 @@
    "w": "آلہ"
   },
   {
-   "def": "Male progenitive organ; penis.",
+   "def": "Male progenitive organ; penis; generative organ.",
    "ex": [],
    "pos": "n.m.",
    "pron": "",
@@ -145861,7 +145861,7 @@
    "w": "الٹا پھرنا"
   },
   {
-   "def": "Coal-black; jet black; very black; (Lit.) an inverted iron pan on which bread is baked.",
+   "def": "Coal-black; jet black; very black; (Lit.) an inverted iron pan on which bread is baked; black as the bottom of a frying pan.",
    "ex": [],
    "pos": "adj.",
    "pron": "",
@@ -155320,7 +155320,7 @@
    "w": "باد پیما"
   },
   {
-   "def": "A wind storm; a strong gale.",
+   "def": "A wind storm; a strong gale; tempest.",
    "ex": [],
    "pos": "n.f.",
    "pron": "",
@@ -172078,7 +172078,7 @@
    "w": "بے تقصیر"
   },
   {
-   "def": "Without ceremony; unceremonious; informal; frank.",
+   "def": "Without ceremony; unceremonious; informal; frank; plain.",
    "ex": [],
    "pos": "adj.",
    "pron": "",
@@ -172096,7 +172096,7 @@
    "w": "بے تکلفی"
   },
   {
-   "def": "Lacking discrimination; indiscreet; unwise; rude; uncultured; incivil.",
+   "def": "Lacking discrimination; indiscreet; unwise; rude; uncultured; incivil; unmannerly.",
    "ex": [],
    "pos": "adj.",
    "pron": "",
@@ -185491,7 +185491,7 @@
    "w": "پہلو تہی کرنا",
    "pron": "",
    "pos": "v.",
-   "def": "To withdraw; to evade; to retreat; to refuse; to decline.",
+   "def": "To withdraw; to evade; to retreat; to refuse; to decline; to abstain; to refrain from.",
    "ur": "",
    "ex": [],
    "roman": "pahlū tihī karnā"
@@ -196484,6 +196484,6873 @@
    "ur": "",
    "ex": [],
    "roman": "tafannun"
+  },
+  {
+   "w": "تفنن طبع",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Entertainment; amusement or relaxation.",
+   "ur": "",
+   "ex": [],
+   "roman": "tafannun-ĕ taba'"
+  },
+  {
+   "w": "تفوق",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Superiority; preference.",
+   "ur": "",
+   "ex": [],
+   "roman": "tafawwuq"
+  },
+  {
+   "w": "تفویض",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Committing to another's care; entrusting.",
+   "ur": "",
+   "ex": [],
+   "roman": "tafwīz"
+  },
+  {
+   "w": "تفویض اختیارات",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Delegation of powers.",
+   "ur": "",
+   "ex": [],
+   "roman": "tafwīz-ĕ ikhtiyārāt"
+  },
+  {
+   "w": "تفویضی حکم",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Delegation order.",
+   "ur": "",
+   "ex": [],
+   "roman": "tafwīzī hukm"
+  },
+  {
+   "w": "تفہم",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Understanding; apprehending; conceiving.",
+   "ur": "",
+   "ex": [],
+   "roman": "tafahhum"
+  },
+  {
+   "w": "تفہیم",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Making one understand; teaching; instructing; informing.",
+   "ur": "",
+   "ex": [],
+   "roman": "tafhīm"
+  },
+  {
+   "w": "تقابل",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Encountering; standing face to face; drawn up in opposite camps.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqābul"
+  },
+  {
+   "w": "تقاریب",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "(plu. of تقریب taqrīb); Ceremonies; rites; festivals.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqārīb"
+  },
+  {
+   "w": "تقاریر",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "(plu. of تقریر taqrir); Speeches; discourses.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqārīr"
+  },
+  {
+   "w": "تقاضا",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Demanding payment of a debt; pressing settlement of a demand or claim; exigence; urgency; importunity.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqāzā"
+  },
+  {
+   "w": "تقاضائے سن، عمر یا وقت",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Habits or natural tendencies of different ages (childhood, youth, manhood).",
+   "ur": "",
+   "ex": [],
+   "roman": "taqāzā-ĕ sinn, 'umr yā waqt"
+  },
+  {
+   "w": "تقاضا کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To demand payment of; to dun; to urge; to press.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqāzā karnā"
+  },
+  {
+   "w": "تقاطر",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Dropping continuously; distilling drop by drop.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqātur"
+  },
+  {
+   "w": "تقاوی",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Advances given to cultivators at the time of sowing or for the purchase of implements or digging wells.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqāwī"
+  },
+  {
+   "w": "تقاویم",
+   "pron": "",
+   "pos": "n.m. & f. (A)",
+   "def": "(plu. of تقویم taqwīm). Calendars.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqāwīm"
+  },
+  {
+   "w": "تقدس",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Purity; sanctity; holiness.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqaddus"
+  },
+  {
+   "w": "تقدم",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Priority; precedence; eminence.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqaddum"
+  },
+  {
+   "w": "تقدیر",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Fate; destiny; divine decree; predestination; lot; luck; evaluation.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqdīr"
+  },
+  {
+   "w": "تقدیر آزمانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To try one's luck.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqdīr āzmānā"
+  },
+  {
+   "w": "تقدیر بگڑنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To face adverse circumstances.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqdīr bigāṛnā"
+  },
+  {
+   "w": "تقدیر پھرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To have a change in circumstances (from bad to good or from good to bad).",
+   "ur": "",
+   "ex": [],
+   "roman": "taqdīr phirnā"
+  },
+  {
+   "w": "تقدیر پھوٹ جانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be put in adverse circumstances; to come under an unlucky star; to fall into adversity.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqdīr phūṭ jānā"
+  },
+  {
+   "w": "تقدیر جاگنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To have luck; to have a better lot; to be fortunate or prosperous.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqdīr jāgnā"
+  },
+  {
+   "w": "تقدیر کا پلٹا کھانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "See تقدیر پھرنا taqdīr phirnā.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqdīr kā palṭā khānā"
+  },
+  {
+   "w": "تقدیر کے آگے تدبیر نہیں چلتی",
+   "pron": "",
+   "pos": "prov.",
+   "def": "There is no cure for bad luck.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqdīr ke āge tadbīr nahīṅ chaltī"
+  },
+  {
+   "w": "تقدیس",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Sanctification; purity; sanctity; magnifying.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqdīs"
+  },
+  {
+   "w": "تقدیم",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Giving precedence (to); priority; precedence; performance; presentation.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqdīm"
+  },
+  {
+   "w": "تقرب",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Striving to draw near; nearness; access; approach; propinquity; proximity.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqarrub"
+  },
+  {
+   "w": "تقرب حاصل کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To obtain access or admittance (to).",
+   "ur": "",
+   "ex": [],
+   "roman": "taqarrub hāṣil karnā"
+  },
+  {
+   "w": "تقرر",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Appointment; nomination; fixation.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqarrur"
+  },
+  {
+   "w": "پروانۂ تقرر",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Letter of appointment.",
+   "ur": "",
+   "ex": [],
+   "roman": "parwānah-ĕ taqarrur"
+  },
+  {
+   "w": "تقریب",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Bringing near; occasion; ceremony; festival; motive.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqrīb"
+  },
+  {
+   "w": "تقریباً",
+   "pron": "",
+   "pos": "adv.",
+   "def": "About; nearly; approximately.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqrīban"
+  },
+  {
+   "w": "تقریر",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Speaking; discoursing; oration; recital; speech; argument; reasoning; exposition.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqrir"
+  },
+  {
+   "w": "تقریر کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To speak; to lecture; to discourse.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqrir karnā"
+  },
+  {
+   "w": "تقریری",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Addicted to talking much; talkative; argumentative; oral; verbal.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqrirī"
+  },
+  {
+   "w": "تقسیم",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Division; dividing; distributing; sharing; partition.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqsīm"
+  },
+  {
+   "w": "تقسیم بحصۂ رسدی",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Pro-rata distribution; apportionment.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqsim-ba-hiṣṣah-ĕ-rasadi"
+  },
+  {
+   "w": "تقسیمِ ترکہ",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Distribution of a legacy.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqsim-ĕ tarkah"
+  },
+  {
+   "w": "تقسیمِ کار",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Distribution of work.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqsim-ĕ kar"
+  },
+  {
+   "w": "تقسیم کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To distribute; to divide; to share; to part; to apportion; to assort.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqsim karnā"
+  },
+  {
+   "w": "تقسیمِ مرکب",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Compound division.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqsim-ĕ-murakkab"
+  },
+  {
+   "w": "تقسیمِ مفرد",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Simple division.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqsim-ĕ-mufrad"
+  },
+  {
+   "w": "تقسیمِ مکمل",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Exact distribution; process of division without remainder.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqsim-ĕ mukammal"
+  },
+  {
+   "w": "تقسیم نامہ",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Partition deed.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqsim nāmah"
+  },
+  {
+   "w": "تقسیم ہونا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be divided.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqsim honā"
+  },
+  {
+   "w": "محررِ تقسیم",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Circulating clerk.",
+   "ur": "",
+   "ex": [],
+   "roman": "muharrir-ĕ taqsim"
+  },
+  {
+   "w": "تقصیر",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Error; crime; sin; fault; omission; shortcoming; mistake.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqṣīr"
+  },
+  {
+   "w": "تقصیر وار",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Blamable; faulty; criminal; guilty; convict; culpable.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqṣīr wār"
+  },
+  {
+   "w": "تقطیر",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Causing to dropping; drop by drop distilling; painful discharge of urine in drops.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqṭīr"
+  },
+  {
+   "w": "تقطیع",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Dissection; cutting into parts; scanning of verse; the pause in reading poetry.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqṭi'"
+  },
+  {
+   "w": "تقلید",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Imitation; copy; following in the foot-steps (of); mimicry.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqlīd"
+  },
+  {
+   "w": "تقلید کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To imitate; to ape; to mimic; to copy; to follow.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqlīd karnā"
+  },
+  {
+   "w": "تقویٰ",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Fear of God; guarding oneself from sin; abstinence; piety.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqwā"
+  },
+  {
+   "w": "اہلِ تقویٰ",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Pious and holy people; God-fearing persons; men of piety; the out.",
+   "ur": "",
+   "ex": [],
+   "roman": "ahl-ĕ taqwā"
+  },
+  {
+   "w": "تقویت",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Strengthening; establishing; confirming; confidence; strength; support.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqwiyat"
+  },
+  {
+   "w": "تقویت کرنا یا دینا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To strengthen; to encourage; to back up.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqwiyat karnā yā denā"
+  },
+  {
+   "w": "تقویم",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Making straight; adjusting; regulating; fixing; settling; almanac; calendar.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqwīm"
+  },
+  {
+   "w": "تقویمِ پارینہ",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "An old calendar; a useless thing.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqwīm-ĕ-pārīnah"
+  },
+  {
+   "w": "تقویمِ سال",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Calendar year.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqwīm-ĕ sāl"
+  },
+  {
+   "w": "تقویمِ مصروفیت",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Engagement calendar.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqwīm-ĕ maṣrūfiat"
+  },
+  {
+   "w": "تقی",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Pious; devout.",
+   "ur": "",
+   "ex": [],
+   "roman": "taqī"
+  },
+  {
+   "w": "تقیہ",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Fear of God; caution; pious fraud or subterfuge (allowed in certain cases only).",
+   "ur": "",
+   "ex": [],
+   "roman": "taqiyyah"
+  },
+  {
+   "w": "تک",
+   "pron": "",
+   "pos": "prep. conj. (H)",
+   "def": "Till; to; upto; until; while; towards; near to; as far as; to the extent of. n.m. A scale; a balance.",
+   "ur": "",
+   "ex": [],
+   "roman": "tak"
+  },
+  {
+   "w": "تک",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "A rhyme.",
+   "ur": "",
+   "ex": [],
+   "roman": "tuk"
+  },
+  {
+   "w": "تک بندی",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Making verses; insipid poetry.",
+   "ur": "",
+   "ex": [],
+   "roman": "tuk bandī"
+  },
+  {
+   "w": "تک میں تک ملانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To rhyme; to agree with.",
+   "ur": "",
+   "ex": [],
+   "roman": "tuk meṅ tuk milānā"
+  },
+  {
+   "w": "بے تکی",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Unconnected; irrelevant; meaningless; without rhyme or reason.",
+   "ur": "",
+   "ex": [],
+   "roman": "be tukī"
+  },
+  {
+   "w": "تکا",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A small piece of flesh; a steak; a slice; a chop.",
+   "ur": "",
+   "ex": [],
+   "roman": "tikka"
+  },
+  {
+   "w": "تکا بوٹی کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To tear to bits; to chop into small pieces.",
+   "ur": "",
+   "ex": [],
+   "roman": "tikkā boṭi karnā"
+  },
+  {
+   "w": "تکا",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A sort of arrow with blunt point or no point at all; a small hill or mountain; an eminence.",
+   "ur": "",
+   "ex": [],
+   "roman": "tukkā"
+  },
+  {
+   "w": "لگا تو تیر نہیں تو تکا",
+   "pron": "",
+   "pos": "prov.",
+   "def": "No better than straw is the dart that fails its mark.",
+   "ur": "",
+   "ex": [],
+   "roman": "lagā to tir nahin to tukkā"
+  },
+  {
+   "w": "تکالیف",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "(plu. of تکلیف taklif); Distresses; difficulties; hardships; trials.",
+   "ur": "",
+   "ex": [],
+   "roman": "takālīf"
+  },
+  {
+   "w": "تکان",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Fatigue; motion; agitation; gesture.",
+   "ur": "",
+   "ex": [],
+   "roman": "takān"
+  },
+  {
+   "w": "تکان چڑھنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be fatigued; to be tired.",
+   "ur": "",
+   "ex": [],
+   "roman": "takān chaṛhnā"
+  },
+  {
+   "w": "تکبر",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Pride; arrogance; haughtiness; insolence; loftiness.",
+   "ur": "",
+   "ex": [],
+   "roman": "takabbur"
+  },
+  {
+   "w": "تکبیر",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Praises of God; repeating the Muslim creed, saying اللہ اکبر Allah-ō akbar (God is great).",
+   "ur": "",
+   "ex": [],
+   "roman": "takbīr"
+  },
+  {
+   "w": "تکثیر",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Increasing; multiplying; enlarging; augmenting.",
+   "ur": "",
+   "ex": [],
+   "roman": "takṣīr"
+  },
+  {
+   "w": "تکثیف",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Rendering thick or dense; condensation; density; thickness.",
+   "ur": "",
+   "ex": [],
+   "roman": "takṣīf"
+  },
+  {
+   "w": "تکدر",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Dregs; turbidness; dulness; moroseness; sullenness; disquietude of mind.",
+   "ur": "",
+   "ex": [],
+   "roman": "takaddur"
+  },
+  {
+   "w": "تکذیب",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Accusing of falsehood; giving one the lie; contradiction.",
+   "ur": "",
+   "ex": [],
+   "roman": "takzīb"
+  },
+  {
+   "w": "تکرار",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Repeating often; repetition; tautology; dispute; wrangle; altercation; contention; controversy; the chorus or burden of a song.",
+   "ur": "",
+   "ex": [],
+   "roman": "takrār"
+  },
+  {
+   "w": "تکرار کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To repeat; to argue; to quarrel; to dispute; to debate; to wrangle.",
+   "ur": "",
+   "ex": [],
+   "roman": "takrār karnā"
+  },
+  {
+   "w": "تکریم",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Honour; reverence; respect; treating with respect; honouring.",
+   "ur": "",
+   "ex": [],
+   "roman": "takrīm"
+  },
+  {
+   "w": "تکڑی",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Balance; scale.",
+   "ur": "",
+   "ex": [],
+   "roman": "takṛī"
+  },
+  {
+   "w": "تکسر",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Breaking; being broken or shattered; being spent or debilitated; carrying figures (Arith.).",
+   "ur": "",
+   "ex": [],
+   "roman": "takassur"
+  },
+  {
+   "w": "تکسیر",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Breaking to pieces; carrying figures (arith.).",
+   "ur": "",
+   "ex": [],
+   "roman": "taksīr"
+  },
+  {
+   "w": "تکفل",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Taking security; becoming security for another; bail; undertaking.",
+   "ur": "",
+   "ex": [],
+   "roman": "takafful"
+  },
+  {
+   "w": "تکفیر",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Accusing one of impiety and calling him an infidel; calling one an unbeliever.",
+   "ur": "",
+   "ex": [],
+   "roman": "takfīr"
+  },
+  {
+   "w": "تکفیل",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Standing surety for another; furnishing security; giving bail.",
+   "ur": "",
+   "ex": [],
+   "roman": "takfīl"
+  },
+  {
+   "w": "تکفین",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Laying in the coffin; shrouding.",
+   "ur": "",
+   "ex": [],
+   "roman": "takfīn"
+  },
+  {
+   "w": "تکفین کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To shroud; to coffin.",
+   "ur": "",
+   "ex": [],
+   "roman": "takfīn karnā"
+  },
+  {
+   "w": "تکل",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A kind of paper-kite.",
+   "ur": "",
+   "ex": [],
+   "roman": "tukkal"
+  },
+  {
+   "w": "تکلا",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A spindle.",
+   "ur": "",
+   "ex": [],
+   "roman": "taklā"
+  },
+  {
+   "w": "تکلف",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Ceremony; formality; strict observance of the rules of etiquette; trouble; inconvenience; extravagance.",
+   "ur": "",
+   "ex": [],
+   "roman": "takalluf"
+  },
+  {
+   "w": "تکلف برطرف",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Formality apart; ceremony aside.",
+   "ur": "",
+   "ex": [],
+   "roman": "takalluf bar ṭaraf"
+  },
+  {
+   "w": "تکلف کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To take pains; to be ceremonious (in).",
+   "ur": "",
+   "ex": [],
+   "roman": "takalluf karnā"
+  },
+  {
+   "w": "تکلف مزاج",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Ceremonious.",
+   "ur": "",
+   "ex": [],
+   "roman": "takalluf mizāj"
+  },
+  {
+   "w": "تکلفات",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "(plu. of تکلف takalluf); formalities; ceremonies.",
+   "ur": "",
+   "ex": [],
+   "roman": "takallufāt"
+  },
+  {
+   "w": "تکلفاتِ دربار",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Extravagances of a court; spending much; lavish expenditure.",
+   "ur": "",
+   "ex": [],
+   "roman": "takallufāt-ĕ darbār"
+  },
+  {
+   "w": "تکلفاتِ رسمی",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Ceremonious attention; empty or formal compliment.",
+   "ur": "",
+   "ex": [],
+   "roman": "takallufāt-ĕ rasmī"
+  },
+  {
+   "w": "تکلفاتِ مجلس",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Ceremonies of society; etiquette.",
+   "ur": "",
+   "ex": [],
+   "roman": "takallufāt-ĕ majlis"
+  },
+  {
+   "w": "تکلم",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Conversation; eloquence; talking; speaking.",
+   "ur": "",
+   "ex": [],
+   "roman": "takallum"
+  },
+  {
+   "w": "تکلی",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "A weaver's reed.",
+   "ur": "",
+   "ex": [],
+   "roman": "taklī"
+  },
+  {
+   "w": "تکلیف",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Imposition of a burden; trouble; difficulty; inconvenience; ailment; affliction; annoyance; hardship; duty; responsibility.",
+   "ur": "",
+   "ex": [],
+   "roman": "taklīf"
+  },
+  {
+   "w": "تکلیف اٹھانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To suffer,",
+   "ur": "",
+   "ex": [],
+   "roman": "taklīf uṭhānā"
+  },
+  {
+   "w": "تکلیف دینا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To cause trouble; to annoy; to inconvenience; to trouble; to vex.",
+   "ur": "",
+   "ex": [],
+   "roman": "taklif denā"
+  },
+  {
+   "w": "تکلیف کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To take the trouble.",
+   "ur": "",
+   "ex": [],
+   "roman": "taklif karnā"
+  },
+  {
+   "w": "تکملہ",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Perfection; completion; complementary angle; appendix.",
+   "ur": "",
+   "ex": [],
+   "roman": "takmilah"
+  },
+  {
+   "w": "تکمہ",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A loop; a button; an eye loop; a button-hole; small rounded projection.",
+   "ur": "",
+   "ex": [],
+   "roman": "tukmah"
+  },
+  {
+   "w": "تکمیل",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Finishing; completion; excellence; perfection; performance; consummation.",
+   "ur": "",
+   "ex": [],
+   "roman": "takmīl"
+  },
+  {
+   "w": "تکمیلِ تمسک",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Execution of a bond.",
+   "ur": "",
+   "ex": [],
+   "roman": "takmīl-ĕ tamassuk"
+  },
+  {
+   "w": "تکمیلِ رہن",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Termination of a mortgage.",
+   "ur": "",
+   "ex": [],
+   "roman": "takmīl-ĕ rahn"
+  },
+  {
+   "w": "تکمیل کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To execute; to complete; to authenticate.",
+   "ur": "",
+   "ex": [],
+   "roman": "takmīl karnā"
+  },
+  {
+   "w": "تکمیل کو پہونچانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To complete; to bring to a conclusion or termination.",
+   "ur": "",
+   "ex": [],
+   "roman": "takmīl ko pahunchānā"
+  },
+  {
+   "w": "تکنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To gaze; to stare at; to watch; to look at; to wait (for); to expect; to have recourse (to); to look out (for).",
+   "ur": "",
+   "ex": [],
+   "roman": "taknā"
+  },
+  {
+   "w": "تکون",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "A triangle; a three-cornered figure.",
+   "ur": "",
+   "ex": [],
+   "roman": "tikon"
+  },
+  {
+   "w": "تکونیا، تکونا",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Triangular.",
+   "ur": "",
+   "ex": [],
+   "roman": "tikoniyā, tikonā"
+  },
+  {
+   "w": "تکوین",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Causing to be; creating; causing to be born.",
+   "ur": "",
+   "ex": [],
+   "roman": "takvīn"
+  },
+  {
+   "w": "تکیہ",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A pillow; bolster; prop; support; reliance; the abode of a faqir.",
+   "ur": "",
+   "ex": [],
+   "roman": "takyah"
+  },
+  {
+   "w": "تکیہ دینا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To receive respectfully; to give support.",
+   "ur": "",
+   "ex": [],
+   "roman": "takyah denā"
+  },
+  {
+   "w": "تکیہ کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To rely upon; to depend upon.",
+   "ur": "",
+   "ex": [],
+   "roman": "takyah karnā"
+  },
+  {
+   "w": "تکیہ کلام",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "An expletive; a needless word or phrase habitually introduced into speech.",
+   "ur": "",
+   "ex": [],
+   "roman": "takyah kalām"
+  },
+  {
+   "w": "تکیہ لگانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To lean; to rely; to bolster.",
+   "ur": "",
+   "ex": [],
+   "roman": "takyah lagānā"
+  },
+  {
+   "w": "تگ",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Running; flying; rushing.",
+   "ur": "",
+   "ex": [],
+   "roman": "tag"
+  },
+  {
+   "w": "تگاپو",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Bustle; toil; labour; search.",
+   "ur": "",
+   "ex": [],
+   "roman": "tagāpū"
+  },
+  {
+   "w": "تگ و دو یا تگ و تاز",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Running about; great exertion; fatigue; gallop.",
+   "ur": "",
+   "ex": [],
+   "roman": "tag-ŏ dau yā tag-ŏ-tāz"
+  },
+  {
+   "w": "تگنا",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Threefold; triple; thrice.",
+   "ur": "",
+   "ex": [],
+   "roman": "tignā"
+  },
+  {
+   "w": "تگنی کا ناچ نچوانا",
+   "pron": "",
+   "pos": "id.",
+   "def": "To embarrass; to harass.",
+   "ur": "",
+   "ex": [],
+   "roman": "tignī kā nāch nachvānā"
+  },
+  {
+   "w": "تل",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "The seed of the sesamum; the oil seed; a mole; the pupil of the eye; a small particle.",
+   "ur": "",
+   "ex": [],
+   "roman": "til"
+  },
+  {
+   "w": "تل برابر",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Very little; scanty.",
+   "ur": "",
+   "ex": [],
+   "roman": "til barābar"
+  },
+  {
+   "w": "تل بھگا",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Sweetmeat made by crushing sesamum seeds with sugar.",
+   "ur": "",
+   "ex": [],
+   "roman": "til bhuggā"
+  },
+  {
+   "w": "تل چاولی",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Mixture of rice and sesamum seeds.",
+   "ur": "",
+   "ex": [],
+   "roman": "til chāolī"
+  },
+  {
+   "w": "تل چٹا",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A cockroach.",
+   "ur": "",
+   "ex": [],
+   "roman": "til chaṭṭā"
+  },
+  {
+   "w": "تل دھرنے کی جگہ نہ ہونا",
+   "pron": "",
+   "pos": "id.",
+   "def": "To be overcrowded; to be overfilled; to be full to capacity.",
+   "ur": "",
+   "ex": [],
+   "roman": "til dharne kī jagāh nah honā"
+  },
+  {
+   "w": "تل شکری",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "A kind of sweetmeat made of sesamum seeds.",
+   "ur": "",
+   "ex": [],
+   "roman": "til shakrī"
+  },
+  {
+   "w": "تل تل",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Little by little.",
+   "ur": "",
+   "ex": [],
+   "roman": "til til"
+  },
+  {
+   "w": "تلوں میں تیل نہ ہونا",
+   "pron": "",
+   "pos": "id.",
+   "def": "To be intractable; to be unbenefitting.",
+   "ur": "",
+   "ex": [],
+   "roman": "tiloṅ meṅ tel nah honā"
+  },
+  {
+   "w": "تل",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Equal; like; similar.",
+   "ur": "",
+   "ex": [],
+   "roman": "tul"
+  },
+  {
+   "w": "تل بیٹھنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To turn out to be equal; to sit straight and erect; to be prepared.",
+   "ur": "",
+   "ex": [],
+   "roman": "tul baiṭhānā"
+  },
+  {
+   "w": "تلا",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Sole of a shoe; bottom.",
+   "ur": "",
+   "ex": [],
+   "roman": "talā"
+  },
+  {
+   "w": "تلا",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Drawn gold; gold lace border (of a turban); golden thread.",
+   "ur": "",
+   "ex": [],
+   "roman": "tillā"
+  },
+  {
+   "w": "تلا کاری یا سازی",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Gilding.",
+   "ur": "",
+   "ex": [],
+   "roman": "tillā kārī yā sāzī"
+  },
+  {
+   "w": "تلا دان",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Alms equal in weight of the distributor; a gift of gold to Brahmans equal in weight to the person of the donor.",
+   "ur": "",
+   "ex": [],
+   "roman": "tulā dān"
+  },
+  {
+   "w": "تلا دانی یا تلے دانی",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "A small bag for holding needles, thread, etc.",
+   "ur": "",
+   "ex": [],
+   "roman": "tilādānī yā tile dānī"
+  },
+  {
+   "w": "تلاش",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Search; investigation; quest; inquiry.",
+   "ur": "",
+   "ex": [],
+   "roman": "talāsh"
+  },
+  {
+   "w": "تلاش کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To search; to seek; to look for.",
+   "ur": "",
+   "ex": [],
+   "roman": "talāsh karnā"
+  },
+  {
+   "w": "تلاشِ معاش",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Search for employment.",
+   "ur": "",
+   "ex": [],
+   "roman": "talāsh-ĕ ma'āsh"
+  },
+  {
+   "w": "تلاشی",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Search; seeking; investigation. n.m. One who searches.",
+   "ur": "",
+   "ex": [],
+   "roman": "talāshī"
+  },
+  {
+   "w": "تلاشی لینا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To institute a search.",
+   "ur": "",
+   "ex": [],
+   "roman": "talāshī lenā"
+  },
+  {
+   "w": "جامہ تلاشی",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Searching a person.",
+   "ur": "",
+   "ex": [],
+   "roman": "jāmah talāshī"
+  },
+  {
+   "w": "خانہ تلاشی",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Searching a house (for stolen property).",
+   "ur": "",
+   "ex": [],
+   "roman": "khānah talāshī"
+  },
+  {
+   "w": "تلاطم",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Dashing of waves; buffeting; a sea-storm.",
+   "ur": "",
+   "ex": [],
+   "roman": "talātum"
+  },
+  {
+   "w": "تلافی",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Compensation; recompense; reparation; making amends; retaliation; revenge.",
+   "ur": "",
+   "ex": [],
+   "roman": "talāfī"
+  },
+  {
+   "w": "تلافیِ مافات",
+   "pron": "",
+   "pos": "",
+   "def": "Making good the loss; compensation.",
+   "ur": "",
+   "ex": [],
+   "roman": "talāfī-ĕ māfāt"
+  },
+  {
+   "w": "تلامذہ",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "(plu. of تلمیذ talmīz); Students; scholars; pupils.",
+   "ur": "",
+   "ex": [],
+   "roman": "talāmizah"
+  },
+  {
+   "w": "تلانا",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To cause to be weighed.",
+   "ur": "",
+   "ex": [],
+   "roman": "tulānā"
+  },
+  {
+   "w": "تلاوت",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Reading (the Quran).",
+   "ur": "",
+   "ex": [],
+   "roman": "tilāwat"
+  },
+  {
+   "w": "تلبیس",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Concealing (truth or faults); covering; knavery; counterfeiting; deception; cheating; fraud; fallacy; imposture; misrepresentation.",
+   "ur": "",
+   "ex": [],
+   "roman": "talbīs"
+  },
+  {
+   "w": "تلبیسِ سکہ",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Counterfeiting coins.",
+   "ur": "",
+   "ex": [],
+   "roman": "talbīs-ĕ sikkah"
+  },
+  {
+   "w": "تلبیسِ شخصی",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Impersonation.",
+   "ur": "",
+   "ex": [],
+   "roman": "talbīs-ĕ shakhṣī"
+  },
+  {
+   "w": "تلبیسِ لباس",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Disguising.",
+   "ur": "",
+   "ex": [],
+   "roman": "talbīs-ĕ libās"
+  },
+  {
+   "w": "تلبیہ",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "The words uttered by pilgrims at the time of Haj proclaiming \"I am present to serve Thee, my Lord\"; to say لبیک labbaik.",
+   "ur": "",
+   "ex": [],
+   "roman": "talbiyah"
+  },
+  {
+   "w": "تلچھٹ",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Residue; sediment; leavings.",
+   "ur": "",
+   "ex": [],
+   "roman": "talchhaṭ"
+  },
+  {
+   "w": "تلخ",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Bitter; acrid; acrimonious; acid; pungent; unpalatable.",
+   "ur": "",
+   "ex": [],
+   "roman": "talkh"
+  },
+  {
+   "w": "تلخ رو",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Morose; stern.",
+   "ur": "",
+   "ex": [],
+   "roman": "talkh rū"
+  },
+  {
+   "w": "تلخ کام",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Bitter in palate; distasteful.",
+   "ur": "",
+   "ex": [],
+   "roman": "talkh kām"
+  },
+  {
+   "w": "تلخ گو",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Harsh; caustic; of bitter speech.",
+   "ur": "",
+   "ex": [],
+   "roman": "talkh go"
+  },
+  {
+   "w": "تلخ مزاج",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Ill-tempered.",
+   "ur": "",
+   "ex": [],
+   "roman": "talkh mizāj"
+  },
+  {
+   "w": "تلخ و ترش",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Vicissitudes of life; sour and bitter.",
+   "ur": "",
+   "ex": [],
+   "roman": "talkh-ŏ tursh"
+  },
+  {
+   "w": "تلخی",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Bitterness; acrimony; pungency; acidity.",
+   "ur": "",
+   "ex": [],
+   "roman": "talkhī"
+  },
+  {
+   "w": "تلخیص",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Abstraction; abbreviation; purifying; cleaning.",
+   "ur": "",
+   "ex": [],
+   "roman": "talkhīṣ"
+  },
+  {
+   "w": "تلذذ",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Taste; deliciousness; enjoyment; delight; pleasure.",
+   "ur": "",
+   "ex": [],
+   "roman": "talazzuz"
+  },
+  {
+   "w": "تلسی",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Sweet basil.",
+   "ur": "",
+   "ex": [],
+   "roman": "tulsī"
+  },
+  {
+   "w": "تلطف",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Kindness; favour; blandishment; obligations.",
+   "ur": "",
+   "ex": [],
+   "roman": "talaṭṭuf"
+  },
+  {
+   "w": "تلطف کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To oblige; to show kindness or favour.",
+   "ur": "",
+   "ex": [],
+   "roman": "talaṭṭuf karnā"
+  },
+  {
+   "w": "تلف",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Ruin; destruction; waste; loss; expense; prodigality; consumption.",
+   "ur": "",
+   "ex": [],
+   "roman": "talaf"
+  },
+  {
+   "w": "تلف کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To ruin; to destroy; to consume; to waste,",
+   "ur": "",
+   "ex": [],
+   "roman": "talaf karnā"
+  },
+  {
+   "w": "تلف ہونا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be destroyed; to be ruined; to be wasted; to be lost.",
+   "ur": "",
+   "ex": [],
+   "roman": "talaf honā"
+  },
+  {
+   "w": "تلفظ",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Pronunciation; expression; utterance.",
+   "ur": "",
+   "ex": [],
+   "roman": "talaffuz"
+  },
+  {
+   "w": "تلقین",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Instruction; information; religious instruction; teaching.",
+   "ur": "",
+   "ex": [],
+   "roman": "talqīn"
+  },
+  {
+   "w": "تلک",
+   "pron": "",
+   "pos": "n.m. (S)",
+   "def": "Mark made by Hindus with coloured earth or unguents on the forehead and between the eye-brows on occasion such as installation to office: coronation of a king; a freckle.",
+   "ur": "",
+   "ex": [],
+   "roman": "tilak"
+  },
+  {
+   "w": "تلک دھاری",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "One who is marked with tilak.",
+   "ur": "",
+   "ex": [],
+   "roman": "tilak dhārī"
+  },
+  {
+   "w": "تلک لگانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To mark with a tilak on the forehead.",
+   "ur": "",
+   "ex": [],
+   "roman": "tilak lagānā"
+  },
+  {
+   "w": "تلک",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Until; upto; as far as.",
+   "ur": "",
+   "ex": [],
+   "roman": "talak"
+  },
+  {
+   "w": "تلمذ",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Becoming a pupil.",
+   "ur": "",
+   "ex": [],
+   "roman": "talammuz"
+  },
+  {
+   "w": "تلملانا، تلملانا",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To be agitated or uneasy; to grieve; to be tantalized; to toss about in anguish; to be restless; to be impatient.",
+   "ur": "",
+   "ex": [],
+   "roman": "tilmilānā, talmalānā"
+  },
+  {
+   "w": "تلمیح",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Passing reference to an old event or story in one's writing.",
+   "ur": "",
+   "ex": [],
+   "roman": "talmīḥ"
+  },
+  {
+   "w": "تلمیذ",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "A pupil; a student; a scholar; a disciple.",
+   "ur": "",
+   "ex": [],
+   "roman": "talmīz"
+  },
+  {
+   "w": "تلنا",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To fry; to roast.",
+   "ur": "",
+   "ex": [],
+   "roman": "talnā"
+  },
+  {
+   "w": "تلنا",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To be weighed.",
+   "ur": "",
+   "ex": [],
+   "roman": "tulnā"
+  },
+  {
+   "w": "تلوا",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "The sole of the foot.",
+   "ur": "",
+   "ex": [],
+   "roman": "talwā"
+  },
+  {
+   "w": "تلوا چاٹنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To flatter.",
+   "ur": "",
+   "ex": [],
+   "roman": "talwā chāṭnā"
+  },
+  {
+   "w": "تلوا سہلانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To flatter; to coax; to adulate.",
+   "ur": "",
+   "ex": [],
+   "roman": "talwā sahlānā"
+  },
+  {
+   "w": "تلوا کھجلانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "Itching of the sole; expecting to go out on a journey.",
+   "ur": "",
+   "ex": [],
+   "roman": "talwā khujlānā"
+  },
+  {
+   "w": "تلوا نہ لگنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be restless.",
+   "ur": "",
+   "ex": [],
+   "roman": "talwā nah lagnā"
+  },
+  {
+   "w": "تلووں سے آگ لگنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be excessively angry.",
+   "ur": "",
+   "ex": [],
+   "roman": "talwoṅ se āg lagnā"
+  },
+  {
+   "w": "تلووں سے ملنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To trample; to tread on.",
+   "ur": "",
+   "ex": [],
+   "roman": "talwoṅ se malnā"
+  },
+  {
+   "w": "تلوے چھلنی ہونا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To toil hard; to have a tiring journey.",
+   "ur": "",
+   "ex": [],
+   "roman": "talwe chhalnī honā"
+  },
+  {
+   "w": "تلوے سے لگنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To follow meekly and humbly.",
+   "ur": "",
+   "ex": [],
+   "roman": "talwe se lagnā"
+  },
+  {
+   "w": "تلوار",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Sword.",
+   "ur": "",
+   "ex": [],
+   "roman": "talwār"
+  },
+  {
+   "w": "تلوار چلانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To use a sword; to strike with a sword.",
+   "ur": "",
+   "ex": [],
+   "roman": "talwār chalānā"
+  },
+  {
+   "w": "تلوار چلنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be fighting with swords.",
+   "ur": "",
+   "ex": [],
+   "roman": "talwār chalnā"
+  },
+  {
+   "w": "تلوار کا گھاؤ",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A sword cut; a sword-wound.",
+   "ur": "",
+   "ex": [],
+   "roman": "talwār kā ghāo"
+  },
+  {
+   "w": "تلوار کھینچنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To draw a sword.",
+   "ur": "",
+   "ex": [],
+   "roman": "talwār kheṅchnā"
+  },
+  {
+   "w": "تلوار میان میں کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To sheathe the sword.",
+   "ur": "",
+   "ex": [],
+   "roman": "talwār miyān meṅ karnā"
+  },
+  {
+   "w": "تلون",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Changing colours (like a chameleon); fickleness; capriciousness; fidgeting; changeableness.",
+   "ur": "",
+   "ex": [],
+   "roman": "talawwun"
+  },
+  {
+   "w": "تلون طبع یا مزاج",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Capricious; whimsical; fretful; fickle-minded.",
+   "ur": "",
+   "ex": [],
+   "roman": "talawwun taba' yā mizāj"
+  },
+  {
+   "w": "تلون مزاجی",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Caprice; capriciousness; fretfulness.",
+   "ur": "",
+   "ex": [],
+   "roman": "talawwun mizājī"
+  },
+  {
+   "w": "تلی",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "The bottom of anything; the sole of a shoe.",
+   "ur": "",
+   "ex": [],
+   "roman": "talī"
+  },
+  {
+   "w": "تلی",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Spleen; milt.",
+   "ur": "",
+   "ex": [],
+   "roman": "tillī"
+  },
+  {
+   "w": "تلے",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Below; down; beneath; under; at the foot of; at the bottom of; on the ground.",
+   "ur": "",
+   "ex": [],
+   "roman": "tale"
+  },
+  {
+   "w": "تلے اوپر",
+   "pron": "",
+   "pos": "adv.",
+   "def": "One upon the other.",
+   "ur": "",
+   "ex": [],
+   "roman": "tale ūpar"
+  },
+  {
+   "w": "تلے اوپر کی اولاد",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Children born in succession.",
+   "ur": "",
+   "ex": [],
+   "roman": "tale ūpar kī aulād"
+  },
+  {
+   "w": "تلیٹی",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Bottom; foot of the mountain; sub-mountainous region.",
+   "ur": "",
+   "ex": [],
+   "roman": "taliṭī"
+  },
+  {
+   "w": "تلیر",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Starling.",
+   "ur": "",
+   "ex": [],
+   "roman": "tilyar"
+  },
+  {
+   "w": "تم",
+   "pron": "",
+   "pos": "pron. (H)",
+   "def": "You.",
+   "ur": "",
+   "ex": [],
+   "roman": "tum"
+  },
+  {
+   "w": "تماثل",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Resembling; similarity.",
+   "ur": "",
+   "ex": [],
+   "roman": "tamāṣul"
+  },
+  {
+   "w": "تمازت",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Intense heat.",
+   "ur": "",
+   "ex": [],
+   "roman": "tamāzat"
+  },
+  {
+   "w": "تماشا",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Entertainment; show; exhibition; a spectacle; a sight; amusement; sport; fun; pleasure; anything strange or funny.",
+   "ur": "",
+   "ex": [],
+   "roman": "tamāshā"
+  },
+  {
+   "w": "تماشا بین یا تماش بین",
+   "pron": "",
+   "pos": "n.",
+   "def": "Spectator; a libertine.",
+   "ur": "",
+   "ex": [],
+   "roman": "tamāshā bīn yā tamāsh bīn"
+  },
+  {
+   "w": "تماشا بینی یا تماش بینی",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Luxury; libertinism; spectatorship.",
+   "ur": "",
+   "ex": [],
+   "roman": "tamāshā bīnī yā tamāsh bīnī"
+  },
+  {
+   "w": "تماشا کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To exhibit; to act a play; to make sport or fun of; to jeer; to jest.",
+   "ur": "",
+   "ex": [],
+   "roman": "tamāshā karnā"
+  },
+  {
+   "w": "تماشا کرنے والا",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A showman; one who makes sport; an actor.",
+   "ur": "",
+   "ex": [],
+   "roman": "tamāshā karne wālā"
+  },
+  {
+   "w": "تماشے کی بات",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "A funny thing; a pretty jest.",
+   "ur": "",
+   "ex": [],
+   "roman": "tamāshe kī bāt"
+  },
+  {
+   "w": "تماشا گاہ",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "A place of show; a theatre.",
+   "ur": "",
+   "ex": [],
+   "roman": "tamāshāgāh"
+  },
+  {
+   "w": "تماشائی",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "A spectator; a looker-on; a rake; an epicure.",
+   "ur": "",
+   "ex": [],
+   "roman": "tamāshā'ī"
+  },
+  {
+   "w": "تمام",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Entire; whole; complete; perfect; finished; conclusion; end.",
+   "ur": "",
+   "ex": [],
+   "roman": "tamām"
+  },
+  {
+   "w": "تمام تر",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Wholly; completely; entirely.",
+   "ur": "",
+   "ex": [],
+   "roman": "tamām tar"
+  },
+  {
+   "w": "تمام شد",
+   "pron": "",
+   "pos": "v.",
+   "def": "Finished; completed; done.",
+   "ur": "",
+   "ex": [],
+   "roman": "tamām shud"
+  },
+  {
+   "w": "تمام کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To finish; to complete; to conclude.",
+   "ur": "",
+   "ex": [],
+   "roman": "tamām karnā"
+  },
+  {
+   "w": "تمام ہونا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be finished; to be completed; to be concluded; to come to an end.",
+   "ur": "",
+   "ex": [],
+   "roman": "tamām honā"
+  },
+  {
+   "w": "کام تمام ہونا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be done with; to be dead.",
+   "ur": "",
+   "ex": [],
+   "roman": "kām tamām honā"
+  },
+  {
+   "w": "تمام و کمال",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Whole and entire; full and complete; thorough.",
+   "ur": "",
+   "ex": [],
+   "roman": "tamām-ŏ kamāl"
+  },
+  {
+   "w": "تمانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To cause to be carded.",
+   "ur": "",
+   "ex": [],
+   "roman": "tumānā"
+  },
+  {
+   "w": "تمباکو",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Tobacco.",
+   "ur": "",
+   "ex": [],
+   "roman": "tambākū"
+  },
+  {
+   "w": "تمت",
+   "pron": "",
+   "pos": "v. (A)",
+   "def": "Finished; completed.",
+   "ur": "",
+   "ex": [],
+   "roman": "tammat"
+  },
+  {
+   "w": "تمتع",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Utilization; delight; gaining.",
+   "ur": "",
+   "ex": [],
+   "roman": "tamatto'"
+  },
+  {
+   "w": "تمتمانا",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To glow; to blush; to become red in the face; to flash; to twinkle; to sparkle.",
+   "ur": "",
+   "ex": [],
+   "roman": "tamtamānā"
+  },
+  {
+   "w": "تمتماہٹ",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Flush; glow; growing red.",
+   "ur": "",
+   "ex": [],
+   "roman": "tamtamāhaṭ"
+  },
+  {
+   "w": "تمثال",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Resemblance; picture; figure.",
+   "ur": "",
+   "ex": [],
+   "roman": "timsāl"
+  },
+  {
+   "w": "تمثیل",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Similitude; allegory; example; parable; apologue; a counterpart or duplicate; a facsimile; resemblance.",
+   "ur": "",
+   "ex": [],
+   "roman": "tamsīl"
+  },
+  {
+   "w": "تمثیل لانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To allegorize; to adduce examples.",
+   "ur": "",
+   "ex": [],
+   "roman": "tamsīl lānā"
+  },
+  {
+   "w": "تمثیلاً",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Allegorically; for example; by way of similitude.",
+   "ur": "",
+   "ex": [],
+   "roman": "tamsilon"
+  },
+  {
+   "w": "تمجید",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Glorification of God.",
+   "ur": "",
+   "ex": [],
+   "roman": "tamjīd"
+  },
+  {
+   "w": "تمدن",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Social intercourse; living together; civilisation.",
+   "ur": "",
+   "ex": [],
+   "roman": "tamaddun"
+  },
+  {
+   "w": "تمرد",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Stubbornness; obstinacy; resistance; disobedience; insolence; rebellion.",
+   "ur": "",
+   "ex": [],
+   "roman": "tamarrud"
+  },
+  {
+   "w": "تمسخر",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Buffoonery; joking; jesting.",
+   "ur": "",
+   "ex": [],
+   "roman": "tamaskhur"
+  },
+  {
+   "w": "تمسک",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Bond; receipt; a note; a promissory note.",
+   "ur": "",
+   "ex": [],
+   "roman": "tamassuk"
+  },
+  {
+   "w": "تمسک حاضر ضامنی",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Bond or recognizance as a security for personal appearance.",
+   "ur": "",
+   "ex": [],
+   "roman": "tamassuk-ĕ hāzir zāmini"
+  },
+  {
+   "w": "تمسک مصنوعی",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A fabricated bond; a forged bond.",
+   "ur": "",
+   "ex": [],
+   "roman": "tamassuk-ĕ maṣnu'i"
+  },
+  {
+   "w": "تمسک قرضہ",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A debt obtained through a bond.",
+   "ur": "",
+   "ex": [],
+   "roman": "tamassuk-ĕ qarzah"
+  },
+  {
+   "w": "تمغا",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A medal; a royal grant or charter; a diploma; a stamp on gold, silver, &c.; a brand or mark on an animal; a tax on travellers.",
+   "ur": "",
+   "ex": [],
+   "roman": "tamghā"
+  },
+  {
+   "w": "تمکنت",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Dignity; gravity; majesty; honour; grandeur.",
+   "ur": "",
+   "ex": [],
+   "roman": "tamkanat"
+  },
+  {
+   "w": "تمکین",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Majesty; dignity; authority; power.",
+   "ur": "",
+   "ex": [],
+   "roman": "tamkīn"
+  },
+  {
+   "w": "تملق",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Cajoling; caressing; dalliance; flattery; adulation; ceremony.",
+   "ur": "",
+   "ex": [],
+   "roman": "tamalluq"
+  },
+  {
+   "w": "تمن",
+   "pron": "",
+   "pos": "n.m. (T)",
+   "def": "A host; a crowd; troops; squadron; caste; clan; brotherhood.",
+   "ur": "",
+   "ex": [],
+   "roman": "tuman"
+  },
+  {
+   "w": "تمن دار",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Commander of a tuman.",
+   "ur": "",
+   "ex": [],
+   "roman": "tumandār"
+  },
+  {
+   "w": "تمنا",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Wish; desire; inclination; request; hope; longing; prayer; supplication; petition.",
+   "ur": "",
+   "ex": [],
+   "roman": "tamannā"
+  },
+  {
+   "w": "تمنا کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To wish; to desire; to pray (for).",
+   "ur": "",
+   "ex": [],
+   "roman": "tamannā karnā"
+  },
+  {
+   "w": "تمنچہ",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A pistol.",
+   "ur": "",
+   "ex": [],
+   "roman": "tamanchah"
+  },
+  {
+   "w": "تموج",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Agitation; billowing (of waves); fluctuation (of water).",
+   "ur": "",
+   "ex": [],
+   "roman": "tamawwuj"
+  },
+  {
+   "w": "تمول",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Being or becoming rich.",
+   "ur": "",
+   "ex": [],
+   "roman": "tamawwul"
+  },
+  {
+   "w": "تمہارا",
+   "pron": "",
+   "pos": "pron. (H)",
+   "def": "Yours; your; of you.",
+   "ur": "",
+   "ex": [],
+   "roman": "tumhārā"
+  },
+  {
+   "w": "تمہید",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Preliminary; preamble; preface; introduction; preparation; adjustment; arrangement; settlement; management; confirmation.",
+   "ur": "",
+   "ex": [],
+   "roman": "tamhīd"
+  },
+  {
+   "w": "تمہید اٹھانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To open a subject.",
+   "ur": "",
+   "ex": [],
+   "roman": "tamhīd uṭhānā"
+  },
+  {
+   "w": "تمہیدیں باندھنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To lay down promises; to make vain suppositions.",
+   "ur": "",
+   "ex": [],
+   "roman": "tamhīdeṅ bāndhnā"
+  },
+  {
+   "w": "تمہیدی",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Preliminary; introductory.",
+   "ur": "",
+   "ex": [],
+   "roman": "tamhīdī"
+  },
+  {
+   "w": "تمہیں",
+   "pron": "",
+   "pos": "pron. (H)",
+   "def": "You; you alone.",
+   "ur": "",
+   "ex": [],
+   "roman": "tumhīṅ"
+  },
+  {
+   "w": "تمہیں",
+   "pron": "",
+   "pos": "pro.",
+   "def": "To you.",
+   "ur": "",
+   "ex": [],
+   "roman": "tumheṅ"
+  },
+  {
+   "w": "تمیز",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Discernment; judgment; discretion; sense; distinction; observance of rules of etiquette.",
+   "ur": "",
+   "ex": [],
+   "roman": "tamiz"
+  },
+  {
+   "w": "تمیزدار",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Judicious; discreet; mannerly; well-mannered.",
+   "ur": "",
+   "ex": [],
+   "roman": "tamīzdār"
+  },
+  {
+   "w": "تمیز کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To distinguish; to appreciate; to discriminate; to discern; to clean.",
+   "ur": "",
+   "ex": [],
+   "roman": "tamīz karnā"
+  },
+  {
+   "w": "حرفِ تمیز",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "An adverb.",
+   "ur": "",
+   "ex": [],
+   "roman": "harf-ĕ tamīz"
+  },
+  {
+   "w": "تن",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "The body; person.",
+   "ur": "",
+   "ex": [],
+   "roman": "tan"
+  },
+  {
+   "w": "تن آسان",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Indulgent; indolent.",
+   "ur": "",
+   "ex": [],
+   "roman": "tan āsān"
+  },
+  {
+   "w": "تن آسانی",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Bodily ease; indulgence.",
+   "ur": "",
+   "ex": [],
+   "roman": "tan āsānī"
+  },
+  {
+   "w": "تناور",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Big; stout; corpulent.",
+   "ur": "",
+   "ex": [],
+   "roman": "tanāwar"
+  },
+  {
+   "w": "تن پرور",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Over-careful about the body; self-indulgent; luxurious; selfish.",
+   "ur": "",
+   "ex": [],
+   "roman": "tan parwar"
+  },
+  {
+   "w": "تن پروری",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Self-indulgence; selfishness.",
+   "ur": "",
+   "ex": [],
+   "roman": "tan parwarī"
+  },
+  {
+   "w": "تن تنہا",
+   "pron": "",
+   "pos": "adj.",
+   "def": "All alone; all by oneself; solitary.",
+   "ur": "",
+   "ex": [],
+   "roman": "tan tanhā"
+  },
+  {
+   "w": "تندرست",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Healthy; vigorous.",
+   "ur": "",
+   "ex": [],
+   "roman": "tandurust"
+  },
+  {
+   "w": "تندرست کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To cure.",
+   "ur": "",
+   "ex": [],
+   "roman": "tandurust karnā"
+  },
+  {
+   "w": "تندرست ہونا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To recover.",
+   "ur": "",
+   "ex": [],
+   "roman": "tandurust honā"
+  },
+  {
+   "w": "تندرستی",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Bodily health, vigorousness.",
+   "ur": "",
+   "ex": [],
+   "roman": "tandurustī"
+  },
+  {
+   "w": "تندرستی ہزار نعمت ہے",
+   "pron": "",
+   "pos": "prov.",
+   "def": "Nothing like health; health is better than wealth.",
+   "ur": "",
+   "ex": [],
+   "roman": "tandurustī hazār ni'mat hai"
+  },
+  {
+   "w": "تن دہی",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Diligence; great attention; effort; application; exertion.",
+   "ur": "",
+   "ex": [],
+   "roman": "tan dihī"
+  },
+  {
+   "w": "تن من",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Body and soul.",
+   "ur": "",
+   "ex": [],
+   "roman": "tan man"
+  },
+  {
+   "w": "تن من دھن",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Body, soul and wealth; every thing one possesses.",
+   "ur": "",
+   "ex": [],
+   "roman": "tan man dhan"
+  },
+  {
+   "w": "تن من مارنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To restrain one's appetite or desires; to suppress feelings or emotions; to concentrate one's attention or faculties (on).",
+   "ur": "",
+   "ex": [],
+   "roman": "tan man mārnā"
+  },
+  {
+   "w": "تن من سے",
+   "pron": "",
+   "pos": "adv.",
+   "def": "With all one's heart and soul.",
+   "ur": "",
+   "ex": [],
+   "roman": "tan man se"
+  },
+  {
+   "w": "تن من وارنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be prepared to sacrifice one's life; to do one's best.",
+   "ur": "",
+   "ex": [],
+   "roman": "tan man wārnā"
+  },
+  {
+   "w": "تن",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Name of a tree, the wood of which is used for furniture.",
+   "ur": "",
+   "ex": [],
+   "roman": "tun"
+  },
+  {
+   "w": "تنا",
+   "pron": "",
+   "pos": "v. (A)",
+   "def": "To stretch; to tight.",
+   "ur": "",
+   "ex": [],
+   "roman": "tannā"
+  },
+  {
+   "w": "تنازع",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Wrangling; strife; contention; dispute; struggle.",
+   "ur": "",
+   "ex": [],
+   "roman": "tanāzu'"
+  },
+  {
+   "w": "تنازع للبقا",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Struggle for existence.",
+   "ur": "",
+   "ex": [],
+   "roman": "tanāzu' lil-baqā"
+  },
+  {
+   "w": "تناسب",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Resemblance; proportion; relation.",
+   "ur": "",
+   "ex": [],
+   "roman": "tanāsub"
+  },
+  {
+   "w": "تناسبِ اعضا",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Due proportion of the limbs.",
+   "ur": "",
+   "ex": [],
+   "roman": "tanāsub-ĕ a'zā"
+  },
+  {
+   "w": "تناسبِ مرکب",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Compound proportion.",
+   "ur": "",
+   "ex": [],
+   "roman": "tanāsub-ĕ murakkab"
+  },
+  {
+   "w": "تناسبِ مفرد",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Simple proportion.",
+   "ur": "",
+   "ex": [],
+   "roman": "tanāsub-ĕ mufrad"
+  },
+  {
+   "w": "تناسبِ منقلب",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Inverse proportion.",
+   "ur": "",
+   "ex": [],
+   "roman": "tanāsub-ĕ munqalib"
+  },
+  {
+   "w": "تناسخ",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Transmigration; transformation; the passing of a soul into another body after death (Hindu conception); metempsychosis.",
+   "ur": "",
+   "ex": [],
+   "roman": "tanāsukh"
+  },
+  {
+   "w": "تناسل",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Generation; lineage; uninterrupted descent through a series of generations.",
+   "ur": "",
+   "ex": [],
+   "roman": "tanāsul"
+  },
+  {
+   "w": "تنافر",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Repugnance; aversion; putting together words which are difficult to pronounce.",
+   "ur": "",
+   "ex": [],
+   "roman": "tanāfur"
+  },
+  {
+   "w": "تناقض",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Incompatibility; contradiction; discrepancy; contrast.",
+   "ur": "",
+   "ex": [],
+   "roman": "tanāquz"
+  },
+  {
+   "w": "تناول",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Eating; taking meals and drinks.",
+   "ur": "",
+   "ex": [],
+   "roman": "tanāwul"
+  },
+  {
+   "w": "تناول کرنا یا فرمانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To eat.",
+   "ur": "",
+   "ex": [],
+   "roman": "tanāwul karnā yā farmānā"
+  },
+  {
+   "w": "تنبو",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A tent.",
+   "ur": "",
+   "ex": [],
+   "roman": "tanbū"
+  },
+  {
+   "w": "تنبورہ",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Tambourine; a musical instrument.",
+   "ur": "",
+   "ex": [],
+   "roman": "tanbūrah"
+  },
+  {
+   "w": "تنبول",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "The betel leaf.",
+   "ur": "",
+   "ex": [],
+   "roman": "tanbūl"
+  },
+  {
+   "w": "تنبولن",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "A woman betel-leaf seller.",
+   "ur": "",
+   "ex": [],
+   "roman": "tanbolan"
+  },
+  {
+   "w": "تنبولی",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A betel-leaf seller.",
+   "ur": "",
+   "ex": [],
+   "roman": "tanbolī"
+  },
+  {
+   "w": "تنبیہ",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Admonition; correction; beating; punishment; reproof; warning.",
+   "ur": "",
+   "ex": [],
+   "roman": "tambīh"
+  },
+  {
+   "w": "تنبیہ کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To admonish; to warn; to reprimand.",
+   "ur": "",
+   "ex": [],
+   "roman": "tambīh karnā"
+  },
+  {
+   "w": "تنتر",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "One of the Hindu sacred books teaching mystical formulas of worship.",
+   "ur": "",
+   "ex": [],
+   "roman": "tantar"
+  },
+  {
+   "w": "تنتر منتر",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Charm; enchantment.",
+   "ur": "",
+   "ex": [],
+   "roman": "tantar mantar"
+  },
+  {
+   "w": "تن تنی",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A rough kind of guitar.",
+   "ur": "",
+   "ex": [],
+   "roman": "tuntunī"
+  },
+  {
+   "w": "تنخواہ",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Pay; assignment; salary; wages.",
+   "ur": "",
+   "ex": [],
+   "roman": "tankhwāh"
+  },
+  {
+   "w": "تنخواہ دار",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "One who receives pay or salary; a paid servant.",
+   "ur": "",
+   "ex": [],
+   "roman": "tankhwāh dār"
+  },
+  {
+   "w": "تند",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Quick; rapid; swift; fast; hot; spirited; fierce; furious; sharp; severe; acrid; acrimonious; rough; bold; violent.",
+   "ur": "",
+   "ex": [],
+   "roman": "tund"
+  },
+  {
+   "w": "تند خو",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Irascible; furious; passionate; fretful.",
+   "ur": "",
+   "ex": [],
+   "roman": "tund khū"
+  },
+  {
+   "w": "تند رفتار",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Fast-going; fleeting.",
+   "ur": "",
+   "ex": [],
+   "roman": "tund raftār"
+  },
+  {
+   "w": "تند زبان",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Eloquent; talking rapidly.",
+   "ur": "",
+   "ex": [],
+   "roman": "tund zabān"
+  },
+  {
+   "w": "تند مزاج",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Hot-headed; passionate.",
+   "ur": "",
+   "ex": [],
+   "roman": "tund mizāj"
+  },
+  {
+   "w": "تندور",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "An oven; a stove.",
+   "ur": "",
+   "ex": [],
+   "roman": "tandūr"
+  },
+  {
+   "w": "تندی",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Fierceness; acrimony; sharpness; impetuosity; swiftness; severity; violence; fury.",
+   "ur": "",
+   "ex": [],
+   "roman": "tundī"
+  },
+  {
+   "w": "تندیل",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A fat person; pot-bellied; stout.",
+   "ur": "",
+   "ex": [],
+   "roman": "tundail"
+  },
+  {
+   "w": "تنزل",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Descent; fall; decline; decay; degradation; demotion.",
+   "ur": "",
+   "ex": [],
+   "roman": "tanazzul"
+  },
+  {
+   "w": "تنزل کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To demote; to degrade; to descend.",
+   "ur": "",
+   "ex": [],
+   "roman": "tanazzul karnā"
+  },
+  {
+   "w": "تنزل ہونا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To fall off; to decline; to be demoted; to be degraded.",
+   "ur": "",
+   "ex": [],
+   "roman": "tanazzul honā"
+  },
+  {
+   "w": "تنزیل",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Revelation of the Quran; receiving hospitably; causing to alight.",
+   "ur": "",
+   "ex": [],
+   "roman": "tanzīl"
+  },
+  {
+   "w": "تنزیہ",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Keeping apart from impurities; purity; holiness.",
+   "ur": "",
+   "ex": [],
+   "roman": "tanziyah"
+  },
+  {
+   "w": "تنسیخ",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Cancellation; quashing; revocation; repeal; abrogation.",
+   "ur": "",
+   "ex": [],
+   "roman": "tansīkh"
+  },
+  {
+   "w": "تنصیب",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Installation.",
+   "ur": "",
+   "ex": [],
+   "roman": "tanṣīb"
+  },
+  {
+   "w": "تنصیف",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Dividing into two equal parts; bisection.",
+   "ur": "",
+   "ex": [],
+   "roman": "tanṣīf"
+  },
+  {
+   "w": "تنظیم",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Ordering; arranging; administration; organisation; composing verses; threading pearls.",
+   "ur": "",
+   "ex": [],
+   "roman": "tanzīm"
+  },
+  {
+   "w": "تنعم",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Living a luxurious life; ease; prosperity.",
+   "ur": "",
+   "ex": [],
+   "roman": "tana'um"
+  },
+  {
+   "w": "تنفر",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Aversion; disgust; shunning.",
+   "ur": "",
+   "ex": [],
+   "roman": "tanaffur"
+  },
+  {
+   "w": "تنفس",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Respiration; breathing.",
+   "ur": "",
+   "ex": [],
+   "roman": "tanaffus"
+  },
+  {
+   "w": "آلاتِ تنفس",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Respiratory organs.",
+   "ur": "",
+   "ex": [],
+   "roman": "ālāt-ĕ tanaffus"
+  },
+  {
+   "w": "نظامِ تنفس",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Respiratory system.",
+   "ur": "",
+   "ex": [],
+   "roman": "nizām-ĕ tanaffus"
+  },
+  {
+   "w": "تنفسی امراض",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Respiratory diseases.",
+   "ur": "",
+   "ex": [],
+   "roman": "tanaffusī amrāz"
+  },
+  {
+   "w": "تنقیح",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Cleaning; polishing; purging; investigation; ascertaining; search; inquiry; issue.",
+   "ur": "",
+   "ex": [],
+   "roman": "tanqīḥ"
+  },
+  {
+   "w": "تنقیح طلب",
+   "pron": "",
+   "pos": "adj.",
+   "def": "To be determined or decided; requiring decision.",
+   "ur": "",
+   "ex": [],
+   "roman": "tanqīḥ ṭalab"
+  },
+  {
+   "w": "تنقیح کرنا، تنقیح نکالنا یا تنقیح قائم کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To determine; to settle; to draw up issues; to frame issues.",
+   "ur": "",
+   "ex": [],
+   "roman": "tanqīḥ karnā yā tanqīḥ nikālnā yā tanqīḥ qāim karnā"
+  },
+  {
+   "w": "تنقید",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Criticism; fault finding; review.",
+   "ur": "",
+   "ex": [],
+   "roman": "tanqīd"
+  },
+  {
+   "w": "تنقیہ",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Purging; cleaning (the bowels); winnowing grain; decision; settlement.",
+   "ur": "",
+   "ex": [],
+   "roman": "tanqiyah"
+  },
+  {
+   "w": "تنک",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Weak; delicate; thin; brittle; mean; furious.",
+   "ur": "",
+   "ex": [],
+   "roman": "tunuk"
+  },
+  {
+   "w": "تنک مزاج",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Irritable; peevish; whimsical; captious; fretful.",
+   "ur": "",
+   "ex": [],
+   "roman": "tunuk mizāj"
+  },
+  {
+   "w": "تنکا",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A straw; a blade of grass; grass; a mote; a particle.",
+   "ur": "",
+   "ex": [],
+   "roman": "tinkā"
+  },
+  {
+   "w": "تنکا دانتوں میں لینا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To make submission; to ask for mercy; to confess inferiority.",
+   "ur": "",
+   "ex": [],
+   "roman": "tinkā dāntoṅ meṅ lenā"
+  },
+  {
+   "w": "تنکا نہ رہنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be robbed of everything.",
+   "ur": "",
+   "ex": [],
+   "roman": "tinkā nah rahnā"
+  },
+  {
+   "w": "تنکا ہو جانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To become emaciated; to become thin and lean.",
+   "ur": "",
+   "ex": [],
+   "roman": "tinkā ho jānā"
+  },
+  {
+   "w": "تنکے چننا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be intoxicated; to be insane or mad.",
+   "ur": "",
+   "ex": [],
+   "roman": "tinke chunnā"
+  },
+  {
+   "w": "تنکے کا سہارا لینا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To catch at a straw.",
+   "ur": "",
+   "ex": [],
+   "roman": "tinke kā sahārā lenā"
+  },
+  {
+   "w": "تنکے کا پہاڑ بنانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To make mountains out of mole-hills.",
+   "ur": "",
+   "ex": [],
+   "roman": "tinke kā pahāṛ banānā"
+  },
+  {
+   "w": "تنکنا",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To flutter; to palpitate; to throb; to flare up; to fly into a passion.",
+   "ur": "",
+   "ex": [],
+   "roman": "tinaknā"
+  },
+  {
+   "w": "تنکیر",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Using as a common noun; to ruffle; to molest.",
+   "ur": "",
+   "ex": [],
+   "roman": "tankīr"
+  },
+  {
+   "w": "تنگ",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Contracted; tight; narrow; straitened; scanty; poor; distressed; dejected; sad; a horse-belt; a girth; a bag; a sack.",
+   "ur": "",
+   "ex": [],
+   "roman": "tang"
+  },
+  {
+   "w": "تنگ آنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be dejected; to be utterly sick of; to be utterly weary; to have one's patience exhausted.",
+   "ur": "",
+   "ex": [],
+   "roman": "tang ānā"
+  },
+  {
+   "w": "تنگ حال",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Poor; distressed; in straitened circumstances.",
+   "ur": "",
+   "ex": [],
+   "roman": "tang ḥāl"
+  },
+  {
+   "w": "تنگ دست",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Poor; miserly; stingy; penniless.",
+   "ur": "",
+   "ex": [],
+   "roman": "tang dast"
+  },
+  {
+   "w": "تنگ دستی",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Poverty; want; destitution.",
+   "ur": "",
+   "ex": [],
+   "roman": "tang dastī"
+  },
+  {
+   "w": "تنگ دل",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Narrow-minded; illiberal; miser; niggard.",
+   "ur": "",
+   "ex": [],
+   "roman": "tang dil"
+  },
+  {
+   "w": "تنگ دہن",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Small-mouthed; an epithet of a sweetheart.",
+   "ur": "",
+   "ex": [],
+   "roman": "tang dahan"
+  },
+  {
+   "w": "تنگ ظرف",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Narrow-minded; shallow; mean.",
+   "ur": "",
+   "ex": [],
+   "roman": "tang zarf"
+  },
+  {
+   "w": "تنگ کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To tighten; to narrow; to contract; to vex; to tease; to pester.",
+   "ur": "",
+   "ex": [],
+   "roman": "tang karnā"
+  },
+  {
+   "w": "تنگ وقت",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Hour of difficulty; eleventh hour.",
+   "ur": "",
+   "ex": [],
+   "roman": "tang waqt"
+  },
+  {
+   "w": "تنگ ہاتھ ہونا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be penniless; to be in straits.",
+   "ur": "",
+   "ex": [],
+   "roman": "tang hāth honā"
+  },
+  {
+   "w": "تنگ ہونا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be badly off; to be without a penny.",
+   "ur": "",
+   "ex": [],
+   "roman": "tang honā"
+  },
+  {
+   "w": "تنگنائے",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "A strait; a narrow place or passage.",
+   "ur": "",
+   "ex": [],
+   "roman": "tangnāe"
+  },
+  {
+   "w": "تنگی",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Straitness; narrowness; hardship; difficulty; poverty; scantiness; want; a bag; a sack.",
+   "ur": "",
+   "ex": [],
+   "roman": "tangī"
+  },
+  {
+   "w": "تنگی ترشی",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Poverty; stinginess; extreme frugality.",
+   "ur": "",
+   "ex": [],
+   "roman": "tangī turshī"
+  },
+  {
+   "w": "تنگی ہونا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be in poverty; to lead a hard and miserable life.",
+   "ur": "",
+   "ex": [],
+   "roman": "tangī honā"
+  },
+  {
+   "w": "تننا، تنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To stretch; to pull tight; to sit upright or straight.",
+   "ur": "",
+   "ex": [],
+   "roman": "tannā"
+  },
+  {
+   "w": "تنور",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "An oven; a stove.",
+   "ur": "",
+   "ex": [],
+   "roman": "tanūr"
+  },
+  {
+   "w": "تنوع",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Variety; to be of different kinds.",
+   "ur": "",
+   "ex": [],
+   "roman": "tanawwo'"
+  },
+  {
+   "w": "تنومند",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Robust; well built; corpulent.",
+   "ur": "",
+   "ex": [],
+   "roman": "tanomand"
+  },
+  {
+   "w": "تنویر",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Illuminating; enlightening; illumination.",
+   "ur": "",
+   "ex": [],
+   "roman": "tanwīr"
+  },
+  {
+   "w": "تنوین",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Nunnation.",
+   "ur": "",
+   "ex": [],
+   "roman": "tanwīn"
+  },
+  {
+   "w": "تنہ",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Trunk of a tree; a stem; a stalk.",
+   "ur": "",
+   "ex": [],
+   "roman": "tanah"
+  },
+  {
+   "w": "تنہا",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Alone; single; solitary; only; unique.",
+   "ur": "",
+   "ex": [],
+   "roman": "tanhā"
+  },
+  {
+   "w": "تنہائی",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Loneliness; privacy; solitude.",
+   "ur": "",
+   "ex": [],
+   "roman": "tanhāī"
+  },
+  {
+   "w": "تنی",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A string with which garments are tied.",
+   "ur": "",
+   "ex": [],
+   "roman": "tanī"
+  },
+  {
+   "w": "تنی میں گانٹھ دینا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To betroth; to tie a knot in order to remember.",
+   "ur": "",
+   "ex": [],
+   "roman": "tanī meṅ gānṭh denā"
+  },
+  {
+   "w": "تو",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Then; therefore; in that case; at that time; moreover; that; also; for; yes; well.",
+   "ur": "",
+   "ex": [],
+   "roman": "to"
+  },
+  {
+   "w": "تو بھی",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Even then; nevertheless; yet; still.",
+   "ur": "",
+   "ex": [],
+   "roman": "to bhī"
+  },
+  {
+   "w": "تو",
+   "pron": "",
+   "pos": "pron. (H)",
+   "def": "Thou; thee.",
+   "ur": "",
+   "ex": [],
+   "roman": "tū"
+  },
+  {
+   "w": "تو تڑاق کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To address rudely; to wrangle; to engage in loud vulgar argument.",
+   "ur": "",
+   "ex": [],
+   "roman": "tū taṛāq karnā"
+  },
+  {
+   "w": "تو تو میں میں",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Wrangling; altercation; loud argument.",
+   "ur": "",
+   "ex": [],
+   "roman": "tū tū maiṅ maiṅ"
+  },
+  {
+   "w": "توا",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "An iron plate on which bread is baked; a shard placed over the tobacco in a chilam; leaden or iron platform put down in a well to cool the water; a gramophone record.",
+   "ur": "",
+   "ex": [],
+   "roman": "tawā"
+  },
+  {
+   "w": "تواب",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Acceptor of repentance; God.",
+   "ur": "",
+   "ex": [],
+   "roman": "tawwāb"
+  },
+  {
+   "w": "تواتر",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Following in succession; continuation; succession.",
+   "ur": "",
+   "ex": [],
+   "roman": "tawātur"
+  },
+  {
+   "w": "توارد",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Occurrence of the same idea to two persons; unintentionally inserting the sense of another's verses in one's own poems.",
+   "ur": "",
+   "ex": [],
+   "roman": "tawārud"
+  },
+  {
+   "w": "تواریخ",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "(plu. of تاریخ tārīkh); Dates; histories; annals; chronicles.",
+   "ur": "",
+   "ex": [],
+   "roman": "tawārīkh"
+  },
+  {
+   "w": "توازن",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Counterbalance; poise.",
+   "ur": "",
+   "ex": [],
+   "roman": "tawāzun"
+  },
+  {
+   "w": "تواضع",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Humility; attention; civility; affected kindness; hospitality; entertainment.",
+   "ur": "",
+   "ex": [],
+   "roman": "tawāzo'"
+  },
+  {
+   "w": "تواضع سمرقندی",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "False politeness; empty compliments.",
+   "ur": "",
+   "ex": [],
+   "roman": "tawāzo'-ĕ samorqandi"
+  },
+  {
+   "w": "تواضع شیرازی",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Simple fare; homely diet.",
+   "ur": "",
+   "ex": [],
+   "roman": "tawāzo'-ĕ shīrāzī"
+  },
+  {
+   "w": "تواضع کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To entertain; to make a present to; to receive with politeness.",
+   "ur": "",
+   "ex": [],
+   "roman": "tawāzo' karnā"
+  },
+  {
+   "w": "توافق",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Concord; agreement; harmony; coincidence; the relation between two numbers which have a common divisor.",
+   "ur": "",
+   "ex": [],
+   "roman": "tawāfuq"
+  },
+  {
+   "w": "توالد",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Being born generation after generation.",
+   "ur": "",
+   "ex": [],
+   "roman": "tawālud"
+  },
+  {
+   "w": "توام",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Twins.",
+   "ur": "",
+   "ex": [],
+   "roman": "tau am"
+  },
+  {
+   "w": "توانا",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Powerful; able; strong; robust.",
+   "ur": "",
+   "ex": [],
+   "roman": "tawānā"
+  },
+  {
+   "w": "توانائی",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Strength; power; ability.",
+   "ur": "",
+   "ex": [],
+   "roman": "tawānāī"
+  },
+  {
+   "w": "توانگر",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Rich; wealthy; opulent; powerful.",
+   "ur": "",
+   "ex": [],
+   "roman": "tawāngar"
+  },
+  {
+   "w": "توانگری",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Richness; wealth; opulence.",
+   "ur": "",
+   "ex": [],
+   "roman": "tawāngari"
+  },
+  {
+   "w": "توبڑا",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "The bag out of which horses eat; a horse's nose-bag.",
+   "ur": "",
+   "ex": [],
+   "roman": "tobṛā"
+  },
+  {
+   "w": "توبہ",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Promising to sin no more; penitence; repentance; renunciation; conversion.",
+   "ur": "",
+   "ex": [],
+   "roman": "taubah"
+  },
+  {
+   "w": "توبہ توبہ",
+   "pron": "",
+   "pos": "intj.",
+   "def": "Heaven forbid! fie! good gracious! never again!",
+   "ur": "",
+   "ex": [],
+   "roman": "taubah taubah"
+  },
+  {
+   "w": "توبہ تلا کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To repent; to appeal to God for forgiveness.",
+   "ur": "",
+   "ex": [],
+   "roman": "taubah tillā karnā"
+  },
+  {
+   "w": "توبہ شکن",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Faithless; one who violates a vow.",
+   "ur": "",
+   "ex": [],
+   "roman": "taubah shikan"
+  },
+  {
+   "w": "توبہ شکنی",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Faithlessness.",
+   "ur": "",
+   "ex": [],
+   "roman": "taubah shiknī"
+  },
+  {
+   "w": "توبہ کرانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To make one repent.",
+   "ur": "",
+   "ex": [],
+   "roman": "taubah karānā"
+  },
+  {
+   "w": "توبہ کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To vow not to sin any more; to adjure; to renounce.",
+   "ur": "",
+   "ex": [],
+   "roman": "taubah karnā"
+  },
+  {
+   "w": "توبہ گاہ",
+   "pron": "",
+   "pos": "v.",
+   "def": "Penitentiary.",
+   "ur": "",
+   "ex": [],
+   "roman": "taubah gāh"
+  },
+  {
+   "w": "توبیخ",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Threatening; rebuke; speaking harshly; reproach.",
+   "ur": "",
+   "ex": [],
+   "roman": "taubīkh"
+  },
+  {
+   "w": "توپ",
+   "pron": "",
+   "pos": "n.f. (T)",
+   "def": "A cannon; a gun; (Fig.) a corpulent person.",
+   "ur": "",
+   "ex": [],
+   "roman": "top"
+  },
+  {
+   "w": "توپ انداز، توپچی",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A gunner; an artillery man; a cannoneer; a bombardier.",
+   "ur": "",
+   "ex": [],
+   "roman": "top andāz, topchī"
+  },
+  {
+   "w": "توپ چلانا، توپ چھوڑنا، توپ داغنا، توپ لگانا، توپ مارنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To fire a gun; to fire a cannon; to cannonade.",
+   "ur": "",
+   "ex": [],
+   "roman": "top chalānā, top chhoṛnā, top dāghnā, top lagānā, top mārnā"
+  },
+  {
+   "w": "توپ خانہ",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "An artillery; an arsenal; a park of artillery; a battery.",
+   "ur": "",
+   "ex": [],
+   "roman": "top khānah"
+  },
+  {
+   "w": "توپ سے اڑانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To blow off with a cannon; to condemn a person to be blown off with a gun.",
+   "ur": "",
+   "ex": [],
+   "roman": "top se uṛānā"
+  },
+  {
+   "w": "توت",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Mulberry.",
+   "ur": "",
+   "ex": [],
+   "roman": "tūt"
+  },
+  {
+   "w": "توتا",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A parrot; the cock of a matchlock.",
+   "ur": "",
+   "ex": [],
+   "roman": "totā"
+  },
+  {
+   "w": "توتا پالنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To nurse a sore; to conceal a foul disease.",
+   "ur": "",
+   "ex": [],
+   "roman": "totā pālnā"
+  },
+  {
+   "w": "توتا چشم",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Faithless as a parrot; disloyal; treacherous.",
+   "ur": "",
+   "ex": [],
+   "roman": "totā chashm"
+  },
+  {
+   "w": "توتے کی سی آنکھیں پھیرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To become indifferent (to); to withdraw the affections from.",
+   "ur": "",
+   "ex": [],
+   "roman": "tote ki si ānkhen phernā"
+  },
+  {
+   "w": "توتے اڑنا ہاتھوں کے",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be confounded; to be non-plussed; to be bewildered; to be taken aback.",
+   "ur": "",
+   "ex": [],
+   "roman": "tote uṛnā hāthoṅ ke"
+  },
+  {
+   "w": "توتلا",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "One who speaks indistinctly as a child; lisper; stammerer; stutterer.",
+   "ur": "",
+   "ex": [],
+   "roman": "totlā"
+  },
+  {
+   "w": "توتی",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "A small singing bird; a sweet-tongued or eloquent speaker.",
+   "ur": "",
+   "ex": [],
+   "roman": "tūtī"
+  },
+  {
+   "w": "توتی بولنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To acquire power and authority; to be known all over; to have attained perfection in some art or science.",
+   "ur": "",
+   "ex": [],
+   "roman": "tūtī bolnā"
+  },
+  {
+   "w": "توتی کی آواز نقارخانے میں کون سنتا ہے",
+   "pron": "",
+   "pos": "prov.",
+   "def": "None cares to listen to the woes of a poor man in the assembly of the rich; no one listens to the poor notes of a flute where orchestral music is available.",
+   "ur": "",
+   "ex": [],
+   "roman": "tūtī kī āwāz naqqār khāne meṅ kaun suntā hai"
+  },
+  {
+   "w": "توتیا",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Blue vitriol; sulphate of copper.",
+   "ur": "",
+   "ex": [],
+   "roman": "tūtiyā"
+  },
+  {
+   "w": "توثیق",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Confirmation; verification; ratification.",
+   "ur": "",
+   "ex": [],
+   "roman": "tausīq"
+  },
+  {
+   "w": "توثیق کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To confirm; to verify.",
+   "ur": "",
+   "ex": [],
+   "roman": "tausīq karnā"
+  },
+  {
+   "w": "توجہ",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Inclination; attention; care; favour; regard; kindness; tendency.",
+   "ur": "",
+   "ex": [],
+   "roman": "tawajjuh"
+  },
+  {
+   "w": "توجہ طلب",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Requiring attention; calling for consideration.",
+   "ur": "",
+   "ex": [],
+   "roman": "tawajjuh ṭalab"
+  },
+  {
+   "w": "توجہ مبذول کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To direct or draw or invite attention.",
+   "ur": "",
+   "ex": [],
+   "roman": "tawajjuh mabzūl karnā"
+  },
+  {
+   "w": "توجیہ",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "A statement; a descriptive roll; adjustment of accounts; an allowance made to land-holders; explaining; accounting for; assessment.",
+   "ur": "",
+   "ex": [],
+   "roman": "taujīh"
+  },
+  {
+   "w": "توجیہ نویس",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A keeper of descriptive rolls.",
+   "ur": "",
+   "ex": [],
+   "roman": "taujīh nawīs"
+  },
+  {
+   "w": "توحید",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Declaring God to be one; believing in the unity of God; unitarianism.",
+   "ur": "",
+   "ex": [],
+   "roman": "tauḥīd"
+  },
+  {
+   "w": "تودہ",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A mound; a heap; a mark to shoot at.",
+   "ur": "",
+   "ex": [],
+   "roman": "tūdah"
+  },
+  {
+   "w": "تودۂ خاک",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A heap of dust.",
+   "ur": "",
+   "ex": [],
+   "roman": "tūdah-ĕ khāk"
+  },
+  {
+   "w": "تورات",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "The Old Testament.",
+   "ur": "",
+   "ex": [],
+   "roman": "taurāt"
+  },
+  {
+   "w": "تورع",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Piety; piousness.",
+   "ur": "",
+   "ex": [],
+   "roman": "tawarru'"
+  },
+  {
+   "w": "توڑ",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Break; rupture; counteraction; remedy; refutation; whey; the distance of a gun shot.",
+   "ur": "",
+   "ex": [],
+   "roman": "toṛ"
+  },
+  {
+   "w": "توڑ پھوڑ",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Breaking; damage; destruction; ravage; espionage; subversion.",
+   "ur": "",
+   "ex": [],
+   "roman": "toṛ phor"
+  },
+  {
+   "w": "توڑ دینا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To break; to spoil; to disrupt.",
+   "ur": "",
+   "ex": [],
+   "roman": "toṛ denā"
+  },
+  {
+   "w": "توڑ ڈالنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To pull down; to break and destroy.",
+   "ur": "",
+   "ex": [],
+   "roman": "toṛ ḍālnā"
+  },
+  {
+   "w": "توڑ کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To counteract; to give a counterblow.",
+   "ur": "",
+   "ex": [],
+   "roman": "toṛ karnā"
+  },
+  {
+   "w": "توڑ لینا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To pluck (flowers, fruit); to win over.",
+   "ur": "",
+   "ex": [],
+   "roman": "toṛ lenā"
+  },
+  {
+   "w": "توڑا",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Deficiency; scarcity; want; a purse containing one thousand rupees; the match of a gun; a plough-share; a gold or silver chain; a bank; a piece of rope.",
+   "ur": "",
+   "ex": [],
+   "roman": "toṛā"
+  },
+  {
+   "w": "توڑے دار بندوق",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "A matchlock.",
+   "ur": "",
+   "ex": [],
+   "roman": "toṛe dār bandūq"
+  },
+  {
+   "w": "توڑنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To break; to tear; to rend; to demolish; to violate; to win over; to pluck (fruits); to discontinue; to stop; to plough; to break into; to reduce (in Arith.)",
+   "ur": "",
+   "ex": [],
+   "roman": "toṛnā"
+  },
+  {
+   "w": "دم توڑنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be at the point of death; to die.",
+   "ur": "",
+   "ex": [],
+   "roman": "dam toṛnā"
+  },
+  {
+   "w": "روٹی توڑنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To eat the bread of idleness.",
+   "ur": "",
+   "ex": [],
+   "roman": "roṭī toṛnā"
+  },
+  {
+   "w": "توس",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "(corrp. of English) Toast.",
+   "ur": "",
+   "ex": [],
+   "roman": "tos"
+  },
+  {
+   "w": "توسط",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Mediation; means; affinity.",
+   "ur": "",
+   "ex": [],
+   "roman": "tawassut"
+  },
+  {
+   "w": "توسل",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Conjunction; copulation; means; recommendation.",
+   "ur": "",
+   "ex": [],
+   "roman": "tawassul"
+  },
+  {
+   "w": "توسن",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A young unbroken horse; a high-blooded noble steed; a war-horse; a plump horse; an unmanageable horse.",
+   "ur": "",
+   "ex": [],
+   "roman": "tausan"
+  },
+  {
+   "w": "توسیع",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Extension; enlargement; prolongation.",
+   "ur": "",
+   "ex": [],
+   "roman": "tausī'"
+  },
+  {
+   "w": "توشک",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "A mattress.",
+   "ur": "",
+   "ex": [],
+   "roman": "toshak"
+  },
+  {
+   "w": "توشہ",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Provisions for a journey; provision; supplies.",
+   "ur": "",
+   "ex": [],
+   "roman": "toshah"
+  },
+  {
+   "w": "توشہ خانہ",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Place where furniture is kept; a store-room; a wardrobe.",
+   "ur": "",
+   "ex": [],
+   "roman": "toshah khānah"
+  },
+  {
+   "w": "توش دان یا توشہ دان",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Tiffin carrier; a cartridge box.",
+   "ur": "",
+   "ex": [],
+   "roman": "toshdān yā toshah dān"
+  },
+  {
+   "w": "عاقبت کا توشہ",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Good deeds; provision for the next world; laying up treasure in heaven.",
+   "ur": "",
+   "ex": [],
+   "roman": "a'qibat kā toshah"
+  },
+  {
+   "w": "توصیف",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Description; commendation; describing; qualifying; eulogizing.",
+   "ur": "",
+   "ex": [],
+   "roman": "tausīf"
+  },
+  {
+   "w": "توضیح",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Making clear or evident; manifestation; account of collections; illustration; explanation.",
+   "ur": "",
+   "ex": [],
+   "roman": "tauzīḥ"
+  },
+  {
+   "w": "توغل",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Engrossment; absorption; great practice.",
+   "ur": "",
+   "ex": [],
+   "roman": "tawaghul"
+  },
+  {
+   "w": "توفیر",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Increase of revenue, increasing; excess; surplus.",
+   "ur": "",
+   "ex": [],
+   "roman": "taufīr"
+  },
+  {
+   "w": "توفیق",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Divine guidance; God's graciousness; help; power.",
+   "ur": "",
+   "ex": [],
+   "roman": "taufīq"
+  },
+  {
+   "w": "توقع",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Expectation; hope; desire; wish.",
+   "ur": "",
+   "ex": [],
+   "roman": "tawaqqo'"
+  },
+  {
+   "w": "توقع رکھنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To hope; to desire; to rely upon; to expect.",
+   "ur": "",
+   "ex": [],
+   "roman": "tawaqqo' rakhnā"
+  },
+  {
+   "w": "توقف",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Pause; delay; hesitation; respite; suspension; cessation.",
+   "ur": "",
+   "ex": [],
+   "roman": "tawaqquf"
+  },
+  {
+   "w": "توقف کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To pause; to hesitate; to wait; to delay; to halt; to stay.",
+   "ur": "",
+   "ex": [],
+   "roman": "tawaqquf karnā"
+  },
+  {
+   "w": "توقیر",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Honour; respect; reverence; veneration.",
+   "ur": "",
+   "ex": [],
+   "roman": "tauqīr"
+  },
+  {
+   "w": "توکل",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Reliance; trust in God; perfect reliance on God.",
+   "ur": "",
+   "ex": [],
+   "roman": "tawakkul"
+  },
+  {
+   "w": "توکل پر بیٹھنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To trust in God; to rest in hope; to sit idle.",
+   "ur": "",
+   "ex": [],
+   "roman": "tawakkul par baithnā"
+  },
+  {
+   "w": "علی التوکل",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Relying on God; at random; haphazard.",
+   "ur": "",
+   "ex": [],
+   "roman": "'a'lot-tawakkul"
+  },
+  {
+   "w": "تول",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Weighing; weight; standard weight.",
+   "ur": "",
+   "ex": [],
+   "roman": "tol"
+  },
+  {
+   "w": "تولا",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A weight of 12 māshās; a weighman.",
+   "ur": "",
+   "ex": [],
+   "roman": "tolā"
+  },
+  {
+   "w": "تولا",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Attachment; affection; hope.",
+   "ur": "",
+   "ex": [],
+   "roman": "tawallā"
+  },
+  {
+   "w": "تولائی",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "One who shows affection or attachment; a sect of Shias, which loves Hazrat Ali but does not curse other Caliphs preceding him.",
+   "ur": "",
+   "ex": [],
+   "roman": "tawallāī"
+  },
+  {
+   "w": "تولد",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Birth; nativity.",
+   "ur": "",
+   "ex": [],
+   "roman": "tawallud"
+  },
+  {
+   "w": "تولنا",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To weigh; to put in the scales; to estimate.",
+   "ur": "",
+   "ex": [],
+   "roman": "tolnā"
+  },
+  {
+   "w": "نظروں میں تولنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To estimate the worth of someone or something by merely looking at the object.",
+   "ur": "",
+   "ex": [],
+   "roman": "nazroṅ meṅ tolnā"
+  },
+  {
+   "w": "تولیا",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A towel.",
+   "ur": "",
+   "ex": [],
+   "roman": "tauliyā"
+  },
+  {
+   "w": "تولیت",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Trustee-ship; superintendence of any business; appointing one as governor or supervisor.",
+   "ur": "",
+   "ex": [],
+   "roman": "tauliyat"
+  },
+  {
+   "w": "تولید",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Birth; generation; begetting; production; growth.",
+   "ur": "",
+   "ex": [],
+   "roman": "taulīd"
+  },
+  {
+   "w": "تومڑی",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A kind of hollow gourd; a kind of firework, made of a hollow earthen pot filled with powder.",
+   "ur": "",
+   "ex": [],
+   "roman": "tūmṛī"
+  },
+  {
+   "w": "تومنا",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To card cotton or wool with the finger preparatory to combing.",
+   "ur": "",
+   "ex": [],
+   "roman": "tūmnā"
+  },
+  {
+   "w": "تونبا",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "The hollow gourd stringed as a guitar.",
+   "ur": "",
+   "ex": [],
+   "roman": "tūnbā"
+  },
+  {
+   "w": "توند",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A pot-belly; a large belly; corpulence.",
+   "ur": "",
+   "ex": [],
+   "roman": "tond"
+  },
+  {
+   "w": "توندل",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Pot-bellied; corpulent.",
+   "ur": "",
+   "ex": [],
+   "roman": "tondal"
+  },
+  {
+   "w": "توہم",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Imagination; superstition; fancy.",
+   "ur": "",
+   "ex": [],
+   "roman": "tawahhum"
+  },
+  {
+   "w": "توہین",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Disgrace; contempt; defamation; dishonour; insult.",
+   "ur": "",
+   "ex": [],
+   "roman": "tauhīn"
+  },
+  {
+   "w": "توہینِ عدالت",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Contempt of court.",
+   "ur": "",
+   "ex": [],
+   "roman": "tauhīn-ĕ a'dālat"
+  },
+  {
+   "w": "توہین کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To offer an insult; to dishonour; to insult; to defame.",
+   "ur": "",
+   "ex": [],
+   "roman": "tauhīn karnā"
+  },
+  {
+   "w": "تہ",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Surface; foundation; depth; layer; stratum; bottom; ground; fold; plait. prep. Beneath; under.",
+   "ur": "",
+   "ex": [],
+   "roman": "tah"
+  },
+  {
+   "w": "تہ آب",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Under water. n.f. Bottom of the river.",
+   "ur": "",
+   "ex": [],
+   "roman": "tah āb"
+  },
+  {
+   "w": "تہ بازاری",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Ground rent of a stall in the market.",
+   "ur": "",
+   "ex": [],
+   "roman": "tah bazārī"
+  },
+  {
+   "w": "تہ بہ تہ",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Plait by plait; fold on fold; layer by layer.",
+   "ur": "",
+   "ex": [],
+   "roman": "tah bah tah"
+  },
+  {
+   "w": "تہ بہ تہ کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To pile one over another; to fold.",
+   "ur": "",
+   "ex": [],
+   "roman": "tah bah tah karnā"
+  },
+  {
+   "w": "تہ بچھانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To lay; to put a layer.",
+   "ur": "",
+   "ex": [],
+   "roman": "tah bichhānā"
+  },
+  {
+   "w": "تہ بند یا تحمد",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A cloth worn round the waist.",
+   "ur": "",
+   "ex": [],
+   "roman": "tah band yā tahmad"
+  },
+  {
+   "w": "تہ پیچ",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A cap or cloth worn under the turban.",
+   "ur": "",
+   "ex": [],
+   "roman": "tah pech"
+  },
+  {
+   "w": "تہ تیغ کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To put to sword; to murder.",
+   "ur": "",
+   "ex": [],
+   "roman": "tah tegh karnā"
+  },
+  {
+   "w": "تہ جمانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To plait; to place fold on fold.",
+   "ur": "",
+   "ex": [],
+   "roman": "tah jamānā"
+  },
+  {
+   "w": "تہ خانہ",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A cavern; a cellar; an under-ground chamber; a lower storey; a vault; a subterranean abode.",
+   "ur": "",
+   "ex": [],
+   "roman": "tah khānā"
+  },
+  {
+   "w": "تہ دار",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Having bottom; having folds; having depth.",
+   "ur": "",
+   "ex": [],
+   "roman": "tah dār"
+  },
+  {
+   "w": "تہ دیگی",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "The scrapings of a pot; the burnt part of victuals that sticks to the bottom of a pot.",
+   "ur": "",
+   "ex": [],
+   "roman": "tah degī"
+  },
+  {
+   "w": "تہ دینا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To tinge slightly.",
+   "ur": "",
+   "ex": [],
+   "roman": "tah denā"
+  },
+  {
+   "w": "تہ کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To fold up.",
+   "ur": "",
+   "ex": [],
+   "roman": "tah karnā"
+  },
+  {
+   "w": "تہ کو پہونچنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To get to the bottom of; to discover; to find-out.",
+   "ur": "",
+   "ex": [],
+   "roman": "tah ko pahuṅchanā"
+  },
+  {
+   "w": "تہ نشست",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Sediment.",
+   "ur": "",
+   "ex": [],
+   "roman": "tah nishast"
+  },
+  {
+   "w": "تہ نشین ہونا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To sink at the bottom; to settle down; to sink into the mind.",
+   "ur": "",
+   "ex": [],
+   "roman": "tah nashīn honā"
+  },
+  {
+   "w": "تہ و بالا",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Upside down; disarranged.",
+   "ur": "",
+   "ex": [],
+   "roman": "tah-ŏ bālā"
+  },
+  {
+   "w": "تہ و بالا کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To turn upside down; to subvert; to overthrow; to disarrange.",
+   "ur": "",
+   "ex": [],
+   "roman": "tah-o-bālā karnā"
+  },
+  {
+   "w": "تھاپ",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A tap; flap; thump; the sound of a small drum when struck with the palm of the hand.",
+   "ur": "",
+   "ex": [],
+   "roman": "thāp"
+  },
+  {
+   "w": "تھاپا",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Mark of the paw; mark made with the palm of the hand on the wall of a house.",
+   "ur": "",
+   "ex": [],
+   "roman": "thāpā"
+  },
+  {
+   "w": "تھاپنا",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To beat; to make cakes of cow-dung for fuel.",
+   "ur": "",
+   "ex": [],
+   "roman": "thāpnā"
+  },
+  {
+   "w": "تھاپی",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "The sound of patting; the instrument with which potters beat their clay; a bat; a beater.",
+   "ur": "",
+   "ex": [],
+   "roman": "thāpī"
+  },
+  {
+   "w": "تھال",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A large flat dish made of brass or bronze; a tray.",
+   "ur": "",
+   "ex": [],
+   "roman": "thāl"
+  },
+  {
+   "w": "تھالا",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "The basin or trench dug round the root of a tree for holding water; the excavation in which a tree is to be planted.",
+   "ur": "",
+   "ex": [],
+   "roman": "thālā"
+  },
+  {
+   "w": "تھالی",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "A small flat dish; a platter; a salver.",
+   "ur": "",
+   "ex": [],
+   "roman": "thālī"
+  },
+  {
+   "w": "تھالی کا بینگن",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A turncoat; a time-server; one who flatters for gain.",
+   "ur": "",
+   "ex": [],
+   "roman": "thālī kā baiṅgan"
+  },
+  {
+   "w": "تھامنا",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To prop; to support; to maintain; to hold; to retain.",
+   "ur": "",
+   "ex": [],
+   "roman": "thāmnā"
+  },
+  {
+   "w": "تھان",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A piece (of cloth); a stall for cattle; a manger; locality; dwelling; place.",
+   "ur": "",
+   "ex": [],
+   "roman": "thān"
+  },
+  {
+   "w": "تہاں",
+   "pron": "",
+   "pos": "adv. (H)",
+   "def": "Thither; there.",
+   "ur": "",
+   "ex": [],
+   "roman": "tahāṅ"
+  },
+  {
+   "w": "جہاں تہاں",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Everywhere; in each place.",
+   "ur": "",
+   "ex": [],
+   "roman": "jahāṅ tahāṅ"
+  },
+  {
+   "w": "تھانہ",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A subordinate police station; the inside of the lines of an army; a heap of bamboos.",
+   "ur": "",
+   "ex": [],
+   "roman": "thānah"
+  },
+  {
+   "w": "تھانہ بٹھانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To station a police picket.",
+   "ur": "",
+   "ex": [],
+   "roman": "thānah biṭhānā"
+  },
+  {
+   "w": "تھانے دار",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A police officer; one in charge of a police station.",
+   "ur": "",
+   "ex": [],
+   "roman": "thāne dār"
+  },
+  {
+   "w": "تھاہ",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Bottom (of a river or a sea); end.",
+   "ur": "",
+   "ex": [],
+   "roman": "thāh"
+  },
+  {
+   "w": "تہائی",
+   "pron": "",
+   "pos": "adj.",
+   "def": "The third part; one-third.",
+   "ur": "",
+   "ex": [],
+   "roman": "tihāī"
+  },
+  {
+   "w": "تھپڑ",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A slap; a blow; cuff.",
+   "ur": "",
+   "ex": [],
+   "roman": "thappaṛ"
+  },
+  {
+   "w": "تھپکنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To pat (a child) to sleep; to pacify.",
+   "ur": "",
+   "ex": [],
+   "roman": "thapaknā"
+  },
+  {
+   "w": "تھپیڑا",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A slap; the dashing of the waves; gust; blast of wind; the scalp.",
+   "ur": "",
+   "ex": [],
+   "roman": "thapeṛā"
+  },
+  {
+   "w": "تہتر",
+   "pron": "",
+   "pos": "adj. & n. (H)",
+   "def": "Seventy-three.",
+   "ur": "",
+   "ex": [],
+   "roman": "tihattar"
+  },
+  {
+   "w": "تہجد",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "A prayer said after mid-night; wakefulness.",
+   "ur": "",
+   "ex": [],
+   "roman": "tahajjud"
+  },
+  {
+   "w": "تہجی",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Spelling; orthography.",
+   "ur": "",
+   "ex": [],
+   "roman": "tahajjī"
+  },
+  {
+   "w": "حروفِ تہجی",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Letters of the alphabet.",
+   "ur": "",
+   "ex": [],
+   "roman": "hurūf-ĕ tahajjī"
+  },
+  {
+   "w": "تہجی کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To spell; to name the letters that form a word.",
+   "ur": "",
+   "ex": [],
+   "roman": "tahajjī karnā"
+  },
+  {
+   "w": "تہدید",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Threatening; frightening; threat.",
+   "ur": "",
+   "ex": [],
+   "roman": "tahdīd"
+  },
+  {
+   "w": "تہذیب",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Purifying; adorning; refinement; polish; edification; civilization; politeness.",
+   "ur": "",
+   "ex": [],
+   "roman": "tahzīb"
+  },
+  {
+   "w": "تہذیبِ اخلاق",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Civilization; good breeding.",
+   "ur": "",
+   "ex": [],
+   "roman": "tahzīb-ĕ akhlāq"
+  },
+  {
+   "w": "تہذیب یافتہ",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Civilized; polished; educated; polite.",
+   "ur": "",
+   "ex": [],
+   "roman": "tahzīb yāftah"
+  },
+  {
+   "w": "تہرا",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Triple; three-fold.",
+   "ur": "",
+   "ex": [],
+   "roman": "tihrā"
+  },
+  {
+   "w": "تھررانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To tremble; to quiver; to shudder.",
+   "ur": "",
+   "ex": [],
+   "roman": "tharrānā"
+  },
+  {
+   "w": "تھرتھرانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To tremble; to quiver; to shake; to quake; to vibrate.",
+   "ur": "",
+   "ex": [],
+   "roman": "thartharānā"
+  },
+  {
+   "w": "تھرتھری، تھرتھراہٹ",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Tremour; shaking; trembling; quivering; shivering; vibration.",
+   "ur": "",
+   "ex": [],
+   "roman": "thartharī, thartharāhaṭ"
+  },
+  {
+   "w": "تھرکنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To dance with expressive action and gesture; to dance joyously.",
+   "ur": "",
+   "ex": [],
+   "roman": "thiraknā"
+  },
+  {
+   "w": "تہری",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Triplicate.",
+   "ur": "",
+   "ex": [],
+   "roman": "tehrī"
+  },
+  {
+   "w": "تہری",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A kind of dish.",
+   "ur": "",
+   "ex": [],
+   "roman": "tahrī"
+  },
+  {
+   "w": "تہس نہس",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Ruined; destroyed; dispersed; over-thrown.",
+   "ur": "",
+   "ex": [],
+   "roman": "tahas nahas"
+  },
+  {
+   "w": "تھکا",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Weary; tired; exhausted.",
+   "ur": "",
+   "ex": [],
+   "roman": "thakā"
+  },
+  {
+   "w": "تھکا اونٹ سرائے کو دیکھتا ہے",
+   "pron": "",
+   "pos": "prov.",
+   "def": "A drowning man catches at a straw.",
+   "ur": "",
+   "ex": [],
+   "roman": "thakā ūṅṭ sarāe ko dekhtā hai"
+  },
+  {
+   "w": "تھکا بیل",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A lazy fellow; a shirker; a sluggard.",
+   "ur": "",
+   "ex": [],
+   "roman": "thakā bail"
+  },
+  {
+   "w": "تھکا ماندہ",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Dog-tired; worn out; distracted.",
+   "ur": "",
+   "ex": [],
+   "roman": "thakā māndah"
+  },
+  {
+   "w": "تھکان، تکان، تھکاوٹ، تھکن",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Weariness; exhaustion; fatigue; lassitude.",
+   "ur": "",
+   "ex": [],
+   "roman": "thakān, takān, thakāwaṭ, thakan"
+  },
+  {
+   "w": "تھکانا",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To tire; to harass; to weary; to fag; to fatigue.",
+   "ur": "",
+   "ex": [],
+   "roman": "thakānā"
+  },
+  {
+   "w": "تھکنا",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To be wearied; to be fatigued; to be exhausted; to tire; to fag.",
+   "ur": "",
+   "ex": [],
+   "roman": "thaknā"
+  },
+  {
+   "w": "تھگلی",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A patch.",
+   "ur": "",
+   "ex": [],
+   "roman": "thiglī"
+  },
+  {
+   "w": "تھل",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Land; dry land; a desert; place; ford; spot; site.",
+   "ur": "",
+   "ex": [],
+   "roman": "thal"
+  },
+  {
+   "w": "تھل تھل کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To undulate; to wave; to fluctuate as a thick or glutinous fluid; to shake as the flabby flesh of a fat man.",
+   "ur": "",
+   "ex": [],
+   "roman": "thal thal karnā"
+  },
+  {
+   "w": "تہلکہ",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "(Commonly pronounced as tahalkah); Ruin; destruction; perdition; alarm; consternation; agony; panic.",
+   "ur": "",
+   "ex": [],
+   "roman": "tahlukah"
+  },
+  {
+   "w": "تہلیل",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Praising God by proclaiming; Lā-ilah illallah, there is no God but the one God.",
+   "ur": "",
+   "ex": [],
+   "roman": "tahlīl"
+  },
+  {
+   "w": "تھم",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A pillar; a post; a column.",
+   "ur": "",
+   "ex": [],
+   "roman": "tham"
+  },
+  {
+   "w": "تہمت",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "False accusation; calumny; suspicion of guilt; slander; aspersion; imputation; falsely charging one with a crime.",
+   "ur": "",
+   "ex": [],
+   "roman": "tuhmat"
+  },
+  {
+   "w": "تہمت لگانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To accuse; to calumniate; to belie; to slander; to asperse; to traduce.",
+   "ur": "",
+   "ex": [],
+   "roman": "tuhmat lagānā"
+  },
+  {
+   "w": "تہمتی",
+   "pron": "",
+   "pos": "n.m./f.",
+   "def": "A slanderer; false accuser; calumniator.",
+   "ur": "",
+   "ex": [],
+   "roman": "tuhmatī"
+  },
+  {
+   "w": "تھمنا",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To stop; to cease; to be restrained.",
+   "ur": "",
+   "ex": [],
+   "roman": "thamnā"
+  },
+  {
+   "w": "تھن",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Udder; teat.",
+   "ur": "",
+   "ex": [],
+   "roman": "than"
+  },
+  {
+   "w": "تہنیت",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Congratulation; wishing one joy or prosperity.",
+   "ur": "",
+   "ex": [],
+   "roman": "tahniyat"
+  },
+  {
+   "w": "تہوار",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Festival.",
+   "ur": "",
+   "ex": [],
+   "roman": "tihwār"
+  },
+  {
+   "w": "تھوپنا",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To plaster; to pile; to heap; to assign; to impose (upon).",
+   "ur": "",
+   "ex": [],
+   "roman": "thopnā"
+  },
+  {
+   "w": "تھوتھا",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "An arrow without a point; name of a medicine. adj. Hollow; empty; toothless.",
+   "ur": "",
+   "ex": [],
+   "roman": "thothā"
+  },
+  {
+   "w": "تھوتھا چنا باجے گھنا",
+   "pron": "",
+   "pos": "prov.",
+   "def": "Empty vessels make much noise.",
+   "ur": "",
+   "ex": [],
+   "roman": "thothā chanā bāje ghanā"
+  },
+  {
+   "w": "تھوتھنی",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "The mouth of an animal (as a horse, camel or hog).",
+   "ur": "",
+   "ex": [],
+   "roman": "thothnī"
+  },
+  {
+   "w": "تہور",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Temerity; rashness; intrepidity.",
+   "ur": "",
+   "ex": [],
+   "roman": "tahawwur"
+  },
+  {
+   "w": "تھوڑا",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Little; less, small; scarce; few; scanty; meagre.",
+   "ur": "",
+   "ex": [],
+   "roman": "thoṛā"
+  },
+  {
+   "w": "تھوڑا بہت",
+   "pron": "",
+   "pos": "adj.",
+   "def": "More or less.",
+   "ur": "",
+   "ex": [],
+   "roman": "thoṛā bahut"
+  },
+  {
+   "w": "تھوڑا تھوڑا",
+   "pron": "",
+   "pos": "adj.",
+   "def": "A little; very little. adv. Little by little.",
+   "ur": "",
+   "ex": [],
+   "roman": "thoṛā thoṛā"
+  },
+  {
+   "w": "تھوڑا کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To lessen; to reduce.",
+   "ur": "",
+   "ex": [],
+   "roman": "thoṛā karnā"
+  },
+  {
+   "w": "تھوڑا ہونا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be reduced; to be in short supply.",
+   "ur": "",
+   "ex": [],
+   "roman": "thoṛā honā"
+  },
+  {
+   "w": "تھوڑے دنوں سے",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Of late; since the last few days.",
+   "ur": "",
+   "ex": [],
+   "roman": "thoṛe dinoṅ se"
+  },
+  {
+   "w": "تھوڑے سے تھوڑا",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Very little; as little as little can be.",
+   "ur": "",
+   "ex": [],
+   "roman": "thoṛe se thoṛā"
+  },
+  {
+   "w": "تھوک",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Multitude; mass; heap; wholesale.",
+   "ur": "",
+   "ex": [],
+   "roman": "thok"
+  },
+  {
+   "w": "تھوک دار",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Holder of a principal share in a village who is responsible for the payment of revenue; a wholesale dealer.",
+   "ur": "",
+   "ex": [],
+   "roman": "thok dār"
+  },
+  {
+   "w": "تھوک فروش",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A wholesale vendor; whole-saler.",
+   "ur": "",
+   "ex": [],
+   "roman": "thok farosh"
+  },
+  {
+   "w": "تھوک",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Spittle.",
+   "ur": "",
+   "ex": [],
+   "roman": "thūk"
+  },
+  {
+   "w": "تھوک بلونا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To talk nonsense.",
+   "ur": "",
+   "ex": [],
+   "roman": "thūk bilonā"
+  },
+  {
+   "w": "تھوک دینا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To give up; to renounce in disgust.",
+   "ur": "",
+   "ex": [],
+   "roman": "thūk denā"
+  },
+  {
+   "w": "تھوک کر چاٹنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To break one's promise; to back out; to withdraw what one has given of free will.",
+   "ur": "",
+   "ex": [],
+   "roman": "thūk kar chāṭnā"
+  },
+  {
+   "w": "تھوک لگانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To defeat; to harm; to apply spittle (an abuse).",
+   "ur": "",
+   "ex": [],
+   "roman": "thūk lagānā"
+  },
+  {
+   "w": "تھوکنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To spit.",
+   "ur": "",
+   "ex": [],
+   "roman": "thūknā"
+  },
+  {
+   "w": "تھوہر",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Name of a plant, the cactus.",
+   "ur": "",
+   "ex": [],
+   "roman": "thohar"
+  },
+  {
+   "w": "تہی",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Empty; vain; void; vacant.",
+   "ur": "",
+   "ex": [],
+   "roman": "tihī"
+  },
+  {
+   "w": "تہی دست",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Empty-handed; poor; indigent.",
+   "ur": "",
+   "ex": [],
+   "roman": "tihī dast"
+  },
+  {
+   "w": "تہی دماغ",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Empty-headed; ignorant; foolish.",
+   "ur": "",
+   "ex": [],
+   "roman": "tihī dimāgh"
+  },
+  {
+   "w": "تھئی",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A heap or pile (of cakes, clothes, &c).",
+   "ur": "",
+   "ex": [],
+   "roman": "thai"
+  },
+  {
+   "w": "تھیلا",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A large bag; a sack; a haversack.",
+   "ur": "",
+   "ex": [],
+   "roman": "thailā"
+  },
+  {
+   "w": "تھیلی",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A purse.",
+   "ur": "",
+   "ex": [],
+   "roman": "thailī"
+  },
+  {
+   "w": "تھیوا",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A stone set in a ring.",
+   "ur": "",
+   "ex": [],
+   "roman": "thewā"
+  },
+  {
+   "w": "تہیہ",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Preparation; determination; putting in order; arrangement.",
+   "ur": "",
+   "ex": [],
+   "roman": "tahiyyah"
+  },
+  {
+   "w": "تہیہ کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To make preparation (for); to make a determination.",
+   "ur": "",
+   "ex": [],
+   "roman": "tahiyyah karnā"
+  },
+  {
+   "w": "تیار",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Ready; prepared; finished; complete; fully developed; plump; in full vigour; fat; ripened (fruit); alert; ripe.",
+   "ur": "",
+   "ex": [],
+   "roman": "taiyār"
+  },
+  {
+   "w": "تیار کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To make ready; to prepare; to provide; to train; to put in order; to fatten.",
+   "ur": "",
+   "ex": [],
+   "roman": "taiyār karnā"
+  },
+  {
+   "w": "تیار ہونا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be alert; to be ready or prepared (for).",
+   "ur": "",
+   "ex": [],
+   "roman": "taiyār honā"
+  },
+  {
+   "w": "تیاری",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Readiness; preparation; good condition; arrangement; pomp; magnificence; plumpness.",
+   "ur": "",
+   "ex": [],
+   "roman": "taiyārī"
+  },
+  {
+   "w": "تیاگ",
+   "pron": "",
+   "pos": "n.m. (S)",
+   "def": "Relinquishment; abdication; renunciation; abandonment.",
+   "ur": "",
+   "ex": [],
+   "roman": "tiyāg"
+  },
+  {
+   "w": "تیاگنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To give up; to abandon; to resign.",
+   "ur": "",
+   "ex": [],
+   "roman": "tiyāgnā"
+  },
+  {
+   "w": "تیاگی",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "An abandoner; a renouncer; a hermit; a recluse; a religious ascetic.",
+   "ur": "",
+   "ex": [],
+   "roman": "tiyāgī"
+  },
+  {
+   "w": "تیتر",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A partridge.",
+   "ur": "",
+   "ex": [],
+   "roman": "tītar"
+  },
+  {
+   "w": "بن تیتر",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Sand grouse; a rock pigeon.",
+   "ur": "",
+   "ex": [],
+   "roman": "ban tītar"
+  },
+  {
+   "w": "تیتری، تتری",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A butterfly; a female partridge.",
+   "ur": "",
+   "ex": [],
+   "roman": "titarī, titrī"
+  },
+  {
+   "w": "تیج",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Splendour; glory.",
+   "ur": "",
+   "ex": [],
+   "roman": "tej"
+  },
+  {
+   "w": "تیج",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Third day of a lunar fortnight.",
+   "ur": "",
+   "ex": [],
+   "roman": "tīj"
+  },
+  {
+   "w": "تیجا",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "The third day after death on which oblations are offered; the offerings made on this occasion.",
+   "ur": "",
+   "ex": [],
+   "roman": "tījā"
+  },
+  {
+   "w": "تیر",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "An arrow; the 4th Persian month; the planet mercury.",
+   "ur": "",
+   "ex": [],
+   "roman": "tīr"
+  },
+  {
+   "w": "تیر انداز، تیر زن",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Bowman; an archer.",
+   "ur": "",
+   "ex": [],
+   "roman": "tīr andāz, tīr zan"
+  },
+  {
+   "w": "تیر اندازی",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Archery.",
+   "ur": "",
+   "ex": [],
+   "roman": "tīr andāzī"
+  },
+  {
+   "w": "تیر بہ ہدف",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Hitting the mark; very effective.",
+   "ur": "",
+   "ex": [],
+   "roman": "tīr bah hadaf"
+  },
+  {
+   "w": "تیر پھینکنا یا چلانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To shoot an arrow; to do something wonderful.",
+   "ur": "",
+   "ex": [],
+   "roman": "tīr phaiṅknā yā chalānā"
+  },
+  {
+   "w": "تیرِ فلک",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "The planet mercury:",
+   "ur": "",
+   "ex": [],
+   "roman": "tīr-ĕ falak"
+  },
+  {
+   "w": "تیرا",
+   "pron": "",
+   "pos": "pron. (H)",
+   "def": "Thy; thine.",
+   "ur": "",
+   "ex": [],
+   "roman": "terā"
+  },
+  {
+   "w": "تیراک",
+   "pron": "",
+   "pos": "n.m./f. (H)",
+   "def": "Swimmer.",
+   "ur": "",
+   "ex": [],
+   "roman": "tairāk"
+  },
+  {
+   "w": "تیرانا",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To cause to swim; to cause to float.",
+   "ur": "",
+   "ex": [],
+   "roman": "tairānā"
+  },
+  {
+   "w": "تیرتھ",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A sacred place; a place of pilgrimage.",
+   "ur": "",
+   "ex": [],
+   "roman": "tīrath"
+  },
+  {
+   "w": "تیرگی",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Darkness; obscurity; gloam; dulness; strain.",
+   "ur": "",
+   "ex": [],
+   "roman": "tīragī"
+  },
+  {
+   "w": "تیرنا",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To swim; to float.",
+   "ur": "",
+   "ex": [],
+   "roman": "tairnā"
+  },
+  {
+   "w": "تیرہ",
+   "pron": "",
+   "pos": "n. & adj. (H)",
+   "def": "Thirteen.",
+   "ur": "",
+   "ex": [],
+   "roman": "terah"
+  },
+  {
+   "w": "تیرہ",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Dark; obscure.",
+   "ur": "",
+   "ex": [],
+   "roman": "tīrah"
+  },
+  {
+   "w": "تیرہ بخت",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Unfortunate.",
+   "ur": "",
+   "ex": [],
+   "roman": "tīrah bakht"
+  },
+  {
+   "w": "تیرہ دل",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Black-hearted; malicious.",
+   "ur": "",
+   "ex": [],
+   "roman": "tīrah dil"
+  },
+  {
+   "w": "تیرہواں",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Thirteenth.",
+   "ur": "",
+   "ex": [],
+   "roman": "terhwāṅ"
+  },
+  {
+   "w": "تیز",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Sharp; keen; pungent; acute; hot; fiery; caustic; acrid; strong; impetuous; violent; swift; pointed; clever.",
+   "ur": "",
+   "ex": [],
+   "roman": "tez"
+  },
+  {
+   "w": "تیز پرواز",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Swift in flight.",
+   "ur": "",
+   "ex": [],
+   "roman": "tez parwāz"
+  },
+  {
+   "w": "تیز رو یا رفتار",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Fast-going; rapid; swift; fleet foot.",
+   "ur": "",
+   "ex": [],
+   "roman": "tez rau yā raftār"
+  },
+  {
+   "w": "تیز طبع",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Quick of apprehension; of an acute intellect.",
+   "ur": "",
+   "ex": [],
+   "roman": "tez taba'"
+  },
+  {
+   "w": "تیز عقل یا تیز فہم",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Intelligent; acute; apt.",
+   "ur": "",
+   "ex": [],
+   "roman": "tez 'aql yā tez fahm"
+  },
+  {
+   "w": "تیز فہمی",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Quickness of apprehension; intelligence; acumen; acuteness; aptness.",
+   "ur": "",
+   "ex": [],
+   "roman": "tez fahmī"
+  },
+  {
+   "w": "تیز قدم یا گام",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Swift; quick; fast-going.",
+   "ur": "",
+   "ex": [],
+   "roman": "tez qadam yā gām"
+  },
+  {
+   "w": "تیز نگاہ",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Sharp-sighted.",
+   "ur": "",
+   "ex": [],
+   "roman": "tez nigāh"
+  },
+  {
+   "w": "تیز ہونا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be sharpened; to be whetted; to lose one's temper.",
+   "ur": "",
+   "ex": [],
+   "roman": "tez honā"
+  },
+  {
+   "w": "تیزاب",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "An acid; aqua fortis.",
+   "ur": "",
+   "ex": [],
+   "roman": "tezāb"
+  },
+  {
+   "w": "تیزی",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Sharpness; pungency; swiftness; impetuosity; shrewdness; fleetness; acrimony.",
+   "ur": "",
+   "ex": [],
+   "roman": "tezī"
+  },
+  {
+   "w": "تیس",
+   "pron": "",
+   "pos": "n. & adj. (H)",
+   "def": "Thirty.",
+   "ur": "",
+   "ex": [],
+   "roman": "tīs"
+  },
+  {
+   "w": "تیسرا",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Third.",
+   "ur": "",
+   "ex": [],
+   "roman": "tīsrā"
+  },
+  {
+   "w": "تیسرے",
+   "pron": "",
+   "pos": "adv. (H)",
+   "def": "Thirdly.",
+   "ur": "",
+   "ex": [],
+   "roman": "tīsre"
+  },
+  {
+   "w": "تیسواں",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Thirtieth.",
+   "ur": "",
+   "ex": [],
+   "roman": "tīswāṅ"
+  },
+  {
+   "w": "تیشہ",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Carpenter's axe; an adze.",
+   "ur": "",
+   "ex": [],
+   "roman": "teshah"
+  },
+  {
+   "w": "تیغ",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "A scimitar; a dagger; a sword.",
+   "ur": "",
+   "ex": [],
+   "roman": "tegh"
+  },
+  {
+   "w": "تیغ بکف",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Sword in hand.",
+   "ur": "",
+   "ex": [],
+   "roman": "tegh bakaf"
+  },
+  {
+   "w": "تیغ زن",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A swordsman.",
+   "ur": "",
+   "ex": [],
+   "roman": "tegh zan"
+  },
+  {
+   "w": "تیغا",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A short, broad scimitar; name of a trick in wrestling.",
+   "ur": "",
+   "ex": [],
+   "roman": "teghā"
+  },
+  {
+   "w": "تیقن",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Ascertainment; certainty.",
+   "ur": "",
+   "ex": [],
+   "roman": "tayaqqun"
+  },
+  {
+   "w": "تیکھا",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Angry; passionate; pungent; sharp; bright; graceful.",
+   "ur": "",
+   "ex": [],
+   "roman": "tīkhā"
+  },
+  {
+   "w": "تیل",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Oil.",
+   "ur": "",
+   "ex": [],
+   "roman": "tel"
+  },
+  {
+   "w": "تیل چڑھانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To anoint the head, shoulders, hands and feet of the bride and bridegroom during the marriage ceremonies.",
+   "ur": "",
+   "ex": [],
+   "roman": "tel chaṛhānā"
+  },
+  {
+   "w": "تیل لگانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To rub oil on; to anoint.",
+   "ur": "",
+   "ex": [],
+   "roman": "tel lagānā"
+  },
+  {
+   "w": "تیل مٹی کا",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Kerosine oil; mineral oil.",
+   "ur": "",
+   "ex": [],
+   "roman": "tel miṭṭī kā"
+  },
+  {
+   "w": "تیلی",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "An oil man.",
+   "ur": "",
+   "ex": [],
+   "roman": "telī"
+  },
+  {
+   "w": "تیلی تمبولی",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Low caste people.",
+   "ur": "",
+   "ex": [],
+   "roman": "telī tambolī"
+  },
+  {
+   "w": "تیلی کا بیل",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A hard-working man; an overworked wretch.",
+   "ur": "",
+   "ex": [],
+   "roman": "telī kā bail"
+  },
+  {
+   "w": "تیلن",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "The wife of a teli.",
+   "ur": "",
+   "ex": [],
+   "roman": "telan"
+  },
+  {
+   "w": "تیلیا",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Oily; greasy.",
+   "ur": "",
+   "ex": [],
+   "roman": "teliyā"
+  },
+  {
+   "w": "تیلیا سرنگ",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A dark brown horse.",
+   "ur": "",
+   "ex": [],
+   "roman": "teliyā surung"
+  },
+  {
+   "w": "تیلیا ککریزی",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A deep purple colour.",
+   "ur": "",
+   "ex": [],
+   "roman": "teliyā kakrezī"
+  },
+  {
+   "w": "تیمار",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Care; attention; regimen of the sick; infirmity; sickness; indisposition; affliction.",
+   "ur": "",
+   "ex": [],
+   "roman": "tīmār"
+  },
+  {
+   "w": "تیمار دار",
+   "pron": "",
+   "pos": "n.",
+   "def": "One who looks after a sick person.",
+   "ur": "",
+   "ex": [],
+   "roman": "tīmār dār"
+  },
+  {
+   "w": "تیمار داری",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Nursing; looking after an invalid.",
+   "ur": "",
+   "ex": [],
+   "roman": "tīmār dārī"
+  },
+  {
+   "w": "تیمار گاہ",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "A public dispensary; a relief post.",
+   "ur": "",
+   "ex": [],
+   "roman": "tīmārgāh"
+  },
+  {
+   "w": "تیمم",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Purifying before prayers with sand or dust where water is not available.",
+   "ur": "",
+   "ex": [],
+   "roman": "tayammum"
+  },
+  {
+   "w": "تین",
+   "pron": "",
+   "pos": "n. & adj. (H)",
+   "def": "Three.",
+   "ur": "",
+   "ex": [],
+   "roman": "tīn"
+  },
+  {
+   "w": "تین پانچ",
+   "pron": "",
+   "pos": "id.",
+   "def": "Contention; dispute; quarrel; knavish.",
+   "ur": "",
+   "ex": [],
+   "roman": "tīn pāṅch"
+  },
+  {
+   "w": "تین پانچ کرنا",
+   "pron": "",
+   "pos": "id.",
+   "def": "To quarrel; to dispute.",
+   "ur": "",
+   "ex": [],
+   "roman": "tīn pāṅch karnā"
+  },
+  {
+   "w": "تین تیرہ",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Dispersed; scattered.",
+   "ur": "",
+   "ex": [],
+   "roman": "tīn terah"
+  },
+  {
+   "w": "تین تیرہ کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To put to rout; to scatter to the winds; to dissipate.",
+   "ur": "",
+   "ex": [],
+   "roman": "tīn terah karnā"
+  },
+  {
+   "w": "تینتالیس",
+   "pron": "",
+   "pos": "n. & adj.",
+   "def": "Forty-three.",
+   "ur": "",
+   "ex": [],
+   "roman": "taintālīs"
+  },
+  {
+   "w": "تینتیس",
+   "pron": "",
+   "pos": "n. & adj.",
+   "def": "Thirty-three.",
+   "ur": "",
+   "ex": [],
+   "roman": "taintīs"
+  },
+  {
+   "w": "تیندوا",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A leopard.",
+   "ur": "",
+   "ex": [],
+   "roman": "tendūā"
+  },
+  {
+   "w": "تیور",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Peculiar expression of the eyes; look; aspect; expression; countenance; the forehead; the brow.",
+   "ur": "",
+   "ex": [],
+   "roman": "tewar"
+  },
+  {
+   "w": "تیور بدلنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To change countenance; to change one's regard or affection.",
+   "ur": "",
+   "ex": [],
+   "roman": "tewar badalnā"
+  },
+  {
+   "w": "تیور بگڑنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To undergo a change of countenances; to be angry.",
+   "ur": "",
+   "ex": [],
+   "roman": "tewar bigaṛnā"
+  },
+  {
+   "w": "تیورانا",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To have a swimming in the head; to be giddy; to stagger.",
+   "ur": "",
+   "ex": [],
+   "roman": "tevrānā"
+  },
+  {
+   "w": "تیوری",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A frown; a scowl.",
+   "ur": "",
+   "ex": [],
+   "roman": "tevrī"
+  },
+  {
+   "w": "تیوری چڑھانا یا بدلنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To frown; to knit the brow.",
+   "ur": "",
+   "ex": [],
+   "roman": "tevrī chaṛhānā yā badalnā"
+  },
+  {
+   "w": "تیوری میں بل ڈالنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To contract the brow; to show displeasure.",
+   "ur": "",
+   "ex": [],
+   "roman": "tevrī meṅ bal ḍālnā"
+  },
+  {
+   "w": "تیوہار",
+   "pron": "",
+   "pos": "",
+   "def": "See تہوار tehwār.",
+   "ur": "",
+   "ex": [],
+   "roman": "teohār"
+  },
+  {
+   "w": "تئیس",
+   "pron": "",
+   "pos": "n. & adj. (H)",
+   "def": "Twenty-three.",
+   "ur": "",
+   "ex": [],
+   "roman": "te'īs"
+  },
+  {
+   "w": "ٹ",
+   "pron": "",
+   "pos": "",
+   "def": "It is the fifth letter of the Urdu and eleventh letter of the Hindi alphabet. It does not occur in the Arabic or Persian alphabets. Its sound or pronunciation differs from that of ت in being formed by the forcible application of the tip of the tongue to the palate, instead of the roots of the teeth.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭe"
+  },
+  {
+   "w": "ٹاپ",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A stroke with the forefoot of a horse; the sound of a horse's hoof; tramp of a horse.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭāp"
+  },
+  {
+   "w": "ٹاپا",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A hen-coop; a bamboo frame for catching fish.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭāpā"
+  },
+  {
+   "w": "ٹاپنا",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To keep looking for; to look about or search in vain; to leap or spring over a wall (low phrase).",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭāpnā"
+  },
+  {
+   "w": "ٹاپو",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A small island.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭāpū"
+  },
+  {
+   "w": "ٹاٹ",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Canvas; sack cloth; the capsular pod of green gram.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭāṭ"
+  },
+  {
+   "w": "ٹاٹ باف",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A weaver of canvas.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭāṭ bāf"
+  },
+  {
+   "w": "ٹاٹ بافی",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Embroidery.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭāṭ bāfī"
+  },
+  {
+   "w": "ٹاٹ بافی جوتا",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "An embroidered shoe.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭāṭ bāfī jūtā"
+  },
+  {
+   "w": "ٹال",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A fire wood yard; evasion; putting aside; stalk; deferring; a heap (of grain etc.); a rick; a bell tied to the neck of an animal.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭāl"
+  },
+  {
+   "w": "ٹال مٹول",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Putting off; evasion; stalk; chicanery; prevarication; shuffling.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭāl maṭol"
+  },
+  {
+   "w": "ٹال مٹول کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To put off; to evade; to practise delay.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭāl maṭol karnā"
+  },
+  {
+   "w": "ٹالا",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Putting off; evasion.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭālā"
+  },
+  {
+   "w": "ٹالا بالا بتانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To put off; to make excuses.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭālā bālā batānā"
+  },
+  {
+   "w": "ٹالنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To evade; to put off; to postpone; to avoid; to prevaricate; to defer; to ward off; to delay; to turn aside; to pretend.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭālnā"
+  },
+  {
+   "w": "ٹالی",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A small bell.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭālī"
+  },
+  {
+   "w": "ٹامک ٹوئیے مارنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To guess; to conjecture; to follow conjecture.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭāmak ṭoiye mārnā"
+  },
+  {
+   "w": "ٹانٹ",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "The crown of the head; skull.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭānṭ"
+  },
+  {
+   "w": "ٹانٹ کھجلانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To have itch on the skull; to scratch the head; to invite shoe beating.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭānṭ khujlānā"
+  },
+  {
+   "w": "ٹانٹ گنجی ہونا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To become bald; to be beaten (to the extent of losing head's hair).",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭānṭ ganjī honā"
+  },
+  {
+   "w": "ٹانک",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A weight equal to four māshahs; share; valuation.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭānk"
+  },
+  {
+   "w": "ٹانکا",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A stitch; solder; a stone cistern.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭānkā"
+  },
+  {
+   "w": "ٹانکا ادھڑنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "Opening of a stitch; to be exposed.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭānkā udhaṛnā"
+  },
+  {
+   "w": "ٹانکا بھرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To put a stitch in.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭānkā bharnā"
+  },
+  {
+   "w": "ٹانکا کھلنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "Opening out of a stitch; to have one's secrets exposed.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭānkā khulnā"
+  },
+  {
+   "w": "ٹانکا لگانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To stitch (a garment); to join; to sew; to solder.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭānkā lagānā"
+  },
+  {
+   "w": "ٹانکنا",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To stitch; to cobble; to solder; to join (to); to enter; to annex.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭānknā"
+  },
+  {
+   "w": "ٹانکی",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A chisel; a small hole; a notch; a dent; a square piece cut out of a water-melon to examine its quality; a kind of ulcer or cancer.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭānkī"
+  },
+  {
+   "w": "ٹانگ",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "The leg; a share.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭāng"
+  },
+  {
+   "w": "ٹانگ یا ٹانگیں اٹھانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To copulate; to raise the leg.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭāng yā ṭāngeṅ uṭhānā"
+  },
+  {
+   "w": "ٹانگ اڑانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To meddle with other people's affairs; to interfere (in).",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭāng aṛānā"
+  },
+  {
+   "w": "ٹانگ برابر",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Very small in size.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭāng barābar"
+  },
+  {
+   "w": "ٹانگ تلے سے نکالنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To subdue; to make submissive.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭāng tale se nikālnā"
+  },
+  {
+   "w": "ٹانگ تلے سے نکلنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To yield; to submit.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭāng tale se nikalnā"
+  },
+  {
+   "w": "ٹانگ توڑنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To render useless; to dabble in pursuits of which one has very little knowledge.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭāng tornā"
+  },
+  {
+   "w": "ٹانگ سے ٹانگ باندھنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To seat by one's side; not to allow one to stir out.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭāng se ṭāng bandhnā"
+  },
+  {
+   "w": "ٹانگ لینا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To seize or lay hold of the leg (a dog); to pester; to vex.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭāng lenā"
+  },
+  {
+   "w": "ٹانگیں رہ جانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be tired; to be unable to walk further.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭāngeṅ rah jānā"
+  },
+  {
+   "w": "ٹانگ دینا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To hang up; to suspend.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭāng denā"
+  },
+  {
+   "w": "ٹانگنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To hang up; to suspend; to dangle; to hang by a string.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭāngnā"
+  },
+  {
+   "w": "ٹائیں ٹائیں فش",
+   "pron": "",
+   "pos": "prov.",
+   "def": "All talk and no sense.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭāīṅ ṭāīṅ fish"
+  },
+  {
+   "w": "ٹبا",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A height; a sand drift.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭibbā"
+  },
+  {
+   "w": "ٹبر",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Family; household.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭabbar"
+  },
+  {
+   "w": "ٹپ",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Sound of a drop of rain or other liquid; the tub of a tonga or a carriage.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭup"
+  },
+  {
+   "w": "ٹپا",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "The name of a mode in music; the bound of a ball; a sort of hook; spring; leap; jump; shot; a stage; a long stitch in sewing; a small tract of country comprising one village or more; post office (in Southern India).",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭappā"
+  },
+  {
+   "w": "ٹپا بھرنا یا مارنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To sew with a long stitch; to read in desultory or unmethodical manner.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭappā bharnā yā mārnā"
+  },
+  {
+   "w": "ٹپا کھانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To bound (a ball).",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭappā khānā"
+  },
+  {
+   "w": "ٹپس",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Contrivance; access; approach; claim; alliance; foundation.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭippas"
+  },
+  {
+   "w": "ٹپس لڑانا یا لگانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To seek ways and means; to contact; to make out a claim.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭippas laṛānā yā lagānā"
+  },
+  {
+   "w": "ٹپک پڑنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To fall like a drop; to arrive unexpectedly; to drop off (as fruit).",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭapak paṛnā"
+  },
+  {
+   "w": "ٹپکا",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Continuous dropping; fruit falling when ripe (particularly mangoes); a windfall.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭapkā"
+  },
+  {
+   "w": "ٹپکا لگنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To become leaky; to leak; falling down of ripe mangoes.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭapkā lagnā"
+  },
+  {
+   "w": "ٹپکانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To cause to drop or drip; to distil.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭapkānā"
+  },
+  {
+   "w": "ٹپکاؤ",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Distillation; dripping.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭapkāo"
+  },
+  {
+   "w": "ٹپکنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To leak; to drop; to drip; to distil; to fall down (fruits).",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭapaknā"
+  },
+  {
+   "w": "ٹٹ پونجیا",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "A petty merchant; a merchant of small capital.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭaṭ pūnjyā"
+  },
+  {
+   "w": "ٹٹروٹوں",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "The cooing of a dove. adj. Alone; all alone.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭuṭrutūṅ"
+  },
+  {
+   "w": "ٹٹکارنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To urge an animal on by clacking the tongue.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭiṭkārnā"
+  },
+  {
+   "w": "ٹٹکاری",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "The sound made by drawing the tongue from the roof of the mouth and drawing it sharply forward with a view to urge animal to go forward.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭiṭkārī"
+  },
+  {
+   "w": "ٹٹو",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A pony; an under-sized horse.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭaṭṭū"
+  },
+  {
+   "w": "بھاڑے کا ٹٹو",
+   "pron": "",
+   "pos": "adj.",
+   "def": "A hired pony; mercenary; hireling.",
+   "ur": "",
+   "ex": [],
+   "roman": "bhāṛe kā ṭaṭṭū"
+  },
+  {
+   "w": "ٹٹول",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Touch; feeling; search; groping.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭaṭol"
+  },
+  {
+   "w": "ٹٹولنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To feel; to grope; to search by feeling; to examine by feeling.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭaṭolnā"
+  },
+  {
+   "w": "ٹٹی",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A frame-work of bamboo; a screen; a matted shutter; a frame for illumination; a privy; a latrine.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭaṭṭī"
+  },
+  {
+   "w": "ٹٹی جانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To perform the office of nature; to go to the privy.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭaṭṭī jānā"
+  },
+  {
+   "w": "ٹٹی کی اوٹ میں شکار کھیلنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To do something underhand; to form an ambuscade.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭaṭṭī kī oṭ meṅ shikār khelnā"
+  },
+  {
+   "w": "ٹٹی لگانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To screen; to put up an enclosure; to fence.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭaṭṭī lagānā"
+  },
+  {
+   "w": "ٹتیری",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A sandpiper; a toy which when revolved gives the sound of a sandpiper.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭatīrī"
+  },
+  {
+   "w": "ٹچھا",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A mean fellow; a rake; a blackguard.",
+   "ur": "",
+   "ex": [],
+   "roman": "tuchchhā"
+  },
+  {
+   "w": "ٹخنا",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "The ankle joint.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭakhnā"
+  },
+  {
+   "w": "ٹڈا",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A grasshopper.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭiḍḍā"
   }
  ]
 }
