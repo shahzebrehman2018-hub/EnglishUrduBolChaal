@@ -135251,7 +135251,7 @@
    "w": "آہو"
   },
   {
-   "def": "Having eyes like those of a deer; gazelle-eyed (beloved).",
+   "def": "Having eyes like those of a deer; gazelle-eyed (beloved); Soft-eyed; an epithet of beauty.",
    "ex": [],
    "pos": "adj.",
    "pron": "",
@@ -137132,7 +137132,7 @@
    "w": "اتار"
   },
   {
-   "def": "Descent and ascent; ups and downs; the vicissitudes of life; ebb and flow; loss and gain.",
+   "def": "Descent and ascent; ups and downs; the vicissitudes of life; ebb and flow; loss and gain; rise and fall.",
    "ex": [],
    "pos": "n.m.",
    "pron": "",
@@ -176570,7 +176570,7 @@
    "w": "بے چارہ، بے چاری"
   },
   {
-   "def": "Unlighted; dark; childless; desolate; unpopulated.",
+   "def": "Unlighted; dark; childless; desolate; unpopulated; abandoned; a home without a male child.",
    "ex": [],
    "pos": "adj.",
    "pron": "",
@@ -184835,7 +184835,7 @@
    "w": "چلتا پرزہ",
    "pron": "",
    "pos": "n.m.",
-   "def": "A sharp or cunning fellow.",
+   "def": "A sharp or cunning fellow; A sharper; a cheat; a swindler; a very clever person.",
    "ur": "",
    "ex": [],
    "roman": "chaltā purzah"
@@ -214051,6 +214051,6297 @@
    "pron": "",
    "pos": "adj.",
    "def": "The four; all the four.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چاروں شانے چت گرنا",
+   "roman": "chāroṅ shāne chit girnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To fall flat on the back sprawling.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چار یار",
+   "roman": "chār yār",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "The four successors of the Holy Prophet.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چارا",
+   "roman": "chārā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Herbage; fodder; food for cattle; bait for fish.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چارا ڈالنا",
+   "roman": "chārā ḍālnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To give fodder (to); to bait (a hook).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چارہ",
+   "roman": "chārah",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Remedy; cure; expedient; help; aid; resource.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چارہ جوئی",
+   "roman": "chārah joī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Seeking remedy.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "قانونی چارہ جوئی کرنا",
+   "roman": "qānūnī chārah joī karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To seek legal remedy, to file a suit.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چارہ سازی، چارہ گری",
+   "roman": "chārah sāzī, chārah garī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Preparing a remedy; remedying; curing.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چار و ناچار",
+   "roman": "chār-ō nāchār",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Willy-nilly; whether one likes it or not.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چاشت",
+   "roman": "chāsht",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "The time between sunrise and the meridian; the meal taken at this time; breakfast.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چاشنی",
+   "roman": "chāshnī",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Flavour; relish; a mixture of sweet and sauce; a syrup; the viscous state of a syrup; toast.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چاشنی دار",
+   "roman": "chāshnī dār",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Sweet and sour; tasty.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چاق",
+   "roman": "chāq",
+   "pron": "",
+   "pos": "adj. (T)",
+   "def": "Active; alert; erect; ready; in spirits; hail and hearty.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چاق چوبند",
+   "roman": "chāq chauband",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Healthy; active; smart; alert; agile; nimble; muscular; vigorous.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چاقو",
+   "roman": "chāqū",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A knife; a pen-knife.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چاک",
+   "roman": "chāk",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Rent; slit; torn; lacerate.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چاک کرنا",
+   "roman": "chāq karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To rend; to slit; to tear; to split.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چاک گریبان",
+   "roman": "chāk girebān",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Having the collar rent; sad; afflicted.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چاک",
+   "roman": "chāk",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A potter's wheel; ring of earth or wood; a pulley over which the well-rope passes; a mill-stone.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چاکر",
+   "roman": "chākar",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A servant; an under-servant; menial.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چاکری",
+   "roman": "chākrī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Service; menial employment.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چاکسو",
+   "roman": "chāksū",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A medicine for the diseases of the eye.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چال",
+   "roman": "chāl",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Gait; walk; carriage; movement; custom; conduct; trick; stratagem; method; way; pace of a horse; a move in chess.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چال چلن",
+   "roman": "chāl chalan",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Character; conduct.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چال چلنا",
+   "roman": "chāl chalnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To behave deceitfully; to deceive; to practise tricks or deception (on); to play a game.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چال ڈھال",
+   "roman": "chāl ḍhāl",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Gait; motion; manner; method; style; mode.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چال میں آنا",
+   "roman": "chāl meṅ ānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To fall into the trap; to be tricked; to be cheated; to fall into the scheming (of).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چالا",
+   "roman": "chālā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Departure; the ceremony of the departure of a newly married girl from her husband's house to her parents.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چالاک",
+   "roman": "chālāk",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Active; clever; expert; artful; cunning; astute; alert; fleet; nimble; dextrous.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چالاکی",
+   "roman": "chālākī",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Smartness; alertness; nimbleness; dexterity; agility; fleetness; sharpness; artfulness; cleverness; expertness; craftiness.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چالاکی کرنا",
+   "roman": "chālākī karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To practise cunning; to over-reach.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چالان",
+   "roman": "chālān",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "An invoice; a remittance; list of goods despatched; a memorandum of money received and invested; forwarding a criminal case to a magistrate for trial.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چالیس",
+   "roman": "chālīs",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Forty.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چالیسا",
+   "roman": "chālīsā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A period of forty (days or years); a hero of forty fights.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چالیسواں",
+   "roman": "chālīswāṅ",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Fortieth. n.m. The fortieth day after the death of a person.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چام",
+   "roman": "chām",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Hide; skin; leather.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چام کے دام چلانا",
+   "roman": "chām ke dām chalānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To introduce a leather currency; to make the best use of a wind-fallen authority.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چانپ",
+   "roman": "chāṅp",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "The back of a gun; the stocks; the rack; (corr. of English) chop (as mutton chop).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چانٹا",
+   "roman": "chāṅṭā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A slap; a cuff.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چاند",
+   "roman": "chānd",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "The moon; a target; a white spot in the forehead of cattle; name of an ornament. n.f. The crown of the head.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چاند چڑھنا",
+   "roman": "chānd chaṛhnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "Rising of the (new) moon.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چاند رات",
+   "roman": "chānd rāt",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "The night of the new moon; the first night of a lunar month.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چاند کا ٹکڑا",
+   "roman": "chānd kā ṭukṛā",
+   "pron": "",
+   "pos": "adj.",
+   "def": "A very beautiful person; a beauty.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چاند گہن",
+   "roman": "chānd gahan",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Lunar eclipse.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چاند ماری",
+   "roman": "chānd mārī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Target practice; firing at a target.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خالی کا چاند",
+   "roman": "khālī kā chānd",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A month in which no festival falls.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "عید کا چاند ہونا",
+   "roman": "'īd kā chānd honā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To become (like) the 'Id moon; to appear seldom; to be seen very rarely.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چاندنی",
+   "roman": "chāndnī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Moonlight; moon beam; a white cloth spread over a carpet; anything white and shining; name of a very white flower.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چاندنی چھٹکنا",
+   "roman": "chāndnī chhaṭaknā",
+   "pron": "",
+   "pos": "v.",
+   "def": "Spreading of the moon light.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چاندنی رات",
+   "roman": "chāndnī rāt",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Moonlit night.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چاندی",
+   "roman": "chāndī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Silver; wealth; profit; gain; advantage.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چاندی کا ورق",
+   "roman": "chāndī kā worq",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A thin silver leaf.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چاندی ہونا",
+   "roman": "chāndī honā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be burnt to ashes; to earn much; to make good money.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چانڈو",
+   "roman": "chāṅḍū",
+   "pron": "",
+   "pos": "",
+   "def": "See چنڈو (choṅḍū).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چاول",
+   "roman": "chāwal",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Rice; one-eighth of a rattī.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چاہ",
+   "roman": "chāh",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A well; a pit.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چاہِ ذقن، چاہِ زنخداں",
+   "roman": "chāh-ĕ zaqan, chāh-ĕ zanakhdān",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "The dimple of the chin.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چاہ کن را چاہ در پیش",
+   "roman": "chāh kan rā chāh dar pesh",
+   "pron": "",
+   "pos": "prov.",
+   "def": "He who digs a well for others often falls into it.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چاہ",
+   "roman": "chāh",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Desire; love; affection; need; wish; liking; choice; appetite.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چاہت",
+   "roman": "chāhat",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Desire; wish; longing; will; love; affection; fondness.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چاہنا",
+   "roman": "chāhnā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To like; to love; to wish; to will; to want; to demand; to approve; to ask for; to crave.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چاہیے",
+   "roman": "chāhiye",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "Is necessary; is proper or right; should or ought; must.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چاہتا",
+   "roman": "chāhitā",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Beloved; darling; agreeable; desirable. n.m. A sweetheart; a beloved.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چاہتی",
+   "roman": "chāhitī",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Darling; desirable. n.f. A beloved; a sweetheart.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چاؤ",
+   "roman": "chāū",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Wish; longing; desire; eagerness; zest; pleasure; taste; a kind of bamboo.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چاؤ چوچلا",
+   "roman": "chāū chochlā",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Fondling; caressing; caress; dalliance; toying.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چاؤش",
+   "roman": "chāūsh",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "An usher; a herald; a door keeper.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چائے",
+   "roman": "chāe",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Tea.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چائے دانی",
+   "roman": "chāe dānī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Tea-pot.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چبا چبا کے بات کرنا",
+   "roman": "chabā chabā ke bāt karnā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To speak affectedly; to speak indistinctly; to munch one's word; to mince; to speak haughtily or scornfully.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چبانا",
+   "roman": "chabānā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To chew; to gnaw; to masticate; to bite (the lip); to crunch.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چبنی ہڈی",
+   "roman": "chabnī haḍḍī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Gristle; cartilage.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چبوانا",
+   "roman": "chabwānā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To cause to chew; to cause to masticate.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ناک چنے چبوانا",
+   "roman": "nāk chane chabwānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To torment; to harass; to trouble; to vex.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چبوترا",
+   "roman": "chabūtrā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A terrace; a platform.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چبھن",
+   "roman": "chubhan",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Pricking; pinching or griping pain; colic.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چبھنا",
+   "roman": "chubhnā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To be stuck or thrust (into); to be pricked or pierced; to be goaded; to penetrate; to be disagreeable.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چبھونا",
+   "roman": "chubhonā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To thrust or stick (into); to pierce; to goad; to sting; to penetrate.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چبینا",
+   "roman": "chabīnā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Something put in the mouth to be munched or chewed; parched grain used as food.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چپ",
+   "roman": "chap",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Left (hand or side).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چپ و راست",
+   "roman": "chap-ō rāst",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "The left and the right.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چپ",
+   "roman": "chup",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Silence; stillness; quietness. inter. Silence.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چپ چاپ",
+   "roman": "chup chāp",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Silently; quietly; soundlessly. adj. Quite; silent.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چپ چپاتے",
+   "roman": "chup chupāte",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Secretly; soundlessly; stealthily.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چپ رہنا، چپ سادھنا",
+   "roman": "chup rahnā, chup sādhnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To remain silent; to keep quiet; to give no answer.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چپ کرانا، چپانا",
+   "roman": "chup karānā, chupānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To make silent; to pacify.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چپ لگنا",
+   "roman": "chup lagnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be struck; dumb; to lose power of speech.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چپ ہونا",
+   "roman": "chup honā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To keep quiet; to be silent; to make no reply.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چپا",
+   "roman": "chappā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A hand breadth; a measure of four fingers; a span.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چپا چپا",
+   "roman": "chappā chappā",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Every nook and corner; every inch of ground.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چپاتی",
+   "roman": "chapātī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A thin cake of unleavened dough.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چپت",
+   "roman": "chapat",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A slap; a cuff; a box.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چپٹا",
+   "roman": "chapṭā",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Flattened; compressed; shallow; flat. n.m. A man with a flat nose.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چپٹانا",
+   "roman": "chipṭānā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To glue; to attach tightly; to fasten or join; to put on patches; to stick (to); to embrace.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چپٹنا",
+   "roman": "chipṭnā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To stick; to adhere; to cling (to).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چپٹی",
+   "roman": "chapṭī",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Flat; compressed. n.f. A woman with flat nose; homosexuality (between two women).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چپچپا",
+   "roman": "chipchipā",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Gluey; sticky; adhesive; glutinous.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چپچپانا",
+   "roman": "chipchipānā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To be adhesive; to be sticky; to be glutinous.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چپچپاہٹ",
+   "roman": "chipchipāhaṭ",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Adhesiveness; glutinousness; stickiness.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چپراس، چپڑاس",
+   "roman": "chaprās, chapṛās",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A breastplate worn on a belt by chapṛāsīs; a badge; a clasp; a buckle; the office of the chapṛāsī.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چپراسی، چپڑاسی",
+   "roman": "chaprāsī, chapṛāsī",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "One who wears a chaprās or badge; a messenger; a peon; an orderly.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چپڑ چپڑ",
+   "roman": "chapaṛ chapaṛ",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "The sound of lapping; the sound made in eating.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چپڑا",
+   "roman": "chipṛā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "One who has a constant discharge of matter from the eyes; blear-eyed.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چپڑنا",
+   "roman": "chupaṛnā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To lubricate; to oil; to grease; to anoint; to besmear.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چپڑی",
+   "roman": "chupṛī",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Oiled; greasy; oily; unctuous; smooth; plausible.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چپڑی بات",
+   "roman": "chupṛī bāt",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Flattery; soft and honeyed words.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چپڑی روٹی",
+   "roman": "chupṛī roṭī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Loaf smeared with butter or ghee.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چپقلش",
+   "roman": "chapqalish",
+   "pron": "",
+   "pos": "n.f. (T)",
+   "def": "A row; an altercation; crowding; want of room.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چپک",
+   "roman": "chipak",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Adhesiveness; stickiness; name of a bird; goatsucker. imper. Stick (to).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چپکانا",
+   "roman": "chipkānā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To make adhere; to compress; to paste; to fix.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چپکنا",
+   "roman": "chipaknā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To stick; to adhere; to be compressed.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چپکے چپکے",
+   "roman": "chupke chupke",
+   "pron": "",
+   "pos": "adv. (H)",
+   "def": "Stealthily; silently; quietly.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چپل، چپلی",
+   "roman": "chappal, chaplī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A sandal; a slipper.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چپن",
+   "roman": "chappan",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A large lid or cover of a pot.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چپنی",
+   "roman": "chapnī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A small lid of a pot.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چپو",
+   "roman": "chappū",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A paddle; an oar.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چپو مارنا، چلانا",
+   "roman": "chappū mārnā, chalānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To row; to paddle.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چپی",
+   "roman": "chappī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Kneading (the limbs); massage.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چپیٹ",
+   "roman": "chapeṭ",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A slap; a sudden misfortune; loss; a blow.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چت",
+   "roman": "chit",
+   "pron": "",
+   "pos": "n.f. (S)",
+   "def": "The mind; life; soul; heart; attention; memory; thought.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چت چور",
+   "roman": "chit chor",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Heart stealing; beloved; darling.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چت",
+   "roman": "chit",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Prostrate; lying flat on the back.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چت کرنا",
+   "roman": "chit karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To throw one down on one's back (in wrestling); to discomfit; to overcome; to overpower.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چت لیٹنا",
+   "roman": "chit leṭnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To lie on one's back.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چتا",
+   "roman": "chitā",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A funeral pile; pyre.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چتر",
+   "roman": "chatra",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "An umbrella; a parasol.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چتر، چترا",
+   "roman": "chitra, chitrā",
+   "pron": "",
+   "pos": "n.m. (S)",
+   "def": "A drawing; a painting; a picture; a portrait.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چتر کار",
+   "roman": "chitra kār",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A painter; an artist.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چتر",
+   "roman": "chutra",
+   "pron": "",
+   "pos": "adj. (S)",
+   "def": "Expert; experienced; clever; sharp; wise.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چترائی",
+   "roman": "chutrāī",
+   "pron": "",
+   "pos": "n.f. (S)",
+   "def": "Wisdom; cleverness; cunningness; expertness; knowledge.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چتکبرا، چتلا",
+   "roman": "chitkabrā, chitlā",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Spotted; speckled.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چتون",
+   "roman": "chitwan",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Sight; look; glance; aspect; appearance.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چتون چڑھانا",
+   "roman": "chitwan chaṛhānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To frown; to wrinkle the brow (in anger); to look angry.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چتھڑا، چتھڑا",
+   "roman": "chithṛā, chithṛā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A rag; tatter.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چتھڑے لگانا",
+   "roman": "chīthṛe lagānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be clothed in rags; to be in rags.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چتھڑے چتھڑے کر دینا",
+   "roman": "chīthṛe chīthṛe kar denā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To tear to pieces or bits.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چتی",
+   "roman": "chittī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A spot; a stain.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چتی دار",
+   "roman": "chittī dār",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Stained; spotted; speckled.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چتیرا",
+   "roman": "chaterā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A person who paints flowers (on); a painter; an engraver.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چٹ",
+   "roman": "chiṭ",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A bit; a chip; a rag; a scrap of paper; a slip.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چٹ، چٹ پٹ",
+   "roman": "chaṭ, chaṭ paṭ",
+   "pron": "",
+   "pos": "adv. (H)",
+   "def": "Quickly; instantly; without delay.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چٹ پٹ ہونا",
+   "roman": "chaṭ paṭ honā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To die instantaneously; to die in no time.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چٹ چٹ",
+   "roman": "chaṭ chaṭ",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "The sound of repeated mopping or cracking; the sound of crackling of a burning body; the sound made in cracking fingers; the sound of quickly repeated strokes.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چٹ کر جانا، کرنا",
+   "roman": "chaṭ kar jānā, karnā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To eat up; to lick the platter clean; to devour.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چٹا",
+   "roman": "chiṭṭā",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "White.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چٹاخ",
+   "roman": "chaṭākh",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "The sound of cracking or beating.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چٹاخ پٹاخ",
+   "roman": "chaṭākh paṭākh",
+   "pron": "",
+   "pos": "adv.",
+   "def": "At once; in quick succession; without hesitation.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چٹاخا، چٹاکا",
+   "roman": "chaṭākhā, chaṭākā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A crash; a smack; an explosion.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چٹان",
+   "roman": "chaṭān",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Rock; rocky ground; a large block of stone.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چٹانا",
+   "roman": "chaṭānā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To cause to lick or lap; to cause to taste.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چٹائی",
+   "roman": "chaṭāī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A mat.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چٹ پٹا، چٹ پٹی",
+   "roman": "chaṭ paṭā, chaṭ paṭī",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Tasty; spicy; pungent.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چٹخ جانا",
+   "roman": "chaṭakh jānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To crack; to split.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چٹخارا",
+   "roman": "chiṭkhārā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A cluck made with the tongue to indicate that the thing tasted is excellent.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چٹخارے بھرنا",
+   "roman": "chaṭkhāre bharnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To smack a clucking noise with the tongue in approval of the excellence of the thing tasted.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چٹک مٹک",
+   "roman": "chaṭak maṭak",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Blendishment; coquetry; pomp and show; wanton gait; grandeur; magnificence.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چٹکانا، چٹخانا",
+   "roman": "chaṭkānā, chaṭkhānā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To crack; to mop (the fingers); to split; to fire off a musket.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چٹکلا",
+   "roman": "chuṭkulā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Pleasantry; facetiae; wit; humour; a pun; joke or trick; a specific cure.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چٹکلا چھوڑنا",
+   "roman": "chuṭkulā choṛnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To utter a jest or pleasantry; to let off a squib.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چٹکنا، چٹخنا",
+   "roman": "chaṭaknā, chaṭkhnā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To crackle (as wood in the fire); to crack (as whip); to split; to open out; to bloom (flower); to speak rudely.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چٹکنی، چٹخنی",
+   "roman": "chaṭkanī, chaṭkhanī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "The bolt of a door.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چٹکی",
+   "roman": "chuṭkī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A pinch; a pinch (of); an ornament worn on the toes; a snap of the fingers; a twist given to lace; the hammer of a gun.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چٹکی بجانا",
+   "roman": "chuṭkī bajānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To snap the fingers.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چٹکی بجاتے میں",
+   "roman": "chuṭkī bajāte meṅ",
+   "pron": "",
+   "pos": "adv.",
+   "def": "In a moment; in a trice.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چٹکی بھر",
+   "roman": "chuṭkī bhar",
+   "pron": "",
+   "pos": "adj.",
+   "def": "So much as a pinch can hold; as much as can be held between a finger and the thumb; very little.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چٹکی بھرنا، چٹکی لینا",
+   "roman": "chuṭkī bharnā, chuṭkī lenā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To pinch; to nip; to taunt.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چٹکیوں میں اڑانا",
+   "roman": "chuṭkiyoṅ meṅ uṛānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To turn off in a joke; to turn into ridicule; to put one off with a joke.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چٹکیلا",
+   "roman": "chaṭkīlā",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Pungent; tasty; splendid; bright; gaudy; gay.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چٹلا",
+   "roman": "chuṭlā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A lock of hair worn on the back of the head.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چٹنی",
+   "roman": "chaṭnī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A kind of pickle or sauce; marmalade.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چٹنی بنانا، کرنا",
+   "roman": "chaṭnī banānā, karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To make or prepare a sauce; to grind very fine; to beat black and blue; to punish very severely.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چٹو",
+   "roman": "chaṭṭū",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A kind of mortar; a glutton; voracious; epicurion; gourmand.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چٹوانا",
+   "roman": "chaṭwānā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To cause to lick or lap up.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چٹورا",
+   "roman": "chaṭorā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "An epicure; a greedy person; one who wastes his money on delicacies.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چٹھا",
+   "roman": "chiṭṭhā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A memorandum of the money paid to servants; rent roll; pay-sheet; a balance-sheet.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "کچا چٹھا",
+   "roman": "kachchā chiṭṭhā",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Full account; unsavoury details.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چٹھی",
+   "roman": "chiṭṭhī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A note; a letter; a billet; a chit; a bill; a draft; a certificate.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چٹھی بانٹنا",
+   "roman": "chiṭṭhī bāṅṭnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To deliver letters.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چٹھی ڈالنا",
+   "roman": "chiṭṭhī ḍālnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To post a letter; to make a lottery or raffle.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چٹھی رساں",
+   "roman": "chiṭṭhī rasāṅ",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A postman; one who delivers letters.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چٹی",
+   "roman": "chaṭṭī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Deficiency; want; penalty; fine; damages.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چٹی",
+   "roman": "chiṭṭī",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "White.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چٹیا",
+   "roman": "chuṭiyā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "The plait or tie of hair behind; a lock of hair left on the head unshaved; a pigtail kept by Hindūs.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چٹیل",
+   "roman": "chaṭyal",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Bare; bleak; desolate; treeless tract of land.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چچا",
+   "roman": "chachā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Father's brother; paternal uncle.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چچا زاد بھائی",
+   "roman": "chachā zād bhāī",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A cousin; a paternal uncle's son.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چچڑی",
+   "roman": "chichṛī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A tick or louse (of dogs or sheep).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چچوڑنا",
+   "roman": "chachoṛnā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To suck; to suckle.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چچی",
+   "roman": "chachī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Aunt; paternal uncle's wife.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چچیرا",
+   "roman": "chacherā",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Descended from or related through a paternal uncle.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چخ",
+   "roman": "chakh",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Quarrel; strife; contest; tumult; uproar.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چخ چخ",
+   "roman": "chakh chakh",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Foolish altercation; prattle; chatter; babble.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چخے",
+   "roman": "chakhe",
+   "pron": "",
+   "pos": "intj.",
+   "def": "Be off! away; begone; avaunt.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چدانا",
+   "roman": "chudānā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "Copulation; prostitution; to have sexual intercourse with men.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چڈھا",
+   "roman": "chaḍḍhā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "The groin; a clown; a buffoon.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چڈھی",
+   "roman": "chaḍḍhī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Riding on a man or animal's back.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چر",
+   "roman": "char",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Sound made in tearing cloth; a sandbank or island formed by the current of a river; a ford; a shoal.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چراغ",
+   "roman": "charāgh, chirāgh",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A lamp; a light.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چراغ بڑھانا، بجھانا، ٹھنڈا کرنا، گل کرنا",
+   "roman": "charāgh baṛhānā, bujhānā, ṭhunḍā karnā, gull karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To extinguish a lamp; to put out a light.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چراغ پا ہونا",
+   "roman": "charāgh pā honā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be angry.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چراغ جلنا یا روشن ہونا",
+   "roman": "charāgh jalnā yā raushan honā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be lighted (lamp).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چراغ دان",
+   "roman": "charāgh dān",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A lamp-stand; a candlestick.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چراغ دکھانا",
+   "roman": "charāgh dikhānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To show a light.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چراغ میں بتی پڑنا",
+   "roman": "charāgh meṅ battī paṛnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "Approaching of the night.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "گھی کے چراغ جلنا",
+   "roman": "ghī ke charāgh jalnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To live in fine style; to make great pomp and show.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چراغاں",
+   "roman": "chirāghāṅ",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Illumination; display of lights; visiting a saint's tomb and depositing a lamp or some money there.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چراغی",
+   "roman": "chirāghī",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "A present made to the keeper of a tomb of a saint; present made to soothsayers.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چراگاہ",
+   "roman": "charāgāh",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "A pasture; a meadow; grazing ground.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چرانا",
+   "roman": "charānā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To graze; to pasture; to feed; to lead one by the nose; to make a fool (of).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چرانا",
+   "roman": "churānā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To steal; to rob; to filch; to absorb; to suck.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "آنکھ چرانا",
+   "roman": "āṅkh churānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To turn away the eyes; to take a furtive glance (at); not to look a person in the face.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چراند",
+   "roman": "chirānd",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "The smell of burning leather, hair, etc.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چرائتا",
+   "roman": "chirāetā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A species of gentian; a medicinal herb.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چرب",
+   "roman": "charb",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Oily; greasy; glib; sharp; fat.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چرب زبان",
+   "roman": "charb zabān",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Smooth-tongued; flattering; conversable; entertaining.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چرب زبانی",
+   "roman": "charb zabānī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Fairness of speech; fine talk; plausibility; flattery; speciousness of language.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چرب غذا",
+   "roman": "charb ghizā",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Rich food; dainties.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چربہ",
+   "roman": "charbah",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Tracing paper; tracing; copy.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چربہ اتارنا",
+   "roman": "charbah utārnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To make a tracing; to copy.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چربی",
+   "roman": "charbī",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Fat; suet; grease; tallow.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چربی دار",
+   "roman": "charbī dār",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Fat; greasy.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چرپرا",
+   "roman": "charparā",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Acrid; biting; pungent; hot; smart.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چرپرانا",
+   "roman": "charparānā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To smart; to burn; to tingle (as wound).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چرپراہٹ",
+   "roman": "charparāhaṭ",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Pungency; sharpness; acridity.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چرتر، چلتر",
+   "roman": "charittar, chalittar",
+   "pron": "",
+   "pos": "n.m. (S)",
+   "def": "Conduct; behaviour; disposition; manner; carriage; talent; arts; tricks; adventures; deeds; cunning; deceit.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چرچا",
+   "roman": "charchā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Gossip, rumour; talking over past events; recapitulating old incidents; argument; report.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چرچا کرنا",
+   "roman": "charchā karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To talk about; to spread a report.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چرچا ہونا",
+   "roman": "charchā honā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be talked about; to be discussed.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چرچرانا، چرچرانا",
+   "roman": "charcharānā, chirchirānā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To crackle; to smart; to creak (as shoes); to be pungent or sharp.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چرچراہٹ، چرچراہٹ",
+   "roman": "chirchirāhaṭ, charcharāhaṭ",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Pain; affliction; a cracking sound; pungency; sharpness.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چرخ",
+   "roman": "charkh",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A wheel; potter's wheel; a lathe; the sky; the heavens; the celestial glob; circular motion; rotation; a falcon.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چرخِ اخضر",
+   "roman": "charkh-ĕ akhẓar",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "The ethereal sphere.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چرخِ اطلس",
+   "roman": "charkh-ĕ aṭlas",
+   "pron": "",
+   "pos": "",
+   "def": "The crystalline sphere or heaven.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چرخِ بریں",
+   "roman": "charkh-ĕ barīṅ",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "The seventh heaven.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چرخ چڑھانا",
+   "roman": "charkh chaṛhānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To turn on a lathe; to rotate; to whirl.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چرخ ہنڈولا",
+   "roman": "charkh hanḍolā",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A merry-go-round.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چرخہ",
+   "roman": "charkhah",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A spinning wheel; a reel; the axis of a pulley. adj. Thin; weak; poor; worn-out.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چرخہ کاتنا",
+   "roman": "charkhah kātnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To spin.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چرخہ پونی",
+   "roman": "charkhah punī",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Spinning and carding; woman's responsibility.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چرخہ ہو جانا",
+   "roman": "charkhah hojānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To become worn out; to become old.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چرخی",
+   "roman": "charkhī",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "A spinning wheel; a pulley; a reel; a kind of fireworks; a kind of toy; catharine-wheels; the instrument with which the seed is separated from cotton; a pulley used in drawing water from a well; a dumb-waiter.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چرخیِ فانوس",
+   "roman": "charkhī-ĕ fānūs",
+   "pron": "",
+   "pos": "",
+   "def": "A revolving lantern made of talc with pictures all round; a magic lantern.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چرس",
+   "roman": "charas",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A large leathern bag or bucket; an urn; the exudation of the flowers of hemp collected with the dew and prepared for use as an intoxicating drug.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چرسا",
+   "roman": "charsā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Hide of an ox or buffalo; a skin; dressed leather; a large leather bucket.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چرسی",
+   "roman": "charsī",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "One addicted to smoking charas.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چرک",
+   "roman": "chirk",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Dirt; filth; ordure; pus.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چرکا",
+   "roman": "charkā",
+   "pron": "",
+   "pos": "adj.",
+   "def": "White spotted (a form of leprosy). n.m. A slight wound; scratch.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چرکٹا",
+   "roman": "charkaṭā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "The person who feeds and looks after the elephant; a low fellow.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چرکنا",
+   "roman": "chiraknā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To have scanty stools.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چرکیں",
+   "roman": "chirkīṅ",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Filthy; dirty; foul. n.m. The pen name of a well known poet.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چرم",
+   "roman": "charm",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Leather; skin; hide.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چرمی",
+   "roman": "charmī",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Made of leather; leathern.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چرن",
+   "roman": "charan",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "The foot; foot of a verse.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چرن چھونا یا لینا",
+   "roman": "charan chhūnā yā lenā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To touch the feet of (out of respect); to pay respects.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چرنا",
+   "roman": "charnā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To graze; to eat the grass. n.m. Half trousers.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چرنا",
+   "roman": "chirnā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To be torn or split; to split.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چرند، چرندہ",
+   "roman": "charind, charindah",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A quadruped; a beast; an animal that grazes.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چرند و پرند",
+   "roman": "charind-ō parind",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Beasts and birds.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چروانا",
+   "roman": "charwānā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To cause to graze.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چروانا",
+   "roman": "chirwānā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To cause to tear; to cause to split or cleave.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چرواہا",
+   "roman": "charwāhā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A grazier; a shepherd; a herdsman.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چرواہی",
+   "roman": "charwāhī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "The rent or fee paid for pasturage; a female grazier.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چروائی، چرائی",
+   "roman": "chirwāī, chirāī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Wages for sawing or cutting wood.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چری",
+   "roman": "charī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Unripe corn cut for use as fodder; a piece of land held rent free; a kind of bracelet.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چڑ",
+   "roman": "chiṛ",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Mocking; vexation, antipathy; irritation; aversion.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چڑا",
+   "roman": "chiṛā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A cock-sparrow.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چڑانا",
+   "roman": "chiṛānā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To vex; to irritate; to provoke; to offend; to mock; to jeer; to make grimaces.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چڑ چڑ",
+   "roman": "chir chir",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Prattle; jabber; silly talk.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چڑچڑا",
+   "roman": "chiṛchiṛā",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Cross; peevish; offended.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چڑچڑا پن",
+   "roman": "chiṛchirā pan",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Peevishness; fretfulness.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چڑنا",
+   "roman": "chiṛnā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To be vexed; to be irritated; to fret; to be provoked.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چڑھا جانا",
+   "roman": "chaṛhā jānā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To gulp down.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چڑھانا",
+   "roman": "chaṛhānā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To cause to ascend; to raise; to lift; to offer (oblations); to string (a bow); to brace (a drum); to dye (with colour); to fix (a bayonet); to drink; to imbibe; to quaff; to apply; to put; to spread; to pull (up); to cause to mount.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چڑھاؤ",
+   "roman": "chaṛhāo",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Ascent, rise; acclivity; swelling; inundation; flood; tide; rise in price or rent.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چڑھاوا",
+   "roman": "chaṛhāwā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "An offering; oblation; anything presented as a token of respect.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چڑھائی",
+   "roman": "chaṛhāī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Ascent; rise; acclivity; attack; assault; invasion.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چڑھنا",
+   "roman": "chaṛhnā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To ascend; to mount; to advance; to rise; to attack; to embark; to climb; to be braced (as a drum); to be strung (as bow); to be offered (as a sacrifice).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چڑی",
+   "roman": "chiṛī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A hen-sparrow.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چڑی مار",
+   "roman": "chiṛī mār",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A bird-catcher; a fowler.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چڑیا",
+   "roman": "chiṛyā",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A sparrow; a bird.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چڑیا خانہ یا گھر",
+   "roman": "chiṛyā khānah, ghar",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "An aviary; the zoo.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "سونے کی چڑیا",
+   "roman": "sone kī chiṛiyā",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "A very valuable prize.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چڑیل",
+   "roman": "chuṛail",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A hag; a slut; the ghost of a woman who died during pregnancy.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چسانا",
+   "roman": "chusānā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To cause or give to suck.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چسپاں",
+   "roman": "chaspāṅ",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Viscous; coherent; sticking together; adhesive; pasted; stuck; applicable; suitable; to the point.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چسپاں کرنا",
+   "roman": "chaspāṅ karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To paste; to affix; to join together.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چسپانی",
+   "roman": "chaspānī",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Adhesive.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چست",
+   "roman": "chust",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Active; fleet; clever; quick; brisk; smart; narrow; tight.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چست چالاک",
+   "roman": "chust chālāk",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Active; alert; agile.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چستی",
+   "roman": "chustī",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Activity; expedition; nimbleness; smartness; skill; dexterity; alertness; activeness.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چسک",
+   "roman": "chasak",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Pain; throbbing pain, a stitch.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چسکا",
+   "roman": "chaskā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Ardent desire; relish; taste; habit.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چسکا پڑنا",
+   "roman": "chaskā paṛnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To acquire or have taste for.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چسکنا",
+   "roman": "chasaknā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To throb; to have shooting pain.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چسکی",
+   "roman": "chuskī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A draught of water or other liquid; a sip.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چسکی لگانا",
+   "roman": "chuskī lagānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To sip, to have a draught.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چسنا",
+   "roman": "chusnā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To be sucked.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چسنی",
+   "roman": "chusnī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A sucking bottle; a sucking stick for infants; a nipple.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چشتی",
+   "roman": "chishtī",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "An inhabitant of Chisht; a sect of Muslims.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چشم",
+   "roman": "chashm",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "The eye; hope; expectation.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چشمِ بد دور",
+   "roman": "chashm-ĕ baddūr",
+   "pron": "",
+   "pos": "Int.",
+   "def": "God preserve you from evil eyes! away malicious glances!",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چشم براہ ہونا",
+   "roman": "chashm barāh honā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To expect with impatience.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چشمِ بیمار",
+   "roman": "chashm-ĕ bīmār",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A languid eye; an eye that looks half closed from modesty; an epithet of beauty.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چشم پوشی",
+   "roman": "chashm poshī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Conniving at; pretending not to see; overlooking.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چشم پوشی کرنا",
+   "roman": "chashm poshī karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To turn one's eyes away; to overlook; to connive (at).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چشم داشت",
+   "roman": "chashm dāsht",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Hope; expectation; desire; trust confidence.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چشم زدن",
+   "roman": "chashm zadan",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Winking.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چشم زدن میں",
+   "roman": "chashm zadan meṅ",
+   "pron": "",
+   "pos": "adv.",
+   "def": "In the winks of an eye; in a trice; in a moment; in an instant; instantly.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چشم نمائی",
+   "roman": "chashm numāī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Reproof; rebuke; reprimand; scold; warning.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چشم نمائی کرنا",
+   "roman": "chashm numāī karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To rebuke; to reprove; to reprimand.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چشم و چراغ",
+   "roman": "chashm-ō chirāgh",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Light of the eye; dearly beloved.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چشمک",
+   "roman": "chashmak",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Wink; winking; misunderstanding; spectacles.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چشمہ",
+   "roman": "chashmah",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A fountain; a spring; source; spectacles.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چغا",
+   "roman": "chughā",
+   "pron": "",
+   "pos": "",
+   "def": "see چوغہ (chūghah).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چغد",
+   "roman": "chughad",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "An owl. (Fig.) Foolish person.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چغل",
+   "roman": "chughl",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A tell-tale; a tale-bearer; a back biter; a small pebble placed on the hole of the chilam to prevent the tobacco from slipping down the hole.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چغل خور",
+   "roman": "chughal khor",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A tale-bearer; a back-biter.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چغل خوری",
+   "roman": "chughal khorī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Back-biting; tale bearing.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چغلی",
+   "roman": "chughlī",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Tale-bearing; back-biting.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چغلی کھانا",
+   "roman": "chughlī khānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To backbite, to slander.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چفتی",
+   "roman": "chaftī",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "A flat ruler.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چق",
+   "roman": "chiq",
+   "pron": "",
+   "pos": "n.f. (T)",
+   "def": "A hanging screen made of split bamboos.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چقماق",
+   "roman": "chaqmāq",
+   "pron": "",
+   "pos": "n.f. (T)",
+   "def": "A flint for striking fire.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چقندر",
+   "roman": "chuqandar",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Beet; Beet-root.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چک",
+   "roman": "chik",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A pain in the loins or back.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چک",
+   "roman": "chak",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Landed property; a farm; tenure.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چک بندی",
+   "roman": "chak bandī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Marking the boundaries of an estate.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکا",
+   "roman": "chakkā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Circular or round; a wheel; anything round and flat; a heap of material, masonry etc. adj. Condensed; thick.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکا چوند",
+   "roman": "chakāchaund",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "The state of being dazed or dazzled; the effect of sudden and strong flash of light on the eyes; radiance.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکارا",
+   "roman": "chikārā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A kind of antelope found on the banks of the Jamunā; a kind of fiddle.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکاری",
+   "roman": "chikārī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A mosquito like insect. n.m. A hunting knife.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکاں",
+   "roman": "chakāṅ",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "(used in comp.) Dropping; distilling.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکانا",
+   "roman": "chukānā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To finish; to adjust matters; to settle an account or the price of an article; to pay off debt; to liquidate.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکاور",
+   "roman": "chakāwar",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "The name of a disease in the feet of horses.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکائی",
+   "roman": "chukāī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Settlement; adjustment; wages for settlement; omission; an unintentional error.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکتی",
+   "roman": "chaktī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A tablet; a patch of leather; a round plate of metal; the tail of the sheep called Dumbah.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکٹ",
+   "roman": "chikkaṭ",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Filthy; covered with grease and dirt.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکٹنا",
+   "roman": "chikaṭnā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "The be sticky, dirty, filthy &c.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکر",
+   "roman": "chakkar",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A potter's wheel; a discus; a circle; a whirlwind; an eddy; ring; circumference; circuit; whirligig; merry-go-round; a circular course; giddiness; vertigo; perplexity, misfortune.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکر آنا",
+   "roman": "chakkar ānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To become giddy; to faint.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکر دینا",
+   "roman": "chakkar denā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To turn round and round; to lounge a horse; to deceive; to delude.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکر کھانا",
+   "roman": "chakkar khānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To whirl; to revolve; to go round; to take a round-about or indirect road; to turn round and round.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکر میں آنا",
+   "roman": "chakkar meṅ ānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be involved in difficulties; to be in for trouble.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکر میں ڈالنا",
+   "roman": "chakkar meṅ ḍālnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To involve one in difficulty; to perplex; to lead astray.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکرانا",
+   "roman": "chakrānā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To be perplexed; to be taken aback; to become giddy; to be puzzled.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکرورتی",
+   "roman": "chakarvartī",
+   "pron": "",
+   "pos": "n.m. (S)",
+   "def": "A universal monarch; an emperor; the title of one of the great families of Brahman in Bengāl.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکلا",
+   "roman": "chaklā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A round and broad block; a round plate on which bread is rolled; any quarter of a town particularly the one inhabited by prostitutes; a brothel. adj. Wide; broad; round; circular.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکلی",
+   "roman": "chaklī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "The pulley (of a well) on which the well-rope revolves; a small round stone, used for grinding spices.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکما",
+   "roman": "chakmā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A game at cards; cheating; trickery.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکما دینا",
+   "roman": "chakmā denā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To play a trick (on); to inflict a loss; to cheat.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکما کھانا",
+   "roman": "chakmā khānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be deceived; to be cheated; to suffer a loss.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکن",
+   "roman": "chikan",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Embroidery; embroidered cloth.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکن دوز",
+   "roman": "chikan doz",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "An embroiderer.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکنا، چکنی",
+   "roman": "chiknā, chiknī",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Greasy; oily; glossy; sleek; slippery; polished; smooth; mild; soft; beautiful; showy.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکنا چپڑا",
+   "roman": "chiknā chupṛā",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Well dressed; dandified.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکنا گھڑا",
+   "roman": "chiknā ghaṛā",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A shameless person.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکنی جورو",
+   "roman": "chiknī jorū",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "A slippery wife; an unfaithful wife.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکنی چپڑی باتیں کرنا",
+   "roman": "chiknī chupṛī bāten karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To wheedle; to flatter; to use oily speech.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکنی سپاری یا ڈلی",
+   "roman": "chiknī supārī yā dalī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Betel-nut prepared by boiling it in milk.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکنی مٹی",
+   "roman": "chiknī maṭṭī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Clay; clayey soil.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکنا",
+   "roman": "chuknā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To be finished; to be exhausted; to be settled (price, accounts); to be adjudicated; to be adjusted.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکنا چور",
+   "roman": "chaknā chūr",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Broken to pieces; fatigued to the point of exhaustion; absolutely exhausted.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکنا چور کرنا",
+   "roman": "chaknā chūr karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To break to pieces; to shatter; to exhaust completely.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکنا چور ہونا",
+   "roman": "chaknā chūr honā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be broken to pieces; to be completely exhausted.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکناہٹ",
+   "roman": "chiknāhaṭ",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Oiliness; smoothness; gloss; polish; beauty.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکنائی",
+   "roman": "chiknāī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Grease; oil; fat; butter; fat of meat.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکوا",
+   "roman": "chakwā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "The ruddy-goose called the Brahmanī duck.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکوتا",
+   "roman": "chakautā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A stipulated hire or wages; agreement; adjustment; settlement; bargain.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکوترا",
+   "roman": "chakotrā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A fruit of the lime kind; pompelmoose; shaddock.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکور",
+   "roman": "chakor",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "The Indian red-legged partridge.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکھانا",
+   "roman": "chakhānā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To cause to taste; to make one taste; to cause to suffer or inflict punishment (on).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکھنا",
+   "roman": "chakhnā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To taste; to relish; to suffer.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکئی",
+   "roman": "chakai",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A top; a small round wooden toy; ruddy-goose.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکی",
+   "roman": "chakkī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A millstone; a mill; a grindstone; the knee pan.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکی پیسنا",
+   "roman": "chakkī pīsnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To grind in a mill; to work a mill; to undergo hardship.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکی راہنا",
+   "roman": "chakkī rāhnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To notch millstones.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چکی کا پاٹ",
+   "roman": "chakkī kā pāṭ",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A mill stone.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چگانا",
+   "roman": "chugānā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To cause fowls to pick up food with the beak; to take fowls out to pick up food; to cause to peck.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چگنا",
+   "roman": "chugnā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To peck; to pick up food with the beak; to feed.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چگونگی",
+   "roman": "chigūnagī",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Circumstances; manner; nature of a thing; quality; howness.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چگونہ",
+   "roman": "chigūnah",
+   "pron": "",
+   "pos": "adv. (P)",
+   "def": "How; of what kind; in what manner.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چل",
+   "roman": "chal",
+   "pron": "",
+   "pos": "int. (H)",
+   "def": "Go away! be off! away! begone!",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چل بسنا",
+   "roman": "chal basnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To pass away; to expire; to die.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چل چلاؤ",
+   "roman": "chal chalāo",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Uncertainty of life; the last hours of life.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چل دینا",
+   "roman": "chal denā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To march; to leave; to decamp.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چل جانا",
+   "roman": "chal jānā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "Arising of a quarrel.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "دماغ چل جانا",
+   "roman": "dimāgh chal jānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To go mad; to become insane.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چل",
+   "roman": "chul",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Itch; scratching; sexual passion.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چلا، چلہ",
+   "roman": "chillā, chillah",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "The forty days of Lent in which the religious people in the East sometimes retire to their cells or to mosques and engage themselves in fasting and divine worship; the period of forty days after child birth during which a woman remains unclean; the fast of Lent; quarantine.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چلا",
+   "roman": "chillā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "The string of a bow; gold threads put in the border of a turban.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چلا باندھنا",
+   "roman": "chillā bāndhnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To make a vow; to tie a thread on a tomb as a vow.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چلا چڑھانا",
+   "roman": "chillā chaṛhānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To string a bow; to bend a bow.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چلا کھینچنا",
+   "roman": "chillā kheṅchnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To complete forty days of fasting and devotion; to bend a bow; to prepare for battle.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چلانا",
+   "roman": "chillānā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To scream; to shriek; to roar, to bawl; to cry out; to exclaim; to complain; to rage.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چلانا",
+   "roman": "chalānā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To impel; to stir; to cause to move; to propel; to drive; to discharge or fire; to originate; to put into circulation; to give currency (to); to issue; to advance money on interest; to transact business; to carry out; to put in execution; to enforce; to help one to walk.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چلاؤ",
+   "roman": "chalāū",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Shaky; unstable; transitory; a make-shift arrangement; frails; inconstant; fickle.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چلاؤ",
+   "roman": "chulāo",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A dish of boiled rice of the kind of pulāo but without any meat.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چلبلا",
+   "roman": "chulbulā",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Restless; fidgety; airy; gay; sportive; coquettish.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چلبلانا",
+   "roman": "chulbulānā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To be restless; to fidget.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چلبلاہٹ، چلبلا پن",
+   "roman": "chulbulāhaṭ, chulbulā pan",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Restlessness; sportiveness.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چلت پھرت",
+   "roman": "chalat phirat",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Action; activity; agility; gait; gesture; revolution.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چلتا، چلتی",
+   "roman": "chaltā, chaltī",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Going; moving; flowing (stream); current; passable (coin); flourishing; thriving (business); efficient; usual; powerful; potent; fast; in force.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چلتا کرنا",
+   "roman": "chaltā karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To get going; to send away; to dispose of; to kill.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چلتی دکان",
+   "roman": "chaltī dukān",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "A thriving business.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چلتر",
+   "roman": "chalittar",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "See چرتر (charitar).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چلچلاتی دھوپ",
+   "roman": "chulchulātī dhūp",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Blazing sun.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چلغوزہ",
+   "roman": "chilghozah",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "The kernels of the pine; a small nut like pistachio.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چلم",
+   "roman": "chilam",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "The part of huqqah which contains tobacco and the fire.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چلمچی",
+   "roman": "chilamchī",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "A wash-hand basin of metal.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چلمن",
+   "roman": "chilman",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A hanging screen made of reeds or split bamboo for keeping out glare; a venetian blind; a lattice.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چلن",
+   "roman": "chalan",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Gait; course; conduct; behaviour; custom; way; manner; fashion; ceremony; currency; procedure.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چلنا",
+   "roman": "chalnā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To move; to go; to proceed; to be in demand; to travel; to flow; to run; to walk; to sail; to have influence; to be effective; to be in force.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چلنی",
+   "roman": "chalnī",
+   "pron": "",
+   "pos": "",
+   "def": "see چھلنی (chhalnī).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چلو",
+   "roman": "chullū",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A handful; the palm of the hand contracted so as to hold water.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چلو بھر",
+   "roman": "chullū bhar",
+   "pron": "",
+   "pos": "adj.",
+   "def": "A handful of (any liquid).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چلو بھر پانی میں ڈوب مرنا",
+   "roman": "chullū bhar pānī meṅ ḍūb marnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be greatly abashed or ashamed.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چلو سے پانی پینا",
+   "roman": "chullū se pānī pīnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To drink water out of the palm of the hand.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چلوانا",
+   "roman": "chalwānā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To make one walk; to make one walk a good bit.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چلیپا",
+   "roman": "chalīpā",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "A cross; a crucifix; anything crooked or bent.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چمار",
+   "roman": "chamār",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A worker in leather; a shoemaker; a cobbler; a tanner; a currier.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چماری",
+   "roman": "chamārī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "The wife of a chamār.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چمپا",
+   "roman": "champā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A shrub bearing fragrant yellow flowers.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چمپا کلی",
+   "roman": "champā kalī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "A kind of necklace.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چمپت ہونا",
+   "roman": "champat honā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To disappear; to vanish; to run away; to scamper off; to decamp.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چمپئی",
+   "roman": "champaī",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Of the colour of champā; yellow; golden.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چمٹا",
+   "roman": "chimṭā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Tongs; forceps; pincers.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چمٹانا",
+   "roman": "chimṭānā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To cause to adhere; to fix; to paste; to embrace.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چمٹنا",
+   "roman": "chimaṭnā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To adhere; to stick; to cling (to); to take in close; to follow close at the heels of; to dog; to embrace; to be pasted.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چمٹی",
+   "roman": "chimṭī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Pincers; pinch.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چمچہ",
+   "roman": "chamchah",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A spoon; a ladle.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چمچہ بھر",
+   "roman": "chamchah bhar",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Spoonful.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چمچہِ ہر دیگی",
+   "roman": "chamchah-ĕ har degī",
+   "pron": "",
+   "pos": "adj.",
+   "def": "A sponger; one who meddles with every body's affairs.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چمچی",
+   "roman": "chamchī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A small spoon.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چمرخ",
+   "roman": "chamrakh",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A piece of leather attached to a spindle. adj. Thin; lean; weak.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چمڑا",
+   "roman": "chamṛā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Skin; hide; leather.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چمڑا ادھیڑنا، کھینچنا",
+   "roman": "chamṛā udheṛnā, kheṅchnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To skin; to flay; to beat severely.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چمڑی",
+   "roman": "chamṛī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Skin.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چمک",
+   "roman": "chamak",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Glitter; brilliance; splendour; flash; glare; gleam.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چمک دار",
+   "roman": "chamak dār",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Shining; glittering; brilliant.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چمک دمک",
+   "roman": "chamak damak",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Splendour; glitter; brilliance.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چمکارنا",
+   "roman": "chumkārnā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To make a kissing sound with the lips; to coaxe or quiet children; to speak kindly (to); to soothe; to caress.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چمکانا",
+   "roman": "chamkānā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To cause to glitter or glow; to brighten; to cause to flourish or prosper; to carry to great prosperity; to display; to polish; to make lively or active.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چمکنا",
+   "roman": "chamaknā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To shine; to glitter; to sparkle; to do well; to prosper; to be lively; to be brisk; to thrive; to be startled; to fly into a passion; to become angry.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چمکی",
+   "roman": "chamkī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Glitter, spangle; sparkling object; tinsel.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چمگادڑ",
+   "roman": "chimgādaṛ",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A bat; a flying-fox.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چمن",
+   "roman": "chaman",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A flower garden; a flower-bed; a blooming or flourishing place.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چمن بندی کرنا",
+   "roman": "chaman bandī karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To lay out a garden.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چمن زار",
+   "roman": "chaman zār",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A meadow; a garden.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چمنستان",
+   "roman": "chamnistān",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A flower-bed; a garden.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چنا",
+   "roman": "chanā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Gram; the chickpea; vetches.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "لوہے کے چنے",
+   "roman": "lohe ke chane",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "An extremely difficult task.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چننا",
+   "roman": "chunnā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To gather; to select; to arrange; to pick; to choose; to plait (cloth); to crimp (cloth).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چنار",
+   "roman": "chanār",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "The poplar tree; a tall tree the leaves of which are partly green and partly red resembling a man's hand often emitting sparks of fire.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چناں و چنیں",
+   "roman": "chunāṅ-ō chunīṅ",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Like this and that; evasion; subterfuge; grandiloquence.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چنانچہ",
+   "roman": "chunāṅcheh",
+   "pron": "",
+   "pos": "adv. (P)",
+   "def": "Accordingly; therefore; so that; in such a manner; for example.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چناؤ",
+   "roman": "chunāo",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Selection; election.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چنائی",
+   "roman": "chunāī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Building up a wall; masonry work.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چنبر",
+   "roman": "chambar",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A cover for the chilam (of huqqah); a circle; a hoop of a tub; a ring; a lid.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چنبیلی",
+   "roman": "chambalī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "The jasmine.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چنت",
+   "roman": "chunnat",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Plaiting; crimping; plaits; ruffles.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چنتا",
+   "roman": "chintā",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Thought; consideration; reflection; anxiety; care; doubt; danger.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چنچل",
+   "roman": "chanchal",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Moving; restless; unsteady; wanton; playful; fickle.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چنچنا",
+   "roman": "chinchinā",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Peevish; fretful; cross; angry.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چنچنانا",
+   "roman": "chinchinānā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To be stung; to be nettled; to scream; to squeak; to squall.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چند",
+   "roman": "chand",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "How many; how much; how often; how long; a little; a few.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چند بار",
+   "roman": "chand bār",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Many a time; quite often.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چند روزہ",
+   "roman": "chand rozah",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Temporary; transitory; for a few days; ephemeral.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ہر چند",
+   "roman": "har chand",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Although; however; nevertheless; notwithstanding; with all that.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چندا، چندر، چندر ما",
+   "roman": "chandā, chandra, chandar-mā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "The moon.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چندر مکھی",
+   "roman": "chandra mukhī",
+   "pron": "",
+   "pos": "adj.",
+   "def": "As beautiful as the moon. n.m. Moon-flower.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چنداں",
+   "roman": "chandāṅ",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "So much; much; many; more; adv. So great; rather.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چنداں مضائقہ نہیں",
+   "roman": "chandāṅ muẓāiqah nahīṅ",
+   "pron": "",
+   "pos": "phr.",
+   "def": "Of not much consequence; does not matter.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چندن",
+   "roman": "chandan",
+   "pron": "",
+   "pos": "n.m. (S)",
+   "def": "Sandal wood or sandal tree.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چندن ہار",
+   "roman": "chandan hār",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A necklace composed of moon-shaped pieces of gold, silver, &c.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چندہ",
+   "roman": "chandah",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Subscription; contribution; donation.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چندھا",
+   "roman": "chundhā",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Dim-sighted; weak-eyed; purblind. n.m. Blinkard; one whose eyes are too weak to bear daylight.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چندھیانا",
+   "roman": "chundhiyānā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To be purblind; to see dimly; to be dazzled by excess of light.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چندی",
+   "roman": "chindī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A small piece of rag.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چندی چندی کرنا",
+   "roman": "chindī chindī karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To break into pieces; to reduce to fragments.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چندے",
+   "roman": "chande",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "A little; a while; a few; some. adv. Sometime; for sometime.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چندیا",
+   "roman": "chandyā",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "The crown of the head; a small cake.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چنڈال",
+   "roman": "chanḍāl",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Low-caste; an outcast; a miser; a wretch; a miscreant.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چنڈال چوکڑی",
+   "roman": "chanḍāl chaukṛī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "A company of four or more miscreants.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چنڈو",
+   "roman": "chanḍū",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "An intoxicating drug made of opium.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چنڈو باز",
+   "roman": "chanḍū bāz",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "One addicted to smoking chanḍū.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چنڈو خانہ",
+   "roman": "chanḍū khānah",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A house in which chanḍū is smoked.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چنڈول",
+   "roman": "chanḍol",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A sedan with two poles; a plaything consisting of four little earthen pots joined together; the name of a bird.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چنری",
+   "roman": "chunrī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A coloured dopaṭṭah or scarf of a female; a parti-coloured scarf.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چنگ",
+   "roman": "chang",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A kind of harp.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چنگ نواز",
+   "roman": "chang nawāz",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A harper; a harpist.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چنگا",
+   "roman": "changā",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Healthy; cured; sound; good; pure; true.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چنگاری",
+   "roman": "chingārī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A spark (of fire).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چنگاری ڈالنا",
+   "roman": "chingārī ḍālnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To throw a fire-brand (into); to cause a quarrel; to sow discord.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چنگھاڑ",
+   "roman": "chinghāṛ",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Scream; screech; trumpeting of an elephant.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چنگھاڑنا",
+   "roman": "chinghaṛnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To scream; to roar; to trumpet; to screech.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چنگل، چنگل",
+   "roman": "changal, changul",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A claw; a hand; grasp; clutch.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چنگی",
+   "roman": "chungī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A cess; octroi duty; town duties; a tax gathered from grain merchants (being as much grain as a man can grasp in his hand).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چنگیر",
+   "roman": "changer",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A flower pot; a tray; a trough; a small basket for keeping loaves (of bread).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چننا",
+   "roman": "chunnā",
+   "pron": "",
+   "pos": "(il) v.",
+   "def": "To pick, to elect; to select; to choose; to gather; to build (a wall); to crimp (cloth).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چنوانا",
+   "roman": "chunnwānā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To cause to select or pick or put in order; to cause to build (a wall); to cause to crimp (cloth).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چنور",
+   "roman": "chaṅwar",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Handful of peacock feathers used to whisk off flies.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چنی",
+   "roman": "chunnī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A small ruby.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چنیا",
+   "roman": "chunyā",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Very small.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چنیا بطخ",
+   "roman": "chunyā baṭakh",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "A small duck.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چنیا بیگم",
+   "roman": "chunyā begam",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Opium.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چنیا گوند",
+   "roman": "chunyā gond",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Gum Arabic.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چنیں",
+   "roman": "chunīṅ",
+   "pron": "",
+   "pos": "adv. (P)",
+   "def": "Like this; such; thus; in this manner.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چو",
+   "roman": "chau",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Four.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوبارا",
+   "roman": "chaubārā",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A room on the house-top with four doors or windows; a summer-house; an assembly room of a village court.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوبچہ",
+   "roman": "chaubachah",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A small reservoir of water; cistern.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوبغلا",
+   "roman": "chaubughlā",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A kind of jacket not open under the arms.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوبندی",
+   "roman": "chaubandī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Giving the horse all the four new shoes.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوبولا",
+   "roman": "chaubolā",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A verse of four-lines.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چو پایہ",
+   "roman": "chau pāyah",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A quadruped; an animal; a beast.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چو پہلو",
+   "roman": "chau pahlū",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Four-sided.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چو پہیا",
+   "roman": "chau pahiyā",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "A four wheeled cart.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چو تارا",
+   "roman": "chau tārā",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A four stringed musical instrument.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چو تالا",
+   "roman": "chau tālā",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A mode in music.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوتھ",
+   "roman": "chauth",
+   "pron": "",
+   "pos": "adj.",
+   "def": "One-fourth of the produce, levied as tax; the fourth part.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوتھا، چوتھی",
+   "roman": "chauthā, chauthī",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Fourth.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوتھائی",
+   "roman": "chauthāī",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Fourth.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوتھی",
+   "roman": "chauthī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A ceremony on the fourth day of marriage.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوتہی",
+   "roman": "chautahī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A bed sheet of four folds.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوراہا",
+   "roman": "chau rāhā",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "The junction of four roads; crossing of roads.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چورس",
+   "roman": "chauras",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Rectangular; all around.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوکنا",
+   "roman": "chaukannā",
+   "pron": "",
+   "pos": "adj.",
+   "def": "(Lit. having four ears.) Circumspect; cautious; alert; watchful.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوکنا ہونا",
+   "roman": "chaukannā honā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be on the alert.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوکور",
+   "roman": "chaukor",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Four sided; quadrilateral.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوکھونٹا",
+   "roman": "chaukhūṅṭā",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Four-cornered; square.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوگنا",
+   "roman": "chaugunā",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Four times; quadruple.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوگوشہ",
+   "roman": "chaugoshah",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Four cornered.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چولڑا",
+   "roman": "chaulaṛā",
+   "pron": "",
+   "pos": "adj.",
+   "def": "A necklace with four strings or four rows.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوماسا",
+   "roman": "chaumāsā",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "The four months of the rainy season.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چومکھا، چومکھی",
+   "roman": "chaumukhā, chaumukhī",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Having four faces.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چومکھی لڑنا",
+   "roman": "chaumukhī laṛnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To attack from all sides.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوہٹا",
+   "roman": "chauhaṭṭā",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A market where four streets meet.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوا",
+   "roman": "chawwā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "An aggregate of four; a quadruped.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوالیس",
+   "roman": "chawālīs",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Forty-four.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوب",
+   "roman": "chob",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Wood; timber; a post; pole of a tent; a staff; a drumstick; a club; a mace.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوب چینی",
+   "roman": "chob chīnī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "The name of a medicine; china-root.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوب دار",
+   "roman": "chob dār",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A mace bearer; an usher; a herald; a servant whose business is to report the arrival of an authority.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوب کاری",
+   "roman": "chob kārī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "A kind of embroidery; beating with a stick.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوبا",
+   "roman": "chobā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A peg; nail; wedge; a bolt; sweetened rice.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوبی",
+   "roman": "chobī",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Wooden; of wood.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوبے",
+   "roman": "chobe",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A Brahman acquainted with the four Vedās.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوبیس",
+   "roman": "chaubīs",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Twenty-four.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوپال",
+   "roman": "chaupāl",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A kind of summer house or pavilion, generally built jointly by several people as a resting place; a place of public meeting of the village people.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوپان",
+   "roman": "chaupān",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A shepherd; a cowherd.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوپٹ",
+   "roman": "chaupaṭ",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Open all round; wide open; ruined; destroyed.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوپٹ کرنا",
+   "roman": "chaupaṭ karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To raze to the ground; to destroy; to demolish.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوپڑ",
+   "roman": "chaupaṛ",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A game played with oblong dice; the cloth on which it is played.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوت",
+   "roman": "chūt",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Vulva; private part of a woman.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوتر",
+   "roman": "chūtar",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "The back-side; the buttocks; bum; hip; rump.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوتر بجانا",
+   "roman": "chūtar bajānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be overjoyed.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوتر پیٹنا",
+   "roman": "chūtar pīṭnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To lament; to grieve.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوتر دکھانا",
+   "roman": "chūtar dikhānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To flee; to run away; to show the clean pair of heels.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوتیا",
+   "roman": "chūtiyā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A blockhead; dunce; a foolish person.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چونتیس",
+   "roman": "chauntīs",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Thirty-four.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوٹ",
+   "roman": "choṭ",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A hurt; a blow; bruise; damage; injury; fall; shock; loss (in trade); stroke; spite; rivalry; competition; taunting.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوٹ کرنا",
+   "roman": "choṭ karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To hurt; to wound; to attack; to cast a spell; to taunt.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوٹ کھانا",
+   "roman": "choṭ khānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be hurt; to suffer loss; to receive a blow.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوٹ لگنا",
+   "roman": "choṭ lagnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be wounded; to be hurt.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوٹا",
+   "roman": "choṭṭā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A petty thief; a pilferer.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوٹی",
+   "roman": "choṭṭī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A woman pilferer.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوٹی",
+   "roman": "choṭī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Top; summit; peak; the plait or tie of hair behind; a lock of hair on the top of the head; a top-knot; the crest of a bird.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوٹی کرنا",
+   "roman": "choṭī karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To braid the hair.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوٹی کا ہونا",
+   "roman": "choṭī kā honā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be pre-eminent; to excel; to be unrivalled.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوچلا، چونچلا",
+   "roman": "chochlā, choṅchlā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Playfulness; blendishments; endearing arts and expressions; coquetry; toyishness; fondling; sport; airs; affectation.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوچی",
+   "roman": "chūchī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Breast; pap; teat; nipple; dug.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوچی پینا",
+   "roman": "chūchī pīnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To suck the breasts.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چودہ",
+   "roman": "chaudah",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Fourteen.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چودنا",
+   "roman": "chodnā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To copulate; to have sexual intercourse.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چودھر",
+   "roman": "chaudhar",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "The office of a chaudharī, headman.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چودھرات، چودھرائی",
+   "roman": "chaudhrāt, chaudhrāī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "The business of a chaudharī, headman.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چودھری",
+   "roman": "chaudharī",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "The headman of a village; the headman of a trade; a title of land-holders.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چور",
+   "roman": "chor",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A thief; a robber. adj. Treacherous; sly.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چور بازاری",
+   "roman": "chor bāzārī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Black marketing.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چور بازاریا",
+   "roman": "chor bāzāryā",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Black marketeer.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چور پڑنا",
+   "roman": "chor paṛnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "Breaking into a house; thieving; stealing.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چور پہرہ",
+   "roman": "chor pahrā",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "The advanced guard of an army.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چور چکار",
+   "roman": "chor chikār",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Thieves, pilferers.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چور خانہ",
+   "roman": "chor khānah",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A secret room; a secret drawer.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چور دروازہ",
+   "roman": "chor darwāzah",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A trap-door; a back door.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چور زمین",
+   "roman": "chor zamīn",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "A quagmire; bog.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چور محل",
+   "roman": "chor maḥal",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "The apartments of the concubines of great men. n.f. A mistress; a keep; a concubine.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چور منڈلی",
+   "roman": "chor manḍlī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Gang of thieves; a game of children.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چور",
+   "roman": "chūr",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Very tired; bruised, powdered; intoxicated.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چور چور",
+   "roman": "chūr chūr",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Broken to fragments; reduced to powder.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چور چور ہونا",
+   "roman": "chūr chūr honā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be broken into small pieces; to be very tired.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "نشے میں چور ہونا",
+   "roman": "nashe meṅ chūr honā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be intoxicated; to be steeped in liquor; to be dead drunk.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چورا",
+   "roman": "chūrā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Filings; powder; sawdust; bruised grain.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چورا کرنا",
+   "roman": "chūrā karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To break to bits; to powder.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوراسی",
+   "roman": "chaurāsī",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Eighty-four.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چورانوے",
+   "roman": "chaurānwe",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Ninety-four.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چورما",
+   "roman": "chūrmā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A kind of sweet-dish made of sugar and crumbled bread.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چورن",
+   "roman": "chūran",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A powder made of medicines for promoting digestion; aromatic powder; a digestive powder.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوری",
+   "roman": "chaurī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A fly flapper made of peacock feathers or horse hair.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوری",
+   "roman": "chorī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Theft; robbery; stealth.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوری چوری",
+   "roman": "chorī chorī",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Stealthily; clandestinely; secretly.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوری کرنا",
+   "roman": "chorī karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To steal.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوری لگانا",
+   "roman": "chorī lagānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To accuse one of theft.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوڑا",
+   "roman": "chauṛā",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Broad; wide.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوڑا چکلا",
+   "roman": "chauṛā chaklā",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Extensive; broad; wide.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوڑان، چوڑائی",
+   "roman": "chauṛān, chauṛāī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Breadth; width; extension.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوڑھا",
+   "roman": "chūṛhā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A sweeper.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوڑی",
+   "roman": "chūṛī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Bangles or rings made of glass or lac; a gather; a pucker.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوڑی دار",
+   "roman": "chūṛī dār",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Drawers or sleeves, made too long to make them crumple into plaits; puckered.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوڑیاں پہننا",
+   "roman": "chūṛiyāṅ pahannā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To put on bangles; to marry again; to become effeminate; to behave like women.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوڑیاں ٹھنڈی کرنا",
+   "roman": "chūṛiyāṅ ṭhanḍī karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To break one's bangles (as women do on the death of their husbands).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوزہ",
+   "roman": "chūzah",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A chicken; a young bird; a young boy or girl.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوزہ باز",
+   "roman": "chūzah bāz",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "An old woman who keeps a young lover; an old woman fond of stripling.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوسٹھ، چونسٹھ",
+   "roman": "chausaṭh, chauṅsaṭh",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Sixty-four.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوسر",
+   "roman": "chausar",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A game.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوسنا",
+   "roman": "chūsnā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To suck; to absorb; to drink in; to imbibe.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوغہ، چغا",
+   "roman": "chūghah, chughā",
+   "pron": "",
+   "pos": "n.m. (T)",
+   "def": "A cloak.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوک",
+   "roman": "chūk",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Omission; error; fault; mistake; failing; miss; oversight; blunder; sour; acid; a medicine made of boiled lemon-juice and pomegranates.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوک",
+   "roman": "chauk",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A crossing of roads; a market; a centre; a square.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوکا",
+   "roman": "chaukā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "The place in which Hindūs dress or eat their victuals; an aggregate of four; four runs (in cricket), a square slab; the four front teeth; a brick.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوکر",
+   "roman": "chokar",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Husk of wheat, barley, &c.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوکڑی",
+   "roman": "chaukaṛī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A carriage with four horses; a bound; a spring; a leap.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوکڑی بھرنا",
+   "roman": "chaukaṛī bharnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To bound; to leap; to bounce.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوکڑی بھولنا",
+   "roman": "chaukaṛī bhūlnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To forget one's bound; to be fascinated; to have one's senses benumbed; to be bewildered or confounded; to be perplexed.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوکس",
+   "roman": "chaukas",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Cautious; careful; alert; sharp; watchful; accurate; diligent; active; circumspect.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوکس رہنا",
+   "roman": "chaukas rehnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be careful or cautious; to be watchful; to be on one's guard (against).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوکسی",
+   "roman": "chauksī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Watching; vigilance; circumspection; alertness; carefulness; activeness.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوکسی کرنا",
+   "roman": "chauksī karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To keep watch over; to guard; to be on the alert.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوکنا",
+   "roman": "chūknā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To blunder; to mistake; to err; to fail; to miss; to miscarry.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوکھٹ",
+   "roman": "chaukhaṭ",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Frame of a door; a threshold; sill and lintel of a door frame.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوکھٹا",
+   "roman": "chaukhṭā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A frame; a frame of a picture or a looking glass.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوکی",
+   "roman": "chaukī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A frame to sit on; a stool; a bench; a chair; a guard's post; a watch; a police station; an outpost; a band of musicians; an ornament worn on the breast.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوکی دار",
+   "roman": "chaukī dār",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A watchman; a guard; a sentinel.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوکی داری",
+   "roman": "chaukī dārī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "The pay or work of a watchman.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوکی دینا",
+   "roman": "chaukī denā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To watch; to guard; singing by a group of musicians on the tomb of a saint.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوگا",
+   "roman": "chogā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Food of birds brought up from the crop; foods of birds in general.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوگان",
+   "roman": "chaugān",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Polo; a hockey like game but played on horse-back.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوگان باز",
+   "roman": "chaugān bāz",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A polo-player.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوگان گاہ",
+   "roman": "chaugān gāh",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A polo-ground.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چول",
+   "roman": "chūl",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A tenon; a dovetail; the part of joiner's work which fits into another; a pivot upon which a door turns; an axle-tree arm.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چولیں ڈھیلی ہو جانا",
+   "roman": "chūleṅ ḍhīlī ho jānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be tired; to be exhausted through hard labour; joints becoming dislocated or loose.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چولا",
+   "roman": "cholā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "The body; a cloak; a garment worn by a bride at her wedding.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چولا بدلنا",
+   "roman": "cholā badalnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To transmigrate.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چولا چھوڑنا",
+   "roman": "cholā chhoṛnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To die; to expire.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چولائی",
+   "roman": "chaulāī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A kind of vegetable.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چولھا",
+   "roman": "chūlhā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A fire place; a hearth; an oven.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چولی",
+   "roman": "cholī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A small jacket; a bodice; a waistcoat; the body of a gown; a jacket; a small betel basket.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چولی دامن کا ساتھ ہونا",
+   "roman": "cholī dāman kā sāth honā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be as closely united as the body and the skirt; to be on very good terms; to be necessary adjunct; sine qua non.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوما",
+   "roman": "chūmā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Kiss.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوما چاٹی",
+   "roman": "chūmā chāṭī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Dalliance; billing and cooing.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چومنا",
+   "roman": "chūmnā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To kiss.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چون",
+   "roman": "chūn",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Flour; lime.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوں",
+   "roman": "chūṅ",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A low noise; squeaking; the sound of breaking wind.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوں چوں",
+   "roman": "chūṅ chūṅ",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Squeaking; chirruping; warbling.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوں نہ کرنا",
+   "roman": "chūṅ nah karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To make not the slightest noise; to remain perfectly quiet or agreeable.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چون",
+   "roman": "chawwan",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Fifty-four.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چونا",
+   "roman": "chonā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To leak; to ooze; to drop; to distil; to be filtered; to drop from the tree when ripe; to menstruate.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چونا",
+   "roman": "chūnā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Lime.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چونا لگانا",
+   "roman": "chūnā lagānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To defame; to defeat; to deceive.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چونے کی بھٹی",
+   "roman": "chūne kī bhaṭṭī",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A lime-kiln.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چونچ",
+   "roman": "choṅch",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Beak; bill; point.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چونچال",
+   "roman": "chūṅchāl",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Clever; active; robust.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چونڈا",
+   "roman": "chūṅḍā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "The head; hair braided on top of a woman's head; top-knot.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چونسٹھ",
+   "roman": "chauṅsaṭh",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Sixty-four.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چونک اٹھنا",
+   "roman": "chauṅk uṭhnā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To wince; to start up; to be alarmed.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چونک پڑنا",
+   "roman": "chauṅk paṛnā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To start up; to bounce.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چونکانا",
+   "roman": "chauṅkānā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To waken; to rouse; to startle.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چونکنا",
+   "roman": "chauṅknā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To start; to be ogle; to start up from sleep; to be roused; to be startled.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چونکہ",
+   "roman": "chūṅkeh",
+   "pron": "",
+   "pos": "adv. (P)",
+   "def": "Since; as; because.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چونگا",
+   "roman": "choṅgā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A funnel; a tube; a cylindrical tin case; a joint of bamboo.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چون و چرا کرنا",
+   "roman": "chūn-ō chirā karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To demand why and wherefore; to wrangle; to dispute.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چونی",
+   "roman": "chawannī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "A four-anna piece.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوہا",
+   "roman": "chūhā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A rat; a mouse.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوہے دان",
+   "roman": "chūhe dān",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A rat trap.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوہان",
+   "roman": "chauhān",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A clan of Rājpūts.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوہتر",
+   "roman": "chauhattar, chuhattar",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Seventy-four.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوہڑا",
+   "roman": "chūhṛā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "See چوڑھا (chūṛhā).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چوہیا",
+   "roman": "chūhiyā",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A little mouse or rat.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چہ",
+   "roman": "chah",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "(contract. of چاہ (chāh)); A well.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چہ",
+   "roman": "chah",
+   "pron": "",
+   "pos": "(P)",
+   "def": "A particle affixed to various Persian nouns to form diminutives such as, کوچہ (kūchah), a small street, باغیچہ (bāghīchah), a small garden.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چھے",
+   "roman": "chhe",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Six.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چھابڑی",
+   "roman": "chhābṛī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A flattened basket made of twigs or reeds used by hawkers for selling their wares.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چھاپ",
+   "roman": "chhāp",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Stamp; print; copy; impression; seal; ring.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چھاپا",
+   "roman": "chhāpā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Print; impression; stamp; seal; edition; raid; attack; ambush.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چھاپا مارنا",
+   "roman": "chhāpā mārnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To make a night attack; to raid; to surprise.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "پتھر کا چھاپا",
+   "roman": "paththar kā chhāpā",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Lithography.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چھاپے خانہ",
+   "roman": "chhāpe khānah",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A printing press.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چھاپنا",
+   "roman": "chhāpnā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To print; to publish; to stamp.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چھاتا",
+   "roman": "chhātā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "An umbrella; a parasol.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چھاتی",
+   "roman": "chhātī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Breast; chest; bosom; bubby; spirit; fortitude; endurance.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چھاتی پر پتھر رکھنا",
+   "roman": "chhātī par paththar rakhnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To have patience.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چھاتی پر سانپ لوٹنا",
+   "roman": "chhātī par sāṅp loṭnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To burn with jealousy.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چھاتی پر مونگ دلنا",
+   "roman": "chhātī par moṅg dalnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "(Lit. to grind pulse on the breast); to do something in presence of another merely to vex him.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چھاتی پکڑ کر رہ جانا",
+   "roman": "chhātī pakaṛ kar rah jānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To grieve or mourn in silence.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چھاتی پھٹنا",
+   "roman": "chhātī phaṭnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "Bursting of the heart with grief.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چھاتی پیٹنا",
+   "roman": "chhātī pīṭnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To lament; to regret; to repent; to beat the breast in sorrow.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چھاتی سے لگانا",
+   "roman": "chhātī se lagānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To fondle; to embrace.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چھاتی نکال کر چلنا",
+   "roman": "chhātī nikāl kar chalnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To strut; to stalk.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چھاج",
+   "roman": "chhāj",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A winnowing-fan; a cow catcher.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چھا جانا",
+   "roman": "chhā jānā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To spread; to cover; to swarm; to overcast.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "چھاچھ",
+   "roman": "chhāchh",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Butter-milk; whey.",
    "ur": "",
    "ex": []
   }
