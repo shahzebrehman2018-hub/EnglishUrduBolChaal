@@ -138095,7 +138095,7 @@
    "w": "اثبات"
   },
   {
-   "def": "Establishment of guilt; conviction.",
+   "def": "Establishment of guilt; conviction; Proved guilt.",
    "ex": [],
    "pos": "n.m.",
    "pron": "",
@@ -141704,7 +141704,7 @@
    "w": "ارتکاب"
   },
   {
-   "def": "Commission of a crime.",
+   "def": "Commission of a crime; Commitment of an offence.",
    "ex": [],
    "pos": "n.m.",
    "pron": "",
@@ -148508,7 +148508,7 @@
    "w": "اقدامِ قتلِ عمد"
   },
   {
-   "def": "Attempt to commit a crime.",
+   "def": "Attempt to commit a crime; Attempt to commit an offence.",
    "ex": [],
    "pos": "n.m.",
    "pron": "",
@@ -166025,7 +166025,7 @@
    "w": "برابر کی ٹکر کا",
    "pron": "",
    "pos": "adj.",
-   "def": "Of equal rank or standing or position; at par; equal.",
+   "def": "Of equal rank or standing or position; at par; equal; Equally good; good; of equal strength or quality; equally matched.",
    "ur": "",
    "ex": [],
    "roman": "barābar kī ṭakkar kā"
@@ -176534,7 +176534,7 @@
    "w": "بے جا"
   },
   {
-   "def": "Lifeless; inanimate; rotten; dead.",
+   "def": "Lifeless; inanimate; rotten; dead; extremely weak.",
    "ex": [],
    "pos": "adj.",
    "pron": "",
@@ -202232,7 +202232,7 @@
    "w": "جامہ تلاشی",
    "pron": "",
    "pos": "n.f.",
-   "def": "Searching a person.",
+   "def": "Searching a person; searching a person's clothes.",
    "ur": "",
    "ex": [],
    "roman": "jāmah talāshī"
@@ -214437,7 +214437,7 @@
    "roman": "chānd kā ṭukṛā",
    "pron": "",
    "pos": "adj.",
-   "def": "A very beautiful person; a beauty.",
+   "def": "A very beautiful person; a beauty; a charming creature.",
    "ur": "",
    "ex": []
   },
@@ -220342,6 +220342,6828 @@
    "pron": "",
    "pos": "n.f. (H)",
    "def": "Butter-milk; whey.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹڈی",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A locust.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭiḍḍī"
+  },
+  {
+   "w": "ٹڈی دل",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A large swarm of locusts.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭiḍḍī dal"
+  },
+  {
+   "w": "ٹر",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "The croaking of a frog; prate; jabber; chattering; a festival after 'Id.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭar"
+  },
+  {
+   "w": "ٹر ٹر",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Jabber; chattering.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭarṭar"
+  },
+  {
+   "w": "ٹر ٹر کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To chatter; to croak; to be insolent.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭarṭar karnā"
+  },
+  {
+   "w": "ٹرا",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Addicted to chattering; talkative;",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭarrā"
+  },
+  {
+   "w": "ٹرانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To chatter; to croak (as, a frog); to murmur; to grumble; to be rude; to be insolent.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭarrānā"
+  },
+  {
+   "w": "ٹرخانا، ٹرکانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To put off; to work carelessly; to make excuses.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭarkhānā, ṭarkānā"
+  },
+  {
+   "w": "ٹسر",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A kind of silk cloth; inferior kind of silk.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭasar"
+  },
+  {
+   "w": "ٹسر مسر",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Delay; hesitation; putting off.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭasar masar"
+  },
+  {
+   "w": "ٹس سے مس نہ ہونا",
+   "pron": "",
+   "pos": "v.",
+   "def": "Not to be moved; not to be affected; not to feel.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭas se mas nah honā"
+  },
+  {
+   "w": "ٹسوے",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Tears; false or hypocritical tears.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭisve"
+  },
+  {
+   "w": "ٹسوے بہانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To weep; to shed crocodile tears.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭisve bahānā"
+  },
+  {
+   "w": "ٹک",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Sight; look; temper; disposition; nature.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭak"
+  },
+  {
+   "w": "ٹک باندھنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To stare at; to gaze steadfastly.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭak bāndhnā"
+  },
+  {
+   "w": "ٹک لگانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To expect; to long for; to wait for.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭak lagānā"
+  },
+  {
+   "w": "ٹک",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "A little. adv. For a while; a little while; for a moment.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭuk"
+  },
+  {
+   "w": "ٹکا",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A copper coin equal to two pices; money; wealth.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭakā"
+  },
+  {
+   "w": "ٹکا بھر",
+   "pron": "",
+   "pos": "adj.",
+   "def": "As much as a ṭakā; a little.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭakā bhar"
+  },
+  {
+   "w": "ٹکا پاس نہ ہونا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be very poor; to be absolutely out of pocket.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭakā pās nah honā"
+  },
+  {
+   "w": "ٹکا پنسیری لگانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To sell very cheap.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭakā panserī lagānā"
+  },
+  {
+   "w": "ٹکا سا جواب دینا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To refuse point-blank; to reject instantly; to give a point-blank refusal.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭakā sā jawāb denā"
+  },
+  {
+   "w": "ٹکانا",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To cause to lodge; to fix in any place; to station; to put (one) up; to lay on; to give a slap.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭikānā"
+  },
+  {
+   "w": "ٹکاؤ",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Abode; residence; permanence.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭikāo"
+  },
+  {
+   "w": "ٹکٹ",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "(corr. of English); A ticket; a postage stamp; a label; a pass; a court-fee stamp; passport.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭikaṭ"
+  },
+  {
+   "w": "چسپاں ٹکٹ",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Adhesive stamp.",
+   "ur": "",
+   "ex": [],
+   "roman": "chaspāṅ ṭikaṭ"
+  },
+  {
+   "w": "ٹک ٹک",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "The sound used by a bullock cart driver to urge bullock to move on.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭik ṭik"
+  },
+  {
+   "w": "ٹکٹکی",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A tripod on which criminals are flogged; fixed look; stare; an anxious look; gaze.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭikṭikī"
+  },
+  {
+   "w": "ٹکٹکی باندھنا یا لگانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To regard with a fixed look; to gaze steadfastly (at); to stare (at).",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭikṭikī bāndhnā yā lagānā"
+  },
+  {
+   "w": "ٹکٹکی سے باندھنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To bind on the tripod and flog.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭikṭikī se bāndhnā"
+  },
+  {
+   "w": "ٹکر",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Striking or knocking against; collision; butting; knock; encounter; competition; rivalry; comparison; rival; antagonist; match.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭakkar"
+  },
+  {
+   "w": "ٹکر کھانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To strike against; to collide; to bump against; to vie against; to meet with a loss or misfortune; to be dashed (against); to stumble.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭakkar khānā"
+  },
+  {
+   "w": "ٹکر لڑانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To butt; to strike against.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭakkar laṛānā"
+  },
+  {
+   "w": "ٹکر لگانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To dash against; to enter into rivalry.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭakkar lagānā"
+  },
+  {
+   "w": "ٹکر لگنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To collide; to knock against; to be hit; to be injured.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭakkar lagnā"
+  },
+  {
+   "w": "ٹکر مارنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To knock against; to knock down; to strive.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭakkar mārnā"
+  },
+  {
+   "w": "پہاڑ سے ٹکر لینا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To fight against heavy odds.",
+   "ur": "",
+   "ex": [],
+   "roman": "pahāṛ se ṭakkar lenā"
+  },
+  {
+   "w": "ٹکرانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To knock one body against another; to bring into collision; to dash together; to clash together; to butt.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭakrānā"
+  },
+  {
+   "w": "ٹکر ٹکر دیکھنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To give one a surprised look; to gaze despondently; to look eagerly.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭukar ṭukar dekhnā"
+  },
+  {
+   "w": "ٹکر ٹکر یا ٹک ٹک دیدم دم نہ کشیدم",
+   "pron": "",
+   "pos": "id.",
+   "def": "Gazed at it despondently and kept quiet.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭukar ṭukar yā ṭuk ṭuk dīdam dam nah kashīdam"
+  },
+  {
+   "w": "ٹکڑا",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A piece; a bit; a morsel; a part; a fraction; a clause or paragraph; livelihood.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭukṛā"
+  },
+  {
+   "w": "ٹکر گدا",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A beggar; one who begs for a living.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭukar gadâ"
+  },
+  {
+   "w": "ٹکڑا مانگنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To beg alms.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭukṛā māṅgnā"
+  },
+  {
+   "w": "ٹکڑوں پر پڑنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be dependent (on).",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭukṛoṅ par paṛnā"
+  },
+  {
+   "w": "ٹکڑے ٹکڑے",
+   "pron": "",
+   "pos": "adv.",
+   "def": "In pieces; piecemeal.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭukṛe ṭukṛe"
+  },
+  {
+   "w": "ٹکڑے ٹکڑے کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To break into pieces; to divide; to separate.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭukṛe ṭukṛe karnā"
+  },
+  {
+   "w": "ٹکڑی",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A piece; a bit; a slice; a piece of cloth; a flock of birds (pigeons); a band of men, &c.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭukṛī"
+  },
+  {
+   "w": "ٹکسال",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A mint.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭaksāl"
+  },
+  {
+   "w": "ٹکسال باہر",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Unidiomatic or unchaste words; unpolished; unclassical; a counterfeit coin.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭaksāl bāhar"
+  },
+  {
+   "w": "ٹکسال چڑھنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be educated; to bear the stamp of the mint.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭaksāl chaṛhnā"
+  },
+  {
+   "w": "ٹکسالی",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Pertaining to a mint; true; genuine; pure; chaste.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭaksālī"
+  },
+  {
+   "w": "ٹکسالی زبان",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Good idiom; idiomatic language.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭaksālī zabān"
+  },
+  {
+   "w": "ٹکسالیہ",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "An officer of the mint; coiner; mint-master.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭaksāliyah"
+  },
+  {
+   "w": "ٹکلی",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "An ornament worn by women on the forehead; a small round cake; a wafer.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭiklī"
+  },
+  {
+   "w": "ٹکنا",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To stay; to lodge; to last; to put up; to remain; to tarry.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭiknā"
+  },
+  {
+   "w": "ٹکنا",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To be stitched; to be sewn.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭaknā"
+  },
+  {
+   "w": "ٹکوا",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A chopper; an axe-like weapon.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭakvā"
+  },
+  {
+   "w": "ٹکور",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Fomentation; cataplasm.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭākor"
+  },
+  {
+   "w": "ٹکورنا",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To foment; to apply warmth (to).",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭakornā"
+  },
+  {
+   "w": "ٹکھیائی",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A harlot; a third-rate prostitute.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭakhyāī"
+  },
+  {
+   "w": "ٹکی ـ ٹکیا",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A small cake; a wafer; a tablet.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭikkī yā ṭikkiyā"
+  },
+  {
+   "w": "ٹل جانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To get out of the way; to decamp; to pass by or away; to withdraw; to vanish.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭal jānā"
+  },
+  {
+   "w": "ٹلنا",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To withdraw; to move; to go away; to shrink from; to flinch.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭalnā"
+  },
+  {
+   "w": "ٹم ٹم",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "(corr. of English); Tandem.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭam-ṭam"
+  },
+  {
+   "w": "ٹماخ",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Show; pump; make-up.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭimākh"
+  },
+  {
+   "w": "ٹمٹمانا",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To give a faint light; to twinkle; to flicker; to be at the last gasp.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭimṭimānā"
+  },
+  {
+   "w": "ٹمٹماہٹ",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Twinkling; glimmer; flickering.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭimṭimāhaṭ"
+  },
+  {
+   "w": "ٹن ٹن",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Ringing of a bell.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭan ṭan"
+  },
+  {
+   "w": "ٹنٹا",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Wrangling; brawl; noisy quarrel.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭanṭā"
+  },
+  {
+   "w": "ٹنٹے باز",
+   "pron": "",
+   "pos": "n.",
+   "def": "A quarrelsome person; a brawler.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭanṭe bāz"
+  },
+  {
+   "w": "ٹنٹا",
+   "pron": "",
+   "pos": "",
+   "def": "See ٹنڈا (ṭunḍā).",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭunṭā"
+  },
+  {
+   "w": "ٹنڈ",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A chopped hand or branch; stump of a branch or arm.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭunḍ"
+  },
+  {
+   "w": "ٹنڈا",
+   "pron": "",
+   "pos": "adj. & n.m. (H)",
+   "def": "Handless; one whose hands have been cut off or one who is born without hands.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭunḍā"
+  },
+  {
+   "w": "ٹنڈی",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "The navel. (See also ٹنڈا ṭunḍā).",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭunḍī"
+  },
+  {
+   "w": "ٹنگنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To hang up; to be hung.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭaṅgnā"
+  },
+  {
+   "w": "ٹوپ",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A hat; a cap which covers the ears and the back of the head; a kind of hood; a thimble.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭop"
+  },
+  {
+   "w": "ٹوپا",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A cap; a grain measure.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭopā"
+  },
+  {
+   "w": "ٹوپی",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A cap; a hat; a gun-cap.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭopī"
+  },
+  {
+   "w": "ٹوپی اچھالنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To jump with joy; to throw up one's cap in token of pleasure.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭopī uchhālnā"
+  },
+  {
+   "w": "ٹوپی دار بندوق",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "A matchlock.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭopīdār bandūq"
+  },
+  {
+   "w": "ٹوٹ",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Breaking; fracture; loss; harm; deficiency.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭūṭ"
+  },
+  {
+   "w": "ٹوٹ پھوٹ",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Pieces; fragments; damage; fracture; loss.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭūṭ phūṭ"
+  },
+  {
+   "w": "ٹوٹ جانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To break; to be broken.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭūṭ jānā"
+  },
+  {
+   "w": "ٹوٹ پڑنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To rush in; to fall upon; to attack bitterly.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭūṭ paṛnā"
+  },
+  {
+   "w": "ٹوٹا",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Broken; demolished; decayed; damaged.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭūṭā"
+  },
+  {
+   "w": "ٹوٹا پھوٹا",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Broken to pieces; damaged; demolished. n.m. Loss; damage.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭūṭā phūṭā"
+  },
+  {
+   "w": "ٹوٹا",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Loss; deficiency; detriment; damage; scarcity; candle's end; a piece of a cloth, wood or bamboo.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭoṭā"
+  },
+  {
+   "w": "ٹوٹا اٹھانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To suffer loss; to make restitution.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭoṭā uṭhānā"
+  },
+  {
+   "w": "ٹوٹا بھرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To make good a loss or damage; to indemnify; to refund.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭoṭā bharnā"
+  },
+  {
+   "w": "ٹوٹا پڑنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To incur or suffer a loss.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭoṭā paṛnā"
+  },
+  {
+   "w": "ٹوٹرو",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A kind of turtle-dove.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭoṭrū"
+  },
+  {
+   "w": "ٹوٹکا",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A charm; an amulet; a superstitious remedy; a spell.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭoṭkā"
+  },
+  {
+   "w": "ٹوٹنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be broken; to be fractured; to break or burst; to be separated; to disassociate; to rush upon; to pine.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭūṭnā"
+  },
+  {
+   "w": "ٹوک",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Hindrance; interruption; prevention; parole; influence of an evil eye.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭok"
+  },
+  {
+   "w": "ٹوکرا",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A large basket.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭokrā"
+  },
+  {
+   "w": "ٹوکری",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A small basket.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭokrī"
+  },
+  {
+   "w": "ٹوکنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To challenge; to prevent; to question; to interrogate; to envy; to accost.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭoknā"
+  },
+  {
+   "w": "ٹولا",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A particular part of a town inhabited by men of one class or trade; a crowd; a group; a ward; a large pebble.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭolā"
+  },
+  {
+   "w": "ٹولی",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A company; a society; a crowd; a group.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭolī"
+  },
+  {
+   "w": "ٹونا",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Charm; fascination; enchantment; witch-craft.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭonā"
+  },
+  {
+   "w": "ٹونے باز",
+   "pron": "",
+   "pos": "n.",
+   "def": "A charmer; a conjurer; a magician.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭūne bāz"
+  },
+  {
+   "w": "ٹونٹی",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A spout.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭonṭī"
+  },
+  {
+   "w": "ٹونڈی",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "The navel.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭonḍī"
+  },
+  {
+   "w": "ٹونگنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To peck; to nibble.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭūṅgnā"
+  },
+  {
+   "w": "ٹوہ",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Search; spying; watching secretly.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭoh"
+  },
+  {
+   "w": "ٹوہ لگانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To trace; to find out; to investigate secretly.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭoh lagānā"
+  },
+  {
+   "w": "ٹوہنا",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To search; to grope for; to look for.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭohnā"
+  },
+  {
+   "w": "ٹھاٹ",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A frame of bamboo for thatching; arrangement; adjustment.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhāṭ"
+  },
+  {
+   "w": "ٹھاٹھ",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Dignity; pomp; splendour; state; retinue; plenty; abundance.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhāṭh"
+  },
+  {
+   "w": "ٹھاٹھ بدلنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To change one's attitude or posture.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhāṭh badalnā"
+  },
+  {
+   "w": "ٹھاٹھ کے ساتھ",
+   "pron": "",
+   "pos": "adv.",
+   "def": "With great pomp and show.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhāṭh ke sāth"
+  },
+  {
+   "w": "ٹھاٹھیں مارنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "Striking of waves against the shore; to surge.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhāṭheṅ mārnā"
+  },
+  {
+   "w": "ٹھاکر",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "An idol; the Supreme God; a master; lord; landholder; a chief (among certain castes of Rajputs); the head of a village; a person of rank or authority.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhākur"
+  },
+  {
+   "w": "ٹھاکر دوارہ",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "An idol temple.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhākur duwārah"
+  },
+  {
+   "w": "ٹھاننا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To resolve or fix (in the mind); to intend; to be intent on; to be determined; to set one's heart on.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhānnā"
+  },
+  {
+   "w": "ٹھپا",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "An instrument for stamping with; a stamp; an impression; printing type; fount; a die; a mould; broad silver lace.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhappā"
+  },
+  {
+   "w": "ٹھپا لگانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To stamp; to put a stamp on.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhappā lagānā"
+  },
+  {
+   "w": "ٹھٹ",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Throng; crowd; multitude.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhaṭ"
+  },
+  {
+   "w": "ٹھٹھا",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Loud laughter; fun; a joke, a jest.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhaṭṭhā"
+  },
+  {
+   "w": "ٹھٹھا کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To joke; to jest; to ridicule; to deride.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhaṭṭhā karnā"
+  },
+  {
+   "w": "ٹھٹھا لگانا ـ مارنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To burst with laughters.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhaṭṭhā lagānā, mārnā"
+  },
+  {
+   "w": "ٹھٹھے باز",
+   "pron": "",
+   "pos": "n.",
+   "def": "Jocular; jester; a funny fellow; a humourous person; waggish; comical; facetious.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhaṭṭhe bāz"
+  },
+  {
+   "w": "ٹھٹھے بازی",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Joking; jesting; sporting; fun; jocularity.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhaṭṭhe bāzī"
+  },
+  {
+   "w": "ٹھٹھے میں اڑانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To turn off in jest; to make fun of; to ridicule.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhaṭṭhe meṅ uṛānā"
+  },
+  {
+   "w": "ٹھٹھرانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To chill; to benumb.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhiṭhrānā"
+  },
+  {
+   "w": "ٹھٹھرنا",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To be chilled with cold; to be frozen; to be benumbed; to shiver.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhiṭharnā"
+  },
+  {
+   "w": "ٹھٹھک ـ ٹھٹک",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "The state of stopping suddenly or of standing amazed.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhiṭhak yā ṭhiṭak"
+  },
+  {
+   "w": "ٹھٹھکنا ـ ٹھٹکنا",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To shrink; to stop; to stand amazed; to draw back in amazement; to hesitate; to stagger.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhiṭhaknā yā ṭhiṭaknā"
+  },
+  {
+   "w": "ٹھٹھول",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Joking; jesting; humour; fun; derision. adj Banterer; humourous; jocose; waggish; jocular; jester; humourist.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhaṭhol"
+  },
+  {
+   "w": "ٹھٹھیرا",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "One who makes pots of hardware or metal; a brazier; a tinker.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhaṭherā"
+  },
+  {
+   "w": "ٹھڈا",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "The back stick of a paper kite; the backbone.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhaḍḍā"
+  },
+  {
+   "w": "ٹھڈا",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A kick; kicking with the boot.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhuḍḍā"
+  },
+  {
+   "w": "ٹھڈی",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "The chin; hard and non-crisp parched grain.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhuḍḍī"
+  },
+  {
+   "w": "ٹھرا",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "An inferior kind of country wine; a kind of shoe worn by villagers.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭharrā"
+  },
+  {
+   "w": "ٹھس",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Crammed; stuffed; hard; solid; not hollow; stupid; dull headed.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhas"
+  },
+  {
+   "w": "ٹھسا",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Pride; pomp and show.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhassā"
+  },
+  {
+   "w": "ٹھسلنا ـ ٹھسوانا",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To cause to stuff; to cause to fill.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhuslanā yā ṭhuswānā"
+  },
+  {
+   "w": "ٹھسنا",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To be stuffed; to be filled.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhusnā"
+  },
+  {
+   "w": "ٹھسوانا",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To cause to stuff; to cause to fill (to capacity).",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhuswānā"
+  },
+  {
+   "w": "ٹھک ٹھک",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "A sound of hammering; troublesome business.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhak ṭhak"
+  },
+  {
+   "w": "ٹھکانا",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Fixed abode; precise whereabouts; proper place; certainty; source; origin; goal; destination; limit; boundary.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhikānā"
+  },
+  {
+   "w": "ٹھکانا ڈھونڈنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To look for a residence or employment.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhikānā ḍhūṅḍhnā"
+  },
+  {
+   "w": "ٹھکانا کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To find a room (for); to arrange; to account (for); to find a husband or wife (for).",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhikānā karnā"
+  },
+  {
+   "w": "ٹھکانے کا آدمی",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A clever man; an intelligent person; a gentleman.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhikāne kā ādmī"
+  },
+  {
+   "w": "ٹھکانے کی بات",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "A reasonable thing.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhikāne kī bāt"
+  },
+  {
+   "w": "ٹھکانے لگانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To settle a person's hash; to assassinate; to kill; to dispose off; to marry (of); to spend; to accomplish.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhikāne lagānā"
+  },
+  {
+   "w": "ٹھکانے لگنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be killed; to be terminated; to be disposed off.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhikāne lagnā"
+  },
+  {
+   "w": "بے ٹھکانے",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Out of place; inconsistent; indeterminate; uncertain; meaningless.",
+   "ur": "",
+   "ex": [],
+   "roman": "be ṭhikāne"
+  },
+  {
+   "w": "ٹھکرانا",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To kick against; to kick; to trample upon.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhukrānā"
+  },
+  {
+   "w": "ٹھکنا",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To be beaten; to be chastised; to be hammered.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhuknā"
+  },
+  {
+   "w": "ٹھگ",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A cheat; a fraudulent; a robber; a plunderer; a cut-throat; a swindler; an assassin.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhag"
+  },
+  {
+   "w": "ٹھگ بازی ـ ٹھگ بدیا",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "The art of tricking or swindling.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhag bāzī, ṭhag biddiyā"
+  },
+  {
+   "w": "ٹھگائی، ٹھگی",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Cheating, robbery; swindling; theft.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhagāī, ṭhāgī"
+  },
+  {
+   "w": "ٹھگنا",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To rob; to cheat; to deceive; to beguile; to swindle.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhagnā"
+  },
+  {
+   "w": "ٹھگنی",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A female robber or cheat.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhagnī"
+  },
+  {
+   "w": "ٹہل",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Service; attendance; business; work; drudgery; servitude; housewifery; house-keeping.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭahal"
+  },
+  {
+   "w": "ٹہل کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To serve; to drudge; to attend upon.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭahal karnā"
+  },
+  {
+   "w": "ٹہلانا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To cause to walk to and fro; to make one dance attendance; to get one out of the way; to dismiss; to remove.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭahlānā"
+  },
+  {
+   "w": "ٹہلنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To walk to and fro; to rove; to ramble; to take a walk.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭahalnā"
+  },
+  {
+   "w": "ٹھیلیا",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "A water pot; a small earthen pitcher.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhilyā"
+  },
+  {
+   "w": "ٹھمری",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A species of metre; a variety of song; a kind of verse.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhumrī"
+  },
+  {
+   "w": "ٹھمک چال",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Graceful carriage; a dignified gait; a stately air.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhumak chāl"
+  },
+  {
+   "w": "ٹھمکنا",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To walk with grace and stateliness; to dance joyously.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhumaknā"
+  },
+  {
+   "w": "ٹھمکی",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "A jerk; jerking a paper-kite to keep it up when wind is light.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhumkī"
+  },
+  {
+   "w": "ٹھمکی دینا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To give a jerk (to the paper-kite).",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhumkī denā"
+  },
+  {
+   "w": "ٹھن ٹھن",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Tinkle; jingle.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhan ṭhan"
+  },
+  {
+   "w": "ٹھن ٹھن گوپال",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A fool; a blockhead; nothing; nought.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhan ṭhan gopāl"
+  },
+  {
+   "w": "ٹھننا",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To be fixed in the mind; to be ascertained; to be resolved; to be determined.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhannā"
+  },
+  {
+   "w": "ٹھنٹھ",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Leafless branch of a tree; a stump; an amputated hand.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhunṭh"
+  },
+  {
+   "w": "ٹھنڈ",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Cold; chilliness; chill.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhanḍ"
+  },
+  {
+   "w": "ٹھنڈا، ٹھنڈی",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Cold; refreshed; calm; cool; cold-blooded; cold-hearted; dull; inactive (market); extinguished; alloyed; dead; pacified; mild; frozen; impotent.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhanḍā, ṭhanḍī"
+  },
+  {
+   "w": "ٹھنڈا کرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To cool; to extinguish; to comfort; to assuage; to soothe; to make cold; to kill.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhanḍā karnā"
+  },
+  {
+   "w": "ٹھنڈا لوہا گرم لوہے کو کاٹتا ہے",
+   "pron": "",
+   "pos": "prov.",
+   "def": "A soft answer turneth away wrath.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhanḍā lohā garm lohe ko kāṭṭā hai"
+  },
+  {
+   "w": "ٹھنڈا ہونا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To become cold; to be extinguished; to rest; to be soothed; to be dead.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhanḍā honā"
+  },
+  {
+   "w": "کلیجا ٹھنڈا ہونا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be satisfied; to be pleased; to have one's revenge.",
+   "ur": "",
+   "ex": [],
+   "roman": "kalaijā ṭhanḍā honā"
+  },
+  {
+   "w": "ٹھنڈی سانس",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Cold breath.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhanḍī sāṅs"
+  },
+  {
+   "w": "ٹھنڈے ٹھنڈے",
+   "pron": "",
+   "pos": "adv.",
+   "def": "In the cool of the day; while it is cool; in the morning or evening.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhanḍe ṭhanḍe"
+  },
+  {
+   "w": "ٹھنڈے سانس بھرنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To sigh in despair; to heave a deep sigh.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhanḍe sāṅs bharnā"
+  },
+  {
+   "w": "ٹھنڈائی",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Refrigerant medicine; cooling drink (bhang).",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhanḍāī"
+  },
+  {
+   "w": "ٹھنڈک",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Coolness; chilliness; comfort.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhanḍak"
+  },
+  {
+   "w": "ٹھنڈک پڑنا",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be cooled; to have a desire for revenge gratified.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhanḍak paṛnā"
+  },
+  {
+   "w": "ٹھنکانا",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To sound; to ring a coin or metal; to chink; to produce a sound; to cause to knock or hammer.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhankānā"
+  },
+  {
+   "w": "ٹھنکنا",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To sob; to whimper; to whine; to jingle; to clink; to shoot (as, headache).",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhinaknā"
+  },
+  {
+   "w": "ٹھنگنا، ٹھنگنی",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Of small stature; dwarfish.",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭhingnā, ṭhingnī"
+  },
+  {
+   "w": "ٹہنی",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A branch of a tree; a twig",
+   "ur": "",
+   "ex": [],
+   "roman": "ṭahnī"
+  },
+  {
+   "w": "ٹھور",
+   "roman": "ṭhaur",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Place; spot; residence; room.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹھور ٹھکانا",
+   "roman": "ṭhaur ṭhikānā",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Abode; a residence; a halting place.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹھوڑی",
+   "roman": "ṭhoṛī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "The chin.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹھوڑی پکڑنا",
+   "roman": "ṭhoṛī pakaṛnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To flatter; to assuage.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹھوڑی تارا",
+   "roman": "ṭhoṛī tārā",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A mole on the chin.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹھوس",
+   "roman": "ṭhos",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Solid; compact; hard; heavy.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹھوک بجا کے",
+   "roman": "ṭhok bajā ke",
+   "pron": "",
+   "pos": "adv.",
+   "def": "After thorough sifting or testing; after close examination.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹھوک دینا",
+   "roman": "ṭhok denā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To shove in; to push in.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹھوکر",
+   "roman": "ṭhokar",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Any projecting thing or stone on a road, which causes stumbling; obstacle; a kick; a stumble; the toe (of a shoe).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹھوکر کھانا",
+   "roman": "ṭhokar khānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To trip; to stumble; to suffer a loss.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹھوکر لگنا",
+   "roman": "ṭhokar lagnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To come into collision with; to collide with something; to learn a lesson.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹھوکر مارنا، لگانا",
+   "roman": "ṭhokar mārnā, lagānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To strike against; to kick or spurn; to deride; to despise.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹھوکریں کھانا",
+   "roman": "ṭhokreṅ khānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To stumble; to suffer misfortune; to be ill-treated.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹھوکریں کھاتے پھرنا",
+   "roman": "ṭhokreṅ khāte phirnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be ill-treated; to be tossed about by misfortune.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹھوکنا",
+   "roman": "ṭhoknā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To drive in; to beat; to hammer; to thump.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹھونسنا",
+   "roman": "ṭhūṅsnā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To thrust in; to stuff; to fill to capacity; to impose (upon).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹھونگا",
+   "roman": "ṭhoṅgā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A beak; bill; striking with the beak.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹھہرانا، ٹھیرانا",
+   "roman": "ṭhahrānā ṭhairānā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To cause to stop; to cause one to stay; to settle; to appoint; to fix on; to conclude.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹھہراؤ، ٹھیراؤ",
+   "roman": "ṭhahrāo, ṭhairāo",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Settlement; permanence; agreement; stop; halt; rest; stillness.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹھہرنا، ٹھیرنا",
+   "roman": "ṭhahrnā, ṭhairnā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To stop; to stand; to remain; to be stationary; to be frozen; to cease; to last; to stay; to wait; to halt.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹھیا",
+   "roman": "ṭhiyā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Sitting place; support.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹھیٹھ، ٹھیٹ",
+   "roman": "ṭheṭh, ṭheṭ",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Real; genuine; idiomatic; pure.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹھیس",
+   "roman": "ṭhes",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A knock; a blow; a push.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹھیک",
+   "roman": "ṭhīk",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Firm; strong; exact; correct; fit; right; proper; regular. adv. Exactly; clearly; justly; truly.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹھیک ٹھاک",
+   "roman": "ṭhīk ṭhāk",
+   "pron": "",
+   "pos": "adj.",
+   "def": "All right; quite right; quite correct.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹھیک کرنا",
+   "roman": "ṭhīk karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To correct; to adjust; to ascertain; to fit; to beat; to punish; to put to right; to bring one to his senses.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹھیکا",
+   "roman": "ṭhekā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Contract; piecework; hire; lease; work done on contract or by job, a resting place; a small tambourine.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹھیکا بجانا",
+   "roman": "ṭhekā bajānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To play on accompaniment (ḍholak) with a singer.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹھیکا لینا",
+   "roman": "ṭhekā lenā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To contract; to monopolise.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹھیکا حینِ حیات",
+   "roman": "ṭhekā ḥīn-ĕ ḥayāt",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A lease for the term of one's life.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹھیکے پر",
+   "roman": "ṭheke par",
+   "pron": "",
+   "pos": "adv.",
+   "def": "On contract basis.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹھیکرا",
+   "roman": "ṭhīkrā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A broken piece of earthenware; a large potsherd.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "روزی کا ٹھیکرا",
+   "roman": "rozī kā ṭhīkrā",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Means by which one lives; means of livelihood.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹھیکری",
+   "roman": "ṭhikrī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A small piece of broken earthenware; a potsherd.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹھیکے دار",
+   "roman": "ṭheke dār",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A contractor; a lease holder.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹھیلا",
+   "roman": "ṭhelā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A push; a trolly; a trailer; a wheel barrow.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹھیلنا",
+   "roman": "ṭhelnā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To shove; to push; to move forward; to elbow; to jostle; to propel.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹھینگا",
+   "roman": "ṭheṅgā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A small club; a thumb.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹیپ",
+   "roman": "ṭīp",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A bill; a note of hand; a cheque; raising the voice in singing; a high or shrill note; lime or cement painting; a slap; the 5th and 6th lines of a verse consisting of six lines; the third couplet of a sextain.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹیپ ٹاپ",
+   "roman": "ṭīp ṭāp",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Decoration; equipage; adornment; ostentation; splendour; pomp; show.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹیڑھ",
+   "roman": "ṭeṛh",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Crookedness.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹیڑھا، ٹیڑھی",
+   "roman": "ṭeṛhā, ṭeṛhī",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Crooked; bent; awry; angry; hump-backed; uneven; displeased; obstinate.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹیڑھا بانکا",
+   "roman": "ṭeṛhā bāṅkā",
+   "pron": "",
+   "pos": "adj.",
+   "def": "A beau; a fop; a cocomb; a handsome youth.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹیڑھا بیڑھا",
+   "roman": "ṭeṛhā beṛhā",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Crooked; zigzag.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹیڑھا پن",
+   "roman": "ṭeṛhā pan",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Crookedness.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹیڑھا کرنا",
+   "roman": "ṭeṛhā karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To bend; to make crooked; to distort.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹیڑھا ہونا",
+   "roman": "ṭeṛhā honā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be crooked; to be displeased.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹیڑھی آنکھ سے دیکھنا",
+   "roman": "ṭeṛhī āṅkh se dekhnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To see with an angry look.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹیڑھی کھیر",
+   "roman": "ṭeṛhī khīr",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "A difficult and somewhat impossible task.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹیس",
+   "roman": "ṭīs",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A throb; throbbing; a shooting pain; stitching.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹیس اٹھنا، مارنا",
+   "roman": "ṭīs uṭhnā, mārnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To throb; to have shooting pain.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹیک",
+   "roman": "ṭek",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A prop; a pillar; a support; reliance; promise; vow; resolve; burden of a song.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹیکا",
+   "roman": "ṭīkā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A mark made on the forehead; an ornament of gold or silver worn on the forehead; stain; blot; vaccination; inoculation; injection; a ceremony connected with betrothal; dowry.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹیکا لگانا",
+   "roman": "ṭīkā lagānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To inoculate; to vaccinate; to inject.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "کلنک کا ٹیکا لگنا",
+   "roman": "kalank kā ṭīkā lagnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To get a bad name; to be stigmatized.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹیکنا",
+   "roman": "ṭeknā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To support; to prop.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹینٹوا",
+   "roman": "ṭenṭuā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "The wind pipe; the throat.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹینٹوا دبانا",
+   "roman": "ṭenṭuā dabānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To throttle; to strangle; to choke.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹیں ٹیں",
+   "roman": "ṭeṅ ṭeṅ",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "An imitative or inarticulate sound; the screech of a parrot.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹیں ٹیں کرنا",
+   "roman": "ṭeṅ ṭeṅ karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To screech, to prate; to murmur.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹینی",
+   "roman": "ṭenī",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Small in size; a hybrid species of hen; tiny; small.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ٹیوا",
+   "roman": "ṭewā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Calculation of nativity; habit; custom.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ث",
+   "roman": "se",
+   "pron": "",
+   "pos": "",
+   "def": "is the fourth letter of the Arabic, the fifth of the Persian and the sixth of the Urdu alphabets. According to abjad it represents the numerical value of 500.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثابت",
+   "roman": "sābit",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Firm; fixed; constant; stable; ascertained; certain; valid confirmed; established; stationary; real; whole; n.m. A fixed star.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثابت قدم",
+   "roman": "sābit qadam",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Immovable; firm; steady; stable; resolute; permanent; constant; persevering; steadfast.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثابت کرنا",
+   "roman": "sābit karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To prove; to verify; to confirm; to establish; to render durable.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثابت ہونا",
+   "roman": "sābit honā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be proved or confirmed; to be established.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثاقب",
+   "roman": "sāqib",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Shining brightly; glistening; splendid; sublime; high.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثالث",
+   "roman": "sāliṣ",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "A third person; an arbitrator; a mediator; a judge.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثالث بالخیر",
+   "roman": "sāliṣ bil-khair",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "An unprejudiced arbitrator; an impartial mediator.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثالث حصری",
+   "roman": "ṣāliṣ-ĕ ḥaṣrī",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A reliable mediator; a mediator acceptable to both parties.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثالث نامہ",
+   "roman": "ṣāliṣ nāmah",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A deed of award; an award by arbitration.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثالثی",
+   "roman": "ṣālṣī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Mediation; arbitration.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثالثاً",
+   "roman": "saliṣan",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Thirdly; in the third place.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثالوث",
+   "roman": "sālūs",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "The trinity.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثانوی",
+   "roman": "sānawı",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Secondary.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثانی",
+   "roman": "sānī",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Second. n.m. Match; equal; the second.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثانیاً",
+   "roman": "saniyan",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Secondly.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثانیہ",
+   "roman": "ṣāniyah",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "A second; sixtieth part of a minute; a moment.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثبات",
+   "roman": "sabāt",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Permanence; stability; endurance; firmness; steadiness; resolution; constancy; soundness.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثبت",
+   "roman": "sabt",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Firmness; permanence; fixedness; an impression; a seal; writing.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثبت کرنا",
+   "roman": "sabt karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To inscribe; to subscribe; to write; to impress upon; to register; to enter.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثبت ہونا",
+   "roman": "sabt honā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be inscribed; to be written.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثبوت",
+   "roman": "ṣubūt",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Firmness; stability; constancy; conviction; proof; testimony; demonstration; evidence.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثبوتِ بادی النظر",
+   "roman": "ṣubūt-ĕ bādī-un-nazar",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Prima facie proof; the obvious proof.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثبوتِ تائیدی",
+   "roman": "ṣubūt-ĕ tā'īdī",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Corroborative evidence.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثبوتِ تحریری",
+   "roman": "ṣubūt-ĕ taḥrīrī",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Documentary evidence.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثبوتِ تردیدی",
+   "roman": "ṣubūt-ĕ tardīdī",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Rebutting evidence.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثبوتِ صریح",
+   "roman": "ṣubūt-ĕ ṣarīḥ",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Direct proof.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثبوتِ ضمنی",
+   "roman": "ṣubūt-ĕ ẓimnī",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Collateral evidence.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثبوتِ قرائنی",
+   "roman": "ṣubūt-ĕ qarā'inī",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Circumstantial evidence.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثبوتِ قطعی",
+   "roman": "ṣubūt-ĕ qaṭa'ī",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Conclusive proof.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثبوتِ لسانی",
+   "roman": "ṣubūt-ĕ lisānī",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Verbal evidence.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثبوتِ وصیت نامہ",
+   "roman": "ṣubūt-ĕ waṣiyat nāmah",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Probate of a bill.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "بارِ ثبوت",
+   "roman": "bār-ĕ ṣubūt",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "The burden of proof; the onus of proof.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثروت",
+   "roman": "sārwat",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Wealth; power; influence; affluence.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثریٰ",
+   "roman": "ṣarā",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "The earth.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "تحت الثریٰ",
+   "roman": "taḥt-uṣ-ṣarā",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Under the earth; the nether regions.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثریا",
+   "roman": "ṣuraiyyā",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "The Pleiades; cluster of seven brilliant stars in Taurus.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثریا جاہ",
+   "roman": "ṣuraiyyā jāh",
+   "pron": "",
+   "pos": "adj.",
+   "def": "The exalted one.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثعلب مصری",
+   "roman": "ṣa'lab miṣrī",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Salep; a medicinal root considered in the East to be a strong restorative.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثقافت",
+   "roman": "ṣiqāfat",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Culture.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثقالت",
+   "roman": "ṣiqālat",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Heaviness; burden; weight.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثقاہت",
+   "roman": "ṣiqāhat",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Being trustworthy or reliable; trustworthiness.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثقل",
+   "roman": "ṣiql",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Heavy load; gravity; weight; indigestion.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثقلین",
+   "roman": "ṣaqalain",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Human beings and genii; both the worlds.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثقہ",
+   "roman": "ṣiqah",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A confident person; a trusted friend; worthy of confidence; a reliable companion.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثقیل",
+   "roman": "ṣaqīl",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Heavy; indigestible; slow; sluggish; dull; inactive.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثلث",
+   "roman": "ṣulṣ",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "The third part; one-third.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثمار",
+   "roman": "ṣimār",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "(plu. of ثمر ṣamar) Fruits.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثمر، ثمرہ",
+   "roman": "ṣamar, ṣamrah",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Fruit; produce; profit; offspring; advantage; result; reward.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثمر بخش",
+   "roman": "ṣamar bakhsh",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Yielding fruit.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثمر دار",
+   "roman": "ṣamar dār",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Fruit-bearing; fruitful.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثمن",
+   "roman": "ṣaman",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Price; value; estimated cost.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثنا",
+   "roman": "ṣanā",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Praise; applause; eulogy.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثنا خواں، ثنا گر",
+   "roman": "ṣanā khwān, ṣanā gar",
+   "pron": "",
+   "pos": "n.",
+   "def": "A praiser.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثواب",
+   "roman": "ṣawāb",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Requital; reward; the reward of virtue in a future state.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثوابت",
+   "roman": "ṣawābit",
+   "pron": "",
+   "pos": "(A)",
+   "def": "(plu. of ثابت ṣābit) The fixed stars.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثور",
+   "roman": "ṣaur",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "A bull; Taurus; the sign of Zodiac.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ج",
+   "roman": "jīm",
+   "pron": "",
+   "pos": "",
+   "def": "is the fifth letter of the Arabic, the sixth of the Persian and the seventh of the Urdu alphabet. In abjad it has the numerical value of 3.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جا",
+   "roman": "jā",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Place; seat; room; space; occasion.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جا بجا",
+   "roman": "jā bajā",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Here and there; everywhere.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جا بے جا",
+   "roman": "jā-be-jā",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Right or wrong; in place or out of place; at all times.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جا ضرور",
+   "roman": "jā ẓarūr",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A privy; a lavatory; a latrine.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جانشین",
+   "roman": "jā nashīn",
+   "pron": "",
+   "pos": "n.",
+   "def": "A deputy; a vicegerent; a viceroy; a successor.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جانشینی",
+   "roman": "jā nashīnī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Sitting in the place; lieutenancy; vicegerency.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جائے نماز",
+   "roman": "jā-namāz",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "A carpet or mat on which prayers are said; a prayer mat.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جابر",
+   "roman": "jābir",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Despotic, n.m. A despot; a tyrant.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جاپ",
+   "roman": "jāp",
+   "pron": "",
+   "pos": "n.m. (S)",
+   "def": "Muttering prayers or counting beads.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جاترا (یاترا)",
+   "roman": "jātrā (yātrā)",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Pilgrimage; departure; march; journey; festival; procession of idols.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جاتری (یاتری)",
+   "roman": "jātrī (yātrī)",
+   "pron": "",
+   "pos": "n.",
+   "def": "A pilgrim.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جاٹ",
+   "roman": "jāṭ",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "The name of a tribe among Rajputs; an agriculturist.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جاجم",
+   "roman": "jājam",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A chequered linen cloth spread over a carpet.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جادو",
+   "roman": "jādū",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Magic; enchantment; conjuring; charm; effect of evil spirit.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جادو کرنا",
+   "roman": "jādū karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To conjure; to charm; to enchant.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جادوگر",
+   "roman": "jādūgar",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A conjurer; a wizard; a magician; a sorcerer.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جادوگرنی",
+   "roman": "jādūgarnī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "A sorceress; a witch.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جادوگری",
+   "roman": "jādūgarī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Magic; necromancy; conjuration; enchantment.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جادہ",
+   "roman": "jādah",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "A pathway; a road; route; the right road; a highway.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جاذب",
+   "roman": "jāẓib",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Absorbent; attractive; drawing; alluring. n.m. A blotter.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جاذبہ",
+   "roman": "jāẓibah",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "The power of attraction; the power of absorption.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جار",
+   "roman": "jār",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "A neighbour; giving kasrah to the last letter of a word. adj. That which draws or attracts.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "حرفِ جار",
+   "roman": "ḥarf-ĕ jār",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A preposition.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جارجٹ",
+   "roman": "jārjaṭ",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "(corr. of English); Georgette; a kind of silk cloth.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جاروب",
+   "roman": "jārūb",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "A broom; besom.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جاروب کش",
+   "roman": "jārūb kash",
+   "pron": "",
+   "pos": "n.",
+   "def": "A sweeper.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جاری",
+   "roman": "jārī",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Running; flowing; proceeding; current; usual; continuing; in force (law); prevalent.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جاری رکھنا",
+   "roman": "jārī rakhnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To carry on; to continue; to maintain.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جاری رہنا",
+   "roman": "jārī rahnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To continue; to remain in use.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جاری کرنا",
+   "roman": "jārī karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To begin; to start; to issue; to circulate; to institute; to set on foot.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جاری ہونا",
+   "roman": "jārī honā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To flow; to issue from; to pass current; to be in force; to prevail; to proceed.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جاڑا",
+   "roman": "jāṛā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Winter; coldness; cold.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جاڑا چڑھنا",
+   "roman": "jāṛā chaṛhnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be attacked by cold or shivering.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جاڑا لگنا",
+   "roman": "jāṛā lagnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To feel cold; to be shivering.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جازم",
+   "roman": "jāzim",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Rendering the last letter of a word quiescent.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جاسوس",
+   "roman": "jāsūs",
+   "pron": "",
+   "pos": "n. (A)",
+   "def": "A spy; an emissary.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جاسوسی",
+   "roman": "jāsūsī",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Spying; espionage.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جاسوسی کرنا",
+   "roman": "jāsūsī karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To act as a spy.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جاکٹ",
+   "roman": "jākaṭ",
+   "pron": "",
+   "pos": "",
+   "def": "(Corr. of English) Jacket.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جاگنا",
+   "roman": "jāgnā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To wake up; to be awoke; to be vigilant.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جاگیر",
+   "roman": "jāgīr",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Land given by government as reward for services rendered or for other governmental purposes; a fief; a feud.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جاگیرِ دوام",
+   "roman": "jāgīr-ĕ dawām",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "A rent free estate given as a grant in perpetuity.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جاگیردار",
+   "roman": "jāgīr dār",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Holder of rent free estate; a grantee; a feudatory.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جاگیر داری",
+   "roman": "jāgīr dārī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Feudalism.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جال",
+   "roman": "jāl",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A net; a snare; a sash; a grating; a magic; a cobweb; a trap; a lattice; an illusion.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جال بچھانا، پھیلانا",
+   "roman": "jāl bichhānā, phailānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To spread a net; to set a trap.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جال پھینکنا",
+   "roman": "jāl phaiṅknā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To throw a net in the water for catching fish.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جال ڈالنا",
+   "roman": "jāl ḍālnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To cast a net; to lay a snare; to set up a trap.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جال میں پھنسنا، آنا",
+   "roman": "jāl meṅ phansnā, ānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be entrapped; to be entangled.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جال کرچ",
+   "roman": "jāl kirch",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A sword and sash.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جالا",
+   "roman": "jālā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A cobweb; spider's web; a pellicle, cataract; a water-weed used in refining sugar.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جالی",
+   "roman": "jālī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A network; lattice; trelliswork; the thick coating of a mango-stone; lace; a coil; grate; a caul; the integument in which a foetus is enveloped.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جالی پڑنا",
+   "roman": "jālī paṛnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "Hardening of the stone of a mango.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جالینوس",
+   "roman": "jālīnūs",
+   "pron": "",
+   "pos": "n. prop. (U)",
+   "def": "The Greek physician, Galen.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جام",
+   "roman": "jām",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A goblet; a bowl; cup; glass drinking vessel.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جامِ جم",
+   "roman": "jām-ĕ jam",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "The mirror of Jamshid, in which he saw whatever he wished to see.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جامِ جہاں نما",
+   "roman": "jam-ĕ jahāṅ numā",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A pharos; a lighthouse; (See also جامِ جم jām-ĕ jam).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جام چڑھانا",
+   "roman": "jām chaṛhānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To drink off cup of wine.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جامِ صحت پینا",
+   "roman": "jam-ĕ ṣiḥḥat pīnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To drink to the health of; to drink a toast in a person's honour.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جامد",
+   "roman": "jāmid",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Styptic; incapable of growth or increase; astringent, that stops bleeding; not derived (Gram.).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "اسمِ جامد",
+   "roman": "ism-ĕ jāmid",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Primitive or concrete noun (not derived from any root and from which no word is derived).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جامدانی",
+   "roman": "jāmdānī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Cloth in which flowers are woven (generally muslin); a portmanteau; kind of leather basket",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جامع",
+   "roman": "jāmi'",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Collective; completing; comprehensive. n.f. A great mosque.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جامع الکمالات",
+   "roman": "jāmi'-ul-kamālāt",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Most learned; skilled in all sciences.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جامع مسجد",
+   "roman": "jāmi' masjid",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "The principal mosque, where the people assemble for prayers, especially on Fridays.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جامعہ",
+   "roman": "jāmi'ah",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "University; community; society.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جامن",
+   "roman": "jāman",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Sour milk used to curdle fresh milk; rennet; coagulator; a ferment; a tree and its fruit.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جامنی",
+   "roman": "jāmanī",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Of mauve colour.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جامہ",
+   "roman": "jāmah",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A garment; robe; gown; vest.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جامہ دانی",
+   "roman": "jāmah dānī",
+   "pron": "",
+   "pos": "",
+   "def": "See جامدانی (jāmdānī).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جامے سے باہر ہونا",
+   "roman": "jāme se bāhir honā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be unable to restrain or control oneself; to be in an ungovernable rage.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جان",
+   "roman": "jān",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Life; soul; spirit; mind; energy; vigour; animation; the essence of a thing; a sweetheart; dear; beloved.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جان آنا",
+   "roman": "jān ānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be refreshed; to regain strength; to be animated.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جان آفریں",
+   "roman": "jān āfrīṅ",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Creator of life; animator; God.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جان باز",
+   "roman": "jān bāz",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Venturesome; spirited; daring; intrepid.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جان بچانا",
+   "roman": "jān bachānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To save one's skin; to shirk.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جان بحق تسلیم ہونا",
+   "roman": "jān baḥaqq taslīm honā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To surrender one's soul to God; to die, to expire.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جان بخشی",
+   "roman": "jān bakhshī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Sparing life; pardon; forgiveness; granting of life.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جانبر ہونا",
+   "roman": "jānbar honā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To survive; to outlive.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جان بلب",
+   "roman": "jān balab",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Dying; at the point of death.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جان بھاری ہونا",
+   "roman": "jān bhārī honā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be weary of life.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جان پر بننا",
+   "roman": "jān par bannā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be in danger of one's life.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جان پر کھیلنا",
+   "roman": "jān par khelnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To risk one's life; to run the hazard; to endanger one's life.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جان پڑنا",
+   "roman": "jān paṛnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To revive; to be refreshed.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جان تصدق کرنا",
+   "roman": "jān taṣadduq karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To sacrifice one's life.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جان توڑ کر لڑنا",
+   "roman": "jān toṛ kar laṛnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To fight desperately.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جان جوکھوں",
+   "roman": "jān jokhoṅ",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Risk of life.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جان چرانا",
+   "roman": "jān churānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To shirk one's duty; to shrink from.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جان چھڑانا",
+   "roman": "jān chhuṛānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To get rid of; to escape.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جان چھڑکنا",
+   "roman": "jān chhiṛaknā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To strain every nerve; to go to the extent of endangering one's life for another; to work wholeheartedly.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جان دار",
+   "roman": "jān dār",
+   "pron": "",
+   "pos": "adj. & n.",
+   "def": "Having life; active; powerful; spirited; an animal.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جان دینا",
+   "roman": "jān denā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To die; to sacrifice oneself; to die for.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جان سپار",
+   "roman": "jān sipār",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Resigning one's life into the hands of another (an epithet of a lover).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جان ستاں",
+   "roman": "jān sitāṅ",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Destroying life; taking life; killing.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جان سوختہ",
+   "roman": "jān sokhtah",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Having the soul inflamed; in very great trouble.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جان سوز",
+   "roman": "jān soz",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Heart-inflaming; soul-tormenting.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جان سے جانا",
+   "roman": "jān se jānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To die.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جان سے مارنا",
+   "roman": "jān se mārnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To kill; to take one's life.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جان سے ہاتھ دھونا",
+   "roman": "jān se hāth dhonā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To despair of life; to have no hope of life; to be tired of life.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جان فزا",
+   "roman": "jān fazā",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Life-increasing; animating.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جان فشاں",
+   "roman": "jān fishāṅ",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Ready to sacrifice one's life for another; zealous; fervent.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جان فشانی",
+   "roman": "jān fishānī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Extreme diligence; devotion to duty.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جان کا لاگو ہونا",
+   "roman": "jān kā lāgū honā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To pursue one to death.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جان لیوا",
+   "roman": "jān levā",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Deadly; fatal.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جان کاہ",
+   "roman": "jān kāh",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Soul-exhausting; heart-breaking; pathetic; afflicting.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جان کسی پر دینا",
+   "roman": "jān kisī par denā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be excessively in love.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جان کندنی، کنی",
+   "roman": "jān kandanī, kanī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Agonies of death; agony; torture.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جان کو رونا",
+   "roman": "jān ko ronā",
+   "pron": "",
+   "pos": "n.",
+   "def": "Wishing to be dead.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جان کھانا، مارنا",
+   "roman": "jān khānā, mārnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To annoy; to vex; to exhaust one's patience; to oppress; to perplex; to plague.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جان کی اماں",
+   "roman": "jān kī amāṅ",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Life's safety; pardon; quarter.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جان کے برابر رکھنا",
+   "roman": "jān ke barābar rakhnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To regard one like dear life.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جان کے لالے پڑنا",
+   "roman": "jān ke lāle paṛnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To have no hope of life; to be on the point of death.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جانگداز",
+   "roman": "jān gudāz",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Life-consuming; baneful; parnicious.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جان لینا",
+   "roman": "jān lenā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To kill; to deprive one of life; To apprehend; to perceive.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جان میں جان آنا",
+   "roman": "jān meṅ jān ānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be revived; to be comforted; to be satisfied.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جان نثار",
+   "roman": "jān niṣār",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Devoted; sacrificing one's life.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جان نثاری",
+   "roman": "jān niṣārī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Devotedness.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جان",
+   "roman": "jān",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Knowledge; apprehension; awareness.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جان بوجھ کے",
+   "roman": "jān būjh ke",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Wilfully; purposely; knowingly.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جان پہچان",
+   "roman": "jān pehchān",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Acquaintance.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جان کر انجان بننا",
+   "roman": "jān kar anjān bannā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To pretend ignorance.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جانا",
+   "roman": "jānā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To go; to depart; to pass; to set out; to disappear; to fall off; to wither.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جانے دو",
+   "roman": "jāne do",
+   "pron": "",
+   "pos": "imper.",
+   "def": "Let it go; never mind.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جانے دینا",
+   "roman": "jāne denā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To let go; to set free; to pardon.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جاناں",
+   "roman": "jānāṅ",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Lives; souls; a beloved one; a sweetheart.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جانب",
+   "roman": "jānib",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Side; direction. adv. Towards.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "اس جانب",
+   "roman": "iṅ jānib",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "This side; this person; the speaker; the writer (of a letter).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جانبدار",
+   "roman": "jānib dār",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Partial; biased. n.m. A supporter; a partisan.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جانبداری",
+   "roman": "jānib dārī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Supporting; seconding; partiality.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جانبين",
+   "roman": "jānibain",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Both sides or parties. adj. Mutual.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جانبين سے",
+   "roman": "jānibain se",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Mutually; reciprocally; from both sides.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جانچ",
+   "roman": "jāṅch",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Test; trial; examination; assay; proof; verification; appraisement.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جانچنا",
+   "roman": "jāṅchnā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To examine; to test; to try; to prove; to enquire into; to assay; to gauge.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جانگلو",
+   "roman": "jānglū",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Wild; not domesticated.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جانگھیا",
+   "roman": "jānghyā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A kind of short-drawers reaching half-way down the thighs; wrestlers breeches.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جاننا",
+   "roman": "jānnā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To know; to understand; to recognise; to become aware of; to apprehend; to judge; to deem; to think; to believe; to conceive; to fancy.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جانور",
+   "roman": "jānwar",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Possessing life; an animal; a bird; a fowl; blockhead; stupid.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جانی",
+   "roman": "jānī",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Of or relating to life; of the heart or soul; cordial; hearty; n.m. A beloved; a friend; a lover.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جانی دشمن",
+   "roman": "jānī dushman",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A mortal enemy; a sanguine or blood-thirsty foe.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جاوتری",
+   "roman": "jāwatrī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Mace; the bark of the nutmeg.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جاوداں",
+   "roman": "jāwidāṅ",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Eternal; everlasting; perpetual.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جاودانی",
+   "roman": "jāwidānī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Eternity.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جاوید",
+   "roman": "jāwīd",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Always; eternal; undying.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جاہ",
+   "roman": "jāh",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Dignity; grandeur; high rank.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جاہ و جلال",
+   "roman": "jāh-ŏ jalāl",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Rank and grandeur; dignity; splendour; magnificence; pomp.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جاہ و حشم",
+   "roman": "jāh-ŏ ḥasham",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Rank and dignity.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جاہ و منصب",
+   "roman": "jāh-ŏ manṣab",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Rank and position.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جاہل",
+   "roman": "jāhil",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Ignorant; illiterate; rude; uncivilised; barbarous; brutal; unmannered.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جائداد",
+   "roman": "jā'edād",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Property; estate; assets.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جائدادِ آبائی",
+   "roman": "jā'edād-ĕ ābāī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Ancestral property or estate.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جائدادِ اجمالی",
+   "roman": "jā'edād-ĕ ijmālī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Joint property or estate.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جائدادِ استمراری",
+   "roman": "jā'edād-ĕ istimrārī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Assignment of land in perpetuity.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جائدادِ خاص",
+   "roman": "jā'edād-ĕ khāṣ",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "One's personal property.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جائدادِ ارضی",
+   "roman": "jā'edād-ĕ ārẓī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Landed property.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جائدادِ غیر مقبوضہ",
+   "roman": "jā'edād-ĕ ghair maqbūẓah",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Property not in possession.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جائدادِ غیر منقولہ",
+   "roman": "jā'edād ghair manqūlah",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Immovable property.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جائداد قرق کرنا",
+   "roman": "jā'edād qurq karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To take possession of property in execution.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جائدادِ متروکہ",
+   "roman": "jā'edād-ĕ matrūkah",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Abandoned property.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جائدادِ متنازعہ",
+   "roman": "jā'edād-ĕ mutnāzi'ah",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Property in suit or under litigation; property in dispute; disputed property.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جائدادِ مرہونہ",
+   "roman": "jā'edād-ĕ morhūnah",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Mortgaged property.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جائدادِ مشترکہ",
+   "roman": "jā'edād-ĕ mushtarikah",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Joint property; property held jointly.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جائدادِ معافی",
+   "roman": "jā'edād-ĕ muā'fī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Rent-free property; rent-free grant.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جائداد معافیِ دوام",
+   "roman": "jā'edād mu'āfī-ĕ dawām",
+   "pron": "",
+   "pos": "",
+   "def": "Permanent land grant.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جائدادِ مقروقہ",
+   "roman": "jā'edād-ĕ maqrūqah",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Attached or mortgaged property.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جائدادِ مکسوبہ",
+   "roman": "jā'edād-ĕ maksūbah",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Self-acquired property.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جائدادِ مکفولہ",
+   "roman": "jā'edād-ĕ makfūlah",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Hypotheticated property.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جائدادِ منقولہ",
+   "roman": "jā'edād-ĕ manqūlah",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Movable property.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جائدادِ موروثی",
+   "roman": "jā'edād-ĕ mourūṣī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Ancestral or inherited estate.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جائز",
+   "roman": "jā'iz",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Lawful; legal; permitted; right; proper; warrantable; authorised; allowable; admissible; just; granted.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جائز رکھنا",
+   "roman": "jā'iz rakhnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To receive as right; to allow; to admit; to justify; to tolerate; to legalise.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جائز قرار دینا",
+   "roman": "jā'iz qarār denā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To legalise; to uphold.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ناجائز",
+   "roman": "nājā'iz",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Unlawful; illegal; inadmissible; wrong; unjust.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ناجائز طور سے",
+   "roman": "nājā'iz ṭaur se",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Illegally; unlawfully.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جائزہ",
+   "roman": "jāi'zah",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Examination; review; checking; a mark made in checking an account; survey.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جائزہ لینا",
+   "roman": "jā'izah lenā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To check an account; to survey; to examine.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جائفل",
+   "roman": "jā'efal",
+   "pron": "",
+   "pos": "(A)",
+   "def": "See جائے پھل (jā'e phal).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جائے",
+   "roman": "jāi'e",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Place; room; spot.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جائے اعتراض",
+   "roman": "jā'e e'tirāẓ",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Room for objection; the time or place of opposition.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جائے پناہ",
+   "roman": "jā'e panāh",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "An asylum; place of refuge.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جائے ضرور",
+   "roman": "jā'e ẓarūr",
+   "pron": "",
+   "pos": "",
+   "def": "See جا ضرور (jā ẓarūr).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جائے پھل",
+   "roman": "jā'e phal",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Nutmeg.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جب",
+   "roman": "jab",
+   "pron": "",
+   "pos": "adv. (H)",
+   "def": "At the time; when; as soon as; since; in case.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جب تک",
+   "roman": "jab tak",
+   "pron": "",
+   "pos": "adv.",
+   "def": "By that time; until; as long as; whilst.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جب سے",
+   "roman": "jab se",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Since.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جب کبھی",
+   "roman": "jab kabhī",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Whenever.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جبھی",
+   "roman": "jabhī",
+   "pron": "",
+   "pos": "adv. (H)",
+   "def": "At that very time; therefore.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جبھی تو",
+   "roman": "jabhī to",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Hence; on that account; therefore.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جبار",
+   "roman": "jabbār",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Omnipotent; mighty; n.m. One of the attributive names of God.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جبر",
+   "roman": "jabr",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Compulsion; coercion; force; power; extortion; outrage; imposition; reduction of fractions to integrals.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جبر کرنا",
+   "roman": "jabr karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To oppress; to compel; to use force.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جبر و تعدی",
+   "roman": "jabr-ŏ-ta'addī",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Violence and oppression.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جبر و مقابلہ",
+   "roman": "jabr-ŏ-muqābalah",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Algebra.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جبراً",
+   "roman": "jabran",
+   "pron": "",
+   "pos": "adv. (A)",
+   "def": "Forcibly; by force; violently.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جبراً و قہراً",
+   "roman": "jabran-ŏ-qahran",
+   "pron": "",
+   "pos": "adv.",
+   "def": "By force and violence; willingly or unwillingly.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جبرائیل یا جبریل",
+   "roman": "jibrāīl yā jibrīl",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Archangel; Gabriel.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جبروت",
+   "roman": "jabrūt",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Omnipotence; the world or sphere of omnipotence; heaven.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جبری",
+   "roman": "jabrī",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Forced; compulsory; conscriptional.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جبری بھرتی",
+   "roman": "jabrī bhartī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Conscription.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جبڑا",
+   "roman": "jabṛā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "The jaw; the part of the face from the corners of the mouth to the jaws.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جبلت",
+   "roman": "jabillat",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Nature; natural disposition; temperament; essence; creation; form.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جبلی",
+   "roman": "jibillī",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Inherited; natural; constitutional; innate; essential.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جبہ",
+   "roman": "jubbah",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "A robe or gown; a long coat; a coat of mail.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جبہ",
+   "roman": "jabah",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "The forehead.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جبہ سا",
+   "roman": "jabah sā",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Rubbing one's forehead on the ground beseeching and begging earnestly.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جبہ سائی",
+   "roman": "jabahsāī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "The act of rubbing the forehead on the ground; beseeching earnestly.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جبیں",
+   "roman": "jabīn",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "The forehead.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جپ",
+   "roman": "jap",
+   "pron": "",
+   "pos": "n.m. (S)",
+   "def": "Muttering of prayers and counting the beads of a rosary.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جپ جی",
+   "roman": "jap jī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "A sacred book of Sikhs.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جپنا",
+   "roman": "japnā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To count one's beads; to repeat the name of God silently.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جتانا، جتلانا",
+   "roman": "jatānā, jatlānā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To cause to be known; to point out; to warn; to caution; to show; to enjoin to apprize; to admonish; to declare; to instruct.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جتانا، جتوانا",
+   "roman": "jitānā, jitwānā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To cause to win or conquer.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جتاؤ",
+   "roman": "jutāū",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Arable; culturable.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جتائی",
+   "roman": "jutāī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "The act of ploughing the field; tillage.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جتن",
+   "roman": "jatan",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Effort; endeavour; striving; exertion; diligence; perseverance.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جتنا",
+   "roman": "jutnā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To be ploughed; to labour; to toil.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جتنا، جتنی",
+   "roman": "jitnā, jitnī",
+   "pron": "",
+   "pos": "adv.",
+   "def": "As much as; so much; as much; as many.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جتنا گڑ ڈالو گے اتنا ہی میٹھا ہوگا",
+   "roman": "jitnā guṛ ḍāloge utnā hī mīṭhā hogā",
+   "pron": "",
+   "pos": "prov.",
+   "def": "The deeper the well the warmer the water; the more the sweat the greater the reward.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جتنی چادر دیکھو اتنے ہی پاؤں پھیلاؤ",
+   "roman": "jitnī chādar dekho utne hī pāoṅ phailāo",
+   "pron": "",
+   "pos": "prov.",
+   "def": "Cut your coat according to your cloth; stretch not your feet beyond your sheet.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جتنی دیگ اتنی ہی کھرچن",
+   "roman": "jitnī deg utnī hī khurchan",
+   "pron": "",
+   "pos": "prov.",
+   "def": "Spend less get less; the more you venture the more you win.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جتنی دولت اتنی مصیبت",
+   "roman": "jitnī daulat utnī muṣībat",
+   "pron": "",
+   "pos": "prov.",
+   "def": "More the money more the worry.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جتوانا",
+   "roman": "jutwānā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To cause to join or yoke; to have a field ploughed or tilled; to cause to plough.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جتھا",
+   "roman": "jathā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A company; a band; a gang; a party; mob; multitude; flock; strength.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جتیانا",
+   "roman": "jutiānā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To beat with a shoe.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جٹ",
+   "roman": "juṭ",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "A pair; like; the second; equal.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جٹا",
+   "roman": "jaṭā",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Matted hair.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جٹا دھاری",
+   "roman": "jaṭā dhārī",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "One who has matted hair; a mendicant wearing matted hair; the cockscomb flower; amaranth.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جٹنا",
+   "roman": "juṭnā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To unite closely together; to combine; to congeal; to work; to labour.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جٹھانی",
+   "roman": "jiṭhānī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Wife of the elder brother of the husband.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جثہ",
+   "roman": "juṣṣah",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Figure of human body; corporeal figure; body.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ججمان",
+   "roman": "jajmān or jijmān",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A person who assists in the performance of sacrifice, employs priests for the purpose and pays the expenses of it; a person who has right to certain services (as those of the brahmans, barbers and some others).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جچا",
+   "roman": "jachā",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Tested; tried; proved.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جچا تلا",
+   "roman": "jachā tulā",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Weighed and measured; correct in all respect.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جچنا",
+   "roman": "jachnā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To be estimated; to be appraised.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جد",
+   "roman": "jadd",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "A grandfather; ancestor; good fortune; happiness; prosperity dignity; glory (of God).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جد",
+   "roman": "jidd",
+   "pron": "",
+   "pos": "n. f. (A)",
+   "def": "Labour; toil; exertion; trial; endeavour.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جد و جہد",
+   "roman": "jidd-ŏ jahd jahd or juhd",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Effort; hard Labour; toil; exertion.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جد و جہد کرنا",
+   "roman": "jidd-ŏ jahd karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To endeavour; to strive; to labour.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جدا",
+   "roman": "judā",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Separate; distinct; away; apart; aside; asunder; peculiar; extraordinary.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جدا جدا",
+   "roman": "judā judā",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Separately; one by one; severally; distinctly.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جدا کرنا",
+   "roman": "judā karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To disjoin; to part; to disunite; to detach; to disengage; to distinguish.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جدا گانہ",
+   "roman": "judā gānah",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Separately; apart.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جدا ہونا",
+   "roman": "judā honā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be separated.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جدال",
+   "roman": "jidāl",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Altercations; contest; dispute.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جدال و قتال",
+   "roman": "jidāl-ŏ qitāl",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Fighting; contention; contest; affray; battle.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جدائی",
+   "roman": "judāī",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Separation; absence.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جدت",
+   "roman": "jiddat",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Innovation; newness; originality.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جدل",
+   "roman": "jadal",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Fighting; battle; encounter; altercation; contention.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جدوار",
+   "roman": "jadwār",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Zedoary; a kind of aromatic ginger-like substance used in medicine.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جدول",
+   "roman": "jadwal",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Marginal lines; a table (of a book); an astronomical table; a rivulet; schedule.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جدول بندی",
+   "roman": "jadwal bandī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Tabulation.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جدولی",
+   "roman": "jadwalī",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Marked with lines.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جدولی پیمانہ",
+   "roman": "jadwalī paimānah",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Scheduled scale.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جدہ",
+   "roman": "jaddah",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Grand mother; a seaport of Arabia where pilgrims, travelling by sea to Mecca, land.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جدھر",
+   "roman": "jidhar",
+   "pron": "",
+   "pos": "adv. (H)",
+   "def": "Where; wherever; whither; there.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جدھر رب آدھر سب",
+   "roman": "jidhar rab udhar sab",
+   "pron": "",
+   "pos": "prov.",
+   "def": "He who has God on his side has everything.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جدی",
+   "roman": "jaddī",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Ancestral.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جدی",
+   "roman": "jadī",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "A sign of the zodiac; a kid; a he-goat; the sign of Capricorn; the polar star.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خطِ جدی",
+   "roman": "khaṭṭ-ĕ jadī",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "The tropic of Capricorn.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جدید",
+   "roman": "jadīd",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "New; modern; fresh.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جذام",
+   "roman": "juzām",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Leprosy.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جذام خانہ",
+   "roman": "juzām khānah",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A lazaretto; a hospital for lepers.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جذامی",
+   "roman": "juzāmī",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Leperous; a leper.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جذامیت",
+   "roman": "juzāmiyat",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Leprosy.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جذب",
+   "roman": "jazb",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Absorption; drawing; allurement; attraction.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جذب کرنا",
+   "roman": "jazb karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To attract; to absorb; to imbibe; to draw.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جذب ہونا",
+   "roman": "jazb honā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be absorbed; to be soaked.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جذبِ مقناطیسی",
+   "roman": "jazb-ĕ miqnāṭīsī",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Magnetic attraction.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جذبہ",
+   "roman": "jazbah",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Passion; rage; fury; violent desire; feeling.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جذر",
+   "roman": "jazr",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "The square root; origin; root.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جذر المال",
+   "roman": "jazr-ul māl",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "The fourth root.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جر",
+   "roman": "jarr",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Drawing; dragging; base; foundation; foot of a mountain; the vowel kasrah at the end of a word.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "حرفِ جر، جار",
+   "roman": "ḥarf-ĕ jarr, yā jār",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A preposition.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جرِ ثقیل",
+   "roman": "jarr-ĕ ṣaqīl",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Mechanics (the science); a difficult task.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جراب",
+   "roman": "jurrāb",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Sock; stocking; leggings; hose.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جرات",
+   "roman": "jur'āt",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Courage; boldness; daring; valour; audacity; bravery; temerity.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جرات کرنا",
+   "roman": "jur'āt karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To dare; to have the audacity or courage to presume.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جراثیم",
+   "roman": "jarāṣīm",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "(plu. of جرثومہ jarṣūmah) Bacteria.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جراح",
+   "roman": "jarrāḥ",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "A surgeon.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جراحی، جراحیت",
+   "roman": "jarrāḥī, jarrāḥiyat",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Surgery.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "عملِ جراحی",
+   "roman": "'amal-ĕ jarrāḥī",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Surgical operation.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "حلقہِ جراحیت",
+   "roman": "ḥalqah-ĕ jarrāḥiyat",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Surgical ward.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جرار",
+   "roman": "jarrār",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Warlike; brave; mighty; numerous.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جرائد",
+   "roman": "jarrā'id",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "(plu. of جریدہ jarīdah); Newspapers; journals.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جرائم",
+   "roman": "jarā'im",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "(plu. of جریمہ jarīmah) Faults; crimes; sins.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جرائم خلافِ وضعِ فطری",
+   "roman": "jarā'im khilāf-ĕ waẓa'-ĕ fiṭrī",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Unnatural offences.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جرائمِ خفیفہ",
+   "roman": "jarā'im-ĕ khafīfah",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Petty offences.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جرائمِ سنگین",
+   "roman": "jarā'im-ĕ sangīn",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Serious crimes; felony.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جرائم مقابلہِ سرکار",
+   "roman": "jarā'im muqābilah-ĕ sarkār",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Offences against the State.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "رجسٹر جرائم",
+   "roman": "rajister jarā'im",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Crime register.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جرثومہ",
+   "roman": "jarṣūmah",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Bacterium.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جرثومیاتی",
+   "roman": "jarṣumiyātī",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Bacteriological.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جرثومہ دان",
+   "roman": "jarṣumah dān",
+   "pron": "",
+   "pos": "n.",
+   "def": "Bacteriologist.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جرثومیات",
+   "roman": "jarṣūmiyāt",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Bacteriology.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جرح",
+   "roman": "jaraḥ",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Wound; Sore; scar; objection; rebutting evidence; cross-examination.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جرح کرنا",
+   "roman": "jaraḥ karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To cross examine (a witness).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جرس",
+   "roman": "jaras",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "A bell.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جرعہ",
+   "roman": "jur'ah",
+   "pron": "",
+   "pos": "n. (A)",
+   "def": "One draught; a drop; gulp; sip.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جرعہ کش",
+   "roman": "jur'ah kash",
+   "pron": "",
+   "pos": "n.",
+   "def": "A drinker.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جرگہ",
+   "roman": "jargah",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Forming a circle; putting men and animals in a rank or row; a flock or drove of deer &c.; ring of men or beasts; jury; a bench of judges.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جرم",
+   "roman": "jirm",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "The body of a thing, animals or inanimate; a crack.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جرم",
+   "roman": "jurm",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "A crime; fault; transgression; offence; a criminal act; guilt.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "اقبالِ جرم",
+   "roman": "iqbāl-ĕ jurm",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Confession of guilt.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "بے جرم",
+   "roman": "be-jurm",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Innocent; guiltless.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ثبوتِ جرم",
+   "roman": "ṣubūt-ĕ jurm",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Proof of guilt.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جرمِ خفیف",
+   "roman": "jurm-ĕ khafīf",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Minor or petty offence.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جرم سے منکر ہونا",
+   "roman": "jurm se munkir honā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To plead not guilty.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جرمِ شدید",
+   "roman": "jurm-ĕ shadīd",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A grievous offence.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جرمِ عظیم",
+   "roman": "jurm-ĕ 'aẓīm",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Capital crime; great offence.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جرم قابلِ دست اندازی",
+   "roman": "jurm qābil-ĕ dast andāzī",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Cognisable offence.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جرم قابلِ ضمانت",
+   "roman": "jurm qābil-ĕ ẓamānat",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Bailable offence.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جرم کا مرتکب ہونا",
+   "roman": "jurm kā murtakib honā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To commit an offence.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جرم واجب القتل",
+   "roman": "jurm wājib-ul-qatl",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Offence punishable with death.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جرمانہ",
+   "roman": "jurmānah",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Fine; penalty.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جرمانہ دینا",
+   "roman": "jurmānah denā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To pay a fine; to pay a penalty.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جرمانہ کرنا",
+   "roman": "jurmānah karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To fine.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جرمیات",
+   "roman": "jurmiyāt",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Criminology.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جری",
+   "roman": "jarī",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Valiant; brave; intrepid; bold.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جری",
+   "roman": "jurī",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Rinderpest; a malignant and contagious disease of cattle.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جریان",
+   "roman": "jaryān",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Running; flowing; flux (of blood, urine &c.); circulation; flow; fleet; gonorrhoea; spermatorrhoea.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جریب",
+   "roman": "jarīb",
+   "pron": "",
+   "pos": "n.f. (G)",
+   "def": "A sort of wooden dart with an iron point; a land measure of 60 yards; a corn measure; a chain; a stick.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جریب کرنا یا ڈالنا",
+   "roman": "jarīb karnā yā ḍālnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To make a measure of land by chain; to measure",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جریب کش",
+   "roman": "jarīb kash",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A land surveyor; a measurer.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جریب کشی",
+   "roman": "jarīb kashī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Measurement of land.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جریدہ",
+   "roman": "jarīdah",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Alone; separate; solitary; unattended (when travelling); unincumbered. n.m. Newspaper; gazette.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جڑ",
+   "roman": "jaṛ",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Root; origin; foundation; basis.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جڑ اکھاڑنا",
+   "roman": "jaṛ ukhāṛnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To root out; to uproot, to extirpate.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جڑ پکڑنا",
+   "roman": "jaṛ pakaṛnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To take root; to be firmly rooted.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جڑ کاٹنا",
+   "roman": "jaṛ kāṭnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To lay the axe at the root; to cut the root of; to destroy utterly; to destroy root and branch.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جڑانا",
+   "roman": "jaṛānā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To cause to be set with jewels; to have jewels studded.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جڑاؤ",
+   "roman": "jaṛāū",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Studded; set with stones.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جڑائی",
+   "roman": "jaṛāī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Price paid for setting jewels; the act of setting jewels.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جڑائی",
+   "roman": "juṛāī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Mending; the price for mending.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جڑنا",
+   "roman": "juṛnā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To strike; to lay on (a blow); to stick on; to stud; to fix; to set jewels; To be joined; to join; to unite; to come to hand; to be had; to be obtained.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جڑواں",
+   "roman": "juṛwāṅ",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "The twins; a pair.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جڑوانا",
+   "roman": "juṛwānā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To cause to join; to cause to unite; to get a thing mended.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جڑوانا",
+   "roman": "jaṛwānā",
+   "pron": "",
+   "pos": "",
+   "def": "See جڑانا (jaṛānā).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جڑی",
+   "roman": "jaṛī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "The root of a medicinal herb.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جڑی بوٹی",
+   "roman": "jaṛī būṭī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Medicinal herbs; drugs.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جڑیا",
+   "roman": "jaṛyā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A jeweller; setter of jewels.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جز",
+   "roman": "juz",
+   "pron": "",
+   "pos": "adv. (P)",
+   "def": "Besides; except.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جز، جزو",
+   "roman": "juz, juzw",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Part; ingredient; portion; a full sheet of paper; folder; a part of a book consisting of eight leaves; part of a verse.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جزوِ بدن ہونا",
+   "roman": "juzw-ĕ badan honā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To become part of the body; to be digested or assimilated.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جز بندی",
+   "roman": "juz bandī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Binding of a book.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جز دان",
+   "roman": "juz dān",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A cloth in which books are wrapped up; a satchel; a portfolio.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جز رس",
+   "roman": "juz ras",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Penetrating; sagacious; frugal; economical.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جز رسی",
+   "roman": "juz rasī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Frugality; economy.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جزِ ضربی",
+   "roman": "juz-ĕ ẓarbī",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Factors.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جز وقتی ملازمت",
+   "roman": "juz waqtī mulāzimat",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Part time service.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جز و کل",
+   "roman": "juz-ŏ kull",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Totally; entirely; from top to bottom. adj. The whole.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جزوِ لا یتجزیٰ",
+   "roman": "juzw-ĕ lā-yatajazzā",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Indivisible atom; any thing too small to be divided.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جزوِ لا ینفک",
+   "roman": "juzw-ĕ lā yanfak",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Inseparable part.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جزوی، جزئی",
+   "roman": "juzwī juz'ī",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Petty; trivial; in part; a little.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جزویات، جزیات",
+   "roman": "juzwiyāt, juziāt",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Particulars; small parts; details.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جزا",
+   "roman": "jazā",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Retaliation; compensation; requital; return; reward; retribution.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جزاک اللہ",
+   "roman": "jazākallah",
+   "pron": "",
+   "pos": "excl.",
+   "def": "May God reward thee! God bless you!",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جزائر",
+   "roman": "jazā'ir",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "(plu. of جزیرہ jazīrah) Islands.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جز بز",
+   "roman": "jiz biz",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Offended; displeased; angry.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جز بز ہونا",
+   "roman": "jiz biz honā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be offended; to be displeased.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جزر",
+   "roman": "jazr",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "The ebb tide; the reflux of the sea.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جزر و مد",
+   "roman": "jazr-ŏ madd",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "The ebb and flow of the sea.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جزع",
+   "roman": "jaza'",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Impatience; perplexity.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جزع و فزع",
+   "roman": "jaza'-ŏ faza'",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Bewailing; crying; weeping bitterly.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جزم",
+   "roman": "jazm",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Decision; determination; the orthographical character (jazm) placed over a letter to show that it is quiescent or has no vowel following it.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "عزم بالجزم",
+   "roman": "'azm-bil-jazm",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Firm resolve; settled purpose.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جزیرہ",
+   "roman": "jazīrah",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "An island.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جزیرہ نما",
+   "roman": "jazīrah numā",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A peninsula.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جزیہ",
+   "roman": "jiziyah",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "A tribute; capitation-tax; a poll-tax.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جس",
+   "roman": "jis",
+   "pron": "",
+   "pos": "pron. (H)",
+   "def": "Whom; what; who; which; that; anyone.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جس پر",
+   "roman": "jis par",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Whereupon.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جس پر بھی",
+   "roman": "jis par bhī",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Notwithstanding.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جس جس",
+   "roman": "jis jis",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Whichever; each of which.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جس جگہ",
+   "roman": "jis jagah",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Where; wherever.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جس دم",
+   "roman": "jis dam",
+   "pron": "",
+   "pos": "adv.",
+   "def": "While; when; whilst.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جس طرح",
+   "roman": "jis ṭaraḥ",
+   "pron": "",
+   "pos": "adv.",
+   "def": "According to; as.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جس طرف",
+   "roman": "jis ṭaraf",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Wherever.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جس قدر",
+   "roman": "jis qadr",
+   "pron": "",
+   "pos": "adv.",
+   "def": "As much as; to what degree or extent.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جس کا (کی)",
+   "roman": "jis kā (kī)",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Whose; of whom.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جس کسی کا",
+   "roman": "jis kisī kā",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Of whomsoever.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جس کسی کو",
+   "roman": "jis kisī ko",
+   "pron": "",
+   "pos": "adv.",
+   "def": "To whomsoever.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جس وقت",
+   "roman": "jis waqt",
+   "pron": "",
+   "pos": "adv.",
+   "def": "When; whenever.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جس کا کام اسی کو ساجے",
+   "roman": "jis kā kām usī ko sāje",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Everyman to his trade.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جس کا کھائے اس کا گائے",
+   "roman": "jis kā khāe us kā gāe",
+   "pron": "",
+   "pos": "prov.",
+   "def": "Everyman praises the bridge he passes over.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جس کے ہاتھ ڈوئی اس کا سب کوئی",
+   "roman": "jis ke hāth ḍoī us kā sab koī",
+   "pron": "",
+   "pos": "prov.",
+   "def": "Everyman is a friend to him who gives generously.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جس کی لاٹھی اس کی بھینس",
+   "roman": "jis kī lāṭhī us kī bhains",
+   "pron": "",
+   "pos": "prov.",
+   "def": "Might is right.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جسے پیا چاہے وہی سہاگن",
+   "roman": "jise piyā chāhe wohī suhāgan",
+   "pron": "",
+   "pos": "prov.",
+   "def": "Fancy passes beauty.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جسارت",
+   "roman": "jasārat",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Boldness; courage; presumption; intrepidity; temerity.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جسامت",
+   "roman": "jasāmat",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Corpulency; bulkiness; dimensions.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جست",
+   "roman": "jast",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "A leap; jump; bound; spring; leaping; jumping.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جست بھرنا، کرنا، مارنا",
+   "roman": "jast bharnā, karnā, mārnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To jump; to leap; to bound; to spring.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جست",
+   "roman": "jist",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Zinc; pewter.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جستجو",
+   "roman": "justjū",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Search; investigation; quest; inquiry; seeking; scrutiny; examination.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جستہ جستہ",
+   "roman": "jastah jastah",
+   "pron": "",
+   "pos": "adv.",
+   "def": "From here and there, little by little.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جسد",
+   "roman": "jasad",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "The body.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جسم",
+   "roman": "jism",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Body; material substance,",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جسمِ جمادی",
+   "roman": "jism-ĕ jamādī",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A metallic body.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جسمِ حیوانی",
+   "roman": "jism-ĕ ḥaiwānī",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Animal body.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جسمِ نباتی",
+   "roman": "jism-ĕ nabātī",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Vegetable body.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جسمانی، جسمی",
+   "roman": "jismānī, jismī",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Corporeal; material; carnal; physical.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جسمانی صحت",
+   "roman": "jismānī seḥḥat",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Physical fitness.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جسمانی ورزش",
+   "roman": "jismānī warzish",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Physical exercise.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جسمانیت، جسمیت",
+   "roman": "jismāniyat, jismiyat",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Materiality.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جسیم",
+   "roman": "jasīm",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Corpulent; bulky.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جشن",
+   "roman": "jashn",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A jubilee; a feast; rejoicings; festivity.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جشن منانا",
+   "roman": "jashn manānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To celebrate a festival.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جعل",
+   "roman": "ja'l",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Forgery; counterfeit.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جعل ساز",
+   "roman": "ja'l sāz",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A fabricator; a forger.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جعل سازی",
+   "roman": "ja'l sāzī",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Forgery.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جعلی",
+   "roman": "ja'lī",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Counterfeit; forged; not genuine.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جعلی دستاویز",
+   "roman": "ja'lī dastāwez",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "A forged document.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جعلی سکے",
+   "roman": "ja'lī sikke",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Counterfeit coins.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جغرافیہ",
+   "roman": "jughrāfiyah",
+   "pron": "",
+   "pos": "n.m. (G)",
+   "def": "Geography.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جغرافیائی",
+   "roman": "jughrāfiyāī",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Geographical.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جفا",
+   "roman": "jafā",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Oppression; violence; injury; injustice.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جفا پیشہ، جفا جو، جفا شعار، جفا کار، جفا کیش، جفا گستر",
+   "roman": "jafā peshah, jafā jū, jafā shi'ār, jafā kār, jafā kesh, jafā gustar",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Oppressive; unjust; cruel. n.m. Oppressor; tyrant.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جفا کاری",
+   "roman": "jafā kārī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Oppression; tyranny.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جفا کش",
+   "roman": "jafā kash",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Hardworking; energetic.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جفا کفا",
+   "roman": "jafā kafā",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Hardship; trial; calamity.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جفت",
+   "roman": "juft",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Evenness; pair; a couple; match; mate.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جفتہ",
+   "roman": "juftah",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Running together (the threads in cloth); a crease; a wrinkle; the buttocks. adj. Bent; wrinkled.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جفتی",
+   "roman": "juftī",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Pairing (of animals).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جفتی کھانا",
+   "roman": "juftī khānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To copulate; to pair (as animals); to go with; to join.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جفر",
+   "roman": "jafar yā jafr",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "The art of making amulets or charms; the art of prediction.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جکڑ بند",
+   "roman": "jakaṛ band",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Tightness; fast binding. adj. Tight; fast bound; well strung.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جکڑ جانا",
+   "roman": "jakaṛ jānā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To become stiff or rigid; to be tightly bound; to be closely joined together.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جکڑنا",
+   "roman": "jakaṛnā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To tighten; to draw tight; to bind; to fasten; to tie; to pinion; to become rigid.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جگ",
+   "roman": "jag",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "The world; the earth; the universe; a feast; a sacrifice or religious ceremony in which oblations are presented.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جگ بیتی",
+   "roman": "jag bītī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Concerning other people; tales or deeds of other people.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جگ ہنسائی",
+   "roman": "jag hansā'ī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Public ridicule.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جگ",
+   "roman": "jug",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "An age of the world; a period; an age; an epoch.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جگ جگ",
+   "roman": "jug jug",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Always; for ever; eternally; constantly.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جگادری",
+   "roman": "jugādrī",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A seasoned and experienced person. adj. Tall; corpulent.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جگالی",
+   "roman": "jugālī",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Chewing the cud; the cud.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جگالی کرنا",
+   "roman": "jugālī karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To chew the cud; to ruminate.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جگانا",
+   "roman": "jagānā",
+   "pron": "",
+   "pos": "v. (H)",
+   "def": "To waken; to rouse from sleep.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جگت",
+   "roman": "jagat",
+   "pron": "",
+   "pos": "n.m. (S)",
+   "def": "The world; all created things. n.f. The rim of a well.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جگت استاد یا گرو",
+   "roman": "jagat ustād yā gurū",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A renowned teacher.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جگت سالا",
+   "roman": "jagat sālā",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Brother of a prostitute; a mean-fellow.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جگت",
+   "roman": "jugat",
+   "pron": "",
+   "pos": "n.f. (H)",
+   "def": "Dexterity; contrivance; punning; counsel; address; wit; a pun; a humour; art; a significant expression.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جگت باز",
+   "roman": "jugat bāz",
+   "pron": "",
+   "pos": "n.",
+   "def": "Punster; quibbler; skilful; dexterous.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جگت بازی",
+   "roman": "jugat bāzī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Quibble; pun; witticism.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جگت بولنا",
+   "roman": "jugat bolnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To pun.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جگتی یا جگتیا",
+   "roman": "jugtī yā jugtiyā",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Artful; clever; cunning; punning; facetious.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جگر",
+   "roman": "jigar",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "The liver; vitals; heart; mind; soul; courage.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جگر خراش",
+   "roman": "jigar kharāsh",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Heart-rending.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جگر دوز",
+   "roman": "jigar doz",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Heart piercing; pathetic.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جگر سوختہ",
+   "roman": "jigar sokhtah",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Heart inflamed; in love.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جگر سوز",
+   "roman": "jigar soz",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Most troublesome; tormenting.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جگر فگار",
+   "roman": "jigar figār",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Heart broken; heart wounded.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جگر کاوی",
+   "roman": "jigar kāwī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Anxiety; trouble of mind; hard labour.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جگر گوشہ",
+   "roman": "jigar goshah",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Lobe of the liver; one dear or beloved; a son.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جگرا",
+   "roman": "jigrā",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "Courage; daring; valour.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جگری",
+   "roman": "jigrī",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Belonging to the liver; hepatic; intimate; dear; beloved; close (friend).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "جگمگ جگمگ",
+   "roman": "jagmag jagmag",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Shining; glittering; radiative.",
    "ur": "",
    "ex": []
   }
