@@ -130853,6 +130853,1918 @@
    "def": "",
    "ur": "تار باند - کم خواب - زر بفت -",
    "ex": []
+  },
+  {
+   "w": "Cloth",
+   "pron": "kloth",
+   "pos": "v.t.",
+   "def": "Put clothes upon",
+   "ur": "کپڑے دینا - کپڑے یا پوشاک پہنانا - پوشاک کا انتظام کرنا - کپڑا اوڑھانا - پوشاک پہنانا -",
+   "ex": []
+  },
+  {
+   "w": "Clothing",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "لباس - پوشاک - پہننے کے کپڑے -",
+   "ex": []
+  },
+  {
+   "w": "Clothes",
+   "pron": "kloths",
+   "pos": "n. &",
+   "def": "p. Wearing garments",
+   "ur": "پہننے کے کپڑے - پیرا ہن - ملبوس -",
+   "ex": []
+  },
+  {
+   "w": "Clothier",
+   "pron": "kloth-yər",
+   "pos": "",
+   "def": "Dealer in cloth or clothes",
+   "ur": "کپڑے بننے یا بیچنے والا - جولاہا - بزاز -",
+   "ex": []
+  },
+  {
+   "w": "Cloud",
+   "pron": "klowd",
+   "pos": "n., v.t. & i.",
+   "def": "Condensed watery vapours floating high",
+   "ur": "بادل - ابر - سحاب - گھٹا - غبار - گرد یا دھوئیں کا بادل - دھندلا پن - پرندوں تندیوں کا یا سواروں کا دل - بادل - عارضی یا موسم شے ہلکا اونی گلو بند - فکر - غم - رنج - تکلیف - پریشانیوں کی گھٹا - ابر چھانا - تاریک ہونا - ملوث اور اداس ہونا - عزوں ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Cloud-burst",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "طوفانی بارش - زور کی بارش -",
+   "ex": []
+  },
+  {
+   "w": "Cloud-capped",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بادلوں سے ڈھکی ہوئی -",
+   "ex": []
+  },
+  {
+   "w": "Cloud-castle",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "شیخ چلی کی سی باتیں - خیالی پلاؤ -",
+   "ex": []
+  },
+  {
+   "w": "Cloud-drift",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بادلوں کے ٹکڑے - اڑتے ہوئے بادل - ابر رواں -",
+   "ex": []
+  },
+  {
+   "w": "Cloud-land",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "غیر حقیقی - خوابوں کی دنیا - عالم خواب - عالم تخیل -",
+   "ex": []
+  },
+  {
+   "w": "In the clouds",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "قیاسی - خیالی - عالم خیال میں -",
+   "ex": []
+  },
+  {
+   "w": "Under cloud of night",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "شب یلدا میں - تاریکی شب میں - رات کے اندھیرے میں -",
+   "ex": []
+  },
+  {
+   "w": "Cloudiness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "تکدر - ظلمت - گھٹا -",
+   "ex": []
+  },
+  {
+   "w": "Cloudless",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "صاف - بے ابر - نکھرا ہوا -",
+   "ex": []
+  },
+  {
+   "w": "Cloudlessness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "مطلع کا صاف ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Cloudy",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "گھرا ہوا - دھندلا - غبار آلود - ابر آلود -",
+   "ex": []
+  },
+  {
+   "w": "Clout",
+   "pron": "klowt",
+   "pos": "n. & v.t.",
+   "def": "Patch, hit",
+   "ur": "دست مال - تھکلی - چتھڑا - پوند - گھونسہ - مکا - مکا مارنا - پیوند لگانا - گانٹھنا -",
+   "ex": []
+  },
+  {
+   "w": "Clove",
+   "pron": "klov",
+   "pos": "",
+   "def": "Cleave",
+   "ur": "دیکھو -",
+   "ex": []
+  },
+  {
+   "w": "Clove",
+   "pron": "klov",
+   "pos": "n.",
+   "def": "Aromatic dried buds of a tropical tree",
+   "ur": "لونگ - لونگ کا درخت - لونگ کی پھلی -",
+   "ex": []
+  },
+  {
+   "w": "Clover",
+   "pron": "klo-ver",
+   "pos": "n.",
+   "def": "Kind of trefoil used for fodder",
+   "ur": "گھاس جو چارہ کے لیے کاٹی جاتی ہے - تیہا -",
+   "ex": []
+  },
+  {
+   "w": "Clown",
+   "pron": "klown",
+   "pos": "n.",
+   "def": "Rustic or ill bred man",
+   "ur": "اجڈ - گنوار - دیہاتی - کندہ نا تراش - بے تمیز - مسخرہ - بھانڈ - نقال -",
+   "ex": []
+  },
+  {
+   "w": "Clownery",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "بھانڈ پن - نکالی - مسخرہ پن -",
+   "ex": []
+  },
+  {
+   "w": "Clownish",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "بھانڈ کی طرح - اجڈ - بے تمیز -",
+   "ex": []
+  },
+  {
+   "w": "Clownishly",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "بھانڈوں کی طرح - مسخرے پن سے - بے تمیزی سے -",
+   "ex": []
+  },
+  {
+   "w": "Clownishness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "تمسخر - بد تہذیبی - بے تمیزی -",
+   "ex": []
+  },
+  {
+   "w": "Cloy",
+   "pron": "kloi",
+   "pos": "v.t.",
+   "def": "Weary by excess of pleasure",
+   "ur": "سیر ہونا - جی بھر جانا - تعیشات سے بیزار ہو جانا - اکتا دینا - ناک تک بھر دینا -",
+   "ex": []
+  },
+  {
+   "w": "Club",
+   "pron": "klub",
+   "pos": "n.",
+   "def": "Stick with one thick end",
+   "ur": "گنگا - لٹھ - ڈنڈا - گلف کھیلنے کی چھڑی - تاش میں پھول کا رنگ - مجلس - انجمن - بزم -",
+   "ex": []
+  },
+  {
+   "w": "Club law",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "جس کی لاٹھی اس کی بھینس - زبردستی -",
+   "ex": []
+  },
+  {
+   "w": "Indian clubs",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "مگدر کی جوڑی -",
+   "ex": []
+  },
+  {
+   "w": "Club",
+   "pron": "klub",
+   "pos": "v.t. & i.",
+   "def": "Beat with a club",
+   "ur": "لٹھ سے پیٹنا - ڈنڈے مارنا - بندوق کے کندے سے مارنا - ملانا - مدد کرنا - گلڈ مڈ کرنا - اعانت کرنا - متحد ہونا - متفق ہونا - شرکت کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Clubable",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کلب کی رکنیت کے لائق - کلب میں شریک ہونے کے قابل -",
+   "ex": []
+  },
+  {
+   "w": "Cluck",
+   "pron": "kluk",
+   "pos": "n. & v.i.",
+   "def": "Make cry of hen",
+   "ur": "کٹ کٹ کرنا - کڑ کڑ - کٹ کٹ -",
+   "ex": []
+  },
+  {
+   "w": "Clue",
+   "pron": "klōō",
+   "pos": "n.",
+   "def": "Fact that serves as guide",
+   "ur": "کھوج - سراغ - پتے - نشان - پتا پتے - قصہ کا سلسلہ -",
+   "ex": []
+  },
+  {
+   "w": "Clumber",
+   "pron": "klum-bər",
+   "pos": "n.",
+   "def": "A kind of Spaniel",
+   "ur": "اسپینیل کی قسم کا کتا -",
+   "ex": []
+  },
+  {
+   "w": "Clump",
+   "pron": "klump",
+   "pos": "n., v.t. & i.",
+   "def": "Cluster of trees",
+   "ur": "درختوں یا جھاڑیوں کی جھنڈ - گنواروں کی طرح چلنا - بھد بھد کر کے چلنا - گنجان درخت لگانا - انبار لگانا -",
+   "ex": []
+  },
+  {
+   "w": "Clumsy",
+   "pron": "klum-zi",
+   "pos": "adj.",
+   "def": "Awkward",
+   "ur": "بے ڈول - بھونڈا - بے سلیقہ - پھوہڑ - اناڑی - بھدا - بے ڈھنگا -",
+   "ex": []
+  },
+  {
+   "w": "Clumsiness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "اجڈ پن - اناڑی پن - بد تمیزی - پھوہڑ پن - بے ڈھنگا پن -",
+   "ex": []
+  },
+  {
+   "w": "Cluster",
+   "pron": "klus-tər",
+   "pos": "n., v.t. & i.",
+   "def": "Bunch",
+   "ur": "غول - جھرمٹ - خوشہ - جھنڈ - گچھا - گچا - جم غفیر - گچھا ہونا - یا بنانا - اکٹھا ہونا یا کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Clutch",
+   "pron": "kluch",
+   "pos": "v.t. & i.",
+   "def": "Grasp tightly",
+   "ur": "جھین لینا - قبضہ میں لانا - چنگل مارنا - مضبوطی سے پکڑنا -",
+   "ex": []
+  },
+  {
+   "w": "Clutch",
+   "pron": "kluch",
+   "pos": "n.",
+   "def": "Fight grasp; Set of eggs",
+   "ur": "چنگل - پنجہ ستم - مضبوط گرفت - وہ پرزہ جس سے مشین ٹھہرائی اور چلائی جاتی ہے - ایک ساتھ نکلے ہوئے بچے - انڈوں کی جھول -",
+   "ex": []
+  },
+  {
+   "w": "Clutter",
+   "pron": "klut-ər",
+   "pos": "n., v.t. & i.",
+   "def": "Confused noise or movement",
+   "ur": "شور - ہلچل - بوکھلاہٹ - پریشانی - گھبراہٹ - بوکھلا جانا - پریشان حرکات کرنا - گھبرا جانا - پریشان ہو جانا -",
+   "ex": []
+  },
+  {
+   "w": "Clyster",
+   "pron": "klis-tər",
+   "pos": "n.",
+   "def": "Enema",
+   "ur": "پچکاری - حقنہ - انیما -",
+   "ex": []
+  },
+  {
+   "w": "Co",
+   "pron": "ko",
+   "pos": "",
+   "def": "Prefix, Short form of company",
+   "ur": "کمپنی کا مخفف - ساتھ - مع -",
+   "ex": []
+  },
+  {
+   "w": "Coach",
+   "pron": "kōch",
+   "pos": "n., v.t. & i.",
+   "def": "Carriage",
+   "ur": "ریل کا ڈبہ - شاہی گاڑی - چار پہیوں کی سواری گاڑی - جنگی جہاز کا پچھلا حصہ - اتالیق - استاد - خانگی معلم - سواری گاڑی میں سفر کرنا - امتحان کے لیے تیار کرنا - کشتی کھینا یا چلانا -",
+   "ex": []
+  },
+  {
+   "w": "Coach box",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "گاڑیبان کے بیٹھنے کی جگہ -",
+   "ex": []
+  },
+  {
+   "w": "Hackney-coach",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کرائے کی گاڑی -",
+   "ex": []
+  },
+  {
+   "w": "Slow coach",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "دقیانوسی - غبی - سست کام کرنے والا - آہستہ رو -",
+   "ex": []
+  },
+  {
+   "w": "Coaching",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "اتالیق - گھر پر تعلیم دینا -",
+   "ex": []
+  },
+  {
+   "w": "Coadjutant",
+   "pron": "kōa-joo-tant",
+   "pos": "n.",
+   "def": "Assistants to a higher officer",
+   "ur": "شریک - مدد گار -",
+   "ex": []
+  },
+  {
+   "w": "Coadjutor",
+   "pron": "kō-ajoo-tər",
+   "pos": "n.",
+   "def": "Assistant to bishop",
+   "ur": "معاون - مددگار - شریک - لاٹ پادری کا معین یا مددگار -",
+   "ex": []
+  },
+  {
+   "w": "Coagency",
+   "pron": "kō-ajənsi",
+   "pos": "n.",
+   "def": "Joint agency",
+   "ur": "مشارکت - مشترکہ کام - شرکت - ساجھا -",
+   "ex": []
+  },
+  {
+   "w": "Coagent",
+   "pron": "ko-ajənt",
+   "pos": "n.",
+   "def": "Joint partner in business",
+   "ur": "شریک - ساجھی -",
+   "ex": []
+  },
+  {
+   "w": "Coagulate",
+   "pron": "ko-agu-lat",
+   "pos": "v.t. & i.",
+   "def": "Change to solid state, clot",
+   "ur": "بستہ ہونا - جمانا - جمنا - منجمد ہونا - سخت ہونا - منجمد ہونا یا کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Coagula",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "جمانے والی چیز - منجمد کرنے والی شے -",
+   "ex": []
+  },
+  {
+   "w": "Coagulation",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "جماؤ - بستگی - انجماد -",
+   "ex": []
+  },
+  {
+   "w": "Coagulator",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "جمانے والی چیز - منجمد کرنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Coal",
+   "pron": "kōl",
+   "pos": "v.t., i. & n.",
+   "def": "Hard carbonized vegetable remains",
+   "ur": "کوئلہ - معدنی کوئلہ - پتھر کا کوئلہ - کوئلہ نکالنا - کوئلہ لادنا - کوئلہ لینا -",
+   "ex": []
+  },
+  {
+   "w": "Coal black",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کالا کوئلہ - کوئلے کے رنگ کا -",
+   "ex": []
+  },
+  {
+   "w": "Blow the coals",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بھڑکانا - جذبات کو ہوا دینا -",
+   "ex": []
+  },
+  {
+   "w": "Haul over the coals",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "سرزنش کرنا - آڑے ہاتھوں لینا -",
+   "ex": []
+  },
+  {
+   "w": "Coalesce",
+   "pron": "koa-les",
+   "pos": "v.i.",
+   "def": "Come together",
+   "ur": "پارٹیوں کا یکجا ہونا - متحد ہونا - اکٹھا ہونا - ملنا - جڑنا -",
+   "ex": []
+  },
+  {
+   "w": "Coalescent",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "متحد - جڑا ہوا - مربوط - ملا ہوا -",
+   "ex": []
+  },
+  {
+   "w": "Coalescence",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "جوڑ - ملاپ - امتزاج - اتحاد -",
+   "ex": []
+  },
+  {
+   "w": "Coalition",
+   "pron": "kōa-lish-ən",
+   "pos": "n.",
+   "def": "Union, fusion",
+   "ur": "مل کر ایک ہونا - سیاسی جماعتوں کا اتحاد - اتفاق - امتزاج - کسی حکومت میں مختلف پارٹیوں کی شرکت -",
+   "ex": []
+  },
+  {
+   "w": "Coalitionist",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "سیاسی جماعتوں کے اتحاد کا حامی -",
+   "ex": []
+  },
+  {
+   "w": "Coal-mine-pit",
+   "pron": "kōl-min",
+   "pos": "",
+   "def": "Hole from which coal is taken out",
+   "ur": "کوئلے کا غار - کوئلے کی کان -",
+   "ex": []
+  },
+  {
+   "w": "Coal-scuttle",
+   "pron": "kōl-skut-l",
+   "pos": "n.",
+   "def": "Coal-box",
+   "ur": "کوئلہ دان -",
+   "ex": []
+  },
+  {
+   "w": "Coarse",
+   "pron": "kōrs",
+   "pos": "adj.",
+   "def": "Rough",
+   "ur": "معمولی درجہ کا - کم حیثیت - ادنیٰ - گاڑھا - موٹا - کھردرا - اناڑی - بھونڈے مذاق کا - فحش - غیر مہذب -",
+   "ex": []
+  },
+  {
+   "w": "Coarsely",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "بھونڈے پن سے - اناڑی پن سے -",
+   "ex": []
+  },
+  {
+   "w": "Coarsen",
+   "pron": "",
+   "pos": "v.t. & i.",
+   "def": "",
+   "ur": "کھردرا بنانا - بھدا بنانا -",
+   "ex": []
+  },
+  {
+   "w": "Coarseness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "کرختگی - سختی - گھٹیا پن - کھردرا پن -",
+   "ex": []
+  },
+  {
+   "w": "Coarish",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "گھٹیا سا - کھردرا سا -",
+   "ex": []
+  },
+  {
+   "w": "Coast",
+   "pron": "kōst",
+   "pos": "n.",
+   "def": "Sea shore",
+   "ur": "ایک قسم کی امریکی پھسلنی گاڑی - دریا کا کنارہ - سمندر کا کنارہ ساحل - بلندی سے نیچے کی طرف بائیسکل پر آنا -",
+   "ex": []
+  },
+  {
+   "w": "Coastguard",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "ساحلی پولیس - بحری پولیس -",
+   "ex": []
+  },
+  {
+   "w": "Coasting",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "ساحل کے آس پاس جہاز رانی کرنا - ساحلی جہاز رانی -",
+   "ex": []
+  },
+  {
+   "w": "Coast",
+   "pron": "kōst",
+   "pos": "v.i.",
+   "def": "Sail along coast",
+   "ur": "ایک ہی ساحل کی بندرگاہوں سے تجارت کرنا - کشتی کنارے کنارے لے جانا - بغیر پیر چلائے بائیسکل نشیب کی طرف چلانا -",
+   "ex": []
+  },
+  {
+   "w": "Coat",
+   "pron": "kōt",
+   "pos": "v.t. & n.",
+   "def": "Man's sleeved body garment",
+   "ur": "آستینوں والا مردانہ لباس - کوٹ - بال - سمور - اون - پشم - پردہ - جھلی - چھالکا - پوست - ملع - تہہ - قلمی - تہہ چڑھانا - قلمی کرنا - ملع کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Coat-card",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "تاش کا تصویر دار پتا -",
+   "ex": []
+  },
+  {
+   "w": "Dust one's coat",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "مارنا - پیٹنا - مرمت کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Great coat",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "اوور کوٹ - لبادہ -",
+   "ex": []
+  },
+  {
+   "w": "Turn one's coat",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "نمک حرامی کرنا - غداری کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Wear the kings coat",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "فوج میں بھرتی ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Coated",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "تہہ چڑھا ہوا - لپٹا ہوا - ڈھکا ہوا -",
+   "ex": []
+  },
+  {
+   "w": "Coatee",
+   "pron": "kōti",
+   "pos": "n.",
+   "def": "Short tailed coat",
+   "ur": "بے دامن کا کوٹ - چھوٹا کوٹ -",
+   "ex": []
+  },
+  {
+   "w": "Coating",
+   "pron": "kōt-ing",
+   "pos": "n.",
+   "def": "Layer of paint",
+   "ur": "کوٹ کا کپڑا - لیپ - رنگ یا روغن کی تہہ -",
+   "ex": []
+  },
+  {
+   "w": "Coat-tail",
+   "pron": "kōt-tal",
+   "pos": "n.",
+   "def": "Skirt",
+   "ur": "کوٹ کا گاودم دامن -",
+   "ex": []
+  },
+  {
+   "w": "Coax",
+   "pron": "koks",
+   "pos": "v.t. & i.",
+   "def": "Persuade by blandishments",
+   "ur": "فریب دینا - پھسلانا - میٹھی باتوں سے منانا - ناز نخرہ سے رجھانا - دم دلاسا دینا - بہکانا -",
+   "ex": []
+  },
+  {
+   "w": "Coax thing out of a person",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کسی شخص سے پھسلا کر کچھ لینا -",
+   "ex": []
+  },
+  {
+   "w": "Coaxer",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "پھسلانے والا -",
+   "ex": []
+  },
+  {
+   "w": "Cob",
+   "pron": "kob",
+   "pos": "n.",
+   "def": "Male swan; Composition of clay and straw",
+   "ur": "ٹانگن - چھوٹے قد کا گھوڑا - راج ہنس - ہنس - کوئلے کا گولا - بھس ملا ہوا گارا -",
+   "ex": []
+  },
+  {
+   "w": "Cob",
+   "pron": "kob",
+   "pos": "v.t.",
+   "def": "Slap",
+   "ur": "طمانچہ مارنا - تھپڑ مارنا -",
+   "ex": []
+  },
+  {
+   "w": "Cobalt",
+   "pron": "kō-bawlt",
+   "pos": "n.",
+   "def": "Silvery white metal",
+   "ur": "ایک قسم کی دھات جو نکل سے مشابہ ہوتی ہے -",
+   "ex": []
+  },
+  {
+   "w": "Cobble",
+   "pron": "kob-l",
+   "pos": "n. & v.t.",
+   "def": "Water worn round stones",
+   "ur": "بن پتھر - پانی کے گول پتھر - گول پتھروں کا فرش کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Cobble",
+   "pron": "kob-l",
+   "pos": "v.t.",
+   "def": "Patch",
+   "ur": "پھوڑ بنے سے کرنا - بری طرح سے کرنا - پیوند لگانا - گانٹھنا -",
+   "ex": []
+  },
+  {
+   "w": "Cobbler",
+   "pron": "kob-lər",
+   "pos": "n.",
+   "def": "Mender of shoes",
+   "ur": "اناڑی - پھوڑا جوتے گانٹھنے والا - موچی -",
+   "ex": []
+  },
+  {
+   "w": "Cobra / Cobrade capello",
+   "pron": "kō-brä",
+   "pos": "n.",
+   "def": "The venomous Hooded snake of India",
+   "ur": "کالا ناگ - پھنیر سانپ -",
+   "ex": []
+  },
+  {
+   "w": "Cobweb",
+   "pron": "kob-web",
+   "pos": "n.",
+   "def": "Spider's net work",
+   "ur": "جالے جیسی بودی شے - جالے - مکڑی کا جالا - تار عنکبوت - ایچ پیچ - دھوکہ - جال - پھندا - فریب - ناپائیدار - کمزور -",
+   "ex": []
+  },
+  {
+   "w": "Cobwebs of antiquity",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "پرانا کاٹھ کباڑ -",
+   "ex": []
+  },
+  {
+   "w": "Cobwebs of the law",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "قانونی پھندے - قانونی ایچ پیچ -",
+   "ex": []
+  },
+  {
+   "w": "Cobwebbery",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "ایچ پیچ - ہر پھیر -",
+   "ex": []
+  },
+  {
+   "w": "Cobwebby",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "مکڑی کے جالے سے بھرا ہوا - تار عنکبوت کی طرح -",
+   "ex": []
+  },
+  {
+   "w": "Cocaine",
+   "pron": "kō-kan",
+   "pos": "n.",
+   "def": "Drug from coca producing local insensibility",
+   "ur": "ایک دوا جس سے جلد سن ہو جاتی ہے - کوکین -",
+   "ex": []
+  },
+  {
+   "w": "Cocainisation",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "کوکین سے سن کرنا - بے حسی -",
+   "ex": []
+  },
+  {
+   "w": "Cochineal",
+   "pron": "kochi-nēl",
+   "pos": "n.",
+   "def": "Dried bodies of insects of Mexico used for making scarlet dye",
+   "ur": "میکسیکو کے وہ خشک کیڑے جس سے قرمزی رنگ بنایا جاتا ہے - قرمز -",
+   "ex": []
+  },
+  {
+   "w": "Cock",
+   "pron": "kok",
+   "pos": "n.",
+   "def": "Male bird; Upward bend of nose",
+   "ur": "مرد کا عضو تناسل - خروس - مرغ - نر پرند - بندوق کا گھوڑا یا چاپ کان - ترازو کا کانٹا - چڑھی ہوئی ناک بھوں - چڑھی ہوئی ناک - آنکھ کا اشارہ - کج کلائی - بندوق کا چڑھا ہوا گھوڑا -",
+   "ex": []
+  },
+  {
+   "w": "Cock and bull story",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بناوٹی قصہ - بے بنیاد بات - لغو کہانی -",
+   "ex": []
+  },
+  {
+   "w": "Cock of the school",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "خدائی فوجدار - لڑکوں میں تین مار خاں -",
+   "ex": []
+  },
+  {
+   "w": "Cock sparrow",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "زندہ دل شخص - پست قد - حن چڑا -",
+   "ex": []
+  },
+  {
+   "w": "Live like fighting cocks",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "مست رہنا - بے فکر زندگی بسر کرنا -",
+   "ex": []
+  },
+  {
+   "w": "This beats cock fighting",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "یہ پرلطف ہے - یہ بہت ہی اچھا ہے -",
+   "ex": []
+  },
+  {
+   "w": "Cock",
+   "pron": "kok",
+   "pos": "v.t. & i.",
+   "def": "Erect, stick or stand up",
+   "ur": "بندوق کا گھوڑا چڑھانا - کھڑا کرنا - تاننا -",
+   "ex": []
+  },
+  {
+   "w": "Cock ones eye",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "آنکھ مارنا -",
+   "ex": []
+  },
+  {
+   "w": "Cock ones hat",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بانکن دکھانا - کج کلائی دکھانا - ٹیڑھی ٹوپی پہننا -",
+   "ex": []
+  },
+  {
+   "w": "Cockade",
+   "pron": "kok-ād",
+   "pos": "n.",
+   "def": "Badge worn in hat",
+   "ur": "کندھ - اعزازی ٹوپی - کلغی - طرہ -",
+   "ex": []
+  },
+  {
+   "w": "Cockaded",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "کلغی دار - طرہ دار -",
+   "ex": []
+  },
+  {
+   "w": "Cockatoo",
+   "pron": "ko-ka-tōō",
+   "pos": "n.",
+   "def": "A kind of parrot with moving crest",
+   "ur": "بڑی کلغی والا طوطا - کاکاتو -",
+   "ex": []
+  },
+  {
+   "w": "Cockatrice",
+   "pron": "ko-ka-tris",
+   "pos": "n.",
+   "def": "Fabulous basilisk",
+   "ur": "یونانی قصوں کا فرضی سانپ - افعی - بالشتیا سانپ -",
+   "ex": []
+  },
+  {
+   "w": "Cockcrow",
+   "pron": "kok-row",
+   "pos": "n.",
+   "def": "Domestic cock's early shouts",
+   "ur": "بانگ مرغ - آواز خروس - تڑکا -",
+   "ex": []
+  },
+  {
+   "w": "Cocker",
+   "pron": "kok-ər",
+   "pos": "v.t.",
+   "def": "Pamper",
+   "ur": "ناز اٹھانا - ناز برداری کرنا - لاڈ کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Cockered",
+   "pron": "kok-ərd",
+   "pos": "adj.",
+   "def": "Pampered",
+   "ur": "لاڈلا - ناز پروردہ -",
+   "ex": []
+  },
+  {
+   "w": "Cockerel",
+   "pron": "kok-rəl",
+   "pos": "n.",
+   "def": "Young cock",
+   "ur": "جھگڑالو لڑکا - پٹھا مرغ - مرغ کا پٹھا -",
+   "ex": []
+  },
+  {
+   "w": "Cockeyed",
+   "pron": "kok-id",
+   "pos": "adj.",
+   "def": "Squinting",
+   "ur": "احول - بھینگا -",
+   "ex": []
+  },
+  {
+   "w": "Cock horse",
+   "pron": "kok hors",
+   "pos": "",
+   "def": "Wood horse",
+   "ur": "کاٹھ کا گھوڑا -",
+   "ex": []
+  },
+  {
+   "w": "Cockle",
+   "pron": "kok-l",
+   "pos": "n.",
+   "def": "A purple flowered grass; Stove for heating room",
+   "ur": "گھاس پھوس - سرخ پھولوں والی گھاس - گیہوں کی ایک بیماری جس سے دانے کالے پڑ جاتے ہیں - ایک قسم کا گھونگھا - سیپی - آتشی آتشدان جس سے کمرہ گرم کیا جاتا ہے -",
+   "ex": []
+  },
+  {
+   "w": "Cockle",
+   "pron": "kok-l",
+   "pos": "n., v.t. & i.",
+   "def": "Bulge",
+   "ur": "ابھار - شکن - ایج - خم - شکن ڈالنا - موڑنا - ابھارنا -",
+   "ex": []
+  },
+  {
+   "w": "Cockney",
+   "pron": "kok-ni",
+   "pos": "n. & adj.",
+   "def": "Native of London",
+   "ur": "لندنی زبان - لندن کا رہنے والا - لندن کا -",
+   "ex": []
+  },
+  {
+   "w": "Cockneyfy",
+   "pron": "",
+   "pos": "v.t.",
+   "def": "",
+   "ur": "لندنی جیسے خصائل پیدا کرنا - لندنی بنانا -",
+   "ex": []
+  },
+  {
+   "w": "Cockneyish",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "لندنیوں کی طرح رہنے سہنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Cockneyism",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "لندنی بول چال - لندنی محاورہ - لندنیت -",
+   "ex": []
+  },
+  {
+   "w": "Cockpit",
+   "pron": "kok-pit",
+   "pos": "n.",
+   "def": "Arena of cock fights",
+   "ur": "مرغوں کا دنگل - مرغوں کی لڑائی کا اکھاڑہ - طیارے میں طیارچی کے بیٹھنے کی جگہ -",
+   "ex": []
+  },
+  {
+   "w": "Cockroach",
+   "pron": "kok-rōch",
+   "pos": "n.",
+   "def": "Dark brown beetle-like insect",
+   "ur": "تل چٹا - بھونرے کی طرح کا کیڑا -",
+   "ex": []
+  },
+  {
+   "w": "Cocksure",
+   "pron": "kok-shōōr",
+   "pos": "adj.",
+   "def": "Certain to happen",
+   "ur": "یقین واقعی - یقینی طور پر - حتمی طور پر - یقینی -",
+   "ex": []
+  },
+  {
+   "w": "Cocksy",
+   "pron": "kok-si",
+   "pos": "adj.",
+   "def": "Conceited",
+   "ur": "بتنے والا - خود پسند - شوخ چشم - گستاخ -",
+   "ex": []
+  },
+  {
+   "w": "Cocksiness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "خود پسندی - گستاخی -",
+   "ex": []
+  },
+  {
+   "w": "Cocktail",
+   "pron": "kok-tal",
+   "pos": "adj. & n.",
+   "def": "A horse with docked tail",
+   "ur": "گھوڑا جو اصیل نہ ہو - دم کٹا گھوڑا - دوڑ کا گھوڑا - اوچھا - نیا - دوغلا - ایک قسم کی مرکب شراب -",
+   "ex": []
+  },
+  {
+   "w": "Cocktailed",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "دم کٹا - اوچھا - دم بریدہ -",
+   "ex": []
+  },
+  {
+   "w": "Cocoa",
+   "pron": "kō-kō",
+   "pos": "n.",
+   "def": "Powder made from cocoa seeds",
+   "ur": "ایک قسم کی پاوڈر - کوکو -",
+   "ex": []
+  },
+  {
+   "w": "Coconut",
+   "pron": "kōkō-nut",
+   "pos": "n.",
+   "def": "Hard shelled seed with white lining",
+   "ur": "ناریل - کھوپرا - انسان کا سر - کھوپری -",
+   "ex": []
+  },
+  {
+   "w": "Cocoon",
+   "pron": "ko-kōōn",
+   "pos": "n., v.t. & i.",
+   "def": "Silky case spun by larva",
+   "ur": "ریشم کے کیڑے کا خول - آبریشم کا کوا - گولے میں لیٹنا -",
+   "ex": []
+  },
+  {
+   "w": "Cocoonery",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "ریشم کے کیڑوں کی پرورش کی جگہ -",
+   "ex": []
+  },
+  {
+   "w": "Coction",
+   "pron": "kok-shən",
+   "pos": "n.",
+   "def": "Boiling",
+   "ur": "ایک قسم کی ہنڈی - دانہ دار ہنڈی - پکانا - ابالنا -",
+   "ex": []
+  },
+  {
+   "w": "Cod",
+   "pron": "kod",
+   "pos": "n. & v.",
+   "def": "Large sea fish",
+   "ur": "بیوقوف بنانا - بڑی سمندری مچھلی کاڈ -",
+   "ex": []
+  },
+  {
+   "w": "Codliver oil",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کاڈ مچھلی کا تیل -",
+   "ex": []
+  },
+  {
+   "w": "Coddle",
+   "pron": "kod-l",
+   "pos": "v.i. & n.",
+   "def": "Treat as invalid",
+   "ur": "ناز برداری کرنا - وہ شخص جو دوسرے کی ناز برداری کرتا ہو یا خود نازوں جیسے فقرے کرتا ہو -",
+   "ex": []
+  },
+  {
+   "w": "Code",
+   "pron": "kōd",
+   "pos": "n. & v.t.",
+   "def": "Systematic collection of statutes",
+   "ur": "مجموعہ قوانین یا قواعد - اشاروں کی زبان - بری اور بھری کوچی اشاروں کا مجموعہ - مختصر کرنا - خفیہ اشاروں میں پیغام بھیجنا -",
+   "ex": []
+  },
+  {
+   "w": "Code of honour",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "آئیں غیرت داری - کسی قوم کا مروجہ اخلاق -",
+   "ex": []
+  },
+  {
+   "w": "Codification",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ترتیب قوانین -",
+   "ex": []
+  },
+  {
+   "w": "Codifier",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "مؤلف ضوابط - قوانین کا ترتیب دینے والا -",
+   "ex": []
+  },
+  {
+   "w": "Codify",
+   "pron": "",
+   "pos": "v.t.",
+   "def": "",
+   "ur": "قانون کی ترتیب اور تدوین کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Codger",
+   "pron": "koj-ər",
+   "pos": "n.",
+   "def": "queer old person",
+   "ur": "بول چالا - مرد آدمی - ضعیف آدمی - ناکارہ - عجیب -",
+   "ex": []
+  },
+  {
+   "w": "Co-equal",
+   "pron": "ko-eqwəl",
+   "pos": "adj. & n.",
+   "def": "Of equal status",
+   "ur": "برابر - یکساں - مساوی -",
+   "ex": []
+  },
+  {
+   "w": "Coerce",
+   "pron": "ko-ərs",
+   "pos": "v.t. & i.",
+   "def": "Force a person into obedience",
+   "ur": "دباؤ - مجبور کرنا - دباؤ - ڈالنا - جبر سے حاصل کرنا - جبری کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Coerced obedience",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ناگزیر اطاعت - جبر اطاعت -",
+   "ex": []
+  },
+  {
+   "w": "Coercible",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "جبر کئے جانے کے قابل - جبر پذیر -",
+   "ex": []
+  },
+  {
+   "w": "Coercion",
+   "pron": "ko-ər-shən",
+   "pos": "n.",
+   "def": "Controlling of voluntary action or agent by force",
+   "ur": "جبر - زور - زبردستی - استبدادی حکومت -",
+   "ex": []
+  },
+  {
+   "w": "Coercionary",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "سخت گیر - استبدادی - جبری -",
+   "ex": []
+  },
+  {
+   "w": "Coercionist",
+   "pron": "",
+   "pos": "n. & adj.",
+   "def": "",
+   "ur": "استبدادیت کا حامی - سخت گیر - جابر -",
+   "ex": []
+  },
+  {
+   "w": "Coercive",
+   "pron": "kō-ər-sive",
+   "pos": "adj.",
+   "def": "Acting by coercion",
+   "ur": "تشدد آمیز - سخت - زور آور - زبردست -",
+   "ex": []
+  },
+  {
+   "w": "Coessential",
+   "pron": "kōe-sen-shəl",
+   "pos": "adj.",
+   "def": "Of the same substance",
+   "ur": "ہم اصل - ہم مادہ -",
+   "ex": []
+  },
+  {
+   "w": "Co-eternal",
+   "pron": "kōā-tər-nəl",
+   "pos": "adj.",
+   "def": "Equally ever existing",
+   "ur": "ہم قدم - ہم ابد - ہم قیام - ہم دوام -",
+   "ex": []
+  },
+  {
+   "w": "Co-eval",
+   "pron": "cō-eval",
+   "pos": "adj. & n.",
+   "def": "Persons of the same age and epoch",
+   "ur": "ہم عہد - ہم عصر - ہم زمانہ -",
+   "ex": []
+  },
+  {
+   "w": "Co-executor",
+   "pron": "kō-eg-ze-kutor",
+   "pos": "n.",
+   "def": "Joint executor",
+   "ur": "ہم وثیقہ - شریک وصی -",
+   "ex": []
+  },
+  {
+   "w": "Co-exist",
+   "pron": "kō-eg-zist",
+   "pos": "v.i.",
+   "def": "Exist together or with",
+   "ur": "کسی دوسرے کے ساتھ موجود ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Co-existence",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "ہم بودی - ہم موجودیت -",
+   "ex": []
+  },
+  {
+   "w": "Co-existent",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "ہم بود - ہم وجود -",
+   "ex": []
+  },
+  {
+   "w": "Co-extensive",
+   "pron": "ko-eks-ten-sive",
+   "pos": "adj.",
+   "def": "Extending over space and time",
+   "ur": "ہم زمان - ہم مکان -",
+   "ex": []
+  },
+  {
+   "w": "Coffee",
+   "pron": "kof-i",
+   "pos": "n.",
+   "def": "Drink made from seeds roasted and ground",
+   "ur": "قہوہ - کافی - ناشتہ - حاضری - کافی کے بیج -",
+   "ex": []
+  },
+  {
+   "w": "Coffer",
+   "pron": "kof-ər",
+   "pos": "n.",
+   "def": "Treasury box",
+   "ur": "زنیور - روکڑ کا صندوق - خزانے کا صندوق -",
+   "ex": []
+  },
+  {
+   "w": "Coffin",
+   "pron": "kof-in",
+   "pos": "n. & v.t.",
+   "def": "Chest for burying corpse",
+   "ur": "تابوت - مردے کو دفن کرنے کا صندوق - نکما جہاز - تابوت میں رکھنا - کفنانا -",
+   "ex": []
+  },
+  {
+   "w": "Drive nail into one's coffin",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "موت کو دعوت دینا -",
+   "ex": []
+  },
+  {
+   "w": "Cog",
+   "pron": "kog",
+   "pos": "n.",
+   "def": "One of series of projections on edge of wheel",
+   "ur": "پہیے کے دانت - دندانے -",
+   "ex": []
+  },
+  {
+   "w": "Cogged",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "پہیے کے دانتوں کا - دندانے دار -",
+   "ex": []
+  },
+  {
+   "w": "Cog",
+   "pron": "kog",
+   "pos": "v.t.",
+   "def": "Cleverly control the dice",
+   "ur": "عیاری سے پانسہ پھینکنا - پہسلا کر لینا - خوشامد سے حاصل کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Cogent",
+   "pron": "kō-jənt",
+   "pos": "adj.",
+   "def": "convincing",
+   "ur": "قوی - مضبوط - پختہ - دلنشین - معقول -",
+   "ex": []
+  },
+  {
+   "w": "Cogency",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "دلنشینی - معقولیت - پختگی - مضبوطی -",
+   "ex": []
+  },
+  {
+   "w": "Cogently",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "پختہ طور پر - دلنشین طریقے سے - معقول طور پر -",
+   "ex": []
+  },
+  {
+   "w": "Cogitable",
+   "pron": "kōji-tabl",
+   "pos": "adj.",
+   "def": "Conceivable",
+   "ur": "قابل قبول - قابل فہم - قابل قیاس -",
+   "ex": []
+  },
+  {
+   "w": "Cogitate",
+   "pron": "kōji-tat",
+   "pos": "v.t. & i.",
+   "def": "Meditate",
+   "ur": "کسی شے کا تصور کرنا - بچارنا - خیال کرنا - سوچنا -",
+   "ex": []
+  },
+  {
+   "w": "Cogitation",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "سوچ بچار - خیال - تفکر - تامل -",
+   "ex": []
+  },
+  {
+   "w": "Cogitative",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "گیان - سوچ بچار کرنے والا - فکر کرنے والا - تفکر پسند -",
+   "ex": []
+  },
+  {
+   "w": "Cogitatively",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "سوچ بچار سے - متفکرانہ -",
+   "ex": []
+  },
+  {
+   "w": "Cogitativeness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "گیان دھیان - فکر مندی -",
+   "ex": []
+  },
+  {
+   "w": "Cognac",
+   "pron": "kon-yäk",
+   "pos": "n.",
+   "def": "French brandy",
+   "ur": "ایک قسم کی شراب - فرانسیسی برانڈی -",
+   "ex": []
+  },
+  {
+   "w": "Cognate",
+   "pron": "kog-nāt",
+   "pos": "adj. n.",
+   "def": "Descended from common ancestor",
+   "ur": "ہم اصل - ہم جنس - ہم جنانی - نسبتی - متعلقہ -",
+   "ex": []
+  },
+  {
+   "w": "Cognateness",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "رشتہ داری - ہم جنس - قرابت داری -",
+   "ex": []
+  },
+  {
+   "w": "Cognation",
+   "pron": "kog-na-shən",
+   "pos": "n.",
+   "def": "Relationship",
+   "ur": "نسبتی تعلق - رشتہ داری - قرابت -",
+   "ex": []
+  },
+  {
+   "w": "Cognition",
+   "pron": "kog-ni-shən",
+   "pos": "n.",
+   "def": "Faculty of knowing",
+   "ur": "گیان - علم - آگہی - وقوف -",
+   "ex": []
+  },
+  {
+   "w": "Cognitional",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "علمی ادراکی -",
+   "ex": []
+  },
+  {
+   "w": "Cognitive",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "عارف - واقف - گیانی -",
+   "ex": []
+  },
+  {
+   "w": "Cognizable",
+   "pron": "kōg-nizabl",
+   "pos": "adj.",
+   "def": "Perceivable",
+   "ur": "قابل سماعت - عدالت عالیہ کے اختیارات کے اندر - قابل دست اندازی - قابل ادراک - قابل فہم -",
+   "ex": []
+  },
+  {
+   "w": "Cognizance",
+   "pron": "kog-niz-ans",
+   "pos": "n.",
+   "def": "Being aware",
+   "ur": "قانونی شنوائی - سماعت - علم - آگہی - اختیار کا استعمال - امتیازی نشان - پہچان -",
+   "ex": []
+  },
+  {
+   "w": "Be beyond one's cognizance",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ناقابل دست اندازی - دائرہ اختیار سے باہر -",
+   "ex": []
+  },
+  {
+   "w": "Fall within one's cognizance",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "قابل دست اندازی - دائرہ اختیار میں ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Take cognizance of",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "سماعت کرنا - دھیان میں لانا - توجہ کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Have cognizance of",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کسی چیز کا سرکاری طور پر علم ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Cognizant",
+   "pron": "kog-ni-zant",
+   "pos": "adj.",
+   "def": "Having knowledge",
+   "ur": "صاحب معرفت - محرم - واقف -",
+   "ex": []
+  },
+  {
+   "w": "Cognize",
+   "pron": "kog-nīz",
+   "pos": "v.t.",
+   "def": "Have knowledge of",
+   "ur": "توجہ دلانا - شناخت کرنا - علم یا ادراک رکھنا -",
+   "ex": []
+  },
+  {
+   "w": "Cognomen",
+   "pron": "kog-no-mən",
+   "pos": "n.",
+   "def": "Surname",
+   "ur": "اسم - سرنام - لقب - عرفیت -",
+   "ex": []
+  },
+  {
+   "w": "Cognominal",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "ہم اسم - ایک ہی نام کا - ہم نام -",
+   "ex": []
+  },
+  {
+   "w": "Cognovit",
+   "pron": "kog-nō-vit",
+   "pos": "n.",
+   "def": "Defendant's acceptance of plaintiff's cause",
+   "ur": "اقبال دعویٰ - مدعا علیہ کا اقبال کہ مدعی کا دعویٰ حق بجانب ہے -",
+   "ex": []
+  },
+  {
+   "w": "Cohabit",
+   "pron": "kō-hab-it",
+   "pos": "v.t.",
+   "def": "Live as husband and wife",
+   "ur": "ہم بستر ہونا - مباشرت کرنا - صحبت کرنا - (عموماً غیر عورت سے) -",
+   "ex": []
+  },
+  {
+   "w": "Cohabitation",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "مباشرت - ہم بستری -",
+   "ex": []
+  },
+  {
+   "w": "Co-heir coheiress",
+   "pron": "kō-ar",
+   "pos": "n.",
+   "def": "Joint heir",
+   "ur": "ہم میراث - ہم ورثہ - شریک میراث -",
+   "ex": []
+  },
+  {
+   "w": "Cohere",
+   "pron": "kō-hər",
+   "pos": "v.t.",
+   "def": "Stick together",
+   "ur": "جمنا - چمٹنا - اک رنگ ہونا - لگنا - مربوط ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Coherent",
+   "pron": "kō-her-ənt",
+   "pos": "adj.",
+   "def": "Easily followed",
+   "ur": "باندھا ہوا - جڑا ہوا - چپکا ہوا - مربوط - سہل - قابل فہم -",
+   "ex": []
+  },
+  {
+   "w": "Coherence, coherency",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "پیوستگی - ربط - اتصال - جماد - وصل -",
+   "ex": []
+  },
+  {
+   "w": "Coherently",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "اتصال کے ساتھ - ربط کے ساتھ -",
+   "ex": []
+  },
+  {
+   "w": "Cohesion",
+   "pron": "kō-he-zhən",
+   "pos": "n.",
+   "def": "Sticking together",
+   "ur": "پیوستگی - اتصال - لکاؤ - چسپیدگی -",
+   "ex": []
+  },
+  {
+   "w": "Cohesive",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "پاس پاس - متصل - ملا ہوا -",
+   "ex": []
+  },
+  {
+   "w": "Cohesiveness",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "پیوستگی - چسپیدگی -",
+   "ex": []
+  },
+  {
+   "w": "Cohort",
+   "pron": "kō-hort",
+   "pos": "n.",
+   "def": "Persons banded together",
+   "ur": "جماعت - گروہ - فوج کا دستہ -",
+   "ex": []
+  },
+  {
+   "w": "Coif",
+   "pron": "koif",
+   "pos": "n.",
+   "def": "Close cap covering top, back and sides of head",
+   "ur": "کٹوپ - ایک قسم کی ٹوپی - عورتوں کی ٹوپی -",
+   "ex": []
+  },
+  {
+   "w": "Coiffeur",
+   "pron": "kwā-fər",
+   "pos": "n.",
+   "def": "Hairdresser",
+   "ur": "بال بنانے والا - مشاطہ -",
+   "ex": []
+  },
+  {
+   "w": "Coiffure",
+   "pron": "kwā-fər",
+   "pos": "n.",
+   "def": "Way one's hair is dressed",
+   "ur": "کنگھی چوٹی - بانگ پٹی -",
+   "ex": []
+  },
+  {
+   "w": "Coil",
+   "pron": "koil",
+   "pos": "n.",
+   "def": "Length of coiled rope",
+   "ur": "کنڈل - لپچھا - انٹی - ڈور کا گولہ -",
+   "ex": []
+  },
+  {
+   "w": "Coin",
+   "pron": "koin",
+   "pos": "n.",
+   "def": "Metal money",
+   "ur": "پیسہ - زر رائج - روپیہ - سکہ -",
+   "ex": []
+  },
+  {
+   "w": "Pay one in his own coin",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ترکی بہ ترکی جواب دینا -",
+   "ex": []
+  },
+  {
+   "w": "Coin",
+   "pron": "koin",
+   "pos": "v.t.",
+   "def": "Make money by stamping money",
+   "ur": "ضرب کرنا - دارالضرب میں سکے ڈھالنا - دماغی قوت سے روپیہ پیدا کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Coinage",
+   "pron": "koin-aj",
+   "pos": "n.",
+   "def": "System of coin in use",
+   "ur": "رائج الوقت سکے - سکے زنی - نظام سکے - اختراع - گھڑے ہوئے الفاظ - بن گھڑت -",
+   "ex": []
+  },
+  {
+   "w": "Coincide",
+   "pron": "kō-in-sīd",
+   "pos": "v.i.",
+   "def": "Occur at the same time",
+   "ur": "ایک ہی وقت میں ہونا - مطابق ہونا - ہم زمان ہونا - ٹھیک بیٹھنا - منطبق ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Coincidence",
+   "pron": "kō-in-sīd-əns",
+   "pos": "n.",
+   "def": "Concurrence of events",
+   "ur": "اتفاق مطابقت - بہ یک وقت وقوع - زمانی مطابقت -",
+   "ex": []
+  },
+  {
+   "w": "Coincident",
+   "pron": "kō-in-sīd-ənt",
+   "pos": "adj.",
+   "def": "Coinciding",
+   "ur": "موافق - مطابق - ہم وقت - ہم زمان - ساتھ ساتھ -",
+   "ex": []
+  },
+  {
+   "w": "Coincidently",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "ہم وقتی سے - ہم زمانی سے - اتفاق سے - اتفاقاً -",
+   "ex": []
+  },
+  {
+   "w": "Coincidental adj. Of the nature of coincidence",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ہم زمانی - ہم مکانی - مطابق -",
+   "ex": []
+  },
+  {
+   "w": "Coiner",
+   "pron": "koinər",
+   "pos": "n.",
+   "def": "Maker of counterfeit coins",
+   "ur": "جعلی سکے بنانے والا -",
+   "ex": []
+  },
+  {
+   "w": "Coir",
+   "pron": "koir",
+   "pos": "n.",
+   "def": "Coconut fibre",
+   "ur": "ناریل کے ریشوں کی رسی - ناریل کے ریشے -",
+   "ex": []
+  },
+  {
+   "w": "Coition",
+   "pron": "kō-ish-ən",
+   "pos": "n.",
+   "def": "Sexual copulation",
+   "ur": "وصال - مباشرت - جماع - صحبت -",
+   "ex": []
+  },
+  {
+   "w": "Coke",
+   "pron": "kōk",
+   "pos": "n. & v.t.",
+   "def": "Half burnt coal",
+   "ur": "پتھر کا کوئلہ جس کو جلا کر بجھا لیتے ہیں - نیم سوختہ کوئلہ -",
+   "ex": []
+  },
+  {
+   "w": "Colander",
+   "pron": "kulən-dər",
+   "pos": "n., v.t. & i.",
+   "def": "Perforated vessel used as a strainer",
+   "ur": "چھلنی - غربال -",
+   "ex": []
+  },
+  {
+   "w": "Cold",
+   "pron": "kold",
+   "pos": "adj.",
+   "def": "Of low temperature",
+   "ur": "بارد - خنک - سرد - ٹھنڈا - بے حس - سرد مہر - افسردہ کرنے والی - غیر دلچسپ - شکار کی ہلکی بو -",
+   "ex": []
+  },
+  {
+   "w": "Cold livered",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ٹھنڈی مٹی کا - بے حس - افسردہ دل -",
+   "ex": []
+  },
+  {
+   "w": "Cold meat",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ٹھنڈا گوشت -",
+   "ex": []
+  },
+  {
+   "w": "Give the cold shoulder to",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "رکھائی کرنا - سرد مہری سے پیش آنا -",
+   "ex": []
+  },
+  {
+   "w": "Throw cold water on a plan",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کسی منصوبے پر پانی پھیرنا -",
+   "ex": []
+  },
+  {
+   "w": "Coldish",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "خنک سا - ٹھنڈا سا -",
+   "ex": []
+  },
+  {
+   "w": "Coldly",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "بے پروائی سے - بے اعتنائی سے -",
+   "ex": []
+  },
+  {
+   "w": "Coldness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "سرد مہری - رکھائی - بے اعتنائی -",
+   "ex": []
+  },
+  {
+   "w": "Cold",
+   "pron": "kōld",
+   "pos": "n.",
+   "def": "Sore throat, running at nose",
+   "ur": "زکام - جاڑا - نزلہ - ٹھنڈ - سردی -",
+   "ex": []
+  },
+  {
+   "w": "Cole staff",
+   "pron": "kol-staf",
+   "pos": "n.",
+   "def": "Weight carrying stick",
+   "ur": "بوجھ ڈھونے کا ڈنڈا یا بلی -",
+   "ex": []
   }
  ],
  "urdu_english": [
