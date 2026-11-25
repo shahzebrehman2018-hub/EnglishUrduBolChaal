@@ -135733,6 +135733,1310 @@
    "def": "Empowered",
    "ur": "عہدہ دار - ناظر - سند یافتہ - اختیار یافتہ - فوجی اختیار یافتہ - اجازت یافتہ جہاز - حاکم - مختار -",
    "ex": []
+  },
+  {
+   "w": "Commit",
+   "pron": "kə-mit",
+   "pos": "v.t.",
+   "def": "Entrust, consign",
+   "ur": "سونپنا - حوالے کرنا - سپرد کرنا - ذمہ لگانا - تفویض کرنا - کوئی کام کرنا - ارتکاب کرنا - پھانس لینا - قبول لینا - مخدوشی یا مشتبہ کرنا - پابند کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Commitment",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "جیل خانہ بھیجنا - پابندی - قید - حوالہ - سپردگی -",
+   "ex": []
+  },
+  {
+   "w": "Committal",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "قید - پابندی -",
+   "ex": []
+  },
+  {
+   "w": "Committee",
+   "pron": "kə-mi-tē",
+   "pos": "n.",
+   "def": "Body of appointed persons",
+   "ur": "کمیٹی - مجلس - سبھا - پنچایت - جماعت جو کسی خاص مقصد کے لیے مقرر کی گئی ہو -",
+   "ex": []
+  },
+  {
+   "w": "Standing committee",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "جماعت جو مقرر کرنے والوں کی موجودگی تک قائم رہے - مجلس قائمہ -",
+   "ex": []
+  },
+  {
+   "w": "Commod",
+   "pron": "kə-mod",
+   "pos": "n.",
+   "def": "Close stool",
+   "ur": "کمود - طلت - چوکی - پاخانہ کی چوکی -",
+   "ex": []
+  },
+  {
+   "w": "Commodious",
+   "pron": "kə-mo-dyəs",
+   "pos": "adj.",
+   "def": "Comfortable",
+   "ur": "کشادہ - وسیع - کھلا - آرام دہ -",
+   "ex": []
+  },
+  {
+   "w": "Commodiousness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "فراخی - کشادگی - راحت - آرام -",
+   "ex": []
+  },
+  {
+   "w": "Commodity",
+   "pron": "kə-modi-ti",
+   "pos": "n.",
+   "def": "Article of trade",
+   "ur": "مفید شے - اسباب تجارت - جنس - مال -",
+   "ex": []
+  },
+  {
+   "w": "Commodore",
+   "pron": "kəmo-dor",
+   "pos": "n.",
+   "def": "Naval officer above Captain",
+   "ur": "میر بحریہ کا ماتحت عہدہ دار - قائم مقام - صدر ناخدا -",
+   "ex": []
+  },
+  {
+   "w": "Common",
+   "pron": "kom-ən",
+   "pos": "adj.",
+   "def": "The public",
+   "ur": "سب کا - مشترک - عوامی - عوام کا - روز مرہ کا - ادنیٰ - گنوار - بے حیثیت -",
+   "ex": []
+  },
+  {
+   "w": "Common room",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بیٹھنے کا کمرہ - بیٹھک - عام لوگوں کی نشست کا کمرہ -",
+   "ex": []
+  },
+  {
+   "w": "Philosophy of common sense",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "عام عقل کی بات - تجربہ کی بات -",
+   "ex": []
+  },
+  {
+   "w": "Common",
+   "pron": "kom-ən",
+   "pos": "n.",
+   "def": "Land belonging to a community",
+   "ur": "بن چرائی - عوامی زمین - عام لوگوں کے مویشیوں کی چرا گاہ -",
+   "ex": []
+  },
+  {
+   "w": "Out of the common",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "غیر معمولی -",
+   "ex": []
+  },
+  {
+   "w": "Commonality",
+   "pron": "kom-ənəli-ti",
+   "pos": "n.",
+   "def": "The common people",
+   "ur": "خلق خدا - عام لوگ - عوام الناس - ایمرے غیرے -",
+   "ex": []
+  },
+  {
+   "w": "Commonly",
+   "pron": "kom-ən-li",
+   "pos": "adv.",
+   "def": "Usually,",
+   "ur": "عام طور پر - بالعموم - عموماً - اکثر اوقات -",
+   "ex": []
+  },
+  {
+   "w": "Commonplace",
+   "pron": "kom-ən-pləs",
+   "pos": "n.",
+   "def": "Anything common",
+   "ur": "خاص خاص باتیں جو لکھ لی جائیں - پیش پا افتادہ - سنی سنائی - معمولی - گھٹیا -",
+   "ex": []
+  },
+  {
+   "w": "Commonplace",
+   "pron": "komən-pləs",
+   "pos": "v.t. & i.",
+   "def": "Extract or utter commonplaces",
+   "ur": "اقتباس کرنا - نقل کر رکھنا - سنی سنائی باتیں کہنا - پامال مضامین پر گفتگو کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Commons",
+   "pron": "kom-əns",
+   "pos": "n.",
+   "def": "The common people, House of commons",
+   "ur": "عوام جمہور - انگلستان کے منتخب نمائندے - دارالعوام - مشترکہ کھانا - طلبا کا وہ کھانا جو کالج سے ملتا ہے - خوراک - نقرہ کھانا -",
+   "ex": []
+  },
+  {
+   "w": "Commonwealth",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "جمہوری سلطنت - انگلستان اور اس کے زیر اثر علاقے - دولت مشترکہ - دولت مشترکہ کی آزاد ریاستیں - ادا کاروں کی ٹولی جو آمدنی میں برابر کی شریک ہو -",
+   "ex": []
+  },
+  {
+   "w": "Commotion",
+   "pron": "kə-mo-shən",
+   "pos": "n.",
+   "def": "Bustle, tumult",
+   "ur": "گڑبڑ - کھلبلی - شورش - ہل چل - افراتفری - ہنگامہ - بے قراری - بے کلی -",
+   "ex": []
+  },
+  {
+   "w": "Communal",
+   "pron": "kəmū-nəl",
+   "pos": "adj.",
+   "def": "Of the community",
+   "ur": "پیرس کمون کا رکن - بستی کا - آبادی کا - فرقہ وار - مخصوص گروہ یا جماعت کا -",
+   "ex": []
+  },
+  {
+   "w": "Communalism",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "جداگانہ انتخاب کا نظریہ - قومی خود مختاری کا طریقہ - فرقہ وارانہ خود مختاری کا اصول -",
+   "ex": []
+  },
+  {
+   "w": "Communalist",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بستی کی خود مختاری کا حامی - فرقہ پرست -",
+   "ex": []
+  },
+  {
+   "w": "Communalise",
+   "pron": "kəmū-nəl-īz",
+   "pos": "v.i.",
+   "def": "",
+   "ur": "مشترک ملک بنانا - تمام چیزوں کو بستی کی ملکیت بنانا -",
+   "ex": []
+  },
+  {
+   "w": "Communalisation",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "قریہ کی ملکیت قرار دینا - شاملات میں داخل کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Commune",
+   "pron": "kə-mūn",
+   "pos": "n.",
+   "def": "French territorial division",
+   "ur": "فرانسیسی پرگنہ یا تحصیل - ملکی پنچایت - مجلس قریہ -",
+   "ex": []
+  },
+  {
+   "w": "Commune",
+   "pron": "kə-mūn",
+   "pos": "v.i.",
+   "def": "Hold intimate intercourse",
+   "ur": "بات چیت کرنا - کلام کرنا - راز و نیاز کرنا - دل کی بات کہنا - مسیحی تسلیم کیا جانا -",
+   "ex": []
+  },
+  {
+   "w": "Communicable",
+   "pron": "kə-mū-ni-kə-bl",
+   "pos": "",
+   "def": "That can be imparted",
+   "ur": "کوشش گزاری کے قابل - کہنے کے لائق -",
+   "ex": []
+  },
+  {
+   "w": "Communicate",
+   "pron": "kə-mū-ni-kat",
+   "pos": "v.t. & i.",
+   "def": "Impart, transmit",
+   "ur": "ربط پیدا کرنا - خبر دینا - آگاہ کرنا - اطلاع دینا - رسائی پیدا کرنا - خط و کتابت کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Communication",
+   "pron": "kə-mū-ni-ka-shən",
+   "pos": "n.",
+   "def": "Act of imparting information",
+   "ur": "خبر رسانی - اطلاع - مکتوب - مراسلہ - تعلق - رابطہ - میل جول - راستہ - آمد و رفت -",
+   "ex": []
+  },
+  {
+   "w": "Communicative",
+   "pron": "kə-mū-ni-ka-tiv",
+   "pos": "adj.",
+   "def": "",
+   "ur": "باتونی - ملنسار - خبر رساں - اطلاع دینے پر آمادہ - باتیں کرنے میں بے تکلف -",
+   "ex": []
+  },
+  {
+   "w": "Communicator",
+   "pron": "kə-mū-ni-ka-tər",
+   "pos": "n.",
+   "def": "Person that communicates",
+   "ur": "اطلاع کرنے والا - خبر رساں - تار کا پیغام بھیجنے کا آلہ - اطلاعی زنجیر جو ریلوں میں لگتے ہیں -",
+   "ex": []
+  },
+  {
+   "w": "Communion",
+   "pron": "kə-mūn-yən",
+   "pos": "n.",
+   "def": "Participation, fellowship",
+   "ur": "دل کی بات - راز و نیاز - شرکت - رفاقت - ہم مشربی - مذہبی گروہ - تعلق - رابطہ ملاقات -",
+   "ex": []
+  },
+  {
+   "w": "Communism",
+   "pron": "kəmū-nizm",
+   "pos": "n.",
+   "def": "Vesting of property in the community",
+   "ur": "اشتمالیت - اشتراکیت - مساوات - مال و دولت کو مشترک ملکیت بنانے کا اصول یا اس کی حمایت -",
+   "ex": []
+  },
+  {
+   "w": "Communist",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "اشتمال پسند شخص - اشتمالی -",
+   "ex": []
+  },
+  {
+   "w": "Community",
+   "pron": "kə-mū-ni-ti",
+   "pos": "n.",
+   "def": "Joint ownership",
+   "ur": "حصہ داری - شراکت - مشترکہ ملکیت - اتحاد - یکسانی - فرقہ - گروہ - بستی - آبادی - برادری -",
+   "ex": []
+  },
+  {
+   "w": "Communize",
+   "pron": "kə-mū-nīz",
+   "pos": "v.t.",
+   "def": "Make common property",
+   "ur": "جمہوری یا قومی بنانا - مال مشترکہ بنانے -",
+   "ex": []
+  },
+  {
+   "w": "Communization",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "اشتمال کا اصول جاری کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Commutable",
+   "pron": "kə-mūtə-bl",
+   "pos": "adj.",
+   "def": "Exchangeable",
+   "ur": "جس میں رد و بدل کی صلاحیت ہو - تبدیلی کے قابل - مبادلہ پذیر -",
+   "ex": []
+  },
+  {
+   "w": "Commutability",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "تبادلے کی قابلیت ، بدل پذیری -",
+   "ex": []
+  },
+  {
+   "w": "Commutation",
+   "pron": "kəmū-ta-shun",
+   "pos": "n.",
+   "def": "Commuting",
+   "ur": "عوض معاوضہ - پیرا پھیری - قیمت - مبادلہ - تبدل -",
+   "ex": []
+  },
+  {
+   "w": "Commutator",
+   "pron": "kəmū-ta-ter",
+   "pos": "n.",
+   "def": "Person or thing that commutes",
+   "ur": "حاکم مجاز تبدل - بدلنے والا - تانبے کا ایک پرزہ جو برقی رو کو مختلف سمت میں بدلنے کے لیے لگاتے ہیں -",
+   "ex": []
+  },
+  {
+   "w": "Commute",
+   "pron": "kə-mūt",
+   "pos": "v.t.",
+   "def": "Buy off, interchange",
+   "ur": "تبدیل کرنا - معاوضہ دینا - بھاری سزا سے بدل دینا -",
+   "ex": []
+  },
+  {
+   "w": "Compact",
+   "pron": "kəm-pakt",
+   "pos": "n.",
+   "def": "Agreement between parties",
+   "ur": "عہد و پیمان - معاہدہ - قول و قرار - عہد -",
+   "ex": []
+  },
+  {
+   "w": "General compact",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "عام رضامندی -",
+   "ex": []
+  },
+  {
+   "w": "Compact",
+   "pron": "kəm-pakt",
+   "pos": "adj.",
+   "def": "Closely or neatly packed together",
+   "ur": "ٹھوس - مضبوط - پختہ - چست - متین -",
+   "ex": []
+  },
+  {
+   "w": "Compactly",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "متانت سے - پختہ طور پر - ٹھوس طریقے سے -",
+   "ex": []
+  },
+  {
+   "w": "Compactness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "متانت - چستی - گاڑھا پن - گھنا پن -",
+   "ex": []
+  },
+  {
+   "w": "Compact",
+   "pron": "kəm-pakt",
+   "pos": "v.t.",
+   "def": "Join firmly together",
+   "ur": "مضبوط کرنا - کسنا - پیوستہ کرنا - جوڑنا - جمانا -",
+   "ex": []
+  },
+  {
+   "w": "Companion",
+   "pron": "kəm-pan-yən",
+   "pos": "n., v.t. & i.",
+   "def": "One who accompanies another",
+   "ur": "ساتھی - شریک - ہم صحبت - ہم نشین - خلاصہ - کلید - حل - ایک سرکاری خطاب - یار وفادار - مصاحب - سہیلی - ساتھ دینا - رفاقت کرنا - ہم نشین ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Companion",
+   "pron": "kəm-pan-yən",
+   "pos": "n.",
+   "def": "Opening in deck leading to cabin",
+   "ur": "جہازی روشن دان - تاب دان - روشن دان کا ڈھکن -",
+   "ex": []
+  },
+  {
+   "w": "Companionable",
+   "pron": "kəm-pan-yen-əbl",
+   "pos": "adj.",
+   "def": "Sociable",
+   "ur": "خوش صحبت - زندہ دل - ملنسار - یار باش -",
+   "ex": []
+  },
+  {
+   "w": "Companionship",
+   "pron": "kəm-pan-yən-ship",
+   "pos": "n.",
+   "def": "State of being companions",
+   "ur": "صحبت - رفاقت - ہم نشینی - معیت - ثانی جانے والوں کی جماعت جو مل کر کام کرتے ہیں -",
+   "ex": []
+  },
+  {
+   "w": "Company",
+   "pron": "kum-pə-ni",
+   "pos": "v.t., i. & n.",
+   "def": "Body of combined persons",
+   "ur": "گروہ - جتھا - ٹولی - منڈلی - جماعت - صحبت - رفاقت - معیت - ہم صحبت - ہم نشین - مجمع - اہل محفل - مجمع دوستان - کارخانے کے شرکا جن کے نام ظاہر کرنا مقصود نہ ہو - فوجی دستہ جو کپتان کے ماتحت ہو -",
+   "ex": []
+  },
+  {
+   "w": "Company manners",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "مصنوعی اخلاق - بعض دکھاوے کے اخلاق - ظاہری اخلاق -",
+   "ex": []
+  },
+  {
+   "w": "I sin in good company",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "مجھ سے بہتر لوگ یہ کام کر چکے ہیں - ارتکاب گناہ میں اچھے اچھے میرے ساتھ ہیں -",
+   "ex": []
+  },
+  {
+   "w": "Joint stock company",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "چند منتخبہ افراد کی جماعت - مشترک سرمایہ کی دوکان -",
+   "ex": []
+  },
+  {
+   "w": "Weep for company",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کسی کو روتا دیکھ کر رونا - کسی کے غم میں شریک ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Comparable",
+   "pron": "kəm-pə-rə-bl",
+   "pos": "adj.",
+   "def": "Fit to be compared",
+   "ur": "ٹکر کا - ہم رتبہ - ہم پلہ - مقابلہ کرنے جانے کے قابل -",
+   "ex": []
+  },
+  {
+   "w": "Comparative",
+   "pron": "kəm-para-tiv",
+   "pos": "n. & adj.",
+   "def": "Estimated by comparison",
+   "ur": "متناسب - نسبتی - جو چیز ایک دوسرے کے مقابلہ سے جانچا جائے -",
+   "ex": []
+  },
+  {
+   "w": "In comparative comfort",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "نسبتاً آرام سے -",
+   "ex": []
+  },
+  {
+   "w": "Comparatively",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "نسبتاً - مقابلتاً -",
+   "ex": []
+  },
+  {
+   "w": "Compare",
+   "pron": "kəm-pār",
+   "pos": "v.t. & i.",
+   "def": "Liken",
+   "ur": "تشبیہ دینا - جانچنا - موازنہ کرنا - مقابلہ کرنا - ملانا -",
+   "ex": []
+  },
+  {
+   "w": "Compare notes",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "نتائج ملانا - تجریوں کا مقابلہ کرنا - تبادلہ خیال کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Compare",
+   "pron": "kəm-pār",
+   "pos": "n.",
+   "def": "Comparison",
+   "ur": "مماثلت - چانچ - پڑتال - مقابلہ - موازنہ -",
+   "ex": []
+  },
+  {
+   "w": "Beyond compare",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "لاثانی - بے مثال -",
+   "ex": []
+  },
+  {
+   "w": "Comparison",
+   "pron": "kəm-pari-zun",
+   "pos": "n.",
+   "def": "Act of comparing",
+   "ur": "مماثلت - نظیر - موازنہ - مقابلہ -",
+   "ex": []
+  },
+  {
+   "w": "Compart",
+   "pron": "kom-pärt",
+   "pos": "v.t.",
+   "def": "Divide into compartments",
+   "ur": "درجوں میں تقسیم کرنا - الگ الگ حصے کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Compartment",
+   "pron": "kəm-pärt-mənt",
+   "pos": "n.",
+   "def": "Division separated by Partition",
+   "ur": "خانہ - کمرہ - حجرہ - درجہ - ڈبہ - ریل کا ڈبہ - جہاز کے کمرے جن میں پانی داخل نہیں ہو سکتا -",
+   "ex": []
+  },
+  {
+   "w": "Compass",
+   "pron": "kəm-päs",
+   "pos": "n.",
+   "def": "Boundary, area",
+   "ur": "گردا - احاطہ - چکر - گھیرا - دور - پرکار - قطب نما - پہنچ - رسائی - وسعت -",
+   "ex": []
+  },
+  {
+   "w": "Beyond my compass",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "میری طاقت سے باہر ہے -",
+   "ex": []
+  },
+  {
+   "w": "Compass",
+   "pron": "kəm-päs",
+   "pos": "v.t.",
+   "def": "Go round, accomplish",
+   "ur": "گھیرا ڈالنا - گھیرنا - چکر لگانا - عامرہ کرنا - قابو میں لانا - دل میں ٹھاننا - تدبیر نکالنا - سوجھنا - پورا کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Compassable",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "احاطہ کرنے کے قابل - قابو میں آنے کے قابل - معاصرہ کے قابل -",
+   "ex": []
+  },
+  {
+   "w": "Compassion",
+   "pron": "kəm-pash-ən",
+   "pos": "n.",
+   "def": "Pity inclining one to help",
+   "ur": "دیا - رحم - خدا ترسی - ترس - تلطف - رافت -",
+   "ex": []
+  },
+  {
+   "w": "Compassionate",
+   "pron": "kəm-pash-ən-it",
+   "pos": "adj.",
+   "def": "Sympathetic",
+   "ur": "ترس کھانے والا - دیالو - رحم دل - خدا ترس - رعایتی -",
+   "ex": []
+  },
+  {
+   "w": "Compassionately",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "رعایت سے - ہمدردی سے - رحمدلی سے - خدا ترسی سے -",
+   "ex": []
+  },
+  {
+   "w": "Compassionateness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "غمگساری - رحمدلی - خدا ترسی -",
+   "ex": []
+  },
+  {
+   "w": "Compassionate",
+   "pron": "kəm-pash-ən-it",
+   "pos": "v.t.",
+   "def": "Regard with compassion",
+   "ur": "رحم کرنا - غم خواری کرنا - ترس کھانا -",
+   "ex": []
+  },
+  {
+   "w": "Compatible",
+   "pron": "kəm-pati-bl",
+   "pos": "adj.",
+   "def": "Consistent",
+   "ur": "ساتھ ساتھ رہنے والا - ملتا جلتا - موزوں - مناسب -",
+   "ex": []
+  },
+  {
+   "w": "Compatibility",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "مطابقت - موافقت - معاشرتی میل جول -",
+   "ex": []
+  },
+  {
+   "w": "Compatriot",
+   "pron": "kəm-pat-ri-ut",
+   "pos": "n.",
+   "def": "Fellow-countryman",
+   "ur": "ایک ملک کا رہنے والا - ایک دیس کا باشندہ - ہم وطن آدمی -",
+   "ex": []
+  },
+  {
+   "w": "Compeer",
+   "pron": "kəm-pēr",
+   "pos": "n.",
+   "def": "Comrade",
+   "ur": "ہم جولی - ہم رتبہ - رفیق - ساتھی -",
+   "ex": []
+  },
+  {
+   "w": "Compel",
+   "pron": "kəm-pel",
+   "pos": "v.t.",
+   "def": "Force",
+   "ur": "بزور داخل کرنا - زبردستی کرانا - لاچار کرنا - زبردستی کرنا - مجبور کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Compellable",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "زبردستی کرانے کے لائق - قابل چیز -",
+   "ex": []
+  },
+  {
+   "w": "Compendious",
+   "pron": "kəm-pen-di-əs",
+   "pos": "adj.",
+   "def": "Brief but comprehensive",
+   "ur": "جامع - خلاصہ - مجمل - مختصر -",
+   "ex": []
+  },
+  {
+   "w": "Compendium",
+   "pron": "kəm-pen-di-əm",
+   "pos": "n.",
+   "def": "Summary",
+   "ur": "خلاصہ - انتخاب - اختصار - لب لباب -",
+   "ex": []
+  },
+  {
+   "w": "Compensate",
+   "pron": "kəm-pən-sat",
+   "pos": "v.t. & i.",
+   "def": "Make amends",
+   "ur": "کسر نکالنا - بدلہ دینا - معاوضہ دینا - تلافی کرنا - عوض دینا - کفارہ ادا کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Compensative",
+   "pron": "",
+   "pos": "n. & adj.",
+   "def": "",
+   "ur": "پورا معاوضہ - تلافی کن -",
+   "ex": []
+  },
+  {
+   "w": "Compensatory",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "معاوض -",
+   "ex": []
+  },
+  {
+   "w": "Compensator",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "معاوضہ دینے والا - تلافی کرنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Compensation",
+   "pron": "kəm-pen-sa-shən",
+   "pos": "n.",
+   "def": "Thing given as recompense",
+   "ur": "ہرجانہ - معاوضہ - بدلہ - عوض - اجر - تلافی - جزا - مکافات -",
+   "ex": []
+  },
+  {
+   "w": "Compete",
+   "pron": "kəm-pēt",
+   "pos": "v.t.",
+   "def": "Vie with another",
+   "ur": "ریس کرنا - مقابلہ کرنا - ہم سری کرنا - برابری کرنا - مقابلے کے لیے سعی کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Competence-cy",
+   "pron": "kəm-pē-tens",
+   "pos": "n.",
+   "def": "Sufficiency of means",
+   "ur": "مرفہ الحال - فراغت - آسودگی - قابلیت - استعداد - صلاحیت -",
+   "ex": []
+  },
+  {
+   "w": "Competent",
+   "pron": "kəm-pē-tent",
+   "pos": "adj.",
+   "def": "Properly qualified",
+   "ur": "صاحب اختیار - قابل - لائق - کافی وافی - مختار - قادر - واجب - درست - مناسب -",
+   "ex": []
+  },
+  {
+   "w": "Competition",
+   "pron": "kəm-pē-tish-ən",
+   "pos": "n.",
+   "def": "Act of competing",
+   "ur": "مقابلہ - برابری - ہم سری - رقابت - امتحان مقابلہ -",
+   "ex": []
+  },
+  {
+   "w": "Competitive",
+   "pron": "kəm-pē-ti-tiv",
+   "pos": "adj.",
+   "def": "",
+   "ur": "ہم سری کا - مقابلہ کا - برابر کا -",
+   "ex": []
+  },
+  {
+   "w": "Competitor",
+   "pron": "kəm-pe-ti-tər",
+   "pos": "n.",
+   "def": "One who competes",
+   "ur": "حریف - ہم چشم - مقابلہ کرنے والا - رقیب - امتحان مقابلہ میں بیٹھنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Compilation",
+   "pron": "kəm-pi-lā-shən",
+   "pos": "n.",
+   "def": "Compiling",
+   "ur": "ترتیب - تدوین - تالیف -",
+   "ex": []
+  },
+  {
+   "w": "Compile",
+   "pron": "kəm-pīl",
+   "pos": "v.t.",
+   "def": "Collect material in a volume",
+   "ur": "جمع کرنا - تالیف کرنا - ترتیب دینا -",
+   "ex": []
+  },
+  {
+   "w": "Complacence-cy",
+   "pron": "kəm-pla-zens",
+   "pos": "n.",
+   "def": "Self-satisfaction",
+   "ur": "مروت - اخلاق - خوشی - آسودگی - اطمینان - دلجمعی -",
+   "ex": []
+  },
+  {
+   "w": "Complacent",
+   "pron": "kəm-pla-sent",
+   "pos": "adj.",
+   "def": "Self-satisfied",
+   "ur": "مطمئن - خوشحال - خلیق - حلیم -",
+   "ex": []
+  },
+  {
+   "w": "Complacently",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "خوش خلقی سے - اطمینان سے - خوشحالی سے -",
+   "ex": []
+  },
+  {
+   "w": "Complain",
+   "pron": "kəm-plān",
+   "pos": "v.i.",
+   "def": "Express dissatisfaction with",
+   "ur": "شکایت کرنا - شکوہ کرنا - نالش کرنا - استغاثہ دائر کرنا - حال مرض بیان کرنا - آہ و زاری کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Complaint",
+   "pron": "kəm-plānt",
+   "pos": "n.",
+   "def": "Utterance of grievances",
+   "ur": "آہ و زاری - فریاد - شکوہ - شکایت - نالش - استغاثہ -",
+   "ex": []
+  },
+  {
+   "w": "Complaisance",
+   "pron": "kom-ple-zâns",
+   "pos": "n.",
+   "def": "Politeness",
+   "ur": "فروتنی - تہذیب - انسانیت - اخلاق - خلق -",
+   "ex": []
+  },
+  {
+   "w": "Complaisant",
+   "pron": "kom-ple-zânt",
+   "pos": "adj.",
+   "def": "Polite",
+   "ur": "آسودہ خاطر - مطمئن - خوشحال - بامروت - خلیق -",
+   "ex": []
+  },
+  {
+   "w": "Complement",
+   "pron": "kom-pli-mənt",
+   "pos": "n.",
+   "def": "That which completes",
+   "ur": "وہ زاویہ جو زاویہ قائمہ کی تکمیل کرتا ہے - مکمل کرنے والا - چاند کی تکمیل - جہاز کے افسروں اور ملاحوں کی پوری تعداد -",
+   "ex": []
+  },
+  {
+   "w": "Complemental",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "تکمیل - بھرتی پوری کرنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Complementary",
+   "pron": "kom-pli-mən-təri",
+   "pos": "adj.",
+   "def": "Serving to complete",
+   "ur": "زائد امدادی - مکمل کرنے والا - پورا کرنے والا - بھرتی پوری کرنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Complete",
+   "pron": "kəm-plēt",
+   "pos": "adj.",
+   "def": "Entire",
+   "ur": "تمام - بالکل - قطعی - کامل - پورا - ثابت -",
+   "ex": []
+  },
+  {
+   "w": "Completely",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "پورا پورا ، پورے طور پر - مکمل طور پر -",
+   "ex": []
+  },
+  {
+   "w": "Completeness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "کمال - تکمیل - اختتام - تمام -",
+   "ex": []
+  },
+  {
+   "w": "Complete",
+   "pron": "kəm-plēt",
+   "pos": "v.t.",
+   "def": "Finish, make perfect",
+   "ur": "ختم کرنا - تمام کرنا - تکمیل کرنا - پورا کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Completion",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "اختتام - اتمام - تکمیل -",
+   "ex": []
+  },
+  {
+   "w": "Completive",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "اختتامی - اتمامی - تکمیلی -",
+   "ex": []
+  },
+  {
+   "w": "Complex",
+   "pron": "kom-pleks",
+   "pos": "n.",
+   "def": "Obsession",
+   "ur": "ذہنی الجھاؤ - دماغی وہم - شاکلہ - الجھی ہوئی بات -",
+   "ex": []
+  },
+  {
+   "w": "Complex",
+   "pron": "kom-pleks",
+   "pos": "adj.",
+   "def": "Complicated",
+   "ur": "مختلف اجزا سے بنا ہوا - پیچ در پیچ - الجھا ہوا - پیچیدہ -",
+   "ex": []
+  },
+  {
+   "w": "Complexity",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "پیچیدگی - الجھاؤ -",
+   "ex": []
+  },
+  {
+   "w": "Complexion",
+   "pron": "kəm-plek-shən",
+   "pos": "n.",
+   "def": "Natural colour, appearance",
+   "ur": "سہاؤ - رنگ روپ - صورت - خصلت - مزاج - طبیعت - پہلو - معنی -",
+   "ex": []
+  },
+  {
+   "w": "Compliance",
+   "pron": "kəm-pli-əns",
+   "pos": "n.",
+   "def": "Submission",
+   "ur": "فرمانبرداری - اطاعت - تکمیل حکم - حکم کی بجا آوری - امتثال امر - پوری پوری اطاعت - غلامانہ اطاعت -",
+   "ex": []
+  },
+  {
+   "w": "Compliant",
+   "pron": "kəm-plī-ənt",
+   "pos": "adj.",
+   "def": "Yielding",
+   "ur": "حکم کی تعمیل کرنے والا - فرمان بردار - مطیع -",
+   "ex": []
+  },
+  {
+   "w": "Complicacy",
+   "pron": "kəm-pli-kə-si",
+   "pos": "n.",
+   "def": "Complexity",
+   "ur": "الجھاؤ - پیچیدگی -",
+   "ex": []
+  },
+  {
+   "w": "Complicate",
+   "pron": "kəm-pli-kāt",
+   "pos": "v.t.",
+   "def": "Mix up",
+   "ur": "الجھانا - خلط ملط کرنا - الجھاؤ ڈالنا - پیچیدہ کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Complication",
+   "pron": "kom-pli-kā-shən",
+   "pos": "n.",
+   "def": "Involved condition",
+   "ur": "الجھاؤ - پیچ - پیچیدگی -",
+   "ex": []
+  },
+  {
+   "w": "Complicity",
+   "pron": "kom-pli-si-ti",
+   "pos": "n.",
+   "def": "Partnership in an evil action",
+   "ur": "ساز باز - سازش - کسی برے کام میں شرکت -",
+   "ex": []
+  },
+  {
+   "w": "Compliment",
+   "pron": "kom-pli-mənt",
+   "pos": "n.",
+   "def": "Expression of praise",
+   "ur": "آفرین - تحسین - ستائش - تعریف - آداب - تسلیم - بندگی - خاطر تواضع - تحفہ - تحائف دینا -",
+   "ex": []
+  },
+  {
+   "w": "Stand on compliment",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "آداب کا خواہاں - سلام کا منتظر ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Compliment",
+   "pron": "kom-pli-mənt",
+   "pos": "v.t.",
+   "def": "Present something as a mark of courtesy",
+   "ur": "سراہنا - تعریف کرنا - تحسین و آفرین کہنا - خاطر تواضع کرنا - تحفہ دینا -",
+   "ex": []
+  },
+  {
+   "w": "Complimentary",
+   "pron": "kom-pli-mən-təri",
+   "pos": "adj.",
+   "def": "Praiseworthy",
+   "ur": "ستائش کے طور پر - تکلفانہ - تعریفی - توصیفی -",
+   "ex": []
+  },
+  {
+   "w": "Comply",
+   "pron": "kom-plī",
+   "pos": "v.t.",
+   "def": "Act in accordance with wish",
+   "ur": "تسلیم کرنا - ماننا - منظور کرنا - قبول کرنا - حکم بجا لانا - حکم کی تعمیل کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Component",
+   "pron": "kəm-po-nənt",
+   "pos": "adj. & n.",
+   "def": "Contributing to the composition of a whole",
+   "ur": "اہم - جزوی - ضروری - مشتمل جز -",
+   "ex": []
+  },
+  {
+   "w": "Comport",
+   "pron": "kəm-port",
+   "pos": "v.t. & i.",
+   "def": "Conduct, behave",
+   "ur": "موافق ہونا - موافق کرنا - متفق ہونا - ملنا -",
+   "ex": []
+  },
+  {
+   "w": "Compose",
+   "pron": "kəm-poz",
+   "pos": "v.t.",
+   "def": "Produce in literary form",
+   "ur": "مرکب کرنا - ترتیب دینا - جوڑنا - تصنیف کرنا - گیت بنانا - راگ ترتیب دینا - نظم لکھنا -",
+   "ex": []
+  },
+  {
+   "w": "Composedly",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "تسلی کے ساتھ ، اطمینان کے ساتھ -",
+   "ex": []
+  },
+  {
+   "w": "Composedness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "خاطر جمعی - دل جمعی - اطمینان -",
+   "ex": []
+  },
+  {
+   "w": "Composer",
+   "pron": "kəm-pozer",
+   "pos": "n.",
+   "def": "Author",
+   "ur": "نغمہ ساز - راگ کا موجد - شاعر - مؤلف - مصنف -",
+   "ex": []
+  },
+  {
+   "w": "Composing",
+   "pron": "kəm-poz-ing",
+   "pos": "n.",
+   "def": "Setting up of type",
+   "ur": "حروف جوڑنے یا جانے کا کام -",
+   "ex": []
+  },
+  {
+   "w": "Composite",
+   "pron": "kom-po-zit",
+   "pos": "adj. & n.",
+   "def": "Made up of various parts",
+   "ur": "ملواں - جزا ہوا - مرکب - مخلوط - جہاز جو لوہے اور لکڑی دونوں سے بنا ہو -",
+   "ex": []
+  },
+  {
+   "w": "Composite carriage",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ریل گاڑی جس میں مختلف درجوں کے ڈبے ہوں -",
+   "ex": []
+  },
+  {
+   "w": "Composition",
+   "pron": "kom-po-zish-ən",
+   "pos": "n.",
+   "def": "Construction",
+   "ur": "میل - آمیزش - ساخت - تصنیف - راگوں اور قانون کی ترتیب - نغمہ نگاری - نغمہ گری - چھاپے کے ٹھیپوں کا ترتیب سے جانا - مصالحت - تصفیہ - راضی نامہ - مصنوعی مادہ یا شے جو اصل کی جگہ استعمال کیا جائے -",
+   "ex": []
+  },
+  {
+   "w": "Compositive",
+   "pron": "kom-pozi-tiv",
+   "pos": "adj.",
+   "def": "Combining",
+   "ur": "جوڑنے والا - ملانے والا - پیوستہ کرنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Compositor",
+   "pron": "kom-pozi-tər",
+   "pos": "n.",
+   "def": "Type setter",
+   "ur": "کمپوزیٹر - چھاپے کے حروف جوڑنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Composure",
+   "pron": "kəm-po-zher",
+   "pos": "n.",
+   "def": "Calmness",
+   "ur": "تسلی - دلجمعی - اطمینان - سکون -",
+   "ex": []
+  },
+  {
+   "w": "Compotation",
+   "pron": "kom-pō-tā-shən",
+   "pos": "n.",
+   "def": "Tippling together",
+   "ur": "ساتھ کھانا پینا - ہم مشربی -",
+   "ex": []
+  },
+  {
+   "w": "Compound",
+   "pron": "kəm-pownd",
+   "pos": "v.t. & i.",
+   "def": "Mix, combine",
+   "ur": "آمیزش کرنا - مرکب کرنا - ملانا - آپس کی رضامندی سے باہمی فیصلہ کرنا - راضی نامہ کرنا - تصور یا مواخذہ کو معاف کرنا - در گزر کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Compoundable",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "آمیزش کے قابل - لائق - معافی - مصالحت کے قابل -",
+   "ex": []
+  },
+  {
+   "w": "Compound",
+   "pron": "kəm-pownd",
+   "pos": "adj. & n.",
+   "def": "Combined",
+   "ur": "آمیزہ - مجموعہ - آمیختہ - مرکب -",
+   "ex": []
+  },
+  {
+   "w": "Compound fracture",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ہڈی کا اس طرح ٹوٹنا کہ گوشت اور کھال زخمی ہو جائے -",
+   "ex": []
+  },
+  {
+   "w": "Compound",
+   "pron": "kəm-pownd",
+   "pos": "n.",
+   "def": "Enclosure",
+   "ur": "آنگن - صحن مکان - احاطہ -",
+   "ex": []
+  },
+  {
+   "w": "Comprehend",
+   "pron": "kom-prə-hend",
+   "pos": "v.t.",
+   "def": "Understand",
+   "ur": "ادراک کرنا - کسی چیز کا ذہن میں لانا - سمجھنا - گھیر لینا - داخل کرنا - اندر لانا -",
+   "ex": []
+  },
+  {
+   "w": "Comprehensible",
+   "pron": "kom-prə-hen-si-bl",
+   "pos": "adj.",
+   "def": "That may be understood",
+   "ur": "سمجھنے یا بوجھنے کے قابل - قابل فہم -",
+   "ex": []
+  },
+  {
+   "w": "Comprehension",
+   "pron": "kom-prə-hen-shun",
+   "pos": "n.",
+   "def": "Faculty or act of understanding",
+   "ur": "ادراک - فہم - سمجھ - وہ دماغی قوت جس سے کوئی چیز سمجھ میں آ سکے - وسع الخیالی -",
+   "ex": []
+  },
+  {
+   "w": "Comprehensive",
+   "pron": "kom-prə-hen-siv",
+   "pos": "adj.",
+   "def": "Including much",
+   "ur": "کشادہ - محیط - وسیع - جامع - تیز فہم - فہم - زیرک -",
+   "ex": []
+  },
+  {
+   "w": "Compress",
+   "pron": "kəm-pres",
+   "pos": "v.t.",
+   "def": "Condense",
+   "ur": "اختصار کرنا - بھیچنا - دبانا - دبا کر چھوٹا کرنا - خلاصہ کرنا - تخفیف کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Compressive",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "دبانے والی شے -",
+   "ex": []
+  },
+  {
+   "w": "Compress",
+   "pron": "kəm-pres",
+   "pos": "n.",
+   "def": "Soft pad of lint etc.",
+   "ur": "گدی - بندھن - پٹی - ایسی پٹی جس پر پانی اثر نہ کرے اور زخم خراب نہ ہو -",
+   "ex": []
+  },
+  {
+   "w": "Compressible",
+   "pron": "kəm-presi-bl",
+   "pos": "adj.",
+   "def": "That may be compressed",
+   "ur": "ایجاز پذیر - دبنے یا دبانے کے لائق -",
+   "ex": []
+  },
+  {
+   "w": "Compression",
+   "pron": "kəm-pre-shən",
+   "pos": "n.",
+   "def": "Condensation",
+   "ur": "انقباض - ایجاز - اختصار - دباؤ -",
+   "ex": []
+  },
+  {
+   "w": "Comprise",
+   "pron": "kəm-prīz",
+   "pos": "v.t.",
+   "def": "Include",
+   "ur": "مشتمل ہونا - گھیرنا - رکھنا - شامل ہونا - شامل کرنا - محیط ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Compromise",
+   "pron": "kom-prō-mīz",
+   "pos": "n.",
+   "def": "Settlement of dispute by mutual concession",
+   "ur": "راضی نامہ - باہمی فیصلہ - دادوستد باہمی - بین بین کا فیصلہ - مصالحت -",
+   "ex": []
+  },
+  {
+   "w": "Compromise",
+   "pron": "kom-prō-mīz",
+   "pos": "v.t. & i.",
+   "def": "Bring oneself under suspicion by indiscreet action",
+   "ur": "نادانی سے اپنے آپ کو یا دوسرے کو اشتباہ میں ڈالنا - معاملے کو رفع دفع کرنا -",
+   "ex": []
   }
  ],
  "urdu_english": [
