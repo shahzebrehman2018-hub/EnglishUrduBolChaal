@@ -139629,6 +139629,1374 @@
    "def": "Bring oneself under suspicion by indiscreet action",
    "ur": "نادانی سے اپنے آپ کو یا دوسرے کو اشتباہ میں ڈالنا - معاملے کو رفع دفع کرنا -",
    "ex": []
+  },
+  {
+   "w": "Comptroller",
+   "pron": "komp-tro-ler",
+   "pos": "n.",
+   "def": "Controller",
+   "ur": "دیکھو یہ controller کا پرانا املا ہے -",
+   "ex": []
+  },
+  {
+   "w": "Compulsion",
+   "pron": "kəm-pul-shən",
+   "pos": "n.",
+   "def": "Obligation",
+   "ur": "زور آوری - زبردستی - جبر - دباؤ - زور -",
+   "ex": []
+  },
+  {
+   "w": "Compulsive",
+   "pron": "kəm-pul-siv",
+   "pos": "adj.",
+   "def": "Tending to compel",
+   "ur": "زبردستی یا جبر پر مائل - مجبور کن -",
+   "ex": []
+  },
+  {
+   "w": "Compulsory",
+   "pron": "kəm-pul-səri",
+   "pos": "adj.",
+   "def": "Compelling",
+   "ur": "بالجبر - لازمی - جبری -",
+   "ex": []
+  },
+  {
+   "w": "Compunction",
+   "pron": "kəm-pungk-shən",
+   "pos": "n.",
+   "def": "Pricking of conscience",
+   "ur": "خلش - پچھتاوا - تاسف - دکھ - پشیمانی -",
+   "ex": []
+  },
+  {
+   "w": "Compunctious",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "دکھی - پشیمان - تاسف - نادم -",
+   "ex": []
+  },
+  {
+   "w": "Compurgation",
+   "pron": "kom-pur-gā-shən",
+   "pos": "n.",
+   "def": "Clearing from a charge",
+   "ur": "حلف کے ذریعے سے بریت - الزام سے بریت -",
+   "ex": []
+  },
+  {
+   "w": "Compute",
+   "pron": "kəm-pūt",
+   "pos": "v.t.",
+   "def": "Reckon amount of figure",
+   "ur": "شمار کرنا - حساب کرنا - گننا - حساب میں لانا -",
+   "ex": []
+  },
+  {
+   "w": "Computable",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "شمار کے قابل -",
+   "ex": []
+  },
+  {
+   "w": "Computative",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "حساب میں لکھنے کے قابل -",
+   "ex": []
+  },
+  {
+   "w": "Computation",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "تخمینہ - محاسبہ - تعداد - شمار - گنتی -",
+   "ex": []
+  },
+  {
+   "w": "Comrade",
+   "pron": "kom-rad",
+   "pos": "n.",
+   "def": "Mate or fellow in work",
+   "ur": "یار - ساتھی - رفیق - ہمدردم -",
+   "ex": []
+  },
+  {
+   "w": "Comradeship",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "دوستی - یاری - رفاقت -",
+   "ex": []
+  },
+  {
+   "w": "Con",
+   "pron": "kon",
+   "pos": "v.t.",
+   "def": "Remember by heart; Direct steering of ship",
+   "ur": "زبانی یاد کرنا - حفظ کرنا - جہاز کو سیدھا چلانا -",
+   "ex": []
+  },
+  {
+   "w": "Concave",
+   "pron": "kon-kav",
+   "pos": "adj. & n.",
+   "def": "With outline or surface curved",
+   "ur": "عراب دار - کھان نما - کھوکھلا - معوف -",
+   "ex": []
+  },
+  {
+   "w": "Conceal",
+   "pron": "kən-sēl",
+   "pos": "v.t.",
+   "def": "Hide",
+   "ur": "پوشیدہ رکھنا - دھانپنا - چھپانا - مخفی رکھنا -",
+   "ex": []
+  },
+  {
+   "w": "Concealment",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "پردہ داری - راز داری - اخفا - پوشیدگی -",
+   "ex": []
+  },
+  {
+   "w": "Concede",
+   "pron": "kən-sēd",
+   "pos": "v.t.",
+   "def": "Admit, allow",
+   "ur": "تسلیم کرنا - منظور کرنا - ماننا - قبول کرنا - اجازت دینا - جائز رکھنا - کہو دینا - ہار دینا -",
+   "ex": []
+  },
+  {
+   "w": "Conceit",
+   "pron": "kən-sēt",
+   "pos": "n.",
+   "def": "Personal vanity",
+   "ur": "خود بینی - زعم باطل - خیال خام - خود فریبی -",
+   "ex": []
+  },
+  {
+   "w": "In one's own conceit",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کسی کی ذاتی رائے میں -",
+   "ex": []
+  },
+  {
+   "w": "Out of conceit",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "دلچسپی باقی نہ رہنا - بیزار ہو جانا -",
+   "ex": []
+  },
+  {
+   "w": "Conceit",
+   "pron": "kən-sēt",
+   "pos": "v.t.",
+   "def": "Persuade oneself",
+   "ur": "خیال کرنا - گمان کرنا - کسی بات کے متعلق خیال جما لینا - خود فریبی میں مبتلا ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Conceited",
+   "pron": "kən-sēted",
+   "pos": "adj.",
+   "def": "Vain",
+   "ur": "شیخی باز - مغرور - خود بین - خود پسند -",
+   "ex": []
+  },
+  {
+   "w": "Conceitedly",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "خود پسندی سے - خود فریبی سے - خود بینی سے -",
+   "ex": []
+  },
+  {
+   "w": "Conceivable",
+   "pron": "kən-sēv-əbl",
+   "pos": "adj.",
+   "def": "That can be conceived",
+   "ur": "قابل ادراک - قابل فہم - خیال میں آ جانے والی بات -",
+   "ex": []
+  },
+  {
+   "w": "Conceive",
+   "pron": "kən-sēv",
+   "pos": "v.t. & i.",
+   "def": "Form in the mind, become pregnant",
+   "ur": "حاملہ ہونا - نطفہ قبول کرنا - تصور کرنا - خیال کرنا - قیاس کرنا - تشکیل کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Concentrate",
+   "pron": "kon-sen-trat",
+   "pos": "v.t. & i.",
+   "def": "Employ all one's power and attention",
+   "ur": "یکجا جمع کرنا - ہم مرکز ہونا - یکجا جمع کرنا یا ہونا - مجتمع ہونا - ہمہ تن متوجہ ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Concentration",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "ایک مرکز پر اکٹھا ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Concentrative",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "مجموعی - اجتماعی -",
+   "ex": []
+  },
+  {
+   "w": "Concentrater",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "مجتمع کرنے والا - ایک مرکز پر لانے والا -",
+   "ex": []
+  },
+  {
+   "w": "Concentric",
+   "pron": "kən-sen-tərik",
+   "pos": "adj.",
+   "def": "Having a common centre",
+   "ur": "ہم مرکز - ایک مرکز پر ایک ہی مقام پر متواتر گولہ باری کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Concept",
+   "pron": "kon-sept",
+   "pos": "n.",
+   "def": "General notion",
+   "ur": "جو چیز ذہن میں ہو - معلوم - تصور - قیاس -",
+   "ex": []
+  },
+  {
+   "w": "Conception",
+   "pron": "kon-sep-shən",
+   "pos": "n.",
+   "def": "Idea",
+   "ur": "ذہنی صورت - ذہنی تشکیل - گمان - حمل - خیال - تصور -",
+   "ex": []
+  },
+  {
+   "w": "Conceptual",
+   "pron": "kon-sep-tuəl",
+   "pos": "adj.",
+   "def": "Of mental conception",
+   "ur": "تصور کا - استلزامی - وہمی - خیالی -",
+   "ex": []
+  },
+  {
+   "w": "Conceptualism",
+   "pron": "kon-sep-tu-əl-izm",
+   "pos": "n.",
+   "def": "Doctrine that universe exists as a mental concept only",
+   "ur": "یہ نظریہ اور عقیدہ کہ کائنات کا وجود صرف مثال ہے خارجی نہیں -",
+   "ex": []
+  },
+  {
+   "w": "Conceptualist",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "تصور کیش - یہ عقیدہ رکھنے والا کہ ذہن عالم مثال میں ہر صوری وجود پیدا کر سکتا ہے -",
+   "ex": []
+  },
+  {
+   "w": "Concern",
+   "pron": "kən-sərn",
+   "pos": "v.t.",
+   "def": "Interest oneself",
+   "ur": "غرض یا شوق رکھنا - تعلق یا سروکار رکھنا - لگاؤ رکھنا - فکر کرنا - متاسف ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Concern",
+   "pron": "kən-sərn",
+   "pos": "n.",
+   "def": "Matter that affects one",
+   "ur": "پچھتاوا - تردد - تشویش - دھندا - فکر - کاروبار - کارخانہ -",
+   "ex": []
+  },
+  {
+   "w": "Concernment",
+   "pron": "kən-sərn-ment",
+   "pos": "n.",
+   "def": "Anxiety",
+   "ur": "ضرورت - اہمیت - تردد - فکر - تشویش - معاملہ - کاروبار -",
+   "ex": []
+  },
+  {
+   "w": "Concert",
+   "pron": "kon-sərt",
+   "pos": "n.",
+   "def": "Agreement",
+   "ur": "ہم آہنگی - میل - اتحاد - رضامندی - نغمہ و سرود کا جلسہ - سرود منڈلی -",
+   "ex": []
+  },
+  {
+   "w": "Concert",
+   "pron": "kon-sərt",
+   "pos": "v.t.",
+   "def": "Arrange by mutual agreement",
+   "ur": "آپس کے صلاح مشورے سے طے کرنا - صلاح کرنا - مصالحت کے طریقے سوچنا -",
+   "ex": []
+  },
+  {
+   "w": "Concerted",
+   "pron": "kon-sər-td",
+   "pos": "adj.",
+   "def": "Mutually arranged",
+   "ur": "فیصلہ شدہ - طے کردہ - متفقہ -",
+   "ex": []
+  },
+  {
+   "w": "Concession",
+   "pron": "kon-sesh-ən",
+   "pos": "n.",
+   "def": "Thing conceded",
+   "ur": "منظوری - عنایت - عطائے حق - رعایت - منظوری - عطائے اراضی - مراعات -",
+   "ex": []
+  },
+  {
+   "w": "Concession-aire",
+   "pron": "kon-sesh-ən-ar",
+   "pos": "n.",
+   "def": "One who is granted concession",
+   "ur": "اجارہ دار - مراعات یافتہ -",
+   "ex": []
+  },
+  {
+   "w": "Conch",
+   "pron": "kongk",
+   "pos": "n.",
+   "def": "Shellfish",
+   "ur": "برج - شد نشین - سنکھ - سیپ - گھونگھا -",
+   "ex": []
+  },
+  {
+   "w": "Conchology",
+   "pron": "kong-kəl-ogi",
+   "pos": "n.",
+   "def": "Study of shells",
+   "ur": "صدفیات - گھونگھوں اور سیپیوں کا علم -",
+   "ex": []
+  },
+  {
+   "w": "Conciliate",
+   "pron": "kən-sili-āt",
+   "pos": "v.t.",
+   "def": "Pacify",
+   "ur": "خوش کر لینا - منا لینا - راضی کر لینا - دل ہاتھ میں لینا - مخالف نظریوں کو ہم آہنگ کرنا - تاویل کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Conciliatory",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "مصالحت ساز - دلکش - ملانے والی بات - مصالحانہ -",
+   "ex": []
+  },
+  {
+   "w": "Conciliation",
+   "pron": "kən-sili-ā-shən",
+   "pos": "n.",
+   "def": "Use of conciliating measures",
+   "ur": "مصالحت - اتفاق - ارتباط - میل ملاپ -",
+   "ex": []
+  },
+  {
+   "w": "Concinnity",
+   "pron": "kən-sini-ti",
+   "pos": "n.",
+   "def": "Elegance",
+   "ur": "گفتگو کی دل کشی - صفائی - طرز بیان کی شستگی - خوبی - مجمل - مختصر - بلیغ اور موثر تقریر -",
+   "ex": []
+  },
+  {
+   "w": "Concise",
+   "pron": "kən-sīs",
+   "pos": "adj.",
+   "def": "Brief in expression",
+   "ur": "مجمل - مختصر - بلیغ -",
+   "ex": []
+  },
+  {
+   "w": "Conciseness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "بلاغت - ایجاز - اختصار -",
+   "ex": []
+  },
+  {
+   "w": "Concision",
+   "pron": "kən-sizh-ən",
+   "pos": "n.",
+   "def": "Mutilation",
+   "ur": "اختصار - قطع و برید -",
+   "ex": []
+  },
+  {
+   "w": "Conclave",
+   "pron": "kon-klav",
+   "pos": "n.",
+   "def": "Meeting place",
+   "ur": "جلسہ گاہ - پوپ کے انتخاب کے لیے بڑے پادریوں کا جلسہ - مجلس خاص جس عام طور پر اجازت نہ ہو -",
+   "ex": []
+  },
+  {
+   "w": "Conclude",
+   "pron": "kən-klōōd",
+   "pos": "v.t. & i.",
+   "def": "Make an end",
+   "ur": "انجام کو پہنچنا - نتیجہ نکالنا - ختم کرنا - تمام کرنا - تصفیہ کرنا - تمہید کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Conclusion",
+   "pron": "kən-klōō-zhən",
+   "pos": "n.",
+   "def": "Termination",
+   "ur": "تصفیہ - فیصلہ - نتیجہ - خاتمہ - اختتام -",
+   "ex": []
+  },
+  {
+   "w": "Conclusive",
+   "pron": "kən-klōō-siv",
+   "pos": "adj.",
+   "def": "Decisive",
+   "ur": "فیصلہ کن - قطعی - دو ٹوک -",
+   "ex": []
+  },
+  {
+   "w": "Conclusiveness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "اختتامیت - قطعیت -",
+   "ex": []
+  },
+  {
+   "w": "Concomitance-cy",
+   "pron": "kən-komi-tans",
+   "pos": "n.",
+   "def": "Co-existence",
+   "ur": "لازم ملزوم - لزوم - عشائے ربانی میں حضرت عیسیٰ کے جسم و خون کی روح اور شراب میں لزوم -",
+   "ex": []
+  },
+  {
+   "w": "Concomitant",
+   "pron": "kən-komi-tant",
+   "pos": "adj. & n.",
+   "def": "Going together",
+   "ur": "ہم رکاب - ہمراہی - ساتھی - شامل حال - ملحق - لازم ملزوم - ساتھ کی چیز -",
+   "ex": []
+  },
+  {
+   "w": "Concord",
+   "pron": "kon-kord",
+   "pos": "n.",
+   "def": "Harmony",
+   "ur": "اتفاق - ملاپ - میل - ایکا - سنجوگ - مطابقت - ساز گاری - موافقت - ہم آہنگی - دم سازی - تال میل - ترکیب -",
+   "ex": []
+  },
+  {
+   "w": "Concordance",
+   "pron": "kon-kor-dans",
+   "pos": "n.",
+   "def": "Agreement",
+   "ur": "مشابہت - مطابقت - ربط - لگاؤ - ہم آہنگی -",
+   "ex": []
+  },
+  {
+   "w": "Concordant",
+   "pron": "kon-kor-dant",
+   "pos": "adj.",
+   "def": "Harmonious",
+   "ur": "مطابق - موافق - ہم آہنگ - ہم راگ - ہم رنگ -",
+   "ex": []
+  },
+  {
+   "w": "Concourse",
+   "pron": "kon-kors",
+   "pos": "n.",
+   "def": "Confluence of things",
+   "ur": "بھیڑ - جماعت - انبوہ - ہجوم - اجتماع -",
+   "ex": []
+  },
+  {
+   "w": "Concrete",
+   "pron": "kon-krēt",
+   "pos": "adj. & n.",
+   "def": "Existing in material form",
+   "ur": "خارجی یا مادی صورت میں - محسوس - موجود - جامد - ٹھوس چیز - کنکر اور سیمنٹ کا مرکب -",
+   "ex": []
+  },
+  {
+   "w": "Concrete",
+   "pron": "kon-krēt",
+   "pos": "v.t. & i.",
+   "def": "From into a mass",
+   "ur": "ٹھوس بنانا - کنکریٹ سے چننا - منجمد کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Concretion",
+   "pron": "kon-krē-shən",
+   "pos": "n.",
+   "def": "Concrete mass, stone",
+   "ur": "انجماد - بستگی - ٹھوس پن - پتھری - سنگ مثانہ -",
+   "ex": []
+  },
+  {
+   "w": "Concubinage",
+   "pron": "kon-kū-bi-nəj",
+   "pos": "n.",
+   "def": "Cohabiting of man and woman not married",
+   "ur": "ناجائز جنسی تعلق - آشنائی - یارانہ -",
+   "ex": []
+  },
+  {
+   "w": "Concubinary",
+   "pron": "kon-kū-bi-nari",
+   "pos": "adj. & n.",
+   "def": "Living in or sprung from concubinage",
+   "ur": "داشتہ بن - آشنا یا داشتہ کا - حرام کا - ولد الزنا - داشتہ بچہ -",
+   "ex": []
+  },
+  {
+   "w": "Concubine",
+   "pron": "kong-kū-bīn",
+   "pos": "n.",
+   "def": "Woman who cohabits with a man not being his wife",
+   "ur": "داشتہ عورت - مدخولہ - آشنا - یورپ کے لوگ دوسری تیسری بیوی کو بھی داشتہ کہتے ہیں -",
+   "ex": []
+  },
+  {
+   "w": "Concupiscence",
+   "pron": "kən-kū-pi-sens",
+   "pos": "n.",
+   "def": "Sexual appetite",
+   "ur": "نفسانی خواہش - مستی - شہوت -",
+   "ex": []
+  },
+  {
+   "w": "Concupiscent",
+   "pron": "kən-kū-pi-sent",
+   "pos": "adj.",
+   "def": "Lustful",
+   "ur": "مست - شہوتی - بندہ نفس - شہوت پرست -",
+   "ex": []
+  },
+  {
+   "w": "Concur",
+   "pron": "kən-kur",
+   "pos": "v.t.",
+   "def": "Happen together",
+   "ur": "ہم خیال ہونا - متفق الرائے ہونا - باہم ہونا - موافقت کرنا - ایک ساتھ واقع ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Concurrence",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "اتفاق - یکدلی - مرضی - منظوری - اتفاق رائے -",
+   "ex": []
+  },
+  {
+   "w": "Concurrent",
+   "pron": "kən-kur-ent",
+   "pos": "n. & adj.",
+   "def": "Agreeing",
+   "ur": "ایک ساتھ واقع ہونے والا - ایک ساتھ - متفق - یکرائے - ہم - متسلسل -",
+   "ex": []
+  },
+  {
+   "w": "Concurrently",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "بالاتصال - پے بہ پے - ساتھ - ساتھ -",
+   "ex": []
+  },
+  {
+   "w": "Concuss",
+   "pron": "kən-kus",
+   "pos": "v.t.",
+   "def": "Shake violently",
+   "ur": "دھمکی دینا - دباؤ ڈالنا - صدمہ پہنچانا - زور سے جھنجھوڑنا -",
+   "ex": []
+  },
+  {
+   "w": "Concussion",
+   "pron": "kən-kush-ən",
+   "pos": "n.",
+   "def": "Injury to brain, shock",
+   "ur": "چوٹ - شد بھڑ - ٹکر - صدمہ - دھکا - دماغی چوٹ - سر کی چوٹ -",
+   "ex": []
+  },
+  {
+   "w": "Condemn",
+   "pron": "kən-dem",
+   "pos": "v.t.",
+   "def": "Blame",
+   "ur": "ضبطی کا حکم دینا - سزا سنانا - مجرم ٹھہرانا - الزام لگانا - عیب لگانا -",
+   "ex": []
+  },
+  {
+   "w": "Condemnable",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "قابل الزام - لائق تعزیر -",
+   "ex": []
+  },
+  {
+   "w": "Condemnation",
+   "pron": "kən-dam-nā-shən",
+   "pos": "n.",
+   "def": "Censure",
+   "ur": "ضبطی - ملامت - وجہ سزا - قصاص یا سزا کا حکم -",
+   "ex": []
+  },
+  {
+   "w": "Condemnatory",
+   "pron": "kən-dem-nā-təri",
+   "pos": "adj.",
+   "def": "Expressing condemnation",
+   "ur": "ملامت آمیز - تعزیری -",
+   "ex": []
+  },
+  {
+   "w": "Condense",
+   "pron": "kən-dens",
+   "pos": "v.t. & i.",
+   "def": "Compress",
+   "ur": "کثیف ہونا - جمنا - گاڑھا کرنا - دبا کر چھوٹا کرنا - مجتمع کرنا - یکجا کرنا - مرتکز کرنا - اختصار کرنا - مختصر بنا دینا -",
+   "ex": []
+  },
+  {
+   "w": "Condensability",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "گاڑھا ہونے کی صلاحیت - انجماد پذیری -",
+   "ex": []
+  },
+  {
+   "w": "Condensable",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "گاڑھے ہونے کے قابل - قابل تکثیف - انجماد پذیر -",
+   "ex": []
+  },
+  {
+   "w": "Condensation",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "تکثیف - بستگی - انجماد -",
+   "ex": []
+  },
+  {
+   "w": "Condenser",
+   "pron": "kən-den-ser",
+   "pos": "n.",
+   "def": "Chamber in steam engine in which steam is condensed",
+   "ur": "آلہ تکثیف - انجن کا وہ خانہ جہاں بھاپ کثیف ہوتی ہے - گاڑھا کرنے والا آلہ -",
+   "ex": []
+  },
+  {
+   "w": "Condescend",
+   "pron": "kon-də-send",
+   "pos": "v.i.",
+   "def": "Waive one's superiority",
+   "ur": "اپنے بڑے ہونے کا خیال نہ کرنا - فروتنی کرنا - انکسار یا تواضع کرنا - کرم کرنا - التفات کرنا - تنزل کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Condescending",
+   "pron": "kon-də-send-ing",
+   "pos": "adj.",
+   "def": "Coming down",
+   "ur": "منکسر مزاج - انکسار یا تواضع کرنے والا - متواضع - خلیق - شفیق - کرم فرما -",
+   "ex": []
+  },
+  {
+   "w": "Condescendingly",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "متواضعانہ - منکسرانہ -",
+   "ex": []
+  },
+  {
+   "w": "Condescension",
+   "pron": "kən-de-sen-shən",
+   "pos": "n.",
+   "def": "",
+   "ur": "کرم فرمائی - شفقت - التفات - تنزل - انکسار - فروتنی -",
+   "ex": []
+  },
+  {
+   "w": "Condign",
+   "pron": "kən-din",
+   "pos": "adj.",
+   "def": "Severe, well deserved",
+   "ur": "لائق - سزا وار - مناسب حال -",
+   "ex": []
+  },
+  {
+   "w": "Condignly",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "واجبانہ - سزا وارانہ -",
+   "ex": []
+  },
+  {
+   "w": "Condiment",
+   "pron": "kon-di-mənt",
+   "pos": "n.",
+   "def": "Things used to give relish to food",
+   "ur": "مسالہ - چٹنی - اچار - نمک مرچ - چاشنی - مزا - ذائقہ -",
+   "ex": []
+  },
+  {
+   "w": "Condimental",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "چاشنی والا - چٹ پٹا - مسالیدار -",
+   "ex": []
+  },
+  {
+   "w": "Condition",
+   "pron": "kən-dish-ən",
+   "pos": "n.",
+   "def": "Stipulation",
+   "ur": "رنگ ڈھنگ - حالت - حال - کیفیت - طور - درجہ - رتبہ - مرتبہ - منصب - شرط - اقرار - عہد و پیمان - جملہ شرطیہ -",
+   "ex": []
+  },
+  {
+   "w": "Condition",
+   "pron": "kən-dish-ən",
+   "pos": "v.t.",
+   "def": "Agree by stipulation",
+   "ur": "عہد و پیمان کرنا - کسی شرط پر راضی ہونا - شرط لگانا - مال کی حالت جانچنا - پڑتالنا -",
+   "ex": []
+  },
+  {
+   "w": "Conditional",
+   "pron": "kən-dish-ən-əl",
+   "pos": "adj. & n.",
+   "def": "Dependent on",
+   "ur": "لازم - منحصر - مشروط -",
+   "ex": []
+  },
+  {
+   "w": "Conditionally",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "بالشرط - مشروط طور پر -",
+   "ex": []
+  },
+  {
+   "w": "Conditioned",
+   "pron": "kən-dish-ənd",
+   "pos": "adj.",
+   "def": "Subject to condition",
+   "ur": "مکلف - مقید - کسی خاص حالت میں - مشروط -",
+   "ex": []
+  },
+  {
+   "w": "Condolatory",
+   "pron": "kən-do-la-tri",
+   "pos": "adj.",
+   "def": "Expressing condolence",
+   "ur": "ہمدردانہ - غم خوارانہ - تعزیتی -",
+   "ex": []
+  },
+  {
+   "w": "Condole",
+   "pron": "kən-dol",
+   "pos": "v.i.",
+   "def": "Express sympathy",
+   "ur": "ہمدردی کرنا - تعزیت کرنا - ماتم پرسی کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Condolence",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "ماتم پرسی - تعزیت - ہمدردی -",
+   "ex": []
+  },
+  {
+   "w": "Condone",
+   "pron": "kən-don",
+   "pos": "v.t.",
+   "def": "Forgive",
+   "ur": "اغماض کرنا - نظر انداز کرنا - چشم پوشی کرنا - معاف کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Condonation",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "اغماض - چشم پوشی - معافی -",
+   "ex": []
+  },
+  {
+   "w": "Conduce",
+   "pron": "kən-dūs",
+   "pos": "v.i.",
+   "def": "Lead contribute",
+   "ur": "رہنما ہونا - مائل ہونا - رجوع ہونا - واقعات کا کسی خاص نتیجے کی طرف سبب ہونا - مدد ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Conducive",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "باعث - مدد - جھکا ہوا - رجوع - مائل -",
+   "ex": []
+  },
+  {
+   "w": "Conduciveness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "رجوع - میلان - جھکاؤ -",
+   "ex": []
+  },
+  {
+   "w": "Conduct",
+   "pron": "kən-dukt",
+   "pos": "n.",
+   "def": "Behaviour",
+   "ur": "سلوک - راہ روش - چال چلن - طور طریقہ - اہتمام - انتظام - ہدایت - کاروائی -",
+   "ex": []
+  },
+  {
+   "w": "Conduct",
+   "pron": "kən-dukt",
+   "pos": "v.t.",
+   "def": "Lead, guide",
+   "ur": "انتظام کرنا - ہدایت کرنا - رہبری کرنا - رہنمائی کرنا - عمل کرنا - طرز عمل اختیار کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Conduction",
+   "pron": "kən-duk-shən",
+   "pos": "n.",
+   "def": "Transmission",
+   "ur": "رسائی - منتقل کرنا - ایصال یا نقل -",
+   "ex": []
+  },
+  {
+   "w": "Conductor",
+   "pron": "kən-duk-ter",
+   "pos": "n.",
+   "def": "Guide",
+   "ur": "مہتمم - منتظم - ناقل - موصل - رہنما - راہبر - داروغہ - کرائے کی گاڑی چلانے والا - ٹکٹ دینے والا -",
+   "ex": []
+  },
+  {
+   "w": "Conduit",
+   "pron": "kun-dit",
+   "pos": "n.",
+   "def": "Channel or pipe for conveying liquids",
+   "ur": "نل - نالی -",
+   "ex": []
+  },
+  {
+   "w": "Cone",
+   "pron": "kon",
+   "pos": "n.",
+   "def": "Solid figure with a circular base",
+   "ur": "ہرم - مخروطہ - صنوبر کا پھل - مخروطی خول یا گھونگا - ایک آلہ جو مینہ یا طوفان کی خبر دیتا ہے -",
+   "ex": []
+  },
+  {
+   "w": "Confabulate",
+   "pron": "kən-fab-ū-lāt",
+   "pos": "v.t.",
+   "def": "Converse",
+   "ur": "گفتگو کرنا - بولنا - بات چیت کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Confabulation",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "قیل و قال - گفتگو - بات چیت -",
+   "ex": []
+  },
+  {
+   "w": "Confabulatory",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "قیل و قال کا سا - گفتگو کا - بات چیت کا سا -",
+   "ex": []
+  },
+  {
+   "w": "Confection",
+   "pron": "kon-fek-shən",
+   "pos": "n. & v.t.",
+   "def": "Mixing, sweet meat",
+   "ur": "ملانا - مخلوط کرنا - مرکب کرنا - مربہ - حلوہ - شیرینی - خمیرہ وغیرہ بنانا - زنانہ لباس -",
+   "ex": []
+  },
+  {
+   "w": "Confectionary",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "(زنانہ لباس) تیار شدہ -",
+   "ex": []
+  },
+  {
+   "w": "Confectioner",
+   "pron": "kon-fek-shən-er",
+   "pos": "n.",
+   "def": "Maker of sweet-meats",
+   "ur": "مربہ ساز - حلوائی - کیک پیسٹری بنانے والا -",
+   "ex": []
+  },
+  {
+   "w": "Confectionery",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "مٹھائیاں بنانے والا - حلوائی -",
+   "ex": []
+  },
+  {
+   "w": "Confederacy",
+   "pron": "kon-fed-er-ə-si",
+   "pos": "n.",
+   "def": "Alliance",
+   "ur": "تعاہد - سازش - ایکا - عہد و پیمان - اتحاد - افراد یا ریاستوں کا متحد ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Confederate",
+   "pron": "kon-fed-ər-at",
+   "pos": "adj. & n.",
+   "def": "Allied",
+   "ur": "شریک کار - حلیف - امریکہ کی معاہد ریاستیں - شریک - متحد -",
+   "ex": []
+  },
+  {
+   "w": "Confederate",
+   "pron": "kon-fed-ər-at",
+   "pos": "v.t. & i.",
+   "def": "Bring, come into alliance",
+   "ur": "کسی شخص یا ریاست کو تعاہد میں شریک کرنا - ساتھ بنانا -",
+   "ex": []
+  },
+  {
+   "w": "Confederation",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "عہد و پیمان - متحدہ ریاستیں - گروہ - جتھا -",
+   "ex": []
+  },
+  {
+   "w": "Confer",
+   "pron": "kon-fər",
+   "pos": "v.t. & i.",
+   "def": "Grant, bestow, converse",
+   "ur": "عطا کرنا - عنایت کرنا - مرحمت کرنا - بات کرنا - گفتگو کرنا - رائے لینا - صلاح لینا - مشورہ کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Conferment",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "نوازش - بخشش - عطیہ -",
+   "ex": []
+  },
+  {
+   "w": "Conferable",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "قابل عطا -",
+   "ex": []
+  },
+  {
+   "w": "Conference",
+   "pron": "kən-fer-əns",
+   "pos": "n.",
+   "def": "Consultation",
+   "ur": "مشورہ - صلاح - جلسہ مشاورت - مشاورت -",
+   "ex": []
+  },
+  {
+   "w": "Confess",
+   "pron": "kən-fes",
+   "pos": "v.t. & i.",
+   "def": "Acknowledge",
+   "ur": "اعتراف کرنا - گناہ کرنا - قبول کرنا - تسلیم کرنا - اقرار کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Confessedly",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "تسلیم کرتے ہوئے - بہ اقرار - معترفانہ -",
+   "ex": []
+  },
+  {
+   "w": "Confession",
+   "pron": "kən-fesh-ən",
+   "pos": "n.",
+   "def": "Acknowledgement",
+   "ur": "وہ بات جس کا اعتراف کیا گیا ہو - اعتراف - اقبال -",
+   "ex": []
+  },
+  {
+   "w": "Confessional",
+   "pron": "kon-fesh-ən-əl",
+   "pos": "adj. & n.",
+   "def": "Of confession",
+   "ur": "مسلک - اقراری - اقبال - وہ کمرہ جہاں لوگ پادری کے سامنے اپنے گناہوں کا اعتراف کرتے ہیں -",
+   "ex": []
+  },
+  {
+   "w": "Confessor",
+   "pron": "kən-fes-ər",
+   "pos": "n.",
+   "def": "One who confesses",
+   "ur": "اقبال کرنے والا - اعتراف کرنے والا - پکے عقیدے والا - جس نے مذہب کے لیے موت کے سوا ہر تکلیف برداشت کی ہو -",
+   "ex": []
+  },
+  {
+   "w": "Confidant",
+   "pron": "kən-fi-dant",
+   "pos": "n.",
+   "def": "Person trusted",
+   "ur": "راز دار محبت - ہمدرد - ہم راز - معتمد علیہ -",
+   "ex": []
+  },
+  {
+   "w": "Confide",
+   "pron": "kon-fīd",
+   "pos": "v.t. & i.",
+   "def": "Repose confidence in",
+   "ur": "اعتماد کرنا - بھروسہ کرنا - راز دار بنانا - تفویض کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Confidence",
+   "pron": "kən-fi-dens",
+   "pos": "n.",
+   "def": "Firm trust",
+   "ur": "اعتماد - اعتبار - پورا بھروسہ - اپنی ذات پر بھروسہ - دلیری - بے باکی - راز داری - سپرد کردہ کام -",
+   "ex": []
+  },
+  {
+   "w": "Confidence trick",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "فریب دینا - بہسلاوا - جھانسا - عیاری سے دوسروں پر اعتبار جمانا -",
+   "ex": []
+  },
+  {
+   "w": "Confident",
+   "pron": "kan-fi-dant",
+   "pos": "adj. & n.",
+   "def": "Trusting",
+   "ur": "بھروسہ - بے باک - یقین رکھنے والا - پورا بھروسہ کرنے والا - متیقن - محرم - راز دار -",
+   "ex": []
+  },
+  {
+   "w": "Confidently",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "استقلال سے - بلا شبہ - یقین کے ساتھ -",
+   "ex": []
+  },
+  {
+   "w": "Confidential",
+   "pron": "kən-fi-dən-shl",
+   "pos": "adj.",
+   "def": "Spoken written in confidence",
+   "ur": "بصیغہ راز - راز میں - راز دار - راز کے کام کرنے والا - راز کا حامل - معتمد -",
+   "ex": []
+  },
+  {
+   "w": "Configuration",
+   "pron": "kən-figū-rā-shən",
+   "pos": "n.",
+   "def": "Conformation",
+   "ur": "ترتیب اجزا - وضع - ہیئت - ستاروں کی اتفاق - ترتیب پہلو اور مخصوص مقام -",
+   "ex": []
+  },
+  {
+   "w": "Confine",
+   "pron": "kon-fīn",
+   "pos": "n.",
+   "def": "Border land",
+   "ur": "حدِ فاصل - آخری - حد - سرحد -",
+   "ex": []
+  },
+  {
+   "w": "Confine",
+   "pron": "kon-fīn",
+   "pos": "v.t. & i.",
+   "def": "Keep to limits",
+   "ur": "پابند کرنا - حد باندھنا - روک رکھنا - روکنا - محدود کرنا - قید کرنا - زچگی کے لیے بستر پر دراز ہونا - صاحب فراش ہونا - علالت کی وجہ سے بستر پر ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Confinement",
+   "pron": "kon-fīn-ment",
+   "pos": "n.",
+   "def": "Being confined",
+   "ur": "خلوت گزینی - کنارہ کشی - زچگی - قید و بند - گوشہ نشینی - اسیری - روک - آڑ - انکاف -",
+   "ex": []
+  },
+  {
+   "w": "Confirm",
+   "pron": "kən-fərm",
+   "pos": "v.t.",
+   "def": "Establish firmly",
+   "ur": "مضبوط کرنا - پکا کرنا - مستحکم کرنا - تصدیق کرنا - توثیق کرنا - منظوری دینا - کسی کو اس کی عادت یا رائے میں پختہ کر دینا - عیسائی بچوں کی دینی تلقین و توثیق کی رسم ادا کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Confirmed",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "(مرض کے لیے) مزمن - کہنہ - مضبوط - ثابت - پکا -",
+   "ex": []
+  },
+  {
+   "w": "Confirmative",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "طاقت رساں - تصدیق کنندہ -",
+   "ex": []
+  },
+  {
+   "w": "Confirmatory",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "معاون - تصدیقی -",
+   "ex": []
+  },
+  {
+   "w": "Confirmation",
+   "pron": "kən-fer-ma-shan",
+   "pos": "v.",
+   "def": "Corroboration",
+   "ur": "منظوری - تائید - استحکام - تصدیق -",
+   "ex": []
+  },
+  {
+   "w": "Confiscate",
+   "pron": "kon-fis-kāt",
+   "pos": "v.t.",
+   "def": "Seize as by authority",
+   "ur": "قرق کرنا - ضبط کرنا - بحق سرکار ضبط کرنا - عوامی خزانے میں جمع کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Confiscable",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "قابل ضبطی -",
+   "ex": []
+  },
+  {
+   "w": "Confiscatory",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "ضبطی کے متعلق -",
+   "ex": []
+  },
+  {
+   "w": "Confiscation",
+   "pron": "kon-fis-kā-shan",
+   "pos": "n.",
+   "def": "Legal robbery with sanction of ruling power",
+   "ur": "ضبطی - قرق - قانون حیلے سے لوٹنا - قانون کے پردے میں لوٹنا -",
+   "ex": []
+  },
+  {
+   "w": "Conflagration",
+   "pron": "kon-fla-gra-shən",
+   "pos": "n.",
+   "def": "Destructive fire",
+   "ur": "شعلہ - شعلہ زنی - آگ - آتش زدگی -",
+   "ex": []
+  },
+  {
+   "w": "Conflict",
+   "pron": "kon-flikt",
+   "pos": "n.",
+   "def": "Fight, struggle, clash",
+   "ur": "تصادم - آویزش - لڑائی - ٹکر -",
+   "ex": []
+  },
+  {
+   "w": "Conflict",
+   "pron": "kon-flikt",
+   "pos": "v.i.",
+   "def": "Clash",
+   "ur": "جد و جہد کرنا - مقابلہ کرنا - لڑنا - ٹکر کھانا - ٹکرانا -",
+   "ex": []
+  },
+  {
+   "w": "Confluent",
+   "pron": "kon-flōō-ent",
+   "pos": "adj. & n.",
+   "def": "Flowing together",
+   "ur": "ساتھ ساتھ بہنے والے - مل کر بہتے ہوئے - ہم روندی - سنگمی -",
+   "ex": []
+  },
+  {
+   "w": "Confluence",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "میل ملاپ - ملنے کی جگہ - سنگم -",
+   "ex": []
+  },
+  {
+   "w": "Conflux",
+   "pron": "kon-fluks",
+   "pos": "n.",
+   "def": "Confluence",
+   "ur": "کئی دریاؤں کا مل کر بہنا - ہم روی - اجتماع -",
+   "ex": []
+  },
+  {
+   "w": "Conform",
+   "pron": "kən-form",
+   "pos": "v.t. & i.",
+   "def": "Make similar",
+   "ur": "مطابق ہونا - موافق کرنا - یکساں ہونا - نمونے کے مطابق بنانا یا بنوانا - تعمیل یا پیروی کرنا - عادی ہونا - خوگر ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Conformable",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "مطابق - مشابہ - ایک صورت کا - ایک رنگ کا - یکساں - موافق - اصلاح پذیر -",
+   "ex": []
+  },
+  {
+   "w": "Conformation",
+   "pron": "kən-for-ma-shən",
+   "pos": "n.",
+   "def": "Structure",
+   "ur": "پنجر - ڈھانچا - بناوٹ - ترکیب -",
+   "ex": []
+  },
+  {
+   "w": "Conformist",
+   "pron": "kən-for-mist",
+   "pos": "n.",
+   "def": "Follower of the Church of England",
+   "ur": "کلیسائے انگلستان کا پیرو -",
+   "ex": []
+  },
+  {
+   "w": "Conformity",
+   "pron": "kən-for-miti",
+   "pos": "n.",
+   "def": "Likeness",
+   "ur": "میل - موافقت - مطابقت - مشابہت -",
+   "ex": []
+  },
+  {
+   "w": "Confound",
+   "pron": "kən-fownd",
+   "pos": "v.t.",
+   "def": "Throw into disorder",
+   "ur": "حیران کرنا - گڑبڑ کرنا - درہم برہم کرنا - ناکام کرنا - ذک پھنچانا - منھجھون اور انہدوں کو خاک میں ملانا - شرمانا -",
+   "ex": []
+  },
+  {
+   "w": "Confounded",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "پہلے درجے کا - سخت - پختہ - پکا - نرا -",
+   "ex": []
+  },
+  {
+   "w": "Confoundedly",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "پریشانی سے - درہم برہم کر کے -",
+   "ex": []
+  },
+  {
+   "w": "Confound it",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "ناس جائے - خدا غارت کرے - خدا شیطانس کرے -",
+   "ex": []
+  },
+  {
+   "w": "Confront",
+   "pron": "kən-frunt",
+   "pos": "v.t.",
+   "def": "Meet face to face",
+   "ur": "سامنا کرنا - مقابل ہونا - آمنے سامنے ہونا - دو چار ہونا - دو چار کرا دینا - مقابلہ کرا دینا -",
+   "ex": []
+  },
+  {
+   "w": "Confucian",
+   "pron": "kən-fu-shyən",
+   "pos": "adj. & n.",
+   "def": "Follower of Confucius",
+   "ur": "چینی فلسفی کنفوشس کا پیرو -",
+   "ex": []
   }
  ],
  "urdu_english": [
