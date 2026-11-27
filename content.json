@@ -252182,6 +252182,6441 @@
    "def": "High-minded; aspiring.",
    "ur": "",
    "ex": []
+  },
+  {
+   "w": "حوض",
+   "roman": "ḥauẓ",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A reservoir; a cistern; pond; the basin of a fountain; a tank.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "حونق",
+   "roman": "ḥawannaq",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "A fool; a stupid person.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "حویلی",
+   "roman": "ḥawelī",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "House; dwelling; a large and spacious building.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "حی",
+   "roman": "ḥaiy",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Alive; living; having life.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "حیا",
+   "roman": "ḥayā",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Modesty; shame; shyness.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "حیا دار",
+   "roman": "ḥayā dār",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Modest; bashfully; retiring; shy.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "بے حیائی",
+   "roman": "be ḥayā'ī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Shamelessness.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "حیات",
+   "roman": "ḥayāt",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Life; existence.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "حیات تازہ",
+   "roman": "ḥayāt-ĕ tāzah",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "New life; regeneration; recovery from severe illness; the pleasure derived from meeting a friend.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "حیات مستعار",
+   "roman": "ḥayāt-ĕ musta'ār",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Frail existence; life depending on the will of God.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "حیثیت",
+   "roman": "ḥaisiyat",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Rank; capacity; ability; merit; means; status; condition of life; prestige; position.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "حیثیت عرفی",
+   "roman": "ḥaisiyat-ĕ 'urfī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Reputation; character.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "حیران",
+   "roman": "ḥairān",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Confounded; astonished; amazed; perplexed; disturbed; worried.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "حیران کرنا",
+   "roman": "ḥairān karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To confound; to amaze; to astonish; to perplex; to discompose.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "حیران و سرگردان",
+   "roman": "ḥairān-ŏ sargardān",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Wandering about in a distracted or bewildered state of mind.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "حیرت",
+   "roman": "ḥairat",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Stupor and perturbation of mind; astonishment; amazement; wonder.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "حیرت افزا",
+   "roman": "ḥairat afzā",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Astonishing.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "حیرت زدہ",
+   "roman": "ḥairat zadah",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Wonder-struck; aghast; amazed; struck with astonishment.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "حیص بیص",
+   "roman": "ḥaiṣ baiṣ",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Confusion; dilemma; perplexity; difficulty; hesitation; suspense.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "حیض",
+   "roman": "ḥaiẓ",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "The menses; menstrual course.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "حیضی بچہ",
+   "roman": "ḥaiẓī bachah",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A wicked child; a brat.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "حیطہ",
+   "roman": "ḥīṭah",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "A court; a place; an enclosure.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "حیف",
+   "roman": "ḥaif",
+   "pron": "",
+   "pos": "interj. (A)",
+   "def": "Ah! alas! n.m. Inequity; oppression; pity.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "حیلہ",
+   "roman": "ḥīlah",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Stratagem; deceit; artifice; pretence; trick; service; employment.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "حیلہ باز، ساز، گر",
+   "roman": "ḥīlah bāz, sāz, gar",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Artful; wily; fraudulent; deceitful.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "حیلہ حوالہ",
+   "roman": "ḥīlah ḥawālah",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Chicanery; pretence; evasion; prevarication.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "حیلہ کرنا",
+   "roman": "ḥīlah karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To practise deceit; to pretend; to represent falsely.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "حیلے رزق، بہانے موت",
+   "roman": "ḥīle rizq, bahāne mot",
+   "pron": "",
+   "pos": "prov.",
+   "def": "Livelihood is earned by some means and death occurs by some cause.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "حین",
+   "roman": "ḥīn",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Time; space; interval of time.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "حین حیات",
+   "roman": "ḥīn-ĕ ḥayāt",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Life time; life long; during the life time.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "حیوان",
+   "roman": "ḥaiwān",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "An animal; living being; beast; brute; a stupid fellow; a blockhead.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "حیوان مطلق",
+   "roman": "ḥaiwān-ĕ muṭlaq",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "An animal; an absolute fool.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "حیوان ناطق",
+   "roman": "ḥaiwān-ĕ nāṭiq",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A rational animal; a man.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "حیوانی",
+   "roman": "ḥaiwānī",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Brutish; beastly; pertaining to animals.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "حیوانیت",
+   "roman": "ḥaiwāniyyat",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Beastliness; brutality; animal nature.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خ",
+   "roman": "khe",
+   "pron": "",
+   "pos": "",
+   "def": "called khā-ĕ manquta or khā-ĕ mu'jama is the seventh letter of the Arabic, the ninth of the Persian and tenth of the Urdu alphabet. It is a guttural letter, formed by compression of the top of the throat near the mouth, and contains a mixture of the sounds of k and h. It has no corresponding sound in English language. In abjad it stands for 600.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاتم",
+   "roman": "khātam",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "A ring; a seal after which no writing is admissible.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاتم النبیین",
+   "roman": "khātam-un-nabiyyīn",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "The seal of the prophets; the last of the prophets; the prophet after whom no prophet will be sent.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاتم",
+   "roman": "khātim",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Finishing; ending; one who ends or brings to conclusion; a ring worn on the fingers; a seal.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاتمہ",
+   "roman": "khātimah",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Conclusion; end; finish; epilogue; appendix.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاتمہ بالخیر",
+   "roman": "khātimah bil-khair",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Happy ending; happy conclusion.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاتمہ ہونا",
+   "roman": "khātimah honā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To end; to die.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاتون",
+   "roman": "khātūn",
+   "pron": "",
+   "pos": "n.f. (T)",
+   "def": "A lady; a noble woman; a matron.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خادم",
+   "roman": "khādim",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "A servant; an attendant.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خادمہ",
+   "roman": "khādimah",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "A female servant.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خار",
+   "roman": "khār",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A thorn; spine; thistle; bramble; a cock's spur; grudge; jealousy.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خار پشت",
+   "roman": "khār pusht",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A porcupine; a hedge-hog.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خار دار",
+   "roman": "khār dār",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Thorny; barbed; troublesome; arduous.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خار زار",
+   "roman": "khār zār",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A thicket of thorns.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خار کھانا",
+   "roman": "khār khānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To feel jealous or envious.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خار و خس",
+   "roman": "khār-ŏ-khas",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Sweepings, rubbish; anything vile.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خارا",
+   "roman": "khārā",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A hard stone; a flint; granite; a kind of marble.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خارا شگاف",
+   "roman": "khārā shigāf",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Stone-splitting; very strong and sharp.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خارج",
+   "roman": "khārij",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Being out of; excluded; extraneous; rejected; outcaste.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خارج از بحث",
+   "roman": "khārij az baḥs",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Out of question; beside the point.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خارج از عقل",
+   "roman": "khārij az 'aql",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Senseless; meaningless; foolish.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خارج قسمت",
+   "roman": "khārij qismat",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Quotient.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خارج کرنا",
+   "roman": "khārij karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To exclude; to expel; to strike off; to cast off.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خارج ہونا",
+   "roman": "khārij honā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be excluded; to be struck off.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خارجہ",
+   "roman": "khārijah",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "What is excluded or rejected; a catch-word. adj. Foreign; external.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خارجہ حکمت عملی",
+   "roman": "khārijah ḥikmat-ĕ 'amalī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Foreign policy.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "امور خارجہ",
+   "roman": "umūr-ĕ khārijah",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "External affairs.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "محکمہ خارجہ",
+   "roman": "maḥkamā-ĕ khārijah",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Foreign Department.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "وزیر خارجہ",
+   "roman": "wazīr-ĕ khārijah",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Minister for foreign affairs.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خارجی",
+   "roman": "khārijī",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "A schismatic; an outcast; a sect of Muslims who do not reckon Hazrat 'Alī among the legal successors of the Holy Prophet. adj. Extraneous; external.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خارش، خارشت",
+   "roman": "khārish, khārisht",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "The itch; the mange; scabies.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خارشی",
+   "roman": "khārishī",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Itchy; mangy; suffering from scabies.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خارق عادات",
+   "roman": "khāriq-ĕ 'ādāt",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Contrary to nature; unnatural; unusual. n.m. Miracles.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خازن",
+   "roman": "khāzin",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Custodian; treasurer.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاشاک",
+   "roman": "khāshāk",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Sweepings; shavings; rubbish; trash.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاص",
+   "roman": "khāṣ",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Particular; peculiar; special; appropriate; specific; personal; private; proper; excellent; noble; fine; unmixed; only.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاص تحصیل",
+   "roman": "khāṣ taḥṣīl",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "The tehṣīl at the headquarters of a district.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاص دان",
+   "roman": "khāṣ dān",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A betel dish with cover.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاص کر",
+   "roman": "khāṣ kar",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Especially; particularly.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاص و عام",
+   "roman": "khāṣ-ŏ-'ām",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "The high and low; the general public.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاصا",
+   "roman": "khāṣā",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Good; charming; delightful; pretty; fair; neither good nor bad; of medium quality; tolerable; moderate.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاصہ",
+   "roman": "khāṣah",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Dinner; the dainty food of great men; a private or personal attendant; a kind of fine cloth.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاصہ",
+   "roman": "khāṣṣah",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Habit; nature; manner; method.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاصیت",
+   "roman": "khāṣiyyat",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Peculiarity; peculiar nature; natural disposition.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاطر",
+   "roman": "khāṭir",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "The heart; mind; whatever occurs to the mind: thought; memory; inclination; propensity; account; sake; behalf; will; choice; regard; respect; favour.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاطر جمع",
+   "roman": "khāṭir jama'",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Tranquility; rest; repose; quiet; content.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاطر جمع کرنا، رکھنا",
+   "roman": "khāṭir jama' karnā, rakhnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To set one's mind at ease; to be calm and collected.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاطر خواہ",
+   "roman": "khāṭir khawāh",
+   "pron": "",
+   "pos": "adv.",
+   "def": "According to one's wishes; as one desires; to one's satisfaction.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاطر داری",
+   "roman": "khāṭir dārī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Consideration; regard; satisfaction; encouragement; comfort; gratification; hospitality; entertainment.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاطر میں رکھنا",
+   "roman": "khāṭir meṅ rakhnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To remember; to bear in mind.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاطر میں لانا",
+   "roman": "khāṭir meṅ lānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To regard; to give a thought to; to care for; to attend to; to think of.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاقان",
+   "roman": "khāqān",
+   "pron": "",
+   "pos": "n.m. (T)",
+   "def": "A king; an emperor; the title of Chinese and Turkish kings.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاک",
+   "roman": "khāk",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Dust; earth; land; ashes; territory.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاک اڑانا",
+   "roman": "khāk uṛānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To defame; to wander. to saunter about.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاک اڑنا",
+   "roman": "khāk uṛnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be ruined; to be deserted.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاک پھانکنا",
+   "roman": "khāk phāṅknā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To wander away; to stray; to wander about.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاک چھاننا",
+   "roman": "khāk chhānnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To go about aimlessly; to labour hard for nothing; to go through fruitless toil.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاک ڈالنا",
+   "roman": "khāk ḍālnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To throw dust on; to conceal an ugly affair; to pay no attention.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاکروب",
+   "roman": "khāk rob",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A sweeper.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاکسار",
+   "roman": "khāk sār",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Humble; low; unimportant; poor.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاکساری",
+   "roman": "khāk sārī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Humility; humbleness.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاک میں ملانا",
+   "roman": "khāk meṅ milānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To destroy; to demolish.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاک میں ملنا",
+   "roman": "khāk meṅ milnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be ruined; to die; to perish.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاک ہو جانا",
+   "roman": "khāk ho jānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be ruined; to molder or perish.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاکستر",
+   "roman": "khākistar",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Ashes; calx (of metals).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاکستر ہونا",
+   "roman": "khākistar honā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be reduced to ashes.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاکستری",
+   "roman": "khākistrī",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Of the colour of ashes; ashy; gray.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاکشی، خاکسی",
+   "roman": "khākshī, khāksī",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "A small weight used by goldsmiths; a red bramble; a small red seed used in medicine.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاکنائے",
+   "roman": "khāknā'e",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "An isthmus.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاکہ",
+   "roman": "khākah",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A plan; a sketch; a draft; an outline; a caricature.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاکہ اتارنا",
+   "roman": "khākah utārnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To trace; to make a tracing of.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاکہ اڑانا",
+   "roman": "khākah uṛānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To ridicule; to make a jest of; to give a bad name to.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاکی",
+   "roman": "khākī",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Of the dust; dusty; earthy; terrestrial; dust-coloured; a kind of arrow.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاکی انڈا",
+   "roman": "khākī ānḍā",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A wind egg; an unfertilized egg incapable of producing chicken; a bastard.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاگینہ",
+   "roman": "khāgīnah",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A kind of dish made of eggs; fried eggs; an omelet; a pan-cake.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خال",
+   "roman": "khāl",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "A mole on the face; an artificial spot made for ornament.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خال خال",
+   "roman": "khāl khāl",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Little; very little; rare; here and there; occasional.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خالص",
+   "roman": "khāliṣ",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Pure; genuine; real; sincere (friend).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خالصہ",
+   "roman": "khāliṣah",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Pure; a revenue collector's office; crown or Government lands; a name for the Sikhs.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خالق",
+   "roman": "khāliq",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "The creator; God.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خالو",
+   "roman": "khālū",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "An uncle (maternal), husband of mother's sister.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خالہ",
+   "roman": "khālah",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Maternal aunt; mother's sister.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خالہ جی کا گھر",
+   "roman": "khālah jī kā ghar",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A place of rest and security; an easy matter.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خالی",
+   "roman": "khālī",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Empty; vacant, void, deserted; blank; not filled up; unoccupied; free; exempt; ineffective.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خالی کرنا",
+   "roman": "khālī karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To empty; to evacuate; to clear out.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خالی ہاتھ",
+   "roman": "khālī hāth",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Empty handed; penniless; poor.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خام",
+   "roman": "khām",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Raw; unripe; green; crude; inexpert; vain; unbaked; immature; not solid; imperfect.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خام خیالی",
+   "roman": "khām khiyālī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Vain imaginations; crude ideas.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خام عقل",
+   "roman": "khām 'aql",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Fool; of weak understanding.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خام کو کام سکھا لیتا ہے",
+   "roman": "khām ko kām sikhā letā hai",
+   "pron": "",
+   "pos": "prov.",
+   "def": "Experience is the best teacher; work makes the raw hand expert.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاموش",
+   "roman": "khāmosh",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Silent.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاموشی",
+   "roman": "khāmoshī",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Silence; taciturnity.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خامہ",
+   "roman": "khāmah",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A pen; a writing reed.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خامی",
+   "roman": "khāmī",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Rawness; immaturity; inexperience; imperfection.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خان",
+   "roman": "khān",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Lord; prince; a title used by Pathāns.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاندان",
+   "roman": "khāndān",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Family; lineage; dynasty; race; house; household.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاندانی",
+   "roman": "khāndānī",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Hereditary; ancestral; of good birth.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خانساماں",
+   "roman": "khānsāmāṅ",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A butler; a house-steward; a cook.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خانقاہ",
+   "roman": "khānqāh",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "A convent; abode of holy men; the tomb of a saint.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خانگی",
+   "roman": "khāngī",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Domestic; private; household. n.f. A prostitute; a harlot.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خانم",
+   "roman": "khānum",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "A lady; a woman of rank; princess; a wife.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خانمان",
+   "roman": "khānumān",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Household furniture; house; family; everything belonging to the house.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خانوادہ",
+   "roman": "khānwādah",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A family; a house; a tribe; line of mystics.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خانہ",
+   "roman": "khānah",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "House; dwelling; chamber; room; a drawer; a compartment; a column; a partition.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خانہ آبادی",
+   "roman": "khānah ābādī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Prosperity; marriage.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خانہ بدوش",
+   "roman": "khānah badosh",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Wanderer; nomadic. n.m. A traveller; a pilgrim; a gipsy; a rover; a vagabond.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خانہ برانداز",
+   "roman": "khānah barāndāz",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A prodigal; a spendthrift.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خانہ بربادی",
+   "roman": "khānah barbādī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Destruction of a house or family.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خانہ پری",
+   "roman": "khānah purī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Filling in the column.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خانہ جنگی",
+   "roman": "khānah jangī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Domestic feuds; civil war; domestic bickering.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خانۂ خدا",
+   "roman": "khānah-ĕ-khudā",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "The house of God; the Ka'abah; a mosque; a temple; a church.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خانہ خراب",
+   "roman": "khānah kharāb",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Ruined; base; abject; a wretch.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خانہ خرابی",
+   "roman": "khānah kharābī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Ruin; destruction.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خانہ داری",
+   "roman": "khānah dārī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "House-keeping; house-hold management.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خانہ دوست",
+   "roman": "khāna dost",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Fond of staying at home; a stay-at home person.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خانہ زاد",
+   "roman": "khanah zād",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "The child of a slave.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خانہ ساز",
+   "roman": "khānah sāz",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Home made.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خانہ شماری",
+   "roman": "khānah shumārī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "A census.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خانہ نشین",
+   "roman": "khānah nashīn",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Retired; pensioner; idle; unemployed.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "صاحب خانہ",
+   "roman": "ṣāḥib-ĕ khānah",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Master of the house.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "کتب خانہ",
+   "roman": "kutub khānah",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Library.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاور",
+   "roman": "khāwar",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "The east or the west.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاوند",
+   "roman": "khāwand",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Lord; master; husband.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خائف",
+   "roman": "khā'if",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Afraid; fearful; frightened; timid.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خائن",
+   "roman": "khā'in",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Unfaithful; treacherous; perfidious; cheat.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خایہ",
+   "roman": "khāyah",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A testicle; an egg.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خایہ بردار",
+   "roman": "khāyah bardār",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A cringing fellow; a fawner.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خباثت",
+   "roman": "khabāṣat",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Wickedness; corruptness; depravity.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خبث",
+   "roman": "khubs",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Malice; malignity; impurity; displeasure; evil.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خبر",
+   "roman": "khabar",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "News; information; intelligence; advice; report; rumour; account; notice; knowledge; announcement; tidings; awareness.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خبر اڑانا",
+   "roman": "khabar uṛānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To spread a rumour; to carry tales.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خبر پہنچانا",
+   "roman": "khabar pahuṅchānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To give information; to send word.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خبر دار",
+   "roman": "khabar dār",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Watchful; careful; cautious; on guard; having knowledge; acquainted.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خبر دار کرنا",
+   "roman": "khabar dār karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To forewarn; to caution; to warn; to put on one's guard.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خبر داری",
+   "roman": "khabar dārī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Charge; care; custody; getting information; guarding; guardianship.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خبر دہندہ",
+   "roman": "khabar dehindah",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "An informer; a reporter.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خبر دینا",
+   "roman": "khabar denā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To inform; to report; to acquaint; to give information.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خبر رساں",
+   "roman": "khabar rasāṅ",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A messenger; one who gives information.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خبر رکھنا",
+   "roman": "khabar rakhnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be well informed; to be wide awake; to be acquainted with; to be informed.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خبر گیری",
+   "roman": "khabar gīrī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Looking after; giving due care and attention; managing; management; protection; spying; informing.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خبر گیری کرنا",
+   "roman": "khabar gīrī karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To look after; to take care.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خبر لگانا",
+   "roman": "khabar lagānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To obtain information; to fish out news; to search for.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خبر لینا",
+   "roman": "khabar lenā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To look after; to enquire into; to take care; to support; to trace; to get information.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خبر ہونا",
+   "roman": "khabar honā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be informed; to have knowledge of.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خبط",
+   "roman": "khabṭ",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Craze; derangement of mind; madness; foolishness.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خبطی",
+   "roman": "khabṭī",
+   "pron": "",
+   "pos": "adj. (A&P)",
+   "def": "Foolish; crazy; insane; mad.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خبیث",
+   "roman": "khabīṣ",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Wicked; malignant; impure; bad; corrupt; foul; filthy; miser; wretched.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ختم",
+   "roman": "khatm",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Conclusion; end; seal; termination; a recitation of the whole Quran. adj. Done; finished; terminated.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ختم المرسلین",
+   "roman": "khatm-ul-mursalīn",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Seal of those sent by God; the last of the prophets; the Holy Prophet, Mohammad (peace be on Him).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ختم کرنا",
+   "roman": "khatm karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To conclude; to finish; to terminate.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ختم ہونا",
+   "roman": "khatm honā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To come to an end; to be finished; to die.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ختن",
+   "roman": "khutan",
+   "pron": "",
+   "pos": "n. prop. (P)",
+   "def": "A district in Turkistan famous for musk.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ختنہ",
+   "roman": "khatnah",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Circumcision.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ختنہ کرنا",
+   "roman": "khatnah karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To circumcise.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خطا",
+   "roman": "khuṭṭā",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "A testicle.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خجالت",
+   "roman": "khajālat",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Shame; sense of shame; bashfulness.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خجستہ",
+   "roman": "khujastah",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Happy; fortunate; blessed; auspicious.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خجل",
+   "roman": "khajil",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Modest; bashful; abashed; ashamed.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خجل کرنا",
+   "roman": "khajil karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To put one to shame.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خچر",
+   "roman": "khachchar",
+   "pron": "",
+   "pos": "n.m. (H)",
+   "def": "A mule.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خد",
+   "roman": "khadd",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Cheek; a furrow; an opening.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خد و خال",
+   "roman": "khadd-ŏ khāl",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Features.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خدا",
+   "roman": "khudā",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "God; lord; the Supreme Being; master; owner; creator.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خدا پرست",
+   "roman": "khudā parast",
+   "pron": "",
+   "pos": "adj.",
+   "def": "God-worshipper; pious; godly; devout.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خدا چاہے، خدا کرے",
+   "roman": "khudā chāhe, khudā kare",
+   "pron": "",
+   "pos": "adv.",
+   "def": "If God wills; God willing.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خدا حافظ",
+   "roman": "khudā ḥāfiẓ",
+   "pron": "",
+   "pos": "adv.",
+   "def": "God be your protector; good-bye.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خدا خدا کر کے",
+   "roman": "khudā khudā kar ke",
+   "pron": "",
+   "pos": "adv.",
+   "def": "With great difficulty; after much prayer.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خدا داد",
+   "roman": "khudā dād",
+   "pron": "",
+   "pos": "adj.",
+   "def": "God-given; granted by God; natural.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خدا را",
+   "roman": "khudā rā",
+   "pron": "",
+   "pos": "adv.",
+   "def": "For God's sake; for Heaven's sake.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خدا رسیدہ",
+   "roman": "khudā rasīdah",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Pious; virtuous; godly.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خدا سلامت رکھے",
+   "roman": "khudā salāmat rakhe",
+   "pron": "",
+   "pos": "interj.",
+   "def": "May God protect you! may you live long!",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خدا سمجھے",
+   "roman": "khudā samjhe",
+   "pron": "",
+   "pos": "interj.",
+   "def": "May God punish him! may God deal with him!",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خدا شکر خورے کو شکر ہی دیتا ہے",
+   "roman": "khudā shakar khore ko shakar hī detā hai",
+   "pron": "",
+   "pos": "prov.",
+   "def": "He that eats good meal shall have a good meal.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خدا گنجے کو ناخن نہ دے",
+   "roman": "khudā gānje ko nākhun nah de",
+   "pron": "",
+   "pos": "prov.",
+   "def": "A great fortune in the hands of a fool is a great misfortune.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خدا شناس",
+   "roman": "khudā shīnās",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Good knowing; pious; godly.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خدا کی پناہ",
+   "roman": "khudā kī panāh",
+   "pron": "",
+   "pos": "interj.",
+   "def": "God preserve us!",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خدا کی لاٹھی میں آواز نہیں",
+   "roman": "khudā kī lāṭhī meṅ āwāz nahīṅ",
+   "pron": "",
+   "pos": "prov.",
+   "def": "The long arm of the Almighty makes no sound when it strikes.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خدا لگتی کہنا",
+   "roman": "khudā lagtī kahnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To speak the truth; to say what is right and just.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خدا نخواستہ",
+   "roman": "khudā nakhwāstah",
+   "pron": "",
+   "pos": "interj.",
+   "def": "God forbid.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خدا واسطے کی دشمنی",
+   "roman": "khudā wāste kī dushmanī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Purposeless enmity.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خدایا",
+   "roman": "khudāyā",
+   "pron": "",
+   "pos": "interj.",
+   "def": "O God!",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خدام",
+   "roman": "khuddām",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "(plu. of خادم khādim); servants.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خداوند",
+   "roman": "khudāwand",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Master; lord; possessor; husband.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خداوند نعمت",
+   "roman": "khudāwand-ĕ ni'mat",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "(a form of address to superiors) Lord of bounty; beneficent master; rich; opulent.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خداوندی",
+   "roman": "khudāwandī",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Sovereignty; lordship; divinity; providence.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خدائی",
+   "roman": "khūda'ī",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Godhead; divinity; providence; the world; people. adj. Divine.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خدائی خوار",
+   "roman": "khudā'ī khār",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A shameless person; a vagabond; a wanderer.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خدائی کرنا",
+   "roman": "khudā'ī karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To perform something miraculous.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خدشہ",
+   "roman": "khadshah",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Fear; alarm; danger; doubt; apprehension; solicitude; anxiety.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خدم",
+   "roman": "khudam",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "(plu. of خادم khādim) Servants.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خدمت",
+   "roman": "khidmat",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Service; attendance; employment; office; appointment; duty; use; function.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خدمت گار",
+   "roman": "khidmat gār",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Servant; attendant; a table servant; a butler.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خدمت گاری",
+   "roman": "khidmat gārī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Service; attendance.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خدمتی",
+   "roman": "khidmatī",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Servant; attendant.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خدنگ",
+   "roman": "khadang",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "An arrow; the white poplar (a tree from which arrows are usually made).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خدیو",
+   "roman": "khadeive",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A great prince; a sovereign; a king; the title of the Egyptian kings.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خر",
+   "roman": "khar",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "An ass.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خر دماغ",
+   "roman": "khar dimāgh",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Stupid; pig-headed; proud; peevish; perverse.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خر دماغی",
+   "roman": "khar dimāghī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Stupidity; obstinacy; perverseness.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خروار",
+   "roman": "kharwār",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "An ass load.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خراب",
+   "roman": "kharāb",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Bad; depraved; ruined; depopulated; deserted; abandoned; miserable; spoiled; waste; poor; wretched; defiled; corrupt; obscene.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خراب خستہ",
+   "roman": "kharāb khastah",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Ruined; dilapidated; miserable; spoiled.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خراب کرنا",
+   "roman": "kharāb karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To spoil; to pollute; to rape; to lay waste; to corrupt; to vitiate; to mar; to depopulate; to desolate.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خرابات",
+   "roman": "kharābāt",
+   "pron": "",
+   "pos": "n.f. & m. (A)",
+   "def": "A tavern; a brothel; a bar.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خراباتی",
+   "roman": "kharābātī",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "A hunter of taverns and brothels; a rake; a debauchee; a drunkard.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خرابہ",
+   "roman": "kharābah",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Devastation; ruin; a bad place; a ruined place.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خرابی",
+   "roman": "kharābī",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Badness; depravity; ruin, desolation; destruction; mischief; misery; an ill or evil; defect.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خراٹا",
+   "roman": "kharāṭā",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Snoring.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خراٹے لینا",
+   "roman": "kharāṭe lenā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To snore.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خراج",
+   "roman": "kharāj",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Tribute; tax; duty; rent; revenue.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خراد",
+   "roman": "kharād",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "A lathe.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خراد چڑھنا",
+   "roman": "kharād chaṛhnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be put on the lathe; to be polished; to have intercourse with refined society.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خرادی",
+   "roman": "kharādī",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A turner.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خراس",
+   "roman": "kharās",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A flour-mill worked by camels or oxen.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خراش",
+   "roman": "kharāsh",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Scratching; scraping; excoriation.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خرافات",
+   "roman": "khurāfāt",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Senseless or improper speech; obscene language.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خرافات بکنا",
+   "roman": "khurāfāt baknā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To talk nonsense; to use abusive language.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خرام",
+   "roman": "kharām",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Pace; stately gait; graceful walking; walk.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش خرام",
+   "roman": "khush kharām",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Walking elegantly; Walking elegantly, or with a stately gait; graceful in walking.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خراماں خراماں",
+   "roman": "kharāmāṅ kharāmāṅ",
+   "pron": "",
+   "pos": "adv. (P)",
+   "def": "With a stately or graceful movement.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خرانٹ",
+   "roman": "khurānṭ",
+   "pron": "",
+   "pos": "adj. (H)",
+   "def": "Old; experienced; crafty.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خربوزہ، خربوزہ، خرپوزہ",
+   "roman": "kharbūzah, kharbūzah, kharpūzah",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "The musk-melon.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خرچ",
+   "roman": "kharch",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Expenditure; spending; disbursement; expense; outgoing; money; allowance.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خرچ اخراجات",
+   "roman": "kharch akhrājāt",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Expenditure.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خرچ دینا",
+   "roman": "kharch denā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To advance money for expenses; to give one allowance.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خرچ متفرقات",
+   "roman": "kharch-ĕ mutfarriqāt",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Contingencies.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خرچ ہونا",
+   "roman": "kharch honā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be spent.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خرچنا، خرچ کرنا",
+   "roman": "kharchnā, kharch karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To use; to spend.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خرچہ",
+   "roman": "kharchah",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Costs of law-suits; costs; expenses.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خرچہ دلانا",
+   "roman": "kharchah dilānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To award costs.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خرچی",
+   "roman": "kharchī",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Provisions for a journey; wages of harlotry. adj. prodigal; lavish.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خرخشہ",
+   "roman": "kharkhashah",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A tumult; crowd; riot; causeless wrangling; quarrelling; encounter; dispute.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خرد",
+   "roman": "khirad",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Wisdom; intelligence; intellect.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خرد مند",
+   "roman": "khirad mand",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Wise; intelligent.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خرد مندی",
+   "roman": "khirad mandī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Wisdom; sagacity; intelligence.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خرد",
+   "roman": "khurd",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Small; little; young; minute.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خرد بین",
+   "roman": "khurd bīn",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Microscope.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خرد سال",
+   "roman": "khurd sāl",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Young; of tender age.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خردہ",
+   "roman": "khurdah",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Any thing small; a fragment; pedlar's small wares; small coin; small change.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خردہ فروش",
+   "roman": "khurdah farosh",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A pedler; a retailer of small wares; a hawker.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خردہ گیری",
+   "roman": "khurdah gīrī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Seizing on trifling faults; cavilling.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خرفہ",
+   "roman": "khurfah",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "A kind of vegetable; a herb used in pickles or salads.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خرق عادت",
+   "roman": "kharq-ĕ 'ādat",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "An event out of the usual course of nature; contrary to nature; a miracle.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خرقہ",
+   "roman": "khirqah",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "A patched garment; dress of a religious mendicant.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خرقہ پوش",
+   "roman": "khirqah posh",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A mendicant; a devotee.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خرگوش",
+   "roman": "khargosh",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "A hare; rabbit.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خرم",
+   "roman": "khurram",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Delightful; cheerful; pleased; merry; glad; happy; fresh.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خرما",
+   "roman": "khurmā",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A date; fruit of the date tree; a sweetmeat.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خرمن",
+   "roman": "khirman",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Harvest; heap or stock of unthrashed corn; barn; produce.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خرموش",
+   "roman": "kharmūsh",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A species of large rat.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خرمہرہ",
+   "roman": "kharmohrah",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "The small shell used as coin; cowries.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خرمی",
+   "roman": "khurramī",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Cheerfulness; pleasure; delight; gladness; mirth; joy.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خروج",
+   "roman": "khurūj",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Going out; going forth; attack; assault; rebellion; tumult; riot.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خروش",
+   "roman": "kharosh",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Loud noise; cry; tumult; clamour; a crash.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خرید",
+   "roman": "kharīd",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Purchase; price; buying. adj. Purchased.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خرید و فروخت",
+   "roman": "kharīd-ŏ-farokht",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Buying and selling; business; transactions; trading; commerce.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "قیمت خرید",
+   "roman": "qīmat-ĕ kharīd",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Cost price.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خریدار",
+   "roman": "kharīdār",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Purchaser; buyer.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خریداری",
+   "roman": "kharīdārī",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Purchasing; buying.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خریدنا",
+   "roman": "kharīdnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To buy; to purchase.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خریطہ",
+   "roman": "kharīṭah",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "A purse; a letter bag; a hold-all; a map; a chart.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خریف",
+   "roman": "kharīf",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Autumn; the autumnal crops.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خریفی",
+   "roman": "kharīfī",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Autumnal.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خزاں",
+   "roman": "khazāṅ",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Autumn; the fall of the leaf; decay; old age.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خزاں دیدہ، رسیدہ",
+   "roman": "khazāṅ dīdah, rasīdah",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Having seen or experienced autumn; old and experienced.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خزاں نا آشنا",
+   "roman": "khazāṅ nā āshnā",
+   "pron": "",
+   "pos": "adj.",
+   "def": "One who has not seen autumn; yet in the prime of youth; inexperienced.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خزانچی",
+   "roman": "khazānchī",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A treasurer; a cashier.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خزانہ",
+   "roman": "khizānah",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "A treasury; magazine; granary; treasure.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خزانہ عامرہ",
+   "roman": "khizānah-ĕ-'āmirah",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "The royal treasury; the government treasury.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خزف",
+   "roman": "khazaf",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "An earthen vessel; pottery; potsherbs; broken shells.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خزینہ",
+   "roman": "khazīnah",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A treasury; a magazine; a godown.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خس",
+   "roman": "khas",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Hay; rubbish; the sweet-scented roots of a grass of which ṭaṭṭīs are made.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خس پوش",
+   "roman": "khas posh",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Covered with thorns or dried grass.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خس و خاشاک",
+   "roman": "khas-ŏ-khāshāk",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Sweepings; rubbish; useless sticks and straws.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خسارہ",
+   "roman": "khasārah",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Loss; damage; plunder; devastation.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خست",
+   "roman": "khissat",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Stinginess; parsimony; avarice; meanness; miserliness; niggardliness.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خستگی",
+   "roman": "khastagī",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "A wound; a sore; sickness; fatigue; exhaustion; crispiness.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خستہ",
+   "roman": "khastah",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Wounded; broken; sick; sorrowful; crisp.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خستہ حال",
+   "roman": "khastah ḥāl",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Afflicted; distressed.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خسر",
+   "roman": "khusar yā khusur",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Father-in-law.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خسران",
+   "roman": "khusrān",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Damages; loss; injury.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خسرو",
+   "roman": "khusrau",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Great king; a royal surname; name of a celebrated king; name of a famous poet of Delhi.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خسروانہ",
+   "roman": "khusrwānah",
+   "pron": "",
+   "pos": "adj. & adv. (P)",
+   "def": "Kingly; royal; princely; prince-like.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خسروی",
+   "roman": "khusrawī",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Belonging to a king; royal; imperial; regal.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خسرہ",
+   "roman": "khasrah",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A list of the fields in a village. n.m. Measles.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خسک",
+   "roman": "khasak",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Rubbish; thorn; barbed-wire; caltrop.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خسوف",
+   "roman": "khusūf",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "An eclipse of the moon.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خسیس",
+   "roman": "khasīs",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Stingy; parsimonious; miserly; penurious; sordid; avaricious; ignoble.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خشت",
+   "roman": "khisht",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "A brick or tile.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خشتی",
+   "roman": "khishtī",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Of bricks or tiles.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خشخاش",
+   "roman": "khashkhāsh",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Poppy seed; the unit of weight.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خشک",
+   "roman": "khushk",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Dry; withered; cynic.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خشک سالی",
+   "roman": "khushk sālī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Drought; dry season; dearth.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خشکہ",
+   "roman": "khushkah",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Boiled rice.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خشکی",
+   "roman": "khushkī",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Land; dryness; cynicism. dry flour laid down under and over bread when it is rolled.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خشم",
+   "roman": "khashm",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Anger; passion; rage; fury.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خشم آلود",
+   "roman": "khashm ālūd",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Tainted or disfigured with rage; burning with rage; extremely angry.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خشم گیں یا خشم ناک",
+   "roman": "khashm gīṅ yā khashm nāk",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Enraged; angry; passionate; wrathful.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خشوع",
+   "roman": "khushū'",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Humiliation.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خشونت",
+   "roman": "khushūnat",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Roughness; hardness; severity; rigidness; disdain; fierceness; indignation; austerity; animosity.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خشیت",
+   "roman": "khashiyyat",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Fear; terror; dread.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خصلت",
+   "roman": "khaṣlat",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Habit; custom; quality; property; mode; talent; virtue; disposition; nature. (plu. of خصال khiṣāl).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خصم",
+   "roman": "khaṣm",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "An enemy; antagonist; a master; proprietor; husband.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خصوص",
+   "roman": "khuṣūṣ",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Doing anything particular; affair; business. adv. Particularly.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خصوصاً",
+   "roman": "khuṣūṣan",
+   "pron": "",
+   "pos": "adv. (A)",
+   "def": "Especially; particularly.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خصوصیات",
+   "roman": "khuṣūṣiyāt",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "(plu. of خصوصیت khuṣūṣiyyat). Special features; particular points; peculiarities.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خصوصیت",
+   "roman": "khuṣūṣiyyat",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Peculiarity; singularity; attachment; friendship; intimacy.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خصوصی",
+   "roman": "khuṣūṣī",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Private; personal; special; secret.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خصومت",
+   "roman": "khuṣūmat",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Enmity; strife; contention; quarrelling; wrangling.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خصی",
+   "roman": "khaṣṣī",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Castrated; an eunuch.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خصیہ",
+   "roman": "khuṣyah",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Testicle.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خضاب",
+   "roman": "khiẓāb",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "A hair dye; a hair tincture.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خضاب کرنا",
+   "roman": "khiẓāb karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To dye the hair; to apply hair-dye.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خضر",
+   "roman": "khiẓr yā khiẓar",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Name of a prophet, who is said to have discovered the fountain of life and drunk of it; a leader; a guide.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خضوع",
+   "roman": "khuẓū'",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Humility; humbling oneself; lowliness.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خط",
+   "roman": "khaṭṭ",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "A letter; epistle; a note; script; a line; a streak; mark; writing; hand-writing; moustaches; beard.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خط استوا",
+   "roman": "khaṭṭ-ĕ istiwā",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "The equator.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خط بنانا",
+   "roman": "khaṭṭ banānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To shave the chin; to dress or trim the beard.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خط جدی",
+   "roman": "khaṭṭ-ĕ jaddī",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "The Tropic of Capricorn.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خط جلی",
+   "roman": "khaṭṭ-ĕ jalī",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Large or bold hand-writing.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خط سرطان",
+   "roman": "khaṭṭ-ĕ sarṭān",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "The Tropic of Cancer.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خط شکستہ",
+   "roman": "khaṭṭ-ĕ shikastah",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A running hand.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خط عمود",
+   "roman": "khaṭṭ-ĕ 'umūd",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A perpendicular line.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خط کھینچنا",
+   "roman": "khaṭṭ khonchnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To draw a line.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خط متوازی",
+   "roman": "khaṭṭ-ĕ mutawāzī",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A parallel line.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خط مستدیر",
+   "roman": "khaṭṭ-ĕ mustadīr",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A circular line.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خط مستقیم",
+   "roman": "khaṭṭ-ĕ mustaqīm",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A straight line.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خط منحنی",
+   "roman": "khaṭṭ-ĕ munḥanī",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A curved line.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خط نستعلیق",
+   "roman": "khaṭṭ-ĕ nasta'līq",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Plain round Persian writing.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خط نسخ",
+   "roman": "khaṭṭ-ĕ naskh",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A kind of Arabic hand-writing.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خط و کتابت",
+   "roman": "khaṭṭ-ŏ-kitābat",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Correspondence.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خطا",
+   "roman": "khaṭā",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "A mistake; a slip; an oversight; fault; failure; a miss.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خطا کار، وار",
+   "roman": "khaṭā kār, wār",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Guilty; at fault.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خطا کرنا",
+   "roman": "khaṭā karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To err; to commit error; to miss.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خطا ہونا",
+   "roman": "khaṭā honā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To fail; to err; to make a mistake.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خطاب",
+   "roman": "khiṭāb",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Title; address; conversation; speech.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خطاب کرنا",
+   "roman": "khiṭāb karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To deliver a lecture; to address; to accost.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خطابت",
+   "roman": "khaṭṭābat",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Preaching; eloquence; rhetoric.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خطاط",
+   "roman": "khaṭṭāṭ",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "A good writer; a penman.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خطائی",
+   "roman": "khaṭā'ī",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Of or belonging to خطا (khaṭā) northern China.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "نان خطائی",
+   "roman": "nān-ĕ khaṭā'ī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "A cake made of flour, sugar and butter according to the one made in خطا (khaṭā) (northern China).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خطبہ",
+   "roman": "khuṭbah",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Sermon; oration; introduction; prologue.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خطر",
+   "roman": "khaṭar",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Coming into the mind; thought; remembrance; danger; peril; risk; fortune; hazard; jeopardy.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خطر ناک",
+   "roman": "khaṭar nāk",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Dangerous; hazardous; frightful.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خطرہ",
+   "roman": "khaṭrah",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Danger; fear; risk; venture.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خطرہ مول لینا",
+   "roman": "khaṭrah mol lenā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To run the risk.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خطرے میں ڈالنا",
+   "roman": "khaṭre meṅ ḍālnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To endanger; to risk; to venture; to hazard.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خطرے میں نہ لانا",
+   "roman": "khaṭre meṅ nah lānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "Not to care a fig for; to attach no value (to).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خطوط",
+   "roman": "khuṭūṭ",
+   "pron": "",
+   "pos": "(A)",
+   "def": "(plu. of خط khaṭṭ); Lines; stripes; letters; epistles.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خطمی",
+   "roman": "khaṭmī",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Marsh mallow; medicinal seeds.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خطہ",
+   "roman": "khiṭṭah",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "A region; country; territory; district; a plot of land.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خطی",
+   "roman": "khaṭṭī",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Linear; literal; in writing.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خطیب",
+   "roman": "khaṭīb",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "A preacher; a public speaker or orator.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خطیر",
+   "roman": "khaṭīr",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Great; important; honourable; dignified.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خفا",
+   "roman": "khafā yā khifā",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Concealment; secrecy.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خفا",
+   "roman": "khafā yā khifā",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Angry; displeased; enraged.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خفت",
+   "roman": "khiffat",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Lightness of weight; levity of conduct; want of dignity; affront; indignity; slight; disgrace; humiliation; abasement.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خفت آمیز",
+   "roman": "khiffat āmez",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Disgraceful.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خفت اٹھانا",
+   "roman": "khiffat uṭhānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To suffer disgrace or indignity or slight; to be disgraced.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خفقان",
+   "roman": "khafaqān",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Palpitation of heart; hysteria.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خفگی",
+   "roman": "khafgī yā khafagī",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Displeasure; anger; indignation.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خفی",
+   "roman": "khafī",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Fine or small (writing; type); imperceptible; not apparent; hidden; concealed.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خفیف",
+   "roman": "khafīf",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Light; of no weight or consequence; of light character; immoral; undignified; insignificant; small; slight; trivial; petty; frivolous; unimportant.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خفیف ہونا",
+   "roman": "khafīf honā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be put to shame; to be regarded lightly; to become ashamed; to be slighted; to be vilified.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ضرر خفیف",
+   "roman": "ẓarar-ĕ khafīf",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A minor hurt.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خفیفہ",
+   "roman": "khafīfah",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Small; minor. n.f. A small cause court.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خفیہ",
+   "roman": "khufyah",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Concealed; disguised; hidden.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خفیہ پولیس",
+   "roman": "khufyah polīs",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Criminal Investigation Department.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خفیہ نویس",
+   "roman": "khufyah nawīs",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Writer of secret intelligence; a secret informer.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خفیہ نویسی",
+   "roman": "khufyah nawīsī",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Secret intelligence writing.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خفیہ کارروائی",
+   "roman": "khufyah kārrwā'ī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Secret execution of business or work; investigating secretly; private enquiry.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلا",
+   "roman": "khalā",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Space; vacancy; hollowness; vacuum; a vacant place.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلا ملا",
+   "roman": "khalā malā",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Empty and full. n.m. Sincere friendship; close intimacy; warm attachment; unfeigned friendship.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلاص",
+   "roman": "khalāṣ",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Deliverance; emancipation; liberation; redemption. adj. Free; liberated; redeemed.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلاصہ",
+   "roman": "khulāṣah",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Essence; extract; the best part of anything; substance; abstract; abridgement inference; moral; conclusion; epitome; summary; precis. adj. Spacious; roomy; open; plain; evident.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلاصہ کرنا",
+   "roman": "khulāṣah karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To abridge; to curtail; to explain; to summarise; to shorten; to condense; to epitomise; to make an abstract.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلاصی",
+   "roman": "khalāṣī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Deliverance; liberation; redemption; discharge; exemption; release; freedom. n.m. A sailor; an artillery-man; a worker on a railway-line; a trolly-driver; a tent pitcher.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلاصی پانا",
+   "roman": "khalāṣī pānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be released; to be set free; to be liberated.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلاف",
+   "roman": "khilāf",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Opposition; contrariety; hostility; falsehood. prep. & adj. Against; in opposition (to); contrary (to); versus; opposite.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلاف بیانی",
+   "roman": "khilāf bayānī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Contradiction; misrepresentation.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلاف حکم",
+   "roman": "khilāf-ĕ ḥukm",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Contrary to orders.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلاف دستور، ضابطہ، قاعدہ",
+   "roman": "khilāf-ĕ dastūr, ẓābiṭah, qā'idah",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Contrary to custom or rule; irregular.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلاف سمجھنا",
+   "roman": "khilāf samajhnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To think otherwise; to regard one as an opponent.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلاف شرع",
+   "roman": "khilāf-ĕ shara'",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Against religion; unlawful; illegal.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلاف طبع",
+   "roman": "khilāf-ĕ ṭaba'",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Against the will or disposition of.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلاف عقل",
+   "roman": "khilāf-ĕ 'aql",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Contrary to reason.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلاف قیاس",
+   "roman": "khilāf-ĕ qiyās",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Inconceivable; absurd; improbable; anomalous.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلاف مرضی",
+   "roman": "khilāf-ĕ marẓī",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Contrary to the will.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلاف ورزی کرنا",
+   "roman": "khilāf warzī karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To oppose; to disobey; to misbehave.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلاف وضع فطری",
+   "roman": "khilāf-ĕ waẓa'-ĕ fiṭrī",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Against the law of nature; sodomy; sexual connection between two males.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلاف ہونا",
+   "roman": "khilāf honā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be opposed to; to oppose.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلافت",
+   "roman": "khilāfat",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "The office or dignity of a Caliph.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلاق",
+   "roman": "khallāq",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "The Creator.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلال",
+   "roman": "khilāl",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Tooth-pick; a prickle; a straw used as picker; defeat (at cards).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلائق",
+   "roman": "khalā'iq",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "(plu. of خلق khalq); Created things; people; the creation.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلجان",
+   "roman": "khaljān",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Beating; agitation; distraction; anxiety.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلخال",
+   "roman": "khalkhāl",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "A ring of gold or silver with bells attached to it, worn round the ankle.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلد",
+   "roman": "khuld",
+   "pron": "",
+   "pos": "n.m. & f. (A)",
+   "def": "Eternity; paradise.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلش",
+   "roman": "khalish",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Prick; pain; anxiety; solicitude; suspicion; apprehension.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلط",
+   "roman": "khilṭ",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "One of the four humours of the human body.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلط",
+   "roman": "khalṭ",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Confusion; mixture; medley; entanglement.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلط ملط",
+   "roman": "khalṭ malṭ",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Intermixed; jumbled.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلع",
+   "roman": "khula'",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Pulling off; throwing off; deposing; removing from office; divorce obtained by a wife for a ransom by her or some other person on her behalf.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلعت",
+   "roman": "khila't yā khala't",
+   "pron": "",
+   "pos": "n.m. & f. (A)",
+   "def": "A dress; a robe of honour confered by princes as a mark of distinction.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلعت پہنانا، دینا",
+   "roman": "khila't pahnānā, denā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To invest one with a robe of honour.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلف",
+   "roman": "khalaf",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "A successor; an heir; a favourite son; posterity; descendants. adj. Dutiful.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلفاء",
+   "roman": "khulafā'",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "(plu. of خلیفہ khalīfah) Caliphs.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلق",
+   "roman": "khulq",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Nature; habit; politeness; civility; quality; good disposition; amiability; good manners.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلق",
+   "roman": "khalq",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "The people; mankind; creation.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلقت",
+   "roman": "khilqat",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Creation; nature; people; populace; the world.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "عجیب الخلقت",
+   "roman": "'ajīb-ul-khilqat",
+   "pron": "",
+   "pos": "adj.",
+   "def": "A strange creature; a monster; a prodigy.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلقی",
+   "roman": "khilqī",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Natural; inherent.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلل",
+   "roman": "khalal",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Interruption; breach; confusion; damage; derangement; ruin; break; disturbance; disorder; injury; rupture; hindrance; unsoundness; flaw; defect.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلل آنا",
+   "roman": "khalal ānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "Occurrence of disorder or disturbance.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلل انداز ہونا",
+   "roman": "khalal andāz honā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To interfere; to disturb; to interrupt.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلل پذیر",
+   "roman": "khalal paẓīr",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Disordered; troubled.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلل دماغ",
+   "roman": "khalal-ĕ dimāgh",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Madness; melancholia; craze.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلل ڈالنا",
+   "roman": "khalal ḍālnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To interrupt; to disturb.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلو",
+   "roman": "khilw",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Vacuity; emptiness.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلوت",
+   "roman": "khalwat",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "Retirement; solitude; privacy; a closet; private apartment; private conference.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلوت خانہ، گاہ",
+   "roman": "khalwat khānah, gāh",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A place of retirement; private apartment; closet; cabinet.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلوت گزین، نشین",
+   "roman": "khalwat guzīn, nashīn",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Sitting in solitude; a hermit; recluse; retired; sitting in solitude.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلوص",
+   "roman": "khulūṣ",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Purity; sincerity; friendship; affection; candor.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلیج",
+   "roman": "khalīj",
+   "pron": "",
+   "pos": "n.f. (A)",
+   "def": "A bay; a gulf.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلیرا",
+   "roman": "khalerā",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Descended from or related to a maternal aunt.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلیرا بھائی",
+   "roman": "khalerā bhā'ī",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "The son of a maternal aunt; a cousin.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلیفہ",
+   "roman": "khalīfah",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "A Caliph; the successor of the Holy Prophet; a barber; a cook &c.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلیق",
+   "roman": "khalīq",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Of good disposition; kind; affable; benign; civil; polite; obliging; courteous; well-disposed.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلیل",
+   "roman": "khalīl",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "A true and sincere friend.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلیل اللہ",
+   "roman": "khalīl ullah",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "The friend of God; Abraham.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خلیہ",
+   "roman": "khaliyah",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Cell (Biology).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خم",
+   "roman": "kham",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A coil; fold; curl; ringlet; bend; curve; bending; crookedness; the part of a noose which encircles the neck.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خم ٹھوکنا",
+   "roman": "kham ṭhoknā",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "To strike the hands against the arms before wrestling; to challenge.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خم چوگان",
+   "roman": "kham-ĕ chaugān",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "The curved stick with which polo is played.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خمدار",
+   "roman": "khamdār",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Bent; curved; twisted; crooked; curled.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خم دینا",
+   "roman": "kham denā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To bend; to twist.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خم و چم",
+   "roman": "kham-ŏ cham",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Graceful motion; coquetry; blandishment of a mistress.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خم",
+   "roman": "khum",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A large jar; a still; an alembic.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خم خانہ، کدہ",
+   "roman": "khum khānah, kadah",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A liquor-house; a tavern; an inn.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خم کے خم چڑھانا",
+   "roman": "khum ke khum chaṛhānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To drink to excess; to be dead drunk; to be a habitual drinker.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خمار",
+   "roman": "khumār",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Intoxication; the effect of intoxication (pain and headache); sickness caused by an over-dose of drink.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خمار آلودہ",
+   "roman": "khumār ālūdah",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Intoxicated.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خمر",
+   "roman": "khamr",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Wine.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خمرا",
+   "roman": "khumrā",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A sect of Muslim faqīrs.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خمس",
+   "roman": "khums",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Fifth.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خمسہ",
+   "roman": "khamsah",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "A stanza of five lines.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خمیازہ",
+   "roman": "khamyāzah",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Stretching; gaping; retribution; pandiculation; return; punishment.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خمیازہ کھینچنا",
+   "roman": "khamyāzah kheṅchnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To receive the punishment of one's crimes or faults; to gape or yawn.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خمیدگی",
+   "roman": "khamīdagī",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Crookedness.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خمیدہ",
+   "roman": "khamīdah",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Bent; crooked.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خمیر",
+   "roman": "khamīr",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Leaven; yeast.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خمیر اٹھانا",
+   "roman": "khamīr uṭhānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To ferment.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خمیرہ",
+   "roman": "khamīrah",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "A thick syrup; a kind of tobacco.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خمیری",
+   "roman": "khamīrī",
+   "pron": "",
+   "pos": "adj. (A)",
+   "def": "Leavened.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خنازیر",
+   "roman": "khanāzīr",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "(plu. of خنزیر khinzīr); Hogs; glandular swellings in the neck; scrofula.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خناس",
+   "roman": "khannās",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "The devil; a wicked person; calumniator.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خناق",
+   "roman": "khunāq",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "The quinsy; suffocation; strangulation.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خنثیٰ",
+   "roman": "khunṣā",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "A hermaphrodite; a eunuch.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خنجر",
+   "roman": "khanjar",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "A dagger; a double edged large knife.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خنجری",
+   "roman": "khanjarī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "A mode of printing or staining-silk; a small tambourine.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خنخنانا",
+   "roman": "khunkhunānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To snuffle; to speak through the nose.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خندان",
+   "roman": "khandāṅ",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Laughing; merry; joyous.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خندق",
+   "roman": "khandaq",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "A ditch; a moat.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خندہ",
+   "roman": "khandah",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Laughing. n.m. laughter; a laugh; a laughing-stock.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خندہ آور",
+   "roman": "khandah āwar",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Laughable; that which produces laughter.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خندہ رو، خندہ پیشانی",
+   "roman": "khandah rū, khandah peshānī",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Cheerful; of smiling countenance; having a cheerful appearance.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خندہ روئی",
+   "roman": "khandah rū'ī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Cheerfulness.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خنزیر",
+   "roman": "khinzīr",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "A hog.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خنک",
+   "roman": "khunuk",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Cold; cool; temperate; fortunate.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خنکی",
+   "roman": "khunkī",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Coldness; chill; coolness; temperateness.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خو",
+   "roman": "khū",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Habit; custom; disposition; nature.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوبو",
+   "roman": "khūbū",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Character; behaviour.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خو پڑنا",
+   "roman": "khū paṛnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To develop a habit.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خو چھوڑنا",
+   "roman": "khū chhoṛnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To give up a habit.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خو ڈالنا",
+   "roman": "khū ḍālnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To habituate; to accustom; to get into a habit; to introduce a custom.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوگر، پذیر، گرفتہ",
+   "roman": "khū gar, paẓīr, giriftah",
+   "pron": "",
+   "pos": "",
+   "def": "adj. habituated; accustomed; addicted.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خواب",
+   "roman": "khwāb",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Sleep; dream; vision; nap.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خواب آلودہ",
+   "roman": "khwāb ālūdah",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Sleepy; drowsy.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خواب آور",
+   "roman": "khwāb āwar",
+   "pron": "",
+   "pos": "",
+   "def": "adj. producing sleep; anodyne; soporific; hypnotic.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خواب پریشاں",
+   "roman": "khwāb-ĕ parīshāṅ",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "A dreadful dream.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خواب خرگوش",
+   "roman": "khwāb-ĕ khargosh",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Deep sleep.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خواب دیکھنا",
+   "roman": "khwāb dekhnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To dream.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خواب کی باتیں",
+   "roman": "khwāb kī bāteṅ",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Baseless things; useless talk.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خواب گاہ",
+   "roman": "khwāb gāh",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Sleeping apartment; bed-room; dormitory.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خواب و خیال",
+   "roman": "khwāb-ŏ khayāl",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A vision; a phantom; delusion.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوابیدہ",
+   "roman": "khwābīdah",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Sleepy; drowsy; sleeping; asleep.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خواتین",
+   "roman": "khwātīn",
+   "pron": "",
+   "pos": "",
+   "def": "(plu. of خاتون khātūn); Women; ladies.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خواجہ",
+   "roman": "khwājah",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A man of distinction; a rich merchant; a governor; a gentleman; lord; master. (plu. خواجگان khwājgān).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خواجہ خضر",
+   "roman": "khwājah khiẓr yā khiẓar",
+   "pron": "",
+   "pos": "",
+   "def": "See خضر khiẓar.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خواجہ سرا",
+   "roman": "khwājah serā",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A eunuch; chief of a household; one who has charge of a seraglio.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوار",
+   "roman": "khwār",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Wretched; distressed; deserted; friendless; poor; abject.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوارج",
+   "roman": "khawārij",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "(plu. of خارجی khārjī) Schismatics. (plu. of خارجہ khārijah) Externals; the exterior.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوارق",
+   "roman": "khwāriq",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Miracles. (plu. of خارق khāriq).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خواری",
+   "roman": "khwārī",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Distress; friendlessness; abjectness; wretchedness.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خواستگار",
+   "roman": "khwāstgār",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "A petitioner; applicant; a suitor; a candidate; a bidder.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خواستگاری",
+   "roman": "khwāstgārī",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Candidateship; desire; solicitation; application.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خواستہ",
+   "roman": "khwāstah",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Desired; wished for; having willed or wished.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خواص",
+   "roman": "khawāṣ",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "(plu. of خاص khāṣ); Top-ranking persons; gentry; special or favourite attendants. (plu. of خاصیت khāṣṣiyyat). Qualities; peculiarities.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوان",
+   "roman": "khwan",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A tray.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوان پوش",
+   "roman": "khwān posh",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A tray cover.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوانچہ",
+   "roman": "khwānchah",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A small tray.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خواندگی",
+   "roman": "khwāndagī",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Reading; reciting; recital.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خواندہ",
+   "roman": "khwāndah",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Able to read and write; educated.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "نا خواندہ",
+   "roman": "nā khwāndah",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Illiterate; ignorant; uneducated.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوانین",
+   "roman": "khwānīn",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "(plu. of خان khān); Lords; nobles; grandees; big people.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خواہ",
+   "roman": "khwāh",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "(used in comp.); Wishing; desiring; requiring; soliciting. conj. Either or whether.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "ترقی خواہ",
+   "roman": "taraqqī khwāh",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Wishing for advancement.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خاطر خواہ",
+   "roman": "khāṭir khwāh",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Satisfactorily; to heart's content.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خواہ مخواہ",
+   "roman": "khwāh makhwāh",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Willing or not willing; positively; at all events.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خواہاں",
+   "roman": "khwāhāṅ",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Wishing; desirous; seeker.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خواہر",
+   "roman": "khwāhar",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "A sister.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خواہش",
+   "roman": "khwāhish",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Wish; desire; inclination; will; request; demand.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خواہش مند",
+   "roman": "khwāhish mand",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Desirous; suoticilos.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خواہی نخواہی",
+   "roman": "khwāhī nakhwāhī",
+   "pron": "",
+   "pos": "",
+   "def": "See خواہ مخواہ (khwāh makhwāh).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوب",
+   "roman": "khūb",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Good; excellent; well; beautiful; pleasant; amiable.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوب رو، صورت",
+   "roman": "khūb rū, ṣūrat",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Beautiful; handsome; pretty.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوب روئی، صورتی",
+   "roman": "khūb rū'ī, ṣūratī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Beauty; handsomeness; comeliness.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوباں",
+   "roman": "khūbāṅ",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Beautiful persons; fair ones; sweethearts.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوبانی",
+   "roman": "khūbānī",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "An apricot; a dried apricot.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوب کلاں",
+   "roman": "khub kalāṅ",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A seed of a cooling quality.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوبی",
+   "roman": "khūbī",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Goodness; excellence; virtue; pleasantness; well-being; elegance.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوجہ",
+   "roman": "khojah",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A eunuch.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خود",
+   "roman": "khod",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A helmet.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خود",
+   "roman": "khūd",
+   "pron": "",
+   "pos": "n. & adj. (P)",
+   "def": "Self; private; personal; own.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خود آرائی",
+   "roman": "khūd ārā'ī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Self-decoration.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خود بخود",
+   "roman": "khūd bakhūd",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Automatically; voluntarily; of one's own accord.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خود بدولت",
+   "roman": "khūd badaulat",
+   "pron": "",
+   "pos": "intj.",
+   "def": "Yourself! your worship! your honour! your majesty!",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خود بیں",
+   "roman": "khūd bīṅ",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Self conceited; proud; arrogant; presumptuous; vain.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خود بینی",
+   "roman": "khūd bīnī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Pride; self-conceit; vanity.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خود پرست",
+   "roman": "khūd parast",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Self-conceited; selfish.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خود پرستی",
+   "roman": "khūd parastī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Self-conceit; selfishness.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خود پسند",
+   "roman": "khūd pasand",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Self-complacent; self-conceited; having superiority complex.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خود دار",
+   "roman": "khūd dār",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Self-possessing; self respecting.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خود رائے",
+   "roman": "khūd rā'e",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Self-conceited; self-willed; wilful; headstrong; wayward; opinionated.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خود رفتگی",
+   "roman": "khūd raftagī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Intoxication; senselessness; drunkenness.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خود رفتہ",
+   "roman": "khūd raftah",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Senseless; intoxicated; drunk.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خود ستائی",
+   "roman": "khūd satā'ī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Self-praise.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خود سر",
+   "roman": "khūd sar",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Obstinate; stubborn; wilful; arrogant; independent.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خود سری",
+   "roman": "khūd sarī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Obstinacy; arrogance; wilfulness.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خود غرض",
+   "roman": "khūd gharaẓ",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Selfish; self-interested; designing.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خود غرضی",
+   "roman": "khūd gharẓī",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Self-seeking; selfishness.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خود کار",
+   "roman": "khūd kār",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Automatic; self-propelled; self-working.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خود کاشت",
+   "roman": "khūd kāsht",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Cultivation by the owner; cultivation of one's own field.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خود کردہ",
+   "roman": "khūd kardah",
+   "pron": "",
+   "pos": "adj.",
+   "def": "One's own doing; made by oneself.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خود کشی",
+   "roman": "khūd kushī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Suicide.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خود کشی کرنا",
+   "roman": "khūd kushī karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To commit suicide.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خود مختار",
+   "roman": "khūd mukhtār",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Independent; free.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خود نما",
+   "roman": "khūd numā",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Proud; ostentatious; vain; self-conceited.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خود نمائی",
+   "roman": "khūd numā'ī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Self-conceit; vanity; pride; ostentation.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خودی",
+   "roman": "khūdī",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Egotism; self; selfishness; vanity; pride; conceit; presence of mind.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خور",
+   "roman": "khor",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Eating; drinking; devouring (used in comp.) n.m. Little food.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خور و نوش",
+   "roman": "khor-ŏ nosh",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Food and drink.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوراک",
+   "roman": "khorāk",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Food; victuals; diet; daily allowance; a dose of medicine.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خورد برد",
+   "roman": "khūrd burd",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Peculation; embezzlement; fraud.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خورد برد کرنا",
+   "roman": "khūrd burd karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To make away with; to misappropriate; to embezzle.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوردنی",
+   "roman": "khūrdanī",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Things eatable; provisions.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خورسند",
+   "roman": "khūrsand",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Contented; pleased; happy.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خورسندی",
+   "roman": "khūrsandī",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Happiness; pleasure; contentment; satisfaction.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خورش",
+   "roman": "khūrish",
+   "pron": "",
+   "pos": "",
+   "def": "See خوراک (khūrāk).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خورشید",
+   "roman": "khūrshīd",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "The sun.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش",
+   "roman": "khūsh",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Pleasing; glad; happy; pleased; gay; merry; well off; willing; sweet; delicious; elegant; acceptable; amiable; cheerful; content; delighted; pleasant; good; healthy; wholesome; beautiful; fair.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش آمدید",
+   "roman": "khush āmded",
+   "pron": "",
+   "pos": "interj.",
+   "def": "Well come!",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش آمدید کہنا",
+   "roman": "khūsh āmded kahnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To welcome.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش آواز",
+   "roman": "khūsh āwāz",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Sweet-voiced; melodious.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش آئند",
+   "roman": "khūsh āyand",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Pleasing; agreeable; amiable; charming.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش اسلوب",
+   "roman": "khūsh aslūb",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Well-formed; elegant; pleasing.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش اطوار",
+   "roman": "khūsh aṭwār",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Well-conducted; well-bred; mannerly.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش الحان",
+   "roman": "khūsh ilḥān",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Melodious; sweet-voiced.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش الحانی",
+   "roman": "khūsh ilḥānī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Melodiousness.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش اندام",
+   "roman": "khūsh andām",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Well-built; attractive appearance.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش باش",
+   "roman": "khūsh bāsh",
+   "pron": "",
+   "pos": "adj.",
+   "def": "One living comfortably or at ease; unrestrained; free to stay or depart; merry; cheerful.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش بو",
+   "roman": "khūsh bū",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Perfume; odour; fragrance.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش بو دار",
+   "roman": "khūsh bū dār",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Aromatic; fragrant; sweet-smelling; odoriferous.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش بیان",
+   "roman": "khūsh bayān",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Eloquent; perspicuous. n.m. An eloquent speaker; an orator.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش پوشاک",
+   "roman": "khūsh poshāk",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Well-dressed; well turned out.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش خبری",
+   "roman": "khūsh khabarī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Good or happy news; glad tidings.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش خصال",
+   "roman": "khūsh khiṣāl",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Well-bred; of good disposition.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش خط",
+   "roman": "khūsh khaṭṭ",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Having good hand; a good penman.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش خطی",
+   "roman": "khūsh khaṭī",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Fine hand writing.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش خلق",
+   "roman": "khūsh khulq",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Of pleasant manners; civil; of good disposition; polite; affable; well-bred.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش خوراک",
+   "roman": "khūsh khorāk",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Enjoining a good diet.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش خیال",
+   "roman": "khūsh khayāl",
+   "pron": "",
+   "pos": "adj.",
+   "def": "A good writer or poet; having good ideas.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش دامن",
+   "roman": "khūsh dāman",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Mother-in-law.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش ذائقہ",
+   "roman": "khūsh zā'iqah",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Pleasing to the taste; tasteful; high-flavoured; palatable; dainty.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش رفتار",
+   "roman": "khūsh raftār",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Graceful in walking or in motion.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش رنگ",
+   "roman": "khūsh rang",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Of bright or pleasant or good colour.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش رو",
+   "roman": "khūsh rū",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Having a beautiful or charming face.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش رہنا",
+   "roman": "khūsh rahnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be happy.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش زبان",
+   "roman": "khūsh zabān",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Eloquent; plausible.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش سلیقہ",
+   "roman": "khūsh salīqah",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Of pleasant manners or method; well-bred; polite.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش طالع",
+   "roman": "khūsh ṭāli'",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Fortunate; lucky.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش طبع",
+   "roman": "khūsh ṭaba'",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Of cheerful disposition; jocular.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش طینت",
+   "roman": "khūsh ṭīnat",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Good-natured.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش فعلی",
+   "roman": "khūsh fi'lī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Pleasantness of action.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش فکر",
+   "roman": "khūsh fikr",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Of good thoughts or ideas.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش فہم",
+   "roman": "khūsh fahm",
+   "pron": "",
+   "pos": "adj.",
+   "def": "One who takes the bright side of a thing; sensible; intelligent.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش فہمی",
+   "roman": "khūsh fahmī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Vain imagination.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش قسمت",
+   "roman": "khūsh qismat",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Of good fortune.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش قسمتی",
+   "roman": "khūsh qismatī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Good fortune.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش کرنا",
+   "roman": "khūsh karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To gratify; to please; to delight; to amuse; to gladden; to rejoice; to satisfy.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش گپیاں",
+   "roman": "khūsh gappiyāṅ",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Idle gossip; merry talk; pleasant conversation.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش گزران",
+   "roman": "khush guzrān",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Living in ease and comfort.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش گلو",
+   "roman": "khūsh glū",
+   "pron": "",
+   "pos": "",
+   "def": "See خوش الحان (khūsh ilḥān).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش گو",
+   "roman": "khūsh go",
+   "pron": "",
+   "pos": "",
+   "def": "See خوش بیان (khūsh bayān).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش گوار",
+   "roman": "khūsh gawār",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Pleasant; agreeable; wholesome; sweet; easy; delicious.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش لباس",
+   "roman": "khūsh libās",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Well-dressed.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش نصیب",
+   "roman": "khūsh naṣīb",
+   "pron": "",
+   "pos": "",
+   "def": "See خوش قسمت (khūsh qismat).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش نصیبی",
+   "roman": "khūsh naṣībī",
+   "pron": "",
+   "pos": "",
+   "def": "See خوش قسمتی (khūsh qismatī).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش نما",
+   "roman": "khūsh numā",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Pleasant to the sight; good-looking; beautiful.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش نمائی",
+   "roman": "khūsh numā'ī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Beauty; splendour.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش نوا",
+   "roman": "khūsh nawā",
+   "pron": "",
+   "pos": "",
+   "def": "See خوش الحان (khūsh ilḥān).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش نوائی",
+   "roman": "khush nawā'ī",
+   "pron": "",
+   "pos": "",
+   "def": "See خوش الحانی (khūsh ilḥānī).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش نویس",
+   "roman": "khūsh nawīs",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A fine penman; a calligraphist.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش نویسی",
+   "roman": "khūsh nawīsī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Fine writing; calligraphy.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش وقتی",
+   "roman": "khūsh waqtī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Happiness.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش و خرم",
+   "roman": "khush-ŏ khurram",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Cheerful; happy; well-to-do; gay.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوش ہونا",
+   "roman": "khush honā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be glad; to rejoice; to be pleased.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوشا",
+   "roman": "khūshā",
+   "pron": "",
+   "pos": "intj. (P)",
+   "def": "Happy! how fortunate! blessed!",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوشامد",
+   "roman": "khūshāmaa",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Flattery.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوشامد کرنا",
+   "roman": "khūshāmad karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To flatter.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوشامدی",
+   "roman": "khūshāmadī",
+   "pron": "",
+   "pos": "n. & adj. (P)",
+   "def": "A flatterer.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوشنود",
+   "roman": "khūshnūd",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Pleased; delighted; happy.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوشنودی",
+   "roman": "khūshnūdī",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Pleasure; delight; happiness; joy.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوشہ",
+   "roman": "khoshah",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "An ear of corn; a spike; a bunch (of grapes &c.).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوشہ چیں",
+   "roman": "khoshah chīṅ",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A gleaner; one who picks up droppings.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوشی",
+   "roman": "khūshī",
+   "pron": "",
+   "pos": "n.f. (P)",
+   "def": "Delight; pleasure; cheerfulness; gaiety; happiness; gladness; mirth; joy; consent.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوشی خوشی، خوشی سے",
+   "roman": "khūshī khūshī, khūshī se",
+   "pron": "",
+   "pos": "adv.",
+   "def": "Happily; gladly; cheerfully; joyfully; with pleasure; willingly.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوشی کرنا، منانا",
+   "roman": "khūshī karnā, manānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To rejoice; to enjoy; to please oneself; to be delighted; to make a feast.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوشی میں آنا",
+   "roman": "khūshī meṅ ānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be pleased; to get into a state of delight.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوض",
+   "roman": "khauẓ",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Deep thought or meditation; search; attention; consideration.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوف",
+   "roman": "khauf",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Fear; dread; terror.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوف دلانا",
+   "roman": "khauf dilānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To frighten; to terrify; to threaten.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوف زدہ",
+   "roman": "khauf zadah",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Frightened; terrified; afraid.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوف زدہ ہونا، خوف کرنا، خوف کھانا",
+   "roman": "khauf zadah honā, khauf karnā, khauf khānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To fear; to be afraid.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوف ناک",
+   "roman": "khauf nāk",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Terrifying; frightful, dreadful.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوک",
+   "roman": "khūk",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A hog; a swine; a pig.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوگر",
+   "roman": "khūgar",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Accustomed; habituated; inured.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوگیر",
+   "roman": "khūgīr",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Stuffing of saddles; a pack-daddle.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خوگیر کی بھرتی",
+   "roman": "khūgīr kī bhartī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Rags; rubbish; stuffing; odds and ends; the stuffing of a saddle.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خول",
+   "roman": "khol",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "A case; a sheath; a cover.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خول چڑھانا",
+   "roman": "khol chaṛhānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To sheathe; to cover.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خولنجان",
+   "roman": "kholanjān",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Galingale (a kind of medicine).",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خون",
+   "roman": "khūn",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Blood; murder; killing; slaughter; homicide.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خون آب، خوناب، خونابہ",
+   "roman": "khūn āb, khūnāb, khūnābah",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Bloody water; tears of blood.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خون آشام",
+   "roman": "khūn āshām",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Drinking blood; cruel, ferocious.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خون آلودہ",
+   "roman": "khūn ālūdah",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Stained with blood; bloody; blood-stained.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خون بار",
+   "roman": "khūn bār",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Raining or shedding blood.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خون بہا",
+   "roman": "khūn bahā",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Ransom; a penalty for murder.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خون بہانا",
+   "roman": "khūn bahānā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To shed blood.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خون پانی ایک کرنا",
+   "roman": "khūn pānī ek karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To work very hard; to leave no stone unturned.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خون پینا",
+   "roman": "khūn pīnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To suck blood; to vex.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خون تھوکنا",
+   "roman": "khūn thūknā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To spit blood; to suffer a shock; to work oneself to death.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خون چکاں",
+   "roman": "khūn chakāṅ",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Blood dropping; blood oozing out; bleeding.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خون خرابا",
+   "roman": "khūn kharābā",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Killing; murdering; murder; bloody fight.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خون خوار",
+   "roman": "khūn khwār",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Blood-thirsty; murderous; cruel. n.m. An animal that preys on others; a murderer.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خون خواری",
+   "roman": "khūn khwārī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Blood-thirstiness; blood-shedding.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خون ریز",
+   "roman": "khūn rez",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Assassin; murderer; cut-throat; blood-shedder.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خون ریزی",
+   "roman": "khūn rezī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Blood-shed; slaughter; carnage; massacre.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خون سفید ہونا",
+   "roman": "khūn sufed honā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be unkind; to be callous.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خون کا پیاسا",
+   "roman": "khūn kā piyāsā",
+   "pron": "",
+   "pos": "adj.",
+   "def": "Blood-thirsty; bitter enemy.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خون کا دباؤ",
+   "roman": "khūn kā dabā'o",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Blood pressure.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خون کا دورہ",
+   "roman": "khūn kā daurah",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Circulation of blood.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خون کرنا",
+   "roman": "khūn karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To assassinate; to kill; to murder.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خون ہونا",
+   "roman": "khūn honā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To be murdered; to be killed.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خونی",
+   "roman": "khūnī",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "Murderer; assassin. adj. Sanguinary; bloody; relating to blood.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خونیں",
+   "roman": "khūnīṅ",
+   "pron": "",
+   "pos": "adj. (P)",
+   "def": "Bloody; of the colour of blood; blood stained.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خویش",
+   "roman": "khwesh",
+   "pron": "",
+   "pos": "pro. (P)",
+   "def": "Self; own. n.m./f. A kinsman; a close relative; a family.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خویش و اقربا",
+   "roman": "khwesh-ŏ aqrabā",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Kith and kin; kinsmen; relations.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خیابان",
+   "roman": "khiyābān",
+   "pron": "",
+   "pos": "n.m. (P)",
+   "def": "A flower-bed; a flower garden.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خیار",
+   "roman": "khiyār",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Cucumber.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خیارین",
+   "roman": "khiyārain",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Cucumber and musk-melon seeds, used in medicine.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خیاط",
+   "roman": "khayyāṭ",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "A tailor; a seamster.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خیال",
+   "roman": "khayāl",
+   "pron": "",
+   "pos": "n.m. (A)",
+   "def": "Thought; idea; imagination; conception; notion; fancy; whim; care; concern; opinion; regard; respect; consideration; vision; a kind of song.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خیال باطل یا فاسد",
+   "roman": "khayāl-ĕ bāṭil yā fāsid",
+   "pron": "",
+   "pos": "n.m.",
+   "def": "Misconception; false notion; a wrong idea.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خیال باندھنا",
+   "roman": "khayāl bāndhnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To form an idea; to imagine; to frame an image in the mind.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خیال بندی",
+   "roman": "khayāl bandī",
+   "pron": "",
+   "pos": "n.f.",
+   "def": "Train of thoughts; forming an idea.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خیال پڑنا",
+   "roman": "khayāl paṛnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To occur; to come to mind; to think; to pursue a thing.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خیال چھوڑنا",
+   "roman": "khayāl chhoṛnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To give up the idea of; to relinquish all thought of; to be out of conceit with.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خیال رکھنا",
+   "roman": "khayāl rakhnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To bear in mind; to remember.",
+   "ur": "",
+   "ex": []
+  },
+  {
+   "w": "خیال کرنا",
+   "roman": "khayāl karnā",
+   "pron": "",
+   "pos": "v.",
+   "def": "To imagine; to fancy; to think; to consider; to conceive; to care; to regard.",
+   "ur": "",
+   "ex": []
   }
  ]
 }
