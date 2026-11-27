@@ -145037,6 +145037,1318 @@
    "def": "Custom having legal force",
    "ur": "رواج جسے قانون کی حیثیت حاصل ہو - جانے - عادت - معاشرت - میل جول -",
    "ex": []
+  },
+  {
+   "w": "Consul",
+   "pron": "kon-səl",
+   "pos": "n.",
+   "def": "State agent residing in foreign town",
+   "ur": "روم کے منتخب مجسٹریٹ - وکیل - نائب - کار پرداز جو غیر ممالک میں اپنے ملک کے حقوق کی حفاظت کے لئے مقرر ہوتا ہے - قونصل - نائب سفیر -",
+   "ex": []
+  },
+  {
+   "w": "Consular",
+   "pron": "kon-sə-ler",
+   "pos": "adj & n.",
+   "def": "Consul",
+   "ur": "متعلق ہے - نائب سفیر - قونصلی -",
+   "ex": []
+  },
+  {
+   "w": "Consulate",
+   "pron": "kon-sə-lat",
+   "pos": "n.",
+   "def": "Office of a consul",
+   "ur": "قونصل کی فرود گاہ - قونصل خانہ - قونصل کا دفتر -",
+   "ex": []
+  },
+  {
+   "w": "Consult",
+   "pron": "kən-sult",
+   "pos": "v.t. & i.",
+   "def": "Take counsel",
+   "ur": "رائے لینا - مشورہ لینا - صلاح لینا - کسی کتاب یا شخص کی طرف رجوع کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Consult ones pillow",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "غور کے لئے رات بھر کی مہلت لینا -",
+   "ex": []
+  },
+  {
+   "w": "Consultative",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "صلاح کے لئے - مشورہ کے لئے - مشاورتی -",
+   "ex": []
+  },
+  {
+   "w": "Consultant",
+   "pron": "kən-sul-tənt",
+   "pos": "n.",
+   "def": "One who consults",
+   "ur": "طالب مشورہ - مشورہ لینے والا -",
+   "ex": []
+  },
+  {
+   "w": "Consultation",
+   "pron": "kən-sul-ta-shən",
+   "pos": "n.",
+   "def": "Conference",
+   "ur": "پنچائت - انجمن - مشورہ صلاح - مشورت -",
+   "ex": []
+  },
+  {
+   "w": "Consume",
+   "pron": "kən-sūm",
+   "pos": "v.t. & i.",
+   "def": "Use up",
+   "ur": "ضائع کرنا - اڑانا - ختم کر دینا - صرف کرنا - خرچ کرنا - حسد سے جلنا -",
+   "ex": []
+  },
+  {
+   "w": "Consumer",
+   "pron": "kən-sūm-er",
+   "pos": "n.",
+   "def": "User of an article",
+   "ur": "خرچ کرنے والا - استعمال کرنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Consummate",
+   "pron": "kon-sū-mat",
+   "pos": "adj.",
+   "def": "Complete",
+   "ur": "اعلیٰ درجے کا - چھٹا ہوا - کامل - پکا - پورا -",
+   "ex": []
+  },
+  {
+   "w": "Consummative",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "مکمل کرنے والا - درجہ کمال کو پہنچانے والا -",
+   "ex": []
+  },
+  {
+   "w": "Consummation",
+   "pron": "kən-su-ma-shən",
+   "pos": "n.",
+   "def": "Completion",
+   "ur": "انجام - آخرت - عاقبت - تکمیل - اتمام - منزل مقصود - تکمیل شدہ - طے - تصرف -",
+   "ex": []
+  },
+  {
+   "w": "Consumption",
+   "pron": "kən-sump-shən",
+   "pos": "n.",
+   "def": "Destruction",
+   "ur": "تپ کھنہ - تپ دق - دق - خرچ - تباہی - صرف -",
+   "ex": []
+  },
+  {
+   "w": "Consumptive",
+   "pron": "kən-sump-tiv",
+   "pos": "adj.",
+   "def": "Affected with consumption",
+   "ur": "مدقوق - تپ دق کا مریض - اسراف - پر مائل - خراج -",
+   "ex": []
+  },
+  {
+   "w": "Contact",
+   "pron": "kon-takt",
+   "pos": "n.",
+   "def": "State of touching",
+   "ur": "ربط - اتصال - لگاؤ - لمس - تعلق - برقی رو کا حلقہ -",
+   "ex": []
+  },
+  {
+   "w": "Contagion",
+   "pron": "kən-tā-jən",
+   "pos": "n.",
+   "def": "Communication of disease",
+   "ur": "وبائی مرض - مرض متعدی - چھوت - لگاؤ - اتصال - وبا -",
+   "ex": []
+  },
+  {
+   "w": "Contagious",
+   "pron": "kən-tā-jəs",
+   "pos": "adj.",
+   "def": "Infectious",
+   "ur": "مضر عادت - خراب - وبائی - متعدی - لگنے والا مرض -",
+   "ex": []
+  },
+  {
+   "w": "Contain",
+   "pron": "kən-tān",
+   "pos": "v.t.",
+   "def": "Have",
+   "ur": "حاصل ہونا - گھیرا ہوا - ہونا - شامل کرنا - گھیرنا - رکھنا - محیط ہونا - اپنے میں لینا - ضبط کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Contaminate",
+   "pron": "kən-tami-nāt",
+   "pos": "v.t.",
+   "def": "Infect",
+   "ur": "بہر دھنٹ کرنا - ناپاک کرنا - بگاڑنا - خراب کرنا - آلودہ کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Contamination",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "غلاظت - نجاست - آلودگی - ناپاکی -",
+   "ex": []
+  },
+  {
+   "w": "Contemn",
+   "pron": "kən-tem",
+   "pos": "v.t.",
+   "def": "Despise",
+   "ur": "خفت دینا - اہانت کرنا - تحقیر کرنا - حقیر جاننا -",
+   "ex": []
+  },
+  {
+   "w": "Contemper",
+   "pron": "kən-tem-pər",
+   "pos": "v.t.",
+   "def": "Adopt",
+   "ur": "کم کرنا - گھٹانا - معتدل کرنا - اصلاح کرنا - امتزاج کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Contemplate",
+   "pron": "kən-tem-plat",
+   "pos": "v.t. & i.",
+   "def": "View mentally",
+   "ur": "نیت کرنا - ارادہ کرنا - تصور کرنا - خیال کرنا - سوچنا - توقع رکھنا - دھیان میں ہونا - مستغرق ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Contemplation",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "تصور - دھیان - سوچ بچار - غور و فکر -",
+   "ex": []
+  },
+  {
+   "w": "Contemplative",
+   "pron": "kən-tem-pla-tiv",
+   "pos": "adj.",
+   "def": "Thoughtful",
+   "ur": "پر استغراق - مستغرق - متفکر - فکر مند -",
+   "ex": []
+  },
+  {
+   "w": "Contemporaneous",
+   "pron": "kən-tem-po-ra-ne-əs",
+   "pos": "adj.",
+   "def": "covering the same time",
+   "ur": "ہم زمان - ہم عہد - ہم عصر -",
+   "ex": []
+  },
+  {
+   "w": "Contemporary",
+   "pron": "kən-tem-po-rari",
+   "pos": "adj.",
+   "def": "Belonging to same period",
+   "ur": "ہم عصر -",
+   "ex": []
+  },
+  {
+   "w": "Contemporize",
+   "pron": "kən-tem-pa-rīz",
+   "pos": "v.t.",
+   "def": "Cause to agree in time",
+   "ur": "ہم زمان - ہم عہد کرنا - معاصر بنانا -",
+   "ex": []
+  },
+  {
+   "w": "Contempt",
+   "pron": "kən-tempt",
+   "pos": "n.",
+   "def": "Act of despising",
+   "ur": "سفلہ پن - خواری - ذلت - تحقیر - توہین - کمینہ پن - نافرمانی - عدول حکمی -",
+   "ex": []
+  },
+  {
+   "w": "Contemptible",
+   "pron": "kən-temp-ti-bl",
+   "pos": "adj.",
+   "def": "Mean",
+   "ur": "قابل نفرت - حقیر - ذلیل - کمینہ - پاجی - خوار -",
+   "ex": []
+  },
+  {
+   "w": "Contemptuous",
+   "pron": "kən-temp-tu-əs",
+   "pos": "adj.",
+   "def": "Showing contempt",
+   "ur": "دوسروں کو حقارت سے دیکھنے والا - حقارت کنندہ - مغرور -",
+   "ex": []
+  },
+  {
+   "w": "Contend",
+   "pron": "kən-tend",
+   "pos": "v.t. & i.",
+   "def": "Strive",
+   "ur": "ہم چشم ہونا - بحث کرنا - مقابلہ کرنا - لڑنا - جد و جہد کرنا - برابری کرنا - ریس کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Content",
+   "pron": "kon-tent",
+   "pos": "n. & adj.",
+   "def": "That which is contained",
+   "ur": "مواد - جو چیز ہے - قناعت - اطمینان - رضا مند - خوش دل - آسودہ خاطر -",
+   "ex": []
+  },
+  {
+   "w": "Table of contents",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "فہرست مضامین -",
+   "ex": []
+  },
+  {
+   "w": "Content",
+   "pron": "kon-tent",
+   "pos": "v.t.",
+   "def": "Satisfy",
+   "ur": "راحت پہنچانا - آسودہ کرنا - مطمئن کرنا - خوش کرنا - راضی کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Contentedness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "خوشی - راحت - حالت اطمینان -",
+   "ex": []
+  },
+  {
+   "w": "Contentment",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "اطمینان - دلجمعی - قناعت -",
+   "ex": []
+  },
+  {
+   "w": "Contention",
+   "pron": "kon-ten-shən",
+   "pos": "n.",
+   "def": "Controversy",
+   "ur": "لڑائی - دنگا - جھگڑا - تنازعہ - بحث - مناقشہ - تکرار -",
+   "ex": []
+  },
+  {
+   "w": "Contentious",
+   "pron": "kon-ten-shəs",
+   "pos": "adj.",
+   "def": "Quarrelsome",
+   "ur": "نزاع انگیز - فتنہ ساز - شورہ پشت - جھگڑالو - لڑاکا - حجتی -",
+   "ex": []
+  },
+  {
+   "w": "Contentiousness",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "تکرار بازی - منازعت - جھگڑالو پن - فتنہ سازی -",
+   "ex": []
+  },
+  {
+   "w": "Conterminal",
+   "pron": "kən-tər-mi-nəl",
+   "pos": "adj.",
+   "def": "Having a common boundary",
+   "ur": "مشترک سرحد والا - ایک سوانے والا - سرحد والا -",
+   "ex": []
+  },
+  {
+   "w": "Conterminous",
+   "pron": "kən-tər-mi-nəs",
+   "pos": "adj.",
+   "def": "Having a common boundary",
+   "ur": "ملی ہوئی سرحد والا - وہ خطوط جن کے سرے ایک نقطہ پر مل جائیں -",
+   "ex": []
+  },
+  {
+   "w": "Contest",
+   "pron": "kən-test",
+   "pos": "n.",
+   "def": "Strife, competition",
+   "ur": "تکرار - جھگڑا - قضیہ - مباحثہ - مقابلہ - مناقشہ - جد و جہد - لڑائی -",
+   "ex": []
+  },
+  {
+   "w": "Contest",
+   "pron": "kən-test",
+   "pos": "v.t. & i.",
+   "def": "Dispute",
+   "ur": "مقابلہ کرنا - ہم سری کرنا - جنگ و جدل کرنا - لڑنا - جھگڑنا - سامنا کرنا - جرح کرنا - اعتراض کرنا - بحث کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Contestable",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "قابل جنگ - جھگڑے کے قابل - بحث طلب - لائق مقابلہ -",
+   "ex": []
+  },
+  {
+   "w": "Contestant",
+   "pron": "kən-tes-tənt",
+   "pos": "n.",
+   "def": "One who contests",
+   "ur": "مبادر - حریف - مقابلہ کرنے والا -",
+   "ex": []
+  },
+  {
+   "w": "Context",
+   "pron": "kon-tekst",
+   "pos": "n.",
+   "def": "Parts that precede or follow a passage",
+   "ur": "سیاق و سباق - مضمون - متن - سیاق عبارت -",
+   "ex": []
+  },
+  {
+   "w": "In this context",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "اسی سلسلہ میں -",
+   "ex": []
+  },
+  {
+   "w": "Contextual",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "متن کے متعلق - سیاق و سباق کا -",
+   "ex": []
+  },
+  {
+   "w": "Contextually",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "سیاق و سباق کے رو سے -",
+   "ex": []
+  },
+  {
+   "w": "Contiguity",
+   "pron": "kən-ti-gūi-ti",
+   "pos": "n.",
+   "def": "Proximity",
+   "ur": "ربط - پیوستگی - جوڑ - اتصال - قریبی تعلق -",
+   "ex": []
+  },
+  {
+   "w": "Contiguous",
+   "pron": "kən-tigū-əs",
+   "pos": "adj.",
+   "def": "Adjoining",
+   "ur": "ملا ہوا - متصل - قریب - ملحق -",
+   "ex": []
+  },
+  {
+   "w": "Continent",
+   "pron": "kon-ti-nənt",
+   "pos": "adj.",
+   "def": "Temperate",
+   "ur": "عفیف - پارسا - متقی - پرہیز گار -",
+   "ex": []
+  },
+  {
+   "w": "Continence",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "قید - رکاؤ - دباؤ - ضبط - پرہیزگاری -",
+   "ex": []
+  },
+  {
+   "w": "Continent",
+   "pron": "kon-ti-nənt",
+   "pos": "n.",
+   "def": "Main land",
+   "ur": "زمین یا خشکی کا بہت بڑا ٹکڑا - بر اعظم -",
+   "ex": []
+  },
+  {
+   "w": "Continental",
+   "pron": "kon-ti-nən-təl",
+   "pos": "adj. & n.",
+   "def": "Of a continent",
+   "ur": "براعظم سے متعلق - براعظم کا -",
+   "ex": []
+  },
+  {
+   "w": "Continentalism",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "براعظمیت - اپنے براعظم کی جا و پیچاہ بچ -",
+   "ex": []
+  },
+  {
+   "w": "Contingency",
+   "pron": "kən-tin-jən-si",
+   "pos": "n.",
+   "def": "Chance occurrence",
+   "ur": "ہنگامی مصارف - حادثہ - اتفاقی واقعہ - ناگہانی صورت -",
+   "ex": []
+  },
+  {
+   "w": "Contingent",
+   "pron": "kən-tin-jənt",
+   "pos": "adj. & n.",
+   "def": "Accidental",
+   "ur": "عارضی - اتفاقیہ - اتفاقی -",
+   "ex": []
+  },
+  {
+   "w": "Continual",
+   "pron": "kən-tinū-əl",
+   "pos": "adj.",
+   "def": "Always going on",
+   "ur": "رواں - جاری - دائمی - دوامی -",
+   "ex": []
+  },
+  {
+   "w": "Continuance",
+   "pron": "kən-tinū-əns",
+   "pos": "n.",
+   "def": "Going on",
+   "ur": "قرار - تسلسل - استمرار - دوام ہمیشگی -",
+   "ex": []
+  },
+  {
+   "w": "Continuant",
+   "pron": "kən-tinū-ənt",
+   "pos": "adj. & n.",
+   "def": "Consonant of which the sound can be prolonged",
+   "ur": "ایسا حرف جس کی آواز کو کھینچ کر لمبا کیا جا سکے - جیسے - R.S.V.F. -",
+   "ex": []
+  },
+  {
+   "w": "Continuate",
+   "pron": "kən-ti-nūə-t",
+   "pos": "adj.",
+   "def": "Continuing",
+   "ur": "لگاتار - مسلسل -",
+   "ex": []
+  },
+  {
+   "w": "Continuative",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "رواں - جاری رہنے والا - مسلسل -",
+   "ex": []
+  },
+  {
+   "w": "Continuation",
+   "pron": "kən-tinū-ə-shən",
+   "pos": "n.",
+   "def": "Carrying on",
+   "ur": "تسلسل - اجرا استمرار - پچھلا میزان نئے کھاتے میں اتارنا - ایزادی - پیشی - پاجامہ - پتلون -",
+   "ex": []
+  },
+  {
+   "w": "Continue",
+   "pron": "kən-tinū",
+   "pos": "v.t. & i.",
+   "def": "Maintain",
+   "ur": "برقرار رہنا - جاری رہنا - برقرار رکھنا - جاری رکھنا - قائم رہنا - پائندار یا دیرپا ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Continuity",
+   "pron": "kən-ti-nūi-ti",
+   "pos": "n.",
+   "def": "State of being continuous",
+   "ur": "لگاتار - سلسلہ - سلسلہ بندی - اجرا - ثبات -",
+   "ex": []
+  },
+  {
+   "w": "Continuous",
+   "pron": "kən-tinu-əs",
+   "pos": "adj.",
+   "def": "Unbroken",
+   "ur": "برابر جاری - مدامی - جاریہ - لگاتار - مسلسل -",
+   "ex": []
+  },
+  {
+   "w": "Continuously",
+   "pron": "kən-tinu-əs-li",
+   "pos": "adv.",
+   "def": "In uninterrupted manner",
+   "ur": "لگاتار - مسلسل -",
+   "ex": []
+  },
+  {
+   "w": "Contort",
+   "pron": "kən-tort",
+   "pos": "v.t.",
+   "def": "Twist, distort",
+   "ur": "بکڑنا - بل دینا - اینٹھنا - مروڑنا -",
+   "ex": []
+  },
+  {
+   "w": "Contortion",
+   "pron": "kən-tor-shən",
+   "pos": "n.",
+   "def": "Twisted state",
+   "ur": "تشنج - مروڑی - بکڑا - بل - پیچ -",
+   "ex": []
+  },
+  {
+   "w": "Contortionist",
+   "pron": "kən-tor-shən-ist",
+   "pos": "n.",
+   "def": "Gymnast whose body exhibits contortions",
+   "ur": "مصور یا سنگ تراش جو تصویر اور مجسمہ میں چہرے کی شکن یا بدن کے پٹھے دکھائے - کررق جو جمناسک میں جسم کو موڑے توڑے -",
+   "ex": []
+  },
+  {
+   "w": "Contour",
+   "pron": "kon-toor",
+   "pos": "n. & v.t.",
+   "def": "Outline",
+   "ur": "حد - چہرہ - نقشہ و نگار - صورت - شکل - ہیئت - ساخت - ساحل کا پیچ و خم - زمین کا نشیب و فراز - پہاڑی کے گرد سڑک بنانا - لہرے بنانا - پیچ و خم دکھانا -",
+   "ex": []
+  },
+  {
+   "w": "Con-tra",
+   "pron": "kon-trä",
+   "pos": "prep. & n.",
+   "def": "Against",
+   "ur": "الٹا نوی - حبوت میں ہر گہ کے نشان - مخالف - بر عکس - برخلاف -",
+   "ex": []
+  },
+  {
+   "w": "Pro and contra",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "موافق اور مخالف -",
+   "ex": []
+  },
+  {
+   "w": "Contraband",
+   "pron": "kon-trə-band",
+   "pos": "n. & adj.",
+   "def": "Smuggling",
+   "ur": "ممنوع تجارت - خلاف قانون - ممنوع - ناجائز بیوپار - قابل ضبطی مال -",
+   "ex": []
+  },
+  {
+   "w": "Contraceptive",
+   "pron": "kon-trə-sep-tiv",
+   "pos": "adj. & n.",
+   "def": "Preventive of conception",
+   "ur": "مانع حمل اشیاء - مانع حمل -",
+   "ex": []
+  },
+  {
+   "w": "Contract",
+   "pron": "kən-trakt",
+   "pos": "v.t. & i.",
+   "def": "Enter into an engagement, make smaller",
+   "ur": "سکیڑنا - گھٹانا - کم کرنا - تنگ کرنا - چھوٹا کرنا - سکڑنا - سمٹنا - حاصل کرنا - پیدا کرنا - چکانا - بات ٹھہرانا - معاملہ کرنا - کسی کام کا ٹھیکہ لینا - اقرار نامہ لکھنا - معاہدہ کرنا - تیوری چڑھانا - عادت ڈالنا - محدود کرنا - حرف کرنا - حذف کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Contract",
+   "pron": "kən-trakt",
+   "pos": "n.",
+   "def": "Agreement",
+   "ur": "نکاح نامہ - اقرار نامہ - ٹھیکہ - قول و قرار - ٹھیکہ کا معاہدہ - قرار داد - معاہدہ -",
+   "ex": []
+  },
+  {
+   "w": "Contraction",
+   "pron": "kən-trak-shən",
+   "pos": "n.",
+   "def": "Restriction",
+   "ur": "تنگی - اینٹھن - پیچ و تاب - انقباض - بندش - ترخیم - اختصار - تخفیف - مخففات - علامات - عادت - بیماری میں مبتلا ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Contractor",
+   "pron": "kən-trak-tər",
+   "pos": "n.",
+   "def": "Undertaker of contract",
+   "ur": "مستاجر - ٹھیکیدار - سکڑنے والے عضلات -",
+   "ex": []
+  },
+  {
+   "w": "Contradict",
+   "pron": "kon-trə-dikt",
+   "pos": "v.t.",
+   "def": "Be contrary to",
+   "ur": "تغلیط کرنا - تردید کرنا - رد کرنا - انکار کرنا - برخلاف کہنا -",
+   "ex": []
+  },
+  {
+   "w": "Contradictable",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "غلط ٹھہرانے کے قابل - قابل تردید -",
+   "ex": []
+  },
+  {
+   "w": "Contradiction",
+   "pron": "kon-trə-dik-shən",
+   "pos": "n.",
+   "def": "Opposition",
+   "ur": "تقیض - تناقض - تردید - انکار - اختلاف -",
+   "ex": []
+  },
+  {
+   "w": "Contradictory",
+   "pron": "kon-trə-dic-təri",
+   "pos": "adj. & n.",
+   "def": "Making denial",
+   "ur": "متناقض - مخالف - بر عکس - برخلاف - منافی - انکاری یا تردیدی بیان -",
+   "ex": []
+  },
+  {
+   "w": "Contradistinction",
+   "pron": "kon-trə-dis-tingk-shən",
+   "pos": "n.",
+   "def": "Distinction by contrast",
+   "ur": "چیزوں کے درمیان امتیاز یا تفریق -",
+   "ex": []
+  },
+  {
+   "w": "Contradistinguish",
+   "pron": "kon-trə-dis-ting-guish",
+   "pos": "v.t.",
+   "def": "Distinguish by contrast",
+   "ur": "امتیاز کرنا - الگ کر لینا - فرق کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Contralto",
+   "pron": "kən-tral-tō",
+   "pos": "n.",
+   "def": "Singer with lowest female voice",
+   "ur": "گانے والے کا نیچا سر - عورت کی مہین آواز - مدھم سر میں گانے والی عورت -",
+   "ex": []
+  },
+  {
+   "w": "Contraries",
+   "pron": "kon-trə-ris",
+   "pos": "n. & p.",
+   "def": "The opposites",
+   "ur": "اشیاء جو ایک دوسرے کی ضد ہوں - ضدین -",
+   "ex": []
+  },
+  {
+   "w": "Contrariant",
+   "pron": "kon-trə-ri-ənt",
+   "pos": "adj.",
+   "def": "Opposed",
+   "ur": "منافی - مخالف - متضاد -",
+   "ex": []
+  },
+  {
+   "w": "Contrariwise",
+   "pron": "kon-trər-i-wīz",
+   "pos": "adv.",
+   "def": "",
+   "ur": "دوسری طرف - اس کے بر عکس -",
+   "ex": []
+  },
+  {
+   "w": "Contrary",
+   "pron": "kon-trər-i",
+   "pos": "adj., n. & adv.",
+   "def": "Opposed in nature or tendency",
+   "ur": "عکس - ضد - مغائرت - خلاف - برخلاف - متضاد - ضدی - خود رائے - تناقض -",
+   "ex": []
+  },
+  {
+   "w": "On the contrary",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "اس کے بر عکس -",
+   "ex": []
+  },
+  {
+   "w": "To the contrary",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "بر خلاف - بر عکس -",
+   "ex": []
+  },
+  {
+   "w": "Contrariness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "مخالفت - عکس - تضاد - تناقض -",
+   "ex": []
+  },
+  {
+   "w": "Contrast",
+   "pron": "kən-trâst",
+   "pos": "v.t. & i.",
+   "def": "Set in opposition",
+   "ur": "فرق دیکھنا - دو چیزوں کا مقابلہ کرنا - نمایاں یا سب سے الگ ہونا - فرق بتلانا -",
+   "ex": []
+  },
+  {
+   "w": "Contrast",
+   "pron": "kən-trâst",
+   "pos": "n.",
+   "def": "Showing striking differences",
+   "ur": "مقابلہ - ممتاز نمایاں شے - فرق - امتیاز - نمایاں فرق -",
+   "ex": []
+  },
+  {
+   "w": "Contravallation",
+   "pron": "kon-trə-vala-shən",
+   "pos": "n.",
+   "def": "Chain of redoubts placed by besiegers between their camp and town",
+   "ur": "محاصرین اپنی حفاظت کے لئے جو تدابیر اختیار کریں - سد قلعہ - روک -",
+   "ex": []
+  },
+  {
+   "w": "Contravene",
+   "pron": "kon-trə-ven",
+   "pos": "v.t.",
+   "def": "Infringe, dispute",
+   "ur": "توڑنا - تجاوز کرنا - مزاحم ہونا - حائل ہونا - خلاف ورزی کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Contravention",
+   "pron": "kon-trə-ven-shən",
+   "pos": "n.",
+   "def": "Infringement",
+   "ur": "مزاحمت - مخالفت - تجاوز - خلاف ورزی -",
+   "ex": []
+  },
+  {
+   "w": "Contribute",
+   "pron": "kən-trib-ūt",
+   "pos": "v.t. & i.",
+   "def": "Pay, furnish",
+   "ur": "مضمون لکھ کر مدد کرنا - ضروری اشیاء دینا - چندہ دینا - مدد کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Contribution",
+   "pron": "kən-tri-bū-shən",
+   "pos": "n.",
+   "def": "Act of contributing",
+   "ur": "مراسلہ - مضمون - امداد - چندہ - جزئیہ - جنگی محصول - جائداد پر حق عود قائم رکھنے کے لئے ماہانہ قسط -",
+   "ex": []
+  },
+  {
+   "w": "Contributor",
+   "pron": "kən-tri-bū-tər",
+   "pos": "n.",
+   "def": "One who contributes",
+   "ur": "مضمون نگار - چندہ دینے والا - صحیفہ نویس -",
+   "ex": []
+  },
+  {
+   "w": "Contributory",
+   "pron": "kən-tri-bū-təri",
+   "pos": "adj. & n.",
+   "def": "That contributes",
+   "ur": "وہ شخص جو کسی کمپنی کے ٹوٹ جانے پر اس کے قرضوں کے ادا کرنے میں شریک ہو - کسی حادثہ میں زخمی ہونے والے کی امداد -",
+   "ex": []
+  },
+  {
+   "w": "Contrite",
+   "pron": "kon-trit",
+   "pos": "adj.",
+   "def": "Broken in spirit by sense of sin",
+   "ur": "پشیمان - متاسف - نادم - مغموم - تائب -",
+   "ex": []
+  },
+  {
+   "w": "Contrition",
+   "pron": "kon-tri-shən",
+   "pos": "n.",
+   "def": "Penitence",
+   "ur": "پشیمانی - تاسف - خفت - توبہ - ندامت -",
+   "ex": []
+  },
+  {
+   "w": "Contrivance",
+   "pron": "kən-triv-əns",
+   "pos": "n.",
+   "def": "Mechanical device",
+   "ur": "کل - آلہ - ایجاد - تدبیر - حکمت - حیلہ - جھانسا -",
+   "ex": []
+  },
+  {
+   "w": "Contrive",
+   "pron": "kən-trīv",
+   "pos": "v.t.",
+   "def": "Devise",
+   "ur": "سازش کرنا - حیلہ کرنا - جتن کرنا - تدبیر کرنا - ایجاد کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Contriver",
+   "pron": "kən-trīv-er",
+   "pos": "n.",
+   "def": "Deviser",
+   "ur": "جلد ساز - منصوبہ باز - ایجاد کرنے والا - موجد -",
+   "ex": []
+  },
+  {
+   "w": "Control",
+   "pron": "kən-trol",
+   "pos": "n.",
+   "def": "Power of directing",
+   "ur": "قابو - اختیار - جانچ پڑتال - نگرانی - روک - قید - ضبط - موٹروں کا اڈا - پرزے جن سے ہوائی جہاز کو قابو میں رکھنے میں مدد ملتی ہے -",
+   "ex": []
+  },
+  {
+   "w": "Control",
+   "pron": "kən-trol",
+   "pos": "v.t.",
+   "def": "Dominate",
+   "ur": "جانچنا - ضبط کرنا - روکنا - اختیار یا قابو میں لانا - تابع رکھنا - حکومت کرنا - نگرانی کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Controllable",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "جس کو قابو میں رکھا جا سکے - تسلط پذیر - قابل ضبط -",
+   "ex": []
+  },
+  {
+   "w": "Controller",
+   "pron": "kən-trol-er",
+   "pos": "n.",
+   "def": "Steward",
+   "ur": "حسابات کی تفتیش کرنے والا - سرکاری محاسب - مہتمم - ناظر -",
+   "ex": []
+  },
+  {
+   "w": "Controversial",
+   "pron": "kon-trə-vur-shəl",
+   "pos": "adj.",
+   "def": "Open to dispute",
+   "ur": "متنازع فیہ - تکراری - نزاعی -",
+   "ex": []
+  },
+  {
+   "w": "Controversialist",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "مناقشہ پسند - نزاع پسند -",
+   "ex": []
+  },
+  {
+   "w": "Controversy",
+   "pron": "kon-trə-vər-si",
+   "pos": "n.",
+   "def": "Disputation",
+   "ur": "نزاع - قضیہ - تحریری جواب و سوال - بحث -",
+   "ex": []
+  },
+  {
+   "w": "Controvert",
+   "pron": "kon-trə-vərt",
+   "pos": "v.t.",
+   "def": "Dispute, discuss",
+   "ur": "حجت لانا - تکرار کرنا - بحثنا - جرح کرنا - انکار کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Controvertist",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "جارج - حجتی -",
+   "ex": []
+  },
+  {
+   "w": "Contumacious",
+   "pron": "kon-tū-mā-shəs",
+   "pos": "adj.",
+   "def": "Insubordinate",
+   "ur": "شورہ پشت - بے ادب - گستاخ - سرکش - نافرمان - ضدی - ہٹیلا -",
+   "ex": []
+  },
+  {
+   "w": "Contumacy-ciousness",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "سرکشی - ضد - نافرمانی -",
+   "ex": []
+  },
+  {
+   "w": "Contumalious",
+   "pron": "kon-tū-meli-əs",
+   "pos": "adj.",
+   "def": "Insolent",
+   "ur": "بے ادب - گستاخ - شوخ چشم -",
+   "ex": []
+  },
+  {
+   "w": "Contumely",
+   "pron": "kon-tū-m-li",
+   "pos": "n.",
+   "def": "Disgrace",
+   "ur": "ڈھٹائی - بےہودگی - نامعقولیت - شوخ چشمی - حقارت -",
+   "ex": []
+  },
+  {
+   "w": "Contuse",
+   "pron": "kon-tus",
+   "pos": "v.t.",
+   "def": "Injure without breaking skin",
+   "ur": "مارنا - کچلنا - اس طرح مارنا کہ زخم نہ پڑے - گپت مار مارنا -",
+   "ex": []
+  },
+  {
+   "w": "Contusion",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "ایسی مار جس کا نشان اوپر نہ ہو - بھیتری مار - گپت مار -",
+   "ex": []
+  },
+  {
+   "w": "Conundrum",
+   "pron": "kə-nun-drəm",
+   "pos": "n.",
+   "def": "Riddle",
+   "ur": "چستان - معمہ - پہیلی -",
+   "ex": []
+  },
+  {
+   "w": "Convalesce",
+   "pron": "kon-va-les",
+   "pos": "v.t.",
+   "def": "Regain health",
+   "ur": "بیماری کے بعد دوبارہ تندرست ہونا - صحت پانا ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Convalescent",
+   "pron": "kon-va-les-ent",
+   "pos": "adj. & n.",
+   "def": "Recovering from sickness",
+   "ur": "صحت پذیر - روبہ صحت - افاقہ یاب -",
+   "ex": []
+  },
+  {
+   "w": "Convalescence",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "افاقہ - صحت یابی -",
+   "ex": []
+  },
+  {
+   "w": "Convene",
+   "pron": "kən-ven",
+   "pos": "v.t. & i.",
+   "def": "Convoke, summon",
+   "ur": "طلب کرنا - اراکین کو بلانا - اجلاس کرنا - اکٹھا ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Convenience",
+   "pron": "kən-ven-yəns",
+   "pos": "n.",
+   "def": "Suitableness",
+   "ur": "آسائش - سکھ - آرام - آسودگی - فراغت - بیت الخلا جس میں نل لگا ہو -",
+   "ex": []
+  },
+  {
+   "w": "Make convenience of one",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "کسی کی نیک دلی یا بے خبری سے فائدہ اٹھانا -",
+   "ex": []
+  },
+  {
+   "w": "Marriage of convenience",
+   "pron": "",
+   "pos": "",
+   "def": "",
+   "ur": "روپے کی غرض سے شادی کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Convenient",
+   "pron": "kən-ven-yənt",
+   "pos": "adj.",
+   "def": "Suitable",
+   "ur": "آسان - مفید - موزوں - معقول - آرام دہ -",
+   "ex": []
+  },
+  {
+   "w": "Convent",
+   "pron": "kən-vent",
+   "pos": "n.",
+   "def": "Building occupied by religious community spc. women",
+   "ur": "عیسائی راہباؤں کی خانقاہ - مذہبی عورتوں کے رہنے کی عمارت - خانقاہ -",
+   "ex": []
+  },
+  {
+   "w": "Conventicle",
+   "pron": "kən-ven-ti-kl",
+   "pos": "n.",
+   "def": "Clandestine religious meeting",
+   "ur": "خفیہ مجلس یا جلسہ گہ - خفی جلسہ -",
+   "ex": []
+  },
+  {
+   "w": "Convention",
+   "pron": "kon-ven-shən",
+   "pos": "n.",
+   "def": "Formal assembly",
+   "ur": "جماعت - اجتماع - مجلس - عہد و پیمان - رسم و رواج - روایت - عوام کی مرضی -",
+   "ex": []
+  },
+  {
+   "w": "Conventional",
+   "pron": "kon-ven-shən-al",
+   "pos": "adj.",
+   "def": "Depending on convention",
+   "ur": "روایتی - قرار یافتہ - رسمی - رواجی - مروجہ - تقلیدی -",
+   "ex": []
+  },
+  {
+   "w": "Conventionalism",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "رسوم و قواعد کی پابندی - احترام روایات - رواج پرستی -",
+   "ex": []
+  },
+  {
+   "w": "Conventionalist",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "رسم پرست - پابند - رسوم و رواج - پابند روایات -",
+   "ex": []
+  },
+  {
+   "w": "Conventionally",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "روایات کے مطابق - رسمی طور پر",
+   "ex": []
+  },
+  {
+   "w": "Converge",
+   "pron": "kən-vərj",
+   "pos": "v.t. & i.",
+   "def": "Tend to meet in a point",
+   "ur": "مائل ہونا - ایک ہی طرف جھکنا - مائل ہونا - نقطہ اتصال ہونا - مرکز کی طرف مائل ہونا -",
+   "ex": []
+  },
+  {
+   "w": "Convergence-cy",
+   "pron": "",
+   "pos": "n.",
+   "def": "",
+   "ur": "کسی طرف سے ایک ہی مرکز پر آ ملنا - میلان بہ مرکز -",
+   "ex": []
+  },
+  {
+   "w": "Convergent",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "مرکز کی طرف مائل - ایک ہی سمت جھکا ہوا -",
+   "ex": []
+  },
+  {
+   "w": "Conversable",
+   "pron": "kən-vər-sə-bl",
+   "pos": "adj.",
+   "def": "Pleasant",
+   "ur": "خوش بیان - ملنسار - گفتگو کے قابل - ملنے کے لائق -",
+   "ex": []
+  },
+  {
+   "w": "Conversance",
+   "pron": "kən-vər-səns",
+   "pos": "n.",
+   "def": "Familiarity",
+   "ur": "خبر داری - واقفیت -",
+   "ex": []
+  },
+  {
+   "w": "Conversant",
+   "pron": "kən-vər-sənt",
+   "pos": "adj.",
+   "def": "Well acquainted",
+   "ur": "واقف کار - آشنا - واقف - آگاہ -",
+   "ex": []
+  },
+  {
+   "w": "Conversation",
+   "pron": "kən-vər-sə-shən",
+   "pos": "n.",
+   "def": "Talk",
+   "ur": "گپ شپ - ادھر ادھر کی باتیں - مکالمہ - گفتگو - بات چیت -",
+   "ex": []
+  },
+  {
+   "w": "Conversational",
+   "pron": "kən-vər-sə-shun-al",
+   "pos": "adj.",
+   "def": "Fond of conversation",
+   "ur": "گفتگو کے متعلق - بات چیت کا شوقین -",
+   "ex": []
+  },
+  {
+   "w": "Conversazione",
+   "pron": "kən-vər-sə-tsyō-nä",
+   "pos": "n.",
+   "def": "Learned talk",
+   "ur": "علمی گفتگو - علمی جلسہ - مجلس مذاکرہ - بزم احباب جس میں وہ اپنے تجربات کے اعلیٰ نمونے پیش کرتے ہیں -",
+   "ex": []
+  },
+  {
+   "w": "Converse",
+   "pron": "kon-vərs",
+   "pos": "v.i.",
+   "def": "Indulge in talk",
+   "ur": "ہم کلام ہونا - بات چیت کرنا - باتیں کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Converse",
+   "pron": "kən-vərs",
+   "pos": "n.",
+   "def": "Discourse",
+   "ur": "گفتگو - بحث - بے تکلف بات چیت -",
+   "ex": []
+  },
+  {
+   "w": "Converse",
+   "pron": "kən-vərs",
+   "pos": "adj. & n.",
+   "def": "Opposite, contrary",
+   "ur": "مقلوب - معکوس - الٹا - عکس - قلب - الٹ -",
+   "ex": []
+  },
+  {
+   "w": "Conversely",
+   "pron": "",
+   "pos": "adv.",
+   "def": "",
+   "ur": "اس کے برعکس - اس کے برخلاف -",
+   "ex": []
+  },
+  {
+   "w": "Conversion",
+   "pron": "kən-vər-shən",
+   "pos": "n.",
+   "def": "Transposition",
+   "ur": "تبدیلی مذہب سے پھر - تبدیلی شہر کو چھوڑ کر راہ خیر اختیار کرنا - سدھار - ایک قسم کے تجارتی حصص کا دوسرے سے تبادلہ -",
+   "ex": []
+  },
+  {
+   "w": "Convert",
+   "pron": "kən-vərt",
+   "pos": "v.t.",
+   "def": "Change into",
+   "ur": "مذہب تبدیل کرنا - بدل ڈالنا - بدلنا - خدا کی طرف رجوع کرنا - حصص کو تبدیل کرنا -",
+   "ex": []
+  },
+  {
+   "w": "Convert",
+   "pron": "kən-vərt",
+   "pos": "n.",
+   "def": "Person converted",
+   "ur": "نیا چیلا - نو مرید - نو عیسائی - نو مسلم -",
+   "ex": []
+  },
+  {
+   "w": "Convertible",
+   "pron": "kən-vər-ti-bl",
+   "pos": "adj.",
+   "def": "That may be converted",
+   "ur": "عقائد کی تبدیلی پر مائل - تغیر پذیر -",
+   "ex": []
+  },
+  {
+   "w": "Convex",
+   "pron": "kon-veks",
+   "pos": "adj.",
+   "def": "Curved like the outside of a circle",
+   "ur": "محدب - ابھرا ہوا - قبہ دار - ماہی پشت - محراب نما - محدب - کروی -",
+   "ex": []
+  },
+  {
+   "w": "Convex",
+   "pron": "kon-veks",
+   "pos": "n.",
+   "def": "Curve",
+   "ur": "کمرہ - محدب - قبہ - آبھار -",
+   "ex": []
+  },
+  {
+   "w": "Convey",
+   "pron": "kən-vā",
+   "pos": "v.t.",
+   "def": "Carry",
+   "ur": "سمجھانا - پہنچا - منتقل کرنا - اٹھا لے جانا - بیان کرنا - بتانا -",
+   "ex": []
+  },
+  {
+   "w": "Conveyable",
+   "pron": "",
+   "pos": "adj.",
+   "def": "",
+   "ur": "قابل انتقال -",
+   "ex": []
+  },
+  {
+   "w": "Conveyance",
+   "pron": "kən-vā-əns",
+   "pos": "n.",
+   "def": "Carriage",
+   "ur": "پہنچانا - لے جانا - انتقال - تحویل - گاڑی - سواری -",
+   "ex": []
+  },
+  {
+   "w": "Conveyancer",
+   "pron": "kən-ve-ən-ser",
+   "pos": "n.",
+   "def": "Lawyer who prepares documents of property",
+   "ur": "انتقال جائداد کی دستاویز لکھنے والا وکیل - دستاویز نویس -",
+   "ex": []
   }
  ],
  "urdu_english": [
